@@ -1,0 +1,7 @@
+.box-float-right {
+    width: 25%;
+    float: right;
+    margin-bottom: 30px;
+    font-size: 76%;
+    text-align: center;
+}
