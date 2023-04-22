@@ -1,18 +1,67 @@
 ---
 title: "Updates"
+author: Colin C.
+# listing:
+#   contents: posts
+#   sort: "date desc"
+#   type: default
+#   categories: false
 ---
 
+Updates are listed from most recent at the top to oldest at the bottom.  The [Timeline](./timeline.html) provides a quick review of the milestone in this current journey with Sam. 
 
 
-These are ordered from most recent to oldest
+
+## April 22, 2023 (am)
+
+### TLDR
+
+We are in a waiting period, and as results from Sam's biopsies trickle in, we have some knowledge of what the disease is not. Our hearts are peaceful and we have been filled with messages of love and prayer from around the world!
+
+### Reflections on April 21, 2023
+
+How long have we been here? As I write this, it is only the beginning of day four and I am writing about day three, so much has happened.
+
+Yesterday, was ... a beautiful day. Sam was far more comfortable, being another day away from his biopsy surgery. It was wonderful to watch him sleep and nap on and off through the day. This time of rest also powered him up to visit with family. It was also great to see Tina catch up on some much-needed sleep.
+
+#### Physical Health
+
+Medically, it was generally a quiet day. No new tests, just the routine of checking vitals, checking blood chemistry, and taking medicines (e.g. pain management from the previous surgery). We are in waiting phase. The lab has not finished processing the tissue samples taken April 20th. Despite not knowing much yet the medical team continues to communicate. The best news was that we now know that the disease is: 
+
+- *not* in the central nervous system 
+- *not* in his bones.
+
+It might be a quiet weekend as lab results may not come back until mid-next week. So we wait as a family, and the medical team waits with us. One might think this is frustrating, but it is not, rather it is a peaceful and strategic waiting. Once the tests come back the doctors will be very intentional on how to manage Sam's health. So we wait, for the right understanding, and the subsequent right treatment plan.
+
+#### Soul Health
+
+Wow, what a good day! We have heard from so many friends, family, some of whom we have not connected with for years, but this challenging time is pulling our people together. Thank you for reaching out to us, conveying your care, telling us your stories, and simply what is happening in your world. We are supported by your words, your love, and your prayers.
+
+People around the world are praying -- it's awesome. Friends, family, and their friends and families, bible study and prayer groups; from Prince George, across the province, across the continent, even beautiful people we do not know in Zambia!
+
+We have also had some amazing face-to-face time.
+
+-   A friend anticipated our need and showed up with a bag of groceries and goodies picked especially for Tina and her dietary needs.
+-   A providential visit with the Schellenbergs with whom we have shared so much life with. What are the chances that they just happened to be in the area this weekend! For those who don't know them, they live in Saskatewan.
+-   Sam had a great visit with his cousin Chris, Uncle Cal, and Auntie Tricia.
+
+To wrap up this post, please know that we feel cared for in soul and body. Although we do not know what treatment for Sam will look like, we are in a peaceful place. That might change, we may have challenges ahead, but we bolstered by your love, we are carried.
+
+Love to you all!
+
+Colin
+
+
+
 
 ## April 21, 2023 (am)
 
-TLDR (short version): Yesterday: surgery for tissue samples followed by pain management. In the weeks to come, Sam will be here at BC Children Hospital as he is treated for what is assumed to be lymphoma.
+### TLDR
 
-\--
+Yesterday: surgery for tissue samples followed by pain management. In the weeks to come, Sam will be here at BC Children Hospital as he is treated for what is assumed to be lymphoma.
 
-Full version:
+
+### Reflections on April 20, 2023
 
 Hi all,
 
@@ -20,7 +69,7 @@ Yesterday was a big day for Sam. He had the surgery to complete a series of biop
 
 The staff here continue to be amazing, always taking the time to answer any of Sam's questions, and making complex biology and bio-chemistry understandable. It is honestly amazing to hear Sam explain his disease to others -- he gets it, understands it, and given the situation is very glad to be here.
 
-Next steps are not totally clear. We are working with the understanding/assumption that Sam has lymphoma ([described here](http://www.bcchildrens.ca/Oncology-Site/Documents/Non-Hodgkin%20Lymphoma.pdf)). The signs all point that way (e.g. X-ray and CT scan), but this will not be totally confirmed until the tissue samples are processed. Here is what we are currently expecting:
+Next steps are not totally clear. We are working with the understanding/assumption that Sam has lymphoma ([one possibility described here](http://www.bcchildrens.ca/Oncology-Site/Documents/Non-Hodgkin%20Lymphoma.pdf)). The signs all point that way (e.g. X-ray and CT scan), but this will not be totally confirmed until the tissue samples are processed. Here is what we are currently expecting:
 
 1.  Sam will start a round of drug treatment, as soon as later today, and specific treatments will be refined following the analysis of his tissue samples
 2.  Sam is currently in the ICU, and we expect him to be here for the next number of days after which, he will be transferred to the oncology unit just a few floors above where he will remain a patient for three weeks or so (timing of stay will all depend on tests).

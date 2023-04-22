@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Sam Chisholm"
+  search: false
   navbar:
     right:
       - href: index.qmd
@@ -13,7 +14,7 @@ website:
   page-navigation: false
   page-footer: 
     center: Copyright 2023, Colin Chisholm
-    
+    background: light
     
   
 format:
@@ -23,8 +24,8 @@ format:
       - styles.css
       - timeline.css
       - custom.css
-
     toc: true
 
 editor: source
-
+execute: 
+  freeze: true
