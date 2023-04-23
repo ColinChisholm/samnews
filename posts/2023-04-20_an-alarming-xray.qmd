@@ -1,7 +1,9 @@
 ---
 title: An Alarming X-ray
 date: 2023-04-20
+author: Colin C. 
 description: The last 48 hours have been a whirlwind, and we are where we need to be. Sam is now at BC Children's hospital 
+draft: false
 ---
 
 

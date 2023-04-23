@@ -2,6 +2,9 @@
 title: Post Biopsies
 description: Yesterday was a big day for Sam. He had the surgery to complete a series of biopsies. These included the removal of a lymph node at the base of his neck, a lumbar puncture, a bone marrow sample from the top of his hip, and
 date: 2023-04-21
+author: Colin C.
+draft: false
+
 ---
 
 ### TLDR (short version)

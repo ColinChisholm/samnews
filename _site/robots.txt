@@ -1,0 +1,1 @@
+Sitemap: http://samc-news.netlify.app/sitemap.xml

@@ -7,6 +7,15 @@ Most recent items at the top.
 :::{.timeline}
 
 
+:::{.tl_container .tl_left}
+:::{.tl_content}
+### Transfer to Oncology
+
+2023-04-22
+: Changed rooms from ICU to Oncology. We are still waiting for results. 
+:::
+:::
+
 :::{.tl_container .tl_right}
 :::{.tl_content}
 ### Pending test results

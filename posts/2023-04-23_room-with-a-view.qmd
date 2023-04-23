@@ -1,20 +1,10 @@
 ---
-title: "Updates"
-# author: Colin C.
-listing:
-  contents: posts
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
+title: A room with a view 
+date: 2023-04-22
+author: Colin C. 
+description: Transferred from ICU to the Oncology Unit.  Visits with friends and family. And waiting ... 
+draft: true
 ---
-
-For an overview of this journey see the [timeline](./timeline.html).
-
-***
-
-# A room with a view 
 
 ## Reflecting on April 22
 
@@ -31,14 +21,7 @@ We were encouraged by visits:
 - The Smiths, dear friends who we originally bonded with while working in Guatemala with CMU's Outtatown program, came over from Vancouver Island. 
 - Sam's sweetheart of a cousin Jayme (2.5 years) delivered her hand-made card supported by mom Amanda, Auntie Tricia, and Uncle Cal. Sam was touched!
 
-
 ## Upcoming
 
 1.  We continue to look forward to Sam's diagnosis ... but we expect that these may still take a number of days
 2.  This afternoon Tina and I will check-in at the Ronald McDonald House. This will give us our own space a five minute walk from Sam. The other day I ate at McDonald's and was offered to support the Ronald McDonald House. Of course I said yes. ... I expect I will be saying yes for the rest of my life.
-
-
-
-***
-
-# Previous Posts

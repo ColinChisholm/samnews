@@ -6,7 +6,6 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Colin C.">
 
 <title>Sam Chisholm - Updates</title>
 <style>
@@ -25,6 +24,8 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -48,12 +49,42 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 <link rel="stylesheet" href="timeline.css">
 <link rel="stylesheet" href="custom.css">
-</head>
+<link rel="alternate" type="application/rss+xml" title="Sam Chisholm" href="index.xml"></head>
 
 <body class="nav-fixed">
 
@@ -79,6 +110,11 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./timeline.html">
  <span class="menu-text">Timeline</span></a>
   </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="./index.xml"><i class="bi bi-rss" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
@@ -93,17 +129,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#april-22-2023-am" id="toc-april-22-2023-am" class="nav-link active" data-scroll-target="#april-22-2023-am">April 22, 2023 (am)</a>
+  <li><a href="#a-room-with-a-view" id="toc-a-room-with-a-view" class="nav-link active" data-scroll-target="#a-room-with-a-view">A room with a view</a>
   <ul class="collapse">
-  <li><a href="#tldr" id="toc-tldr" class="nav-link" data-scroll-target="#tldr">TLDR</a></li>
-  <li><a href="#reflections-on-april-21-2023" id="toc-reflections-on-april-21-2023" class="nav-link" data-scroll-target="#reflections-on-april-21-2023">Reflections on April 21, 2023</a></li>
+  <li><a href="#reflecting-on-april-22" id="toc-reflecting-on-april-22" class="nav-link" data-scroll-target="#reflecting-on-april-22">Reflecting on April 22</a></li>
+  <li><a href="#upcoming" id="toc-upcoming" class="nav-link" data-scroll-target="#upcoming">Upcoming</a></li>
   </ul></li>
-  <li><a href="#april-21-2023-am" id="toc-april-21-2023-am" class="nav-link" data-scroll-target="#april-21-2023-am">April 21, 2023 (am)</a>
-  <ul class="collapse">
-  <li><a href="#tldr-1" id="toc-tldr-1" class="nav-link" data-scroll-target="#tldr-1">TLDR</a></li>
-  <li><a href="#reflections-on-april-20-2023" id="toc-reflections-on-april-20-2023" class="nav-link" data-scroll-target="#reflections-on-april-20-2023">Reflections on April 20, 2023</a></li>
-  </ul></li>
-  <li><a href="#april-20-2023-am" id="toc-april-20-2023-am" class="nav-link" data-scroll-target="#april-20-2023-am">April 20, 2023 (am)</a></li>
+  <li><a href="#previous-posts" id="toc-previous-posts" class="nav-link" data-scroll-target="#previous-posts">Previous Posts</a></li>
   </ul>
 </nav>
     </div>
@@ -119,12 +150,6 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Colin C. </p>
-          </div>
-  </div>
     
   
     
@@ -133,91 +158,141 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Updates are listed from most recent at the top to oldest at the bottom. The <a href="./timeline.html">Timeline</a> provides a quick review of the milestone in this current journey with Sam.</p>
-<section id="april-22-2023-am" class="level2">
-<h2 class="anchored" data-anchor-id="april-22-2023-am">April 22, 2023 (am)</h2>
-<section id="tldr" class="level3">
-<h3 class="anchored" data-anchor-id="tldr">TLDR</h3>
-<p>We are in a waiting period, and as results from Sam’s biopsies trickle in, we have some knowledge of what the disease is not. Our hearts are peaceful and we have been filled with messages of love and prayer from around the world!</p>
-</section>
-<section id="reflections-on-april-21-2023" class="level3">
-<h3 class="anchored" data-anchor-id="reflections-on-april-21-2023">Reflections on April 21, 2023</h3>
-<p>How long have we been here? As I write this, it is only the beginning of day four and I am writing about day three, so much has happened.</p>
-<p>Yesterday, was … a beautiful day. Sam was far more comfortable, being another day away from his biopsy surgery. It was wonderful to watch him sleep and nap on and off through the day. This time of rest also powered him up to visit with family. It was also great to see Tina catch up on some much-needed sleep.</p>
-<section id="physical-health" class="level4">
-<h4 class="anchored" data-anchor-id="physical-health">Physical Health</h4>
-<p>Medically, it was generally a quiet day. No new tests, just the routine of checking vitals, checking blood chemistry, and taking medicines (e.g.&nbsp;pain management from the previous surgery). We are in waiting phase. The lab has not finished processing the tissue samples taken April 20th. Despite not knowing much yet the medical team continues to communicate. The best news was that we now know that the disease is:</p>
+<p>For an overview of this journey see the <a href="./timeline.html">timeline</a>.</p>
+<hr>
+<section id="a-room-with-a-view" class="level1">
+<h1>A room with a view</h1>
+<section id="reflecting-on-april-22" class="level2">
+<h2 class="anchored" data-anchor-id="reflecting-on-april-22">Reflecting on April 22</h2>
+<p>As expected, we are in the waiting game. It is the weekend and things are quieter around the hospital, and lab results move in a little slower. So we continue to wait. Answers will come.</p>
+<p>A day of waiting however is not without excitement!</p>
+<p>Sam now has a room with a view. He was transferred from the ICU to the Oncology unit. Thank you to the ICU team and their vigilant care of our boy. Sam is now under the care of the Oncology team. Things are quieter here as medical policies do not require constant monitoring. The view is also nicer, the ICU window looked at the side of another building, now from the 8<sup>th</sup> floor the view is across Vancouver, out to Burnaby, SFU, and the mountains beyond.</p>
+<p>… I was going to add a picture but as the rain comes down there are no views in Vancouver this morning.</p>
+<p>We were encouraged by visits:</p>
 <ul>
-<li><em>not</em> in the central nervous system</li>
-<li><em>not</em> in his bone marrow.</li>
+<li>The Smiths, dear friends who we originally bonded with while working in Guatemala with CMU’s Outtatown program, came over from Vancouver Island.</li>
+<li>Sam’s sweetheart of a cousin Jayme (2.5 years) delivered her hand-made card supported by mom Amanda, Auntie Tricia, and Uncle Cal. Sam was touched!</li>
 </ul>
-<p>It might be a quiet weekend as lab results may not come back until mid-next week. So we wait as a family, and the medical team waits with us. One might think this is frustrating, but it is not, rather it is a peaceful and strategic waiting. Once the tests come back the doctors will be very intentional on how to manage Sam’s health. So we wait, for the right understanding, and the subsequent right treatment plan.</p>
 </section>
-<section id="soul-health" class="level4">
-<h4 class="anchored" data-anchor-id="soul-health">Soul Health</h4>
-<p>Wow, what a good day! We have heard from so many friends, family, some of whom we have not connected with for years, but this challenging time is pulling our people together. Thank you for reaching out to us, conveying your care, telling us your stories, or simply what is happening in your world. We are supported by your words, your love, and your prayers.</p>
-<p>People around the world are praying – it’s awesome. Friends, family, and their friends and families, bible study and prayer groups; from Prince George, across the province, across the continent, and as far away as Zambia!</p>
-<p>We have also had some amazing face-to-face visits/care.</p>
-<ul>
-<li>A friend anticipated our needs and showed up with a bag of groceries and goodies picked especially for Tina and her dietary needs / requirements.</li>
-<li>A providential visit with the Schellenbergs with whom we have shared so much life and adventure. What are the chances that they just happened to be in the area this weekend! For those who don’t know them, they live in Saskatchewan.</li>
-<li>Sam had a great visit with his cousin Chris, Uncle Cal, and Auntie Tricia.</li>
-</ul>
-<p>To wrap up this post, please know that we feel cared for in soul and body. Although we do not know what treatment for Sam will look like, we are in a peaceful place. That might change, we may have challenges ahead, but we are bolstered by your love, we are carried.</p>
-<p>Love to you all!</p>
-<p>Colin</p>
-</section>
-</section>
-</section>
-<section id="april-21-2023-am" class="level2">
-<h2 class="anchored" data-anchor-id="april-21-2023-am">April 21, 2023 (am)</h2>
-<section id="tldr-1" class="level3">
-<h3 class="anchored" data-anchor-id="tldr-1">TLDR</h3>
-<p>Yesterday: surgery for tissue samples followed by pain management. In the weeks to come, Sam will be here at BC Children Hospital as he is treated for what is assumed to be lymphoma.</p>
-</section>
-<section id="reflections-on-april-20-2023" class="level3">
-<h3 class="anchored" data-anchor-id="reflections-on-april-20-2023">Reflections on April 20, 2023</h3>
-<p>Hi all,</p>
-<p>Yesterday was a big day for Sam. He had the surgery to complete a series of biopsies. These included the removal of a lymph node at the base of his neck, a lumbar puncture, a bone marrow sample from the top of his hip, and establishing a PICC (<a href="http://www.cw.bc.ca/library/pdf/pamphlets/BCCH1552_PICC.pdf">described here</a>) to facilitate ongoing blood work and upcoming intravenous drug delivery. All the procedures went well. Dr.&nbsp;Webber, completed the lymph node removal and said it went “Perfectly”. This was all done before noon. The biggest challenge of the day has been pain management, but Sam has been a trooper.</p>
-<p>The staff here continue to be amazing, always taking the time to answer any of Sam’s questions, and making complex biology and bio-chemistry understandable. It is honestly amazing to hear Sam explain his disease to others – he gets it, understands it, and given the situation is very glad to be here.</p>
-<p>Next steps are not totally clear. We are working with the understanding/assumption that Sam has lymphoma (<a href="http://www.bcchildrens.ca/Oncology-Site/Documents/Non-Hodgkin%20Lymphoma.pdf">one possibility described here</a>). The signs all point that way (e.g.&nbsp;X-ray and CT scan), but this will not be totally confirmed until the tissue samples are processed. Here is what we are currently expecting:</p>
+<section id="upcoming" class="level2">
+<h2 class="anchored" data-anchor-id="upcoming">Upcoming</h2>
 <ol type="1">
-<li>Sam will start a round of drug treatment, as soon as later today, and specific treatments will be refined following the analysis of his tissue samples</li>
-<li>Sam is currently in the ICU, and we expect him to be here for the next number of days after which, he will be transferred to the oncology unit just a few floors above where he will remain a patient for three weeks or so (timing of stay will all depend on tests).</li>
-<li>Tina and I will be able to check into the Ronald McDonald House here on hospital campus on Sunday. This will give us a home base, we will also be able to continue staying in the room with Sam.</li>
+<li>We continue to look forward to Sam’s diagnosis … but we expect that these may still take a number of days</li>
+<li>This afternoon Tina and I will check-in at the Ronald McDonald House. This will give us our own space a five minute walk from Sam. The other day I ate at McDonald’s and was offered to support the Ronald McDonald House. Of course I said yes. … I expect I will be saying yes for the rest of my life.</li>
 </ol>
-<p>Many thanks to all of Sam’s friends and teachers, and all of our friends and family. We love to hear from you. We may not get back to you right away but know your messages are encouraging to us. If you have any questions, please feel free to ask, and I will try to answer them either directly or in a following update.</p>
-<p>Q&amp;A</p>
-<dl>
-<dt>How is Tina doing?</dt>
-<dd>
-<p>She is actually great. She has been working so hard advocating for Sam’s health over the last months, trying to get the bottom of why he has been sick. Now, she can relax as Sam is where he needs to be, receiving the medical care that he needs. She also loves the medical world, she is in her element here. Our biggest challenge for Tina will be to ensure she is properly fed, especially given her dietary restrictions. We will need to find a new normal here.</p>
-</dd>
-<dt>How can we help / Let us know if we can help.</dt>
-<dd>
-<p>Hearing from you is currently the best. As noted, we might not be able to get back to you right away, but all of your notes are encouraging. Tina and I have literally had tears-of-joy reading them.</p>
-</dd>
-</dl>
-<p>Thanks again for your prayers and support,</p>
-<p>Colin and Tina</p>
 <hr>
 </section>
 </section>
-<section id="april-20-2023-am" class="level2">
-<h2 class="anchored" data-anchor-id="april-20-2023-am">April 20, 2023 (am)</h2>
-<p>Hi friends,</p>
-<p>The last 48 hours have been a whirlwind, and we are where we need to be.</p>
-<p>Sam is now at BC Children’s hospital, and Tina and I are able to stay in the room with him. Steps are being taken to manage what all indications suggest is lymphoma. Staff here have been amazing in: providing care, communicating what is happening and next steps, and conveying a sense that ‘this is serious’ mixed with a calming confidence.</p>
-<p>The process: Yesterday, tests were run – the primary one being a CT scan of his chest. Today, Sam will start the day with a surgery to complete a series of biopsies, the primary one being one of his lymph nodes at the base of his neck. By the end of the day, we should have firmer answers as to what exactly is happening and a treatment plan.</p>
-<p>Sam’s friends and classmates have been amazing. They have been in direct communication with him via Snapchat and hearing from them has been really encouraging to him, also to Tina and I – it is amazing to see friends rally behind him.</p>
-<p>Thank you for your support and prayers,</p>
-<p>Colin and Tina</p>
-<hr>
+<section id="previous-posts" class="level1">
+<h1>Previous Posts</h1>
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Author
+        </option>
+     </select>
+  </div>
+</div>
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1682146800000" data-listing-file-modified-sort="1682252310013" data-listing-reading-time-sort="2.705">
+<div class="body">
+<a href="./posts/2023-04-22_waiting-and-guests.html">
+<h3 class="no-anchor listing-title">
+Waiting and Welcome Guests
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+<p>We are in a waiting period, and as results from Sam’s biopsies trickle in, we have some knowledge of what the disease is not. Our hearts are peaceful and we have been filled with messages of love and prayer from around the world!</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/2023-04-22_waiting-and-guests.html">
+<div class="listing-date">
+Apr 22, 2023
+</div>
+<div class="listing-author">
+Colin C.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1682060400000" data-listing-file-modified-sort="1682252699862" data-listing-reading-time-sort="2.845">
+<div class="body">
+<a href="./posts/2023-04-21_Biopsy-Recovery.html">
+<h3 class="no-anchor listing-title">
+Post Biopsies
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+<p>Yesterday was a big day for Sam. He had the surgery to complete a series of biopsies. These included the removal of a lymph node at the base of his neck, a lumbar puncture, a bone marrow sample from the top of his hip, and</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/2023-04-21_Biopsy-Recovery.html">
+<div class="listing-date">
+Apr 21, 2023
+</div>
+<div class="listing-author">
+Colin C.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1681974000000" data-listing-file-modified-sort="1682252674304" data-listing-reading-time-sort="0.96">
+<div class="body">
+<a href="./posts/2023-04-20_an-alarming-xray.html">
+<h3 class="no-anchor listing-title">
+An Alarming X-ray
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+<p>The last 48 hours have been a whirlwind, and we are where we need to be. Sam is now at BC Children’s hospital</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/2023-04-20_an-alarming-xray.html">
+<div class="listing-date">
+Apr 20, 2023
+</div>
+<div class="listing-author">
+Colin C.
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
