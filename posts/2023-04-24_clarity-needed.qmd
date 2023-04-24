@@ -1,26 +1,14 @@
 ---
-title: "Updates"
-# author: Colin C.
-listing:
-  contents: posts
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
+title: "Clarity Needed"
+description: "Our biggest challenge: the pathology team has not been able to determine the specific type of cancer -- essential for ensuring the most effective treatment... Other items: On needles, victories, and comforts."
+# image: /img/sam-clean.jpg
+# image-alt: The Chisholms at BC Children's Hospital
+date: 2023-04-24
+author: Colin C. 
+draft: true
 ---
 
-For an overview of this journey see the [timeline](./timeline.html).
-
-------------------------------------------------------------------------
-
-# Clarity Needed
-
 ![](/img/sam-clean.jpg){fig-align="center"}
-
-## TLDR
-
-Our biggest challenge: the pathology team has not been able to determine the specific type of cancer -- essential for ensuring the most effective treatment... Other items: On needles, victories, and comforts.
 
 ## Reflections of April 23, 2023
 
@@ -56,7 +44,3 @@ Currently:
 1.  Firm diagnosis of the type of cancer. This will significantly inform treatment.
 2.  PET scan to determine where this disease is and where it is not. Timing is essential on this -- the sooner the better.
 3.  That Sam's PICC line would continue to function. Ideally, that it could also be used for treatment ... either adjustments are needed or another PICC will need to be established as the current one is not 'centrally located' (not exactly where they need it to be).
-
-------------------------------------------------------------------------
-
-# Previous Posts

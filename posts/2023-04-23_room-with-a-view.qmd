@@ -1,9 +1,9 @@
 ---
 title: A room with a view 
-date: 2023-04-22
+date: 2023-04-23
 author: Colin C. 
 description: Transferred from ICU to the Oncology Unit.  Visits with friends and family. And waiting ... 
-draft: true
+draft: false
 ---
 
 ## Reflecting on April 22

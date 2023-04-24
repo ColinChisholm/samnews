@@ -10,7 +10,41 @@
 <atom:link href="http://samc-news.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>News updating friends and family on our journey</description>
 <generator>quarto-1.2.269</generator>
-<lastBuildDate>Sat, 22 Apr 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 23 Apr 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>A room with a view</title>
+  <dc:creator>Colin C.</dc:creator>
+  <link>http://samc-news.netlify.app/posts/2023-04-23_room-with-a-view.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="reflecting-on-april-22" class="level2">
+<h2 class="anchored" data-anchor-id="reflecting-on-april-22">Reflecting on April 22</h2>
+<p>As expected, we are in the waiting game. It is the weekend and things are quieter around the hospital, and lab results move in a little slower. So we continue to wait. Answers will come.</p>
+<p>A day of waiting however is not without excitement!</p>
+<p>Sam now has a room with a view. He was transferred from the ICU to the Oncology unit. Thank you to the ICU team and their vigilant care of our boy. Sam is now under the care of the Oncology team. Things are quieter here as medical policies do not require constant monitoring. The view is also nicer, the ICU window looked at the side of another building, now from the 8<sup>th</sup> floor the view is across Vancouver, out to Burnaby, SFU, and the mountains beyond.</p>
+<p>… I was going to add a picture but as the rain comes down there are no views in Vancouver this morning.</p>
+<p>We were encouraged by visits:</p>
+<ul>
+<li>The Smiths, dear friends who we originally bonded with while working in Guatemala with CMU’s Outtatown program, came over from Vancouver Island.</li>
+<li>Sam’s sweetheart of a cousin Jayme (2.5 years) delivered her hand-made card supported by mom Amanda, Auntie Tricia, and Uncle Cal. Sam was touched!</li>
+</ul>
+</section>
+<section id="upcoming" class="level2">
+<h2 class="anchored" data-anchor-id="upcoming">Upcoming</h2>
+<ol type="1">
+<li>We continue to look forward to Sam’s diagnosis … but we expect that these may still take a number of days</li>
+<li>This afternoon Tina and I will check-in at the Ronald McDonald House. This will give us our own space a five minute walk from Sam. The other day I ate at McDonald’s and was offered to support the Ronald McDonald House. Of course I said yes. … I expect I will be saying yes for the rest of my life.</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <guid>http://samc-news.netlify.app/posts/2023-04-23_room-with-a-view.html</guid>
+  <pubDate>Sun, 23 Apr 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Waiting and Welcome Guests</title>
   <dc:creator>Colin C.</dc:creator>
@@ -76,7 +110,7 @@
 <p>Hi all,</p>
 <p>Yesterday was a big day for Sam. He had the surgery to complete a series of biopsies. These included the removal of a lymph node at the base of his neck, a lumbar puncture, a bone marrow sample from the top of his hip, and establishing a PICC (<a href="http://www.cw.bc.ca/library/pdf/pamphlets/BCCH1552_PICC.pdf">described here</a>) to facilitate ongoing blood work and upcoming intravenous drug delivery. All the procedures went well. Dr.&nbsp;Webber, completed the lymph node removal and said it went “Perfectly”. This was all done before noon. The biggest challenge of the day has been pain management, but Sam has been a trooper.</p>
 <p>The staff here continue to be amazing, always taking the time to answer any of Sam’s questions, and making complex biology and bio-chemistry understandable. It is honestly amazing to hear Sam explain his disease to others – he gets it, understands it, and given the situation is very glad to be here.</p>
-<p>Next steps are not totally clear. We are working with the understanding/assumption that Sam has lymphoma (<a href="http://www.bcchildrens.ca/Oncology-Site/Documents/Non-Hodgkin%20Lymphoma.pdf">one possibility described here</a>). The signs all point that way (e.g.&nbsp;X-ray and CT scan), but this will not be totally confirmed until the tissue samples are processed. Here is what we are currently expecting:</p>
+<p>Next steps are not totally clear. We are working with the understanding/assumption that Sam <del>has lymphoma (<a href="http://www.bcchildrens.ca/Oncology-Site/Documents/Non-Hodgkin%20Lymphoma.pdf">one possibility described here</a>)</del> <em>As of April 23, we still do not know what type of cancer this is</em>. The signs all point that way (e.g.&nbsp;X-ray and CT scan), but this will not be totally confirmed until the tissue samples are processed. Here is what we are currently expecting:</p>
 <ol type="1">
 <li>Sam will start a round of drug treatment, as soon as later today, and specific treatments will be refined following the analysis of his tissue samples</li>
 <li>Sam is currently in the ICU, and we expect him to be here for the next number of days after which, he will be transferred to the oncology unit just a few floors above where he will remain a patient for three weeks or so (timing of stay will all depend on tests).</li>
