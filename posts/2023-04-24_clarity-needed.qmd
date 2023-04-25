@@ -5,7 +5,7 @@ description: "Our biggest challenge: the pathology team has not been able to det
 # image-alt: The Chisholms at BC Children's Hospital
 date: 2023-04-24
 author: Colin C. 
-draft: true
+draft: false
 ---
 
 ![](/img/sam-clean.jpg){fig-align="center"}
