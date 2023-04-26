@@ -3,7 +3,7 @@ title: "Waiting and watching..."
 description: "A day of waiting. Scheduled activities. Concerns and victories."
 author: "Colin C."
 date: 2023-04-25
-draft: true
+draft: false
 ---
 
 One week ago today, Sam went in for the X-ray that started the chain of events that has led us here. Time is warped for us; I expect this is a common experience for all of us in times when life is intense; where experiential time does not seem to link up with chronological time. Needless to say, life has been intense.
