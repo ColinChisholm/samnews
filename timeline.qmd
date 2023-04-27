@@ -4,75 +4,66 @@ title: Milestones
 
 Most recent items at the top.
 
-:::{.timeline}
+::: timeline
+::: {.tl_container .tl_right}
+::: tl_content
+### PET Scan
 
+2023-04-26
 
-:::{.tl_container .tl_left}
-:::{.tl_content}
+:   Trip to BC Cancer Clinic for PET Scan
+:::
+:::
+
+::: {.tl_container .tl_left}
+::: tl_content
 ### Transfer to Oncology
 
 2023-04-22
-: Changed rooms from ICU to Oncology. We are still waiting for results. 
+
+:   Changed rooms from ICU to Oncology. We are still waiting for results.
 :::
 :::
 
-:::{.tl_container .tl_right}
-:::{.tl_content}
+::: {.tl_container .tl_right}
+::: tl_content
 ### Pending test results
 
 2023-04-21
-: Test results are rolling in.  The team is waiting to start treatment until they know exactly what they are targeting. We know it is not:  in the central nervous system, or in the bones! We will wait.
 
+:   Test results are rolling in. The team is waiting to start treatment until they know exactly what they are targeting. We know it is not: in the central nervous system, or in the bones! We will wait.
 :::
 :::
 
-
-:::{.tl_container .tl_left}
-:::{.tl_content}
-### Biopsies 
+::: {.tl_container .tl_left}
+::: tl_content
+### Biopsies
 
 2023-04-20
-: Surgery to: 1) remove lymph node from left side lower neck, 2) lumbar puncture for spinal fluid and chemotherapy into spine, 3) Bone marrow, and 4) establish a PICC line.
+
+:   Surgery to: 1) remove lymph node from left side lower neck, 2) lumbar puncture for spinal fluid and chemotherapy into spine, 3) Bone marrow, and 4) establish a PICC line.
 :::
 :::
 
-
-
-
-
-
-:::{.tl_container .tl_right}
-:::{.tl_content}
-### Scans at BC Childrens 
+::: {.tl_container .tl_right}
+::: tl_content
+### Scans at BC Childrens
 
 2023-04-19
-:  Tina and Sam arrive at BC Children's and he was admitted to the Pediatric ICU. Teams of Drs. consulted on and off through the day. IV, CT scan, and new IV.
+
+:   Tina and Sam arrive at BC Children's and he was admitted to the Pediatric ICU. Teams of Drs. consulted on and off through the day. IV, CT scan, and new IV.
 
 <!-- Location: Peds ICU (Frog pod 201) -->
 :::
 :::
 
-
-
-
-
-
-
-
-
-:::{.tl_container .tl_left}
-:::{.tl_content}
+::: {.tl_container .tl_left}
+::: tl_content
 ### An Alarming X-ray and Transfer to BC Childrens
 
 2023-04-18
-: A chest X-ray, technician sent us to the ER, ER sent us to pediatrics, and the pediatrician sent us to the BC Children's hospital. Sam accompanied by Tina, traveled by air ambulance to Vancouver.
 
+:   A chest X-ray, technician sent us to the ER, ER sent us to pediatrics, and the pediatrician sent us to the BC Children's hospital. Sam accompanied by Tina, traveled by air ambulance to Vancouver.
 :::
 :::
-
-
-
 :::
-
-
-

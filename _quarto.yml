@@ -13,6 +13,8 @@ website:
         text: Home
       - href: timeline.qmd
         text: Timeline
+      - href: contact.qmd
+        text: Contact Us
       - icon: rss
         href: index.xml
     pinned: true

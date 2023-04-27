@@ -1,33 +1,12 @@
 ---
-title: "Updates"
-# author: Colin C.
-listing:
-  contents: posts
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
+title: "Reality Check: Things are not good"
+description: "This is a raw post... it hurt to write, and it will likely hurt to read."
+author: Colin C.
+date: 2023-04-27
+draft: true
 ---
 
-## Info
-
-For an overview of this journey see the [timeline](./timeline.html).
-
-Don't have our contact information and want to reach us? Use [this form](/contact.html). <br />*Note: if you do know how to reach us, use our email, or message us (no need to use the form).*
-
-<br/>
-Visitation status: **by appointment only**
-
-------------------------------------------------------------------------
-
-# Posts
-
-## Reality Check
-
-*April 27*
-
-It is early morning, the start of day 9, here at BC Children's Hospital. This morning, I write so that you might better know what we are experiencing. In writing this, I am throwing caution out and exposing you to our pain... I do not expect you to read this ... and perhaps you shouldn't.
+It is early morning, the start of day 9, here at BC Children's Hospital. This morning, I write so that you might better know what we are experiencing. In writing this I am throwing caution out and exposing you to our pain... I do not expect you to read this ... and perhaps you shouldn't.
 
 ::: panel-tabset
 ### \...
@@ -49,17 +28,13 @@ Why share this? You are our friends and family. This is the truth of where we ar
 
 ### Recent and next steps
 
-1.  Sam had is PET scan yesterday -- we do not know the results.
+1.  Sam had is PET scan yesterday -- we do not know the results
 2.  Sam received a feeding tube. His nausea had been debilitating, and he as eaten very little in the last weeks.
 3.  We continue to wait for a treatment plan.
 
 ### What can you do?
 
 1.  Pray
-2.  Continue to send us your care. We are bolstered by your notes of encouragement, love, and support.
-3.  We have been blessed with visits from friends and family.\
+2.  Continue to send us your care. We are bolstered by your notes of encouragement, love, and care.
+3.  We have been blessed with visits from friends and family. \
     If you would like to see us, *you must contact me first* and I will try to work something out. Please be aware that as we move forward, ideally into treatment, visits with Sam may be highly restricted.
-
-------------------------------------------------------------------------
-
-## Previous Posts

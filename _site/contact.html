@@ -78,6 +78,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./timeline.html">
  <span class="menu-text">Timeline</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./contact.html" aria-current="page">
+ <span class="menu-text">Contact Us</span></a>
+  </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="./index.xml"><i class="bi bi-rss" role="img">
 </i> 
@@ -115,6 +119,8 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p>If you do not have any of our contact information, this form is provided to allow you to contact us. If you do have our contact information please continue to use regular means of communication.</p>
+<p>Thank you in advance for your care. We will reply as we are able.</p>
 <form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" onsubmit="submit">
 <!-- action="/success/" -->
 <p><input class="d-none" name="bot-field"> <!--   --></p>
@@ -126,7 +132,8 @@ ul.task-list li input[type="checkbox"] {
 <label for="inputEmail">Email</label> <input type="email" class="form-control" id="inputEmail" name="email">
 </div>
 <div class="form-group col-md-6 mt-3">
-<label for="Message">Message</label> <input type="message" class="form-control" id="message" name="message" style="height: 200px">
+<!-- form-control form-control-lg mb-2 --> <label for="Message">Message</label>
+<textarea type="message" class="form-control" id="message" name="message" rows="5" style="resize: none"></textarea>
 </div>
 </div>
 <button type="submit" class="btn btn-primary mt-3">

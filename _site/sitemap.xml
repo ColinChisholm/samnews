@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://samc-news.netlify.app/contact.html</loc>
+    <lastmod>2023-04-27T13:17:12.894Z</lastmod>
+  </url>
+  <url>
     <loc>http://samc-news.netlify.app/index.html</loc>
-    <lastmod>2023-04-26T13:42:32.083Z</lastmod>
+    <lastmod>2023-04-27T13:22:57.907Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/photos.html</loc>
-    <lastmod>2023-04-26T13:42:33.165Z</lastmod>
+    <lastmod>2023-04-27T13:17:16.758Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/posts/2023-04-20_an-alarming-xray.html</loc>
-    <lastmod>2023-04-26T13:42:34.298Z</lastmod>
+    <lastmod>2023-04-27T13:17:17.551Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/posts/2023-04-21_Biopsy-Recovery.html</loc>
-    <lastmod>2023-04-26T13:42:35.515Z</lastmod>
+    <lastmod>2023-04-27T13:17:18.314Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/posts/2023-04-22_waiting-and-guests.html</loc>
-    <lastmod>2023-04-26T13:42:36.675Z</lastmod>
+    <lastmod>2023-04-27T13:17:19.017Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/posts/2023-04-23_room-with-a-view.html</loc>
-    <lastmod>2023-04-26T13:42:37.814Z</lastmod>
+    <lastmod>2023-04-27T13:17:19.684Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/posts/2023-04-24_clarity-needed.html</loc>
-    <lastmod>2023-04-26T13:42:38.960Z</lastmod>
+    <lastmod>2023-04-27T13:17:20.368Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/posts/2023-04-25_waiting.html</loc>
-    <lastmod>2023-04-26T13:42:39.891Z</lastmod>
+    <lastmod>2023-04-27T13:17:21.051Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/timeline.html</loc>
-    <lastmod>2023-04-26T13:42:41.539Z</lastmod>
+    <lastmod>2023-04-27T13:21:31.386Z</lastmod>
   </url>
 </urlset>

@@ -2,6 +2,10 @@
 title: "Contact Us"
 ---
 
+If you do not have any of our contact information, this form is provided to allow you to contact us.  If you do have our contact information please continue to use regular means of communication.
+
+Thank you in advance for your care.  We will reply as we are able.
+
 <form name="contact" method="POST" data-netlify="true" 
       data-netlify-honeypot="bot-field" 
       onSubmit="submit">
@@ -24,10 +28,12 @@ title: "Contact Us"
   </div>
   
   <div class="form-group col-md-6 mt-3">
+  <!-- form-control form-control-lg mb-2 -->
   <label for="Message">Message</label>
-  <input type="message" class="form-control" 
+  <textarea type="message" class="form-control"
     id="message" name="message"
-    style = "height: 200px">
+    rows="5"
+    style="resize: none"></textarea>
   </div>
   
   
