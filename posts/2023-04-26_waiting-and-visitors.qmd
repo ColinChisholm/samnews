@@ -3,7 +3,7 @@ title: "There he is!"
 description: "A day of waiting.  Seeing Sam be himself.  Surrounded by loving family."
 date: 2023-04-26T06:00
 author: Colin C.
-draft: true
+draft: false
 ---
 
 ## Reflecting on April 25

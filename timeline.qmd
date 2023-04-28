@@ -5,13 +5,24 @@ title: Milestones
 Most recent items at the top.
 
 ::: timeline
+
+
+::: {.tl_container .tl_left}
+::: tl_content
+### Ultrasound
+
+2023-04-27
+:  Improved understanding of the cancer impacts in Sam's neck. 
+:::
+:::
+
 ::: {.tl_container .tl_right}
 ::: tl_content
 ### PET Scan
 
 2023-04-26
 
-:   Trip to BC Cancer Clinic for PET Scan
+:   Trip to BC Cancer Clinic for PET Scan. Results confirm location of cancer. 
 :::
 :::
 
