@@ -18,7 +18,7 @@ website:
       - icon: rss
         href: index.xml
     pinned: true
-  page-navigation: false
+  page-navigation: true
   page-footer: 
     center: Copyright 2023, Colin Chisholm
     background: light

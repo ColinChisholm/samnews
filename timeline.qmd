@@ -6,6 +6,16 @@ Most recent items at the top.
 
 ::: timeline
 
+::: {.tl_container .tl_right}
+::: tl_content
+### A Diagnosis and Treatment Plan
+
+2023-04-28
+: Sam has an extremely rare cancer.  A blood-based cancer mostly contained in the lymphatic system. Treatment has started with a standard round of chemotherapy.  
+
+:::
+:::
+
 
 ::: {.tl_container .tl_left}
 ::: tl_content

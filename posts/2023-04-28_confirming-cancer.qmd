@@ -2,13 +2,13 @@
 title: "Pending decisions"
 description: "We continue to wait.  Diagnosis is still pending. Decisions need to be made."
 author: Colin C.
-date: 2023-04-27
-draft: true
+date: 2023-04-28
+draft: false
 ---
 
 Thank-you!  We have received so many notes of solidarity, encouragement, and prayer.  The community of support around us, all of you, is amazing!
 
-## Reflections on April 26^th^. 
+## Reflections on April 27^th^. 
 
 I'm going to keep this one quick ... we are in a state of hyper-vigilance for Sam, staying in the room with him. This is something that is essential for now, though not sustainable... we are stressed and exhausted. 
 
