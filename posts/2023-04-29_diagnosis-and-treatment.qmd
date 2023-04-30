@@ -1,11 +1,11 @@
 ---
 title: "Diagnosis and the initiation of treatment"
-description: "Yesterday was intense. Sam has an extremely rare cancer. Treatment of the disease has now started."  
+description: "Yesterday was intense. Sam has an extremely rare cancer. Treatment of the disease has now started."
 author: Colin C.
-date: 2023-04-27
-draft: true
-editor: 
-  markdown: 
+date: 2023-04-29
+draft: false
+editor:
+  markdown:
     wrap: 72
 ---
 
