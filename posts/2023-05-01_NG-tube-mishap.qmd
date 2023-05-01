@@ -1,29 +1,13 @@
 ---
-title: "Updates"
-# author: Colin C.
-listing:
-  contents: posts
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
-  page-size: 10
+title: "A good day, but a rough night..."
+description: "We celebrate the little things but sometimes the little things go wrong."
+author: Colin C.
+date: 2023-05-01
+draft: true
+editor: 
+  markdown: 
+    wrap: 72
 ---
-
-## Info
-
-For an overview of this journey see the [timeline](./timeline.html).
-
-Don't have our contact information and want to reach us? Use [this form](/contact.html). <br />*Note: if you do know how to reach us, use our email, or message us (no need to use the form).*
-
-<br/> Visitation status: **by appointment only**
-
-------------------------------------------------------------------------
-
-# A good day but a rough night... 
-
-_May 1, 2023_
 
 It is currently just after 7:00am here. Sam is currently sleeping
 soundly, and I hope that Tina is having a good and lengthy sleep. Tina
@@ -78,7 +62,3 @@ significant time for sleeping... it is still not cleared.
 4.  We also cannot forget the larger issue. We are in a major storm of
     life. Sam has cancer. His prognosis is unknown. We choose hope, but
     that does not mean waves of fear to not threaten to swamp us. We hope and pray for his healing. That the cancer would respond to treatment.  That we would be able to go home together.
-
-------------------------------------------------------------------------
-
-## Previous Posts
