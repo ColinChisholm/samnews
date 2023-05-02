@@ -1,27 +1,13 @@
 ---
-title: "Updates"
-# author: Colin C.
-listing:
-  contents: posts
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
-  page-size: 10
+title: "Humbled by generosity"
+description: "Grateful for all of your support.  GoFundMe page is not up.  Great day behind us."
+author: Colin C.
+date: 2023-05-02
+draft: true
+editor: 
+  markdown: 
+    wrap: 72
 ---
-
-## Info
-
-For an overview of this journey see the [timeline](./timeline.html).
-
-Don't have our contact information and want to reach us? Use [this form](/contact.html). <br />*Note: if you do know how to reach us, use our email, or message us (no need to use the form).*
-
-<br/> Visitation status: **by appointment only**
-
-------------------------------------------------------------------------
-
-# Humbled by generosity
 
 ::: {.gofundme-insert style="float: right; width: 50%; padding: 0 0pt 3pt 6pt; min-width: 320px;"}
 <img src="/img/family_2022.jpg"/ style="width: 100%; border: solid 1px #c8c8c8">
@@ -89,10 +75,3 @@ Mostly victories today!
 
 -   The cancer, and that it responds treatment, remains our largest
     concern.
-
-------------------------------------------------------------------------
-
-# Previous Posts
-
-
-
