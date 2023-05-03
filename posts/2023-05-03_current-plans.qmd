@@ -1,31 +1,14 @@
 ---
-title: "Updates"
-# author: Colin C.
-listing:
-  contents: posts
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
-  page-size: 10
+title: "Current plans"
+description: "A quick post what we currently know going forward"
+author: Colin C.
+date: 2023-05-03T7:00
+category: daily
+draft: true
+editor: 
+  markdown: 
+    wrap: 72
 ---
-
-
-For an overview of this journey see the [timeline](./timeline.html).
-
-Don't have our contact information and want to reach us? Use [this form](/contact.html). <br />*Note: if you do know how to reach us, use our email, or message us (no need to use the form).*
-
-<br/> Visitation status: **by appointment only**
-
-
-
-
-------------------------------------------------------------------------
-
-# Current Plans 
-
-_May 3, 2023_ 
 
 It is Wednesday morning, day 15, I just arrived at the hospital having had a full night sleep.  My family is sleeping, and it appears that I was not missed overnight -- so good. 
 
@@ -57,31 +40,3 @@ That's it! We have an idea of what the next five days may hold.  The medical tea
 - Return of mobility and an appetite
 
 - Concern that the cancer response well, to the treatment
-
-
-***
-
-# Support
-
-::: {#support layout-ncol=2}
-
-
-[![](http://www.bcchildrens.ca/_layouts/15/CUSTOM/EWI/assets/img/bcchildrenshospital/logo.png)](http://www.bcchildrens.ca/donate)
-
-::: {.gfm-embed data-url="https://www.gofundme.com/f/help-the-chisholm-family-while-sam-battles-cancer/widget/medium"}
-```{=html}
-<script defer src="https://www.gofundme.com/static/js/embed.js"></script>
-```
-:::
-
-:::
-
-
-
-
-------------------------------------------------------------------------
-
-# Previous Posts
-
-
-

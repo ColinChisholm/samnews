@@ -3,7 +3,7 @@ title: "Humbled by generosity"
 description: "Grateful for all of your support.  GoFundMe page is not up.  Great day behind us."
 author: Colin C.
 date: 2023-05-02
-draft: true
+draft: false
 editor: 
   markdown: 
     wrap: 72
