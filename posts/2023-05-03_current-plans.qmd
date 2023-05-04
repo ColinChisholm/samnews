@@ -2,9 +2,9 @@
 title: "Current plans"
 description: "A quick post what we currently know going forward"
 author: Colin C.
-date: 2023-05-03T7:00
+date: 2023-05-03T07:00
 category: daily
-draft: true
+draft: false
 editor: 
   markdown: 
     wrap: 72
@@ -35,8 +35,8 @@ That's it! We have an idea of what the next five days may hold.  The medical tea
 
 - Umm, Wow! We are stunned, blessed, blown-away by the generosity of so many as evidenced by the [GoFundMe](https://www.gofundme.com/f/help-the-chisholm-family-while-sam-battles-cancer).
 
-- Needles: Sam is doing really well with them.  Though the potential of installing a new central line (PICC) is a challenging thought
+- Needles: Sam is doing really well with them.  Though the potential of installing a new central line (PICC) is a challenging thought.
 
-- Return of mobility and an appetite
+- Sam's has had the return of mobility and an appetite.
 
-- Concern that the cancer response well, to the treatment
+- Concern that the cancer responds well to the treatment.

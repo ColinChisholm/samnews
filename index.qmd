@@ -11,77 +11,54 @@ listing:
   page-size: 10
 ---
 
-
 For an overview of this journey see the [timeline](./timeline.html).
 
 Don't have our contact information and want to reach us? Use [this form](/contact.html). <br />*Note: if you do know how to reach us, use our email, or message us (no need to use the form).*
 
 <br/> Visitation status: **by appointment only**
 
+------------------------------------------------------------------------
 
+# Clarifying ... from what I understand
 
+*May 4, 2023*
+
+![Sunrise from BC Children's Hospital\... Finally providing the 'room with a view' picture.](http://www.livinglife.ca/img/230504_sunrise.jpg)
+
+It looks like another beautiful sunny day here in Vancouver. The sun is just coming up over the mountains and is beaming into Sam's room. These early morning hours are usually my as my family sleeps, and I take time to think, to pray, and to write. Not really no changes from yesterday we continue to slide into this pattern of routine. Nurses will be by to check-in, other members of the medical team will be what feels like randomly, as they move around the hospital checking on all their patients. Life as a patient definitely requires just that patience as you are either waiting for news, waiting for next steps, or generally having life interrupted. Don't get me wrong, the care Sam is receiving is incredible. Being a patient is just a minor challenge in this process.
+
+## Clarifying, from what I understand
+
+It really has been encouraging to see Sam come back, the return of his humor, his appetite, desires to do things. This morning, I want to explain my understanding of what has been happening with him. Before arriving, Sam was very sick, having extreme lethargy, and barely able to get out of bed. His body's immune system was on overdrive in effort to battle what we now know is the cancer. The effect of this was that his whole body inflamed -- think of a time that you had a small cut or burn and your skin was red and a little puffy around the injury... now take that idea and apply it to inside Sam's body, and the majority of the lymphatic system. So why is he so much better now? Why does the treatment seem to be working so well? Is Sam healing?
+
+Treatment started this past Friday, six days ago, and by the end of Saturday Sam was already feeling much better. This is actually an expected response. I am unclear if how dramatic the response is was expected, but the medical team did expect a fairly rapid response. One of the drugs that is part of Sam chemotherapy *prednisone*, which can be used to change the way the body 's immune system reacts -- effectively taking the immune system out of overdrive and reducing all that internal swelling.
+
+So is Sam getting better? Sam is definitely feeling better and has a much improved quality of life, and I hope and pray that he is getting better in the long term. However, I need to be clear, when it comes to the cancer in his body, we just do not know.
+
+Sam is now scheduled for a scan tomorrow morning. We will know more once those results are in.
+
+## Concerns and victories
+
+-   We are stunned, blessed, blown-away by the generosity of so many through the [GoFundMe](https://www.gofundme.com/f/help-the-chisholm-family-while-sam-battles-cancer).
+
+-   Sam's has had the return of mobility and an appetite. Walking around a little yesterday was encouraging but I also recognize that Sam has lost alot of strength, which we will need to see him build back.
+
+-   Concern that the cancer responds well to the treatment.
 
 ------------------------------------------------------------------------
 
-# Current Plans 
-
-_May 3, 2023_ 
-
-It is Wednesday morning, day 15, I just arrived at the hospital having had a full night sleep.  My family is sleeping, and it appears that I was not missed overnight -- so good. 
-
-## Reflections on May 2
-
-Breakfast this am was a beautiful surprise, as friends from Prince George ordered us an amazing breakfast from Juliet's Cafe including a Tina friendly version.  The remainder of the morning was a parade of various members of the medical team.  This included a visit with Dr. Cheng, Sam's oncologist -- we reviewed the plan going forward with her (below). 
-
-The afternoon and evening was similar with various visits.  I got out for a couple hours to do some shopping to gear us up to live here.  A carry-on bag of cloths was just not enough and we all needed some new socks. Tomorrow I will get out to stock up on snacks -- as our boy's appetite continues to strengthen. In the evening, the three of us got out onto a deck and watched the sunset. 
-
-## Plans 
-
-Sam's treatment plan does not extend very far.  Here is what I currently know... though plans change based on numerous factors.
-
-1.  Currently, Sam is mid-way through his first round of chemotherapy.  
-2.  On Friday, he will go for a scan.  The purpose of this will be two-fold 
-    a. To evaluate the response of the cancer to the current treatment
-    b. To evaluate if PICC to determine if it will work for delivering future treatment. 
-3.  On Monday, Sam may have to have place a new central line.  
-
-That's it! We have an idea of what the next five days may hold.  The medical team does not know what the steps are beyond as they do not have the data.  Although it would be nice to know what Sam is in for, what challenges he may have to face, I appreciate that decisions are being made based on the information available.  When more is known, informed decisions can be made. 
-
-
-## Concerns and victories 
-
-- Umm, Wow! We are stunned, blessed, blown-away by the generosity of so many as evidenced by the [GoFundMe](https://www.gofundme.com/f/help-the-chisholm-family-while-sam-battles-cancer).
-
-- Needles: Sam is doing really well with them.  Though the potential of installing a new central line (PICC) is a challenging thought
-
-- Return of mobility and an appetite
-
-- Concern that the cancer response well, to the treatment
-
-
-***
-
 # Support
 
-::: {#support layout-ncol=2}
-
-
-[![](http://www.bcchildrens.ca/_layouts/15/CUSTOM/EWI/assets/img/bcchildrenshospital/logo.png)](http://www.bcchildrens.ca/donate)
+::: {#support layout-ncol="2"}
+[![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
 
 ::: {.gfm-embed data-url="https://www.gofundme.com/f/help-the-chisholm-family-while-sam-battles-cancer/widget/medium"}
 ```{=html}
 <script defer src="https://www.gofundme.com/static/js/embed.js"></script>
 ```
 :::
-
 :::
-
-
-
 
 ------------------------------------------------------------------------
 
 # Previous Posts
-
-
-
