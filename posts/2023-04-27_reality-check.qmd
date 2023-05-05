@@ -2,6 +2,7 @@
 title: "Reality Check: Things are not good"
 description: "This is a raw post... it hurt to write, and it will likely hurt to read."
 author: Colin C.
+categories: [daily]
 date: 2023-04-27
 draft: false
 ---

@@ -1,8 +1,9 @@
 ---
-title: A room with a view 
+title: A room with a view
 date: 2023-04-23
-author: Colin C. 
-description: Transferred from ICU to the Oncology Unit.  Visits with friends and family. And waiting ... 
+author: Colin C.
+categories: [daily]
+description: Transferred from ICU to the Oncology Unit.  Visits with friends and family. And waiting ...
 draft: false
 ---
 
@@ -14,11 +15,11 @@ A day of waiting however is not without excitement!
 
 Sam now has a room with a view. He was transferred from the ICU to the Oncology unit. Thank you to the ICU team and their vigilant care of our boy. Sam is now under the care of the Oncology team. Things are quieter here as medical policies do not require constant monitoring. The view is also nicer, the ICU window looked at the side of another building, now from the 8^th^ floor the view is across Vancouver, out to Burnaby, SFU, and the mountains beyond.
 
-... I was going to add a picture but as the rain comes down there are no views in Vancouver this morning. 
+... I was going to add a picture but as the rain comes down there are no views in Vancouver this morning.
 
-We were encouraged by visits: 
+We were encouraged by visits:
 
-- The Smiths, dear friends who we originally bonded with while working in Guatemala with CMU's Outtatown program, came over from Vancouver Island. 
+- The Smiths, dear friends who we originally bonded with while working in Guatemala with CMU's Outtatown program, came over from Vancouver Island.
 - Sam's sweetheart of a cousin Jayme (2.5 years) delivered her hand-made card supported by mom Amanda, Auntie Tricia, and Uncle Cal. Sam was touched!
 
 ## Upcoming

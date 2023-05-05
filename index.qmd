@@ -3,6 +3,8 @@ title: "Updates"
 # author: Colin C.
 listing:
   contents: posts
+  filter-ui: false
+  fields: [image, date, title, author, categories, description]
   sort: "date desc"
   sort-ui: true
   type: default
@@ -19,35 +21,30 @@ Don't have our contact information and want to reach us? Use [this form](/contac
 
 ------------------------------------------------------------------------
 
-# Clarifying ... from what I understand
+# Anticipation of next steps
 
-*May 4, 2023*
+*May 5, 2023*
 
-![Sunrise from BC Children's Hospital\... Finally providing the 'room with a view' picture.](http://www.livinglife.ca/img/230504_sunrise.jpg)
+This morning's run of pills will mark the end of Sam's first round of chemotherapy.  At 9:30 Sam is scheduled for a CT scan and we will wait in anticipation for the results, as the scan will help inform our next steps including: 1) the need (or not) of a new central line for drug delivery, and 2) response of the cancer so far and a strategy moving forward.  
 
-It looks like another beautiful sunny day here in Vancouver. The sun is just coming up over the mountains and is beaming into Sam's room. These early morning hours are usually my as my family sleeps, and I take time to think, to pray, and to write. Not really no changes from yesterday we continue to slide into this pattern of routine. Nurses will be by to check-in, other members of the medical team will be what feels like randomly, as they move around the hospital checking on all their patients. Life as a patient definitely requires just that patience as you are either waiting for news, waiting for next steps, or generally having life interrupted. Don't get me wrong, the care Sam is receiving is incredible. Being a patient is just a minor challenge in this process.
+## Reflection on May 4
 
-## Clarifying, from what I understand
-
-It really has been encouraging to see Sam come back, the return of his humor, his appetite, desires to do things. This morning, I want to explain my understanding of what has been happening with him. Before arriving, Sam was very sick, having extreme lethargy, and barely able to get out of bed. His body's immune system was on overdrive in effort to battle what we now know is the cancer. The effect of this was that his whole body inflamed -- think of a time that you had a small cut or burn and your skin was red and a little puffy around the injury... now take that idea and apply it to inside Sam's body, and the majority of the lymphatic system. So why is he so much better now? Why does the treatment seem to be working so well? Is Sam healing?
-
-Treatment started this past Friday, six days ago, and by the end of Saturday Sam was already feeling much better. This is actually an expected response. I am unclear if how dramatic the response is was expected, but the medical team did expect a fairly rapid response. One of the drugs that is part of Sam chemotherapy *prednisone*, which can be used to change the way the body 's immune system reacts -- effectively taking the immune system out of overdrive and reducing all that internal swelling.
-
-So is Sam getting better? Sam is definitely feeling better and has a much improved quality of life, and I hope and pray that he is getting better in the long term. However, I need to be clear, when it comes to the cancer in his body, we just do not know.
-
-Sam is now scheduled for a scan tomorrow morning. We will know more once those results are in.
+Sam was full of energy and he was determined to show the physiotherapist all that he could do.  We went for a couple of walks including getting off the floor and getting outside. Sam was also able to be disconnected from his IV and we are all loving the freedom that comes with that.  
 
 ## Concerns and victories
 
--   We are stunned, blessed, blown-away by the generosity of so many through the [GoFundMe](https://www.gofundme.com/f/help-the-chisholm-family-while-sam-battles-cancer).
+-   CT scan today, the information will be used to determine next steps. 
 
--   Sam's has had the return of mobility and an appetite. Walking around a little yesterday was encouraging but I also recognize that Sam has lost alot of strength, which we will need to see him build back.
+-   Sam is mobile and regaining strength.  So great to have a break from IV line. 
 
--   Concern that the cancer responds well to the treatment.
+-   Concern that the cancer responds well to the treatment and wisdom for the next steps. 
+
 
 ------------------------------------------------------------------------
 
 # Support
+
+Here we include options to provide financial support cancer research at the BC Children's Hospital or to support us directly. We have been blown away by the generosity of so many.  We also love the support provided in words of encouragement.  Please feel free to [send us notes of encouragement](contact.html).  It is impossible to thank you all enough. 
 
 ::: {#support layout-ncol="2"}
 [![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
@@ -62,3 +59,5 @@ Sam is now scheduled for a scan tomorrow morning. We will know more once those r
 ------------------------------------------------------------------------
 
 # Previous Posts
+
+

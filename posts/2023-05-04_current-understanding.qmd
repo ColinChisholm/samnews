@@ -3,7 +3,7 @@ title: "Clarifying... from what I understand"
 description: "I explain, from what I understand, Sam's response to treatment, and what we currently know."
 author: Colin C.
 date: 2023-05-04T06:00
-draft: true
+draft: false
 editor: 
   markdown: 
     wrap: 72
@@ -45,19 +45,25 @@ expected response. I am unclear if how dramatic the response is was
 expected, but the medical team did expect a fairly rapid response. One
 of the drugs that is part of Sam chemotherapy *prednisone*, which can be
 used to change the way the body 's immune system reacts -- effectively
-taking the immune system out of overdrive.
+taking the immune system out of overdrive and reducing all that internal
+swelling.
 
 So is Sam getting better? Sam is definitely feeling better and has a
 much improved quality of life, and I hope and pray that he is getting
 better in the long term. However, I need to be clear, when it comes to
-the cancer in his body, we just do not know. Sam is now scheduled for a
-scan tomorrow morning. We will know more once those results are in.
+the cancer in his body, we just do not know.
+
+Sam is now scheduled for a scan tomorrow morning. We will know more once
+those results are in.
 
 ## Concerns and victories
 
-- We are stunned, blessed, blown-away by the generosity of so
-many through the [GoFundMe](https://www.gofundme.com/f/help-the-chisholm-family-while-sam-battles-cancer).
+-   We are stunned, blessed, blown-away by the generosity of so many
+    through the
+    [GoFundMe](https://www.gofundme.com/f/help-the-chisholm-family-while-sam-battles-cancer).
 
-- Sam's has had the return of mobility and an appetite. Walking around a little yesterday was encouraging but I also recognize that Sam has lost alot of strength, which we will need to see him build back.
+-   Sam's has had the return of mobility and an appetite. Walking around
+    a little yesterday was encouraging but I also recognize that Sam has
+    lost alot of strength, which we will need to see him build back.
 
-- Concern that the cancer responds well to the treatment.
+-   Concern that the cancer responds well to the treatment.

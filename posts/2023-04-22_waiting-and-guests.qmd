@@ -1,7 +1,8 @@
 ---
 title: Waiting and Welcome Guests
-description: We are in a waiting period, and as results from Sam's biopsies trickle in, we have some knowledge of what the disease is not.  Our hearts are peaceful and we have been filled with messages of love and prayer from around the world! 
+description: We are in a waiting period, and as results from Sam's biopsies trickle in, we have some knowledge of what the disease is not.  Our hearts are peaceful and we have been filled with messages of love and prayer from around the world!
 date: 2023-04-22
+categories: [daily]
 author: Colin C.
 draft: false
 ---

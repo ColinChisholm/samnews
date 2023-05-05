@@ -10,7 +10,45 @@
 <atom:link href="http://samc-news.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>News updating friends and family on our journey</description>
 <generator>quarto-1.2.335</generator>
-<lastBuildDate>Wed, 03 May 2023 14:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 04 May 2023 13:00:00 GMT</lastBuildDate>
+<item>
+  <title>Clarifying… from what I understand</title>
+  <dc:creator>Colin C.</dc:creator>
+  <link>http://samc-news.netlify.app/posts/2023-05-04_current-understanding.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="http://samc-news.netlify.app/posts/http:/www.livinglife.ca/img/230504_sunrise.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Sunrise from BC Children’s Hospital... Finally providing the ‘room with a view’ picture.</figcaption><p></p>
+</figure>
+</div>
+<p>It looks like another beautiful sunny day here in Vancouver. The sun is just coming up over the mountains and is beaming into Sam’s room. These early morning hours are usually my as my family sleeps, and I take time to think, to pray, and to write. Not really no changes from yesterday we continue to slide into this pattern of routine. Nurses will be by to check-in, other members of the medical team will be what feels like randomly, as they move around the hospital checking on all their patients. Life as a patient definitely requires just that patience as you are either waiting for news, waiting for next steps, or generally having life interrupted. Don’t get me wrong, the care Sam is receiving is incredible. Being a patient is just a minor challenge in this process.</p>
+<section id="clarifying-from-what-i-understand" class="level2">
+<h2 class="anchored" data-anchor-id="clarifying-from-what-i-understand">Clarifying, from what I understand</h2>
+<p>It really has been encouraging to see Sam come back, the return of his humor, his appetite, desires to do things. This morning, I want to explain my understanding of what has been happening with him. Before arriving, Sam was very sick, having extreme lethargy, and barely able to get out of bed. His body’s immune system was on overdrive in effort to battle what we now know is the cancer. The effect of this was that his whole body inflamed – think of a time that you had a small cut or burn and your skin was red and a little puffy around the injury… now take that idea and apply it to inside Sam’s body, and the majority of the lymphatic system. So why is he so much better now? Why does the treatment seem to be working so well? Is Sam healing?</p>
+<p>Treatment started this past Friday, six days ago, and by the end of Saturday Sam was already feeling much better. This is actually an expected response. I am unclear if how dramatic the response is was expected, but the medical team did expect a fairly rapid response. One of the drugs that is part of Sam chemotherapy <em>prednisone</em>, which can be used to change the way the body ’s immune system reacts – effectively taking the immune system out of overdrive and reducing all that internal swelling.</p>
+<p>So is Sam getting better? Sam is definitely feeling better and has a much improved quality of life, and I hope and pray that he is getting better in the long term. However, I need to be clear, when it comes to the cancer in his body, we just do not know.</p>
+<p>Sam is now scheduled for a scan tomorrow morning. We will know more once those results are in.</p>
+</section>
+<section id="concerns-and-victories" class="level2">
+<h2 class="anchored" data-anchor-id="concerns-and-victories">Concerns and victories</h2>
+<ul>
+<li><p>We are stunned, blessed, blown-away by the generosity of so many through the <a href="https://www.gofundme.com/f/help-the-chisholm-family-while-sam-battles-cancer">GoFundMe</a>.</p></li>
+<li><p>Sam’s has had the return of mobility and an appetite. Walking around a little yesterday was encouraging but I also recognize that Sam has lost alot of strength, which we will need to see him build back.</p></li>
+<li><p>Concern that the cancer responds well to the treatment.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <guid>http://samc-news.netlify.app/posts/2023-05-04_current-understanding.html</guid>
+  <pubDate>Thu, 04 May 2023 13:00:00 GMT</pubDate>
+  <media:content url="http://www.livinglife.ca/img/230504_sunrise.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Current plans</title>
   <dc:creator>Colin C.</dc:creator>
@@ -29,8 +67,7 @@
 <h2 class="anchored" data-anchor-id="plans">Plans</h2>
 <p>Sam’s treatment plan does not extend very far. Here is what I currently know… though plans change based on numerous factors.</p>
 <ol type="1">
-<li>Currently, Sam is mid-way through his first round of chemotherapy.<br>
-</li>
+<li>Currently, Sam is mid-way through his first round of chemotherapy.</li>
 <li>On Friday, he will go for a scan. The purpose of this will be two-fold
 <ol type="a">
 <li>To evaluate the response of the cancer to the current treatment</li>
@@ -53,6 +90,7 @@
 </section>
 
  ]]></description>
+  <category>daily</category>
   <guid>http://samc-news.netlify.app/posts/2023-05-03_current-plans.html</guid>
   <pubDate>Wed, 03 May 2023 14:00:00 GMT</pubDate>
 </item>
@@ -95,6 +133,7 @@
 </section>
 
  ]]></description>
+  <category>daily</category>
   <guid>http://samc-news.netlify.app/posts/2023-05-02_humbled-assistance.html</guid>
   <pubDate>Tue, 02 May 2023 07:00:00 GMT</pubDate>
 </item>
@@ -134,6 +173,7 @@
 <li id="fn1"><p>Nasogasteric feeding tube (i.e.&nbsp;through the nose to the gut)↩︎</p></li>
 </ol>
 </section></div> ]]></description>
+  <category>daily</category>
   <guid>http://samc-news.netlify.app/posts/2023-05-01_NG-tube-mishap.html</guid>
   <pubDate>Mon, 01 May 2023 07:00:00 GMT</pubDate>
 </item>
@@ -184,6 +224,7 @@
 </section>
 
  ]]></description>
+  <category>daily</category>
   <guid>http://samc-news.netlify.app/posts/2023-04-30_All-the-small-victories.html</guid>
   <pubDate>Sun, 30 Apr 2023 07:00:00 GMT</pubDate>
   <media:content url="http://samc-news.netlify.app/img/tina-colin-BCCH-deck.jpg" medium="image" type="image/jpeg"/>
@@ -246,6 +287,9 @@
 </section>
 
  ]]></description>
+  <category>daily</category>
+  <category>results</category>
+  <category>milestones</category>
   <guid>http://samc-news.netlify.app/posts/2023-04-29_diagnosis-and-treatment.html</guid>
   <pubDate>Sat, 29 Apr 2023 07:00:00 GMT</pubDate>
 </item>
@@ -272,6 +316,7 @@
 </section>
 
  ]]></description>
+  <category>daily</category>
   <guid>http://samc-news.netlify.app/posts/2023-04-28_confirming-cancer.html</guid>
   <pubDate>Fri, 28 Apr 2023 07:00:00 GMT</pubDate>
 </item>
@@ -322,6 +367,7 @@ If you would like to see us, please contact me first, and I will try to work som
 </section>
 
  ]]></description>
+  <category>daily</category>
   <guid>http://samc-news.netlify.app/posts/2023-04-27_reality-check.html</guid>
   <pubDate>Thu, 27 Apr 2023 07:00:00 GMT</pubDate>
 </item>
@@ -351,6 +397,7 @@ If you would like to see us, please contact me first, and I will try to work som
 </section>
 
  ]]></description>
+  <category>daily</category>
   <guid>http://samc-news.netlify.app/posts/2023-04-26_waiting-and-visitors.html</guid>
   <pubDate>Wed, 26 Apr 2023 13:00:00 GMT</pubDate>
 </item>
@@ -378,6 +425,7 @@ If you would like to see us, please contact me first, and I will try to work som
 </section>
 
  ]]></description>
+  <category>daily</category>
   <guid>http://samc-news.netlify.app/posts/2023-04-25_waiting.html</guid>
   <pubDate>Tue, 25 Apr 2023 07:00:00 GMT</pubDate>
 </item>
@@ -433,6 +481,7 @@ If you would like to see us, please contact me first, and I will try to work som
 </section>
 
  ]]></description>
+  <category>daily</category>
   <guid>http://samc-news.netlify.app/posts/2023-04-24_clarity-needed.html</guid>
   <pubDate>Mon, 24 Apr 2023 07:00:00 GMT</pubDate>
   <media:content url="http://samc-news.netlify.app/img/sam-clean.jpg" medium="image" type="image/jpeg"/>
@@ -468,6 +517,7 @@ If you would like to see us, please contact me first, and I will try to work som
 </section>
 
  ]]></description>
+  <category>daily</category>
   <guid>http://samc-news.netlify.app/posts/2023-04-23_room-with-a-view.html</guid>
   <pubDate>Sun, 23 Apr 2023 07:00:00 GMT</pubDate>
 </item>
@@ -515,6 +565,7 @@ If you would like to see us, please contact me first, and I will try to work som
 </section>
 
  ]]></description>
+  <category>daily</category>
   <guid>http://samc-news.netlify.app/posts/2023-04-22_waiting-and-guests.html</guid>
   <pubDate>Sat, 22 Apr 2023 07:00:00 GMT</pubDate>
 </item>
@@ -563,6 +614,8 @@ If you would like to see us, please contact me first, and I will try to work som
 </section>
 
  ]]></description>
+  <category>daily</category>
+  <category>results</category>
   <guid>http://samc-news.netlify.app/posts/2023-04-21_Biopsy-Recovery.html</guid>
   <pubDate>Fri, 21 Apr 2023 07:00:00 GMT</pubDate>
 </item>
@@ -585,6 +638,9 @@ If you would like to see us, please contact me first, and I will try to work som
 
 
  ]]></description>
+  <category>daily</category>
+  <category>procedures</category>
+  <category>milestones</category>
   <guid>http://samc-news.netlify.app/posts/2023-04-20_an-alarming-xray.html</guid>
   <pubDate>Thu, 20 Apr 2023 07:00:00 GMT</pubDate>
 </item>

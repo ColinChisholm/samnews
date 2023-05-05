@@ -2,6 +2,7 @@
 title: "Waiting and watching..."
 description: "A day of waiting. Scheduled activities. Concerns and victories."
 author: "Colin C."
+categories: [daily]
 date: 2023-04-25
 draft: false
 ---
@@ -16,4 +17,4 @@ It is amazing the range of emotion that can happen as your child sleeps. Over th
 2.  Sam has a PET Scan scheduled for 8:15am tomorrow morning (April 26) at the BC Cancer Clinic. The medical team would to have liked it a little sooner, but all of us are willing to take it! Many thanks to the Drs. who pushed hard to get him in, we know that you have worked hard!
 3.  Sam's PICC, is working ... enough. I can't say that it is perfect, but it is all he needs for now -- no additional needles have been needed.
 4.  Many thanks to Sam's nurses. A special shout out to Pam -- your efforts with Sam made my day yesterday!
-5.  Sam has had such a great attitude! Physically, he has not felt good, with fatigue and sometimes nausea.  Mentally/emotionally he is doing really well.  It is not uncommon to here him say _This is great_ or _I'm so happy_.  He knows he is where he needs to be; he is on a road to healing.  
+5.  Sam has had such a great attitude! Physically, he has not felt good, with fatigue and sometimes nausea.  Mentally/emotionally he is doing really well.  It is not uncommon to here him say _This is great_ or _I'm so happy_.  He knows he is where he needs to be; he is on a road to healing.

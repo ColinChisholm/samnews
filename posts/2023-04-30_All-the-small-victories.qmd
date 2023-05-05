@@ -3,10 +3,11 @@ title: "Joy in all the small victories"
 description: "Reflections on April 29th.  A day full of small joys and victories."
 author: Colin C.
 date: 2023-04-30
+categories: [daily]
 category: April
 draft: false
-editor: 
-  markdown: 
+editor:
+  markdown:
     wrap: 72
 ---
 
@@ -37,4 +38,3 @@ Yesterday was a day of grace, joy, and fun! As I reflect on the day, I am shocke
 2.  On needles. Sam gets a small injection every 12 hours. Our nursing team might be in competition to see who can deliver with the least pain. Of the last three needles Sam felt one, a bit; didn't feel one at all; and was tickled by a third. Wow, if we can keep this pattern going that would be amazing. Happy for what we have now.
 
 3.  Sam was able to complete the intake of his intense chemotherapy chemicals. If you have ever been in the health care system for more than a couple days you likely know the importance of ... movements. Alex, Sam's nurse, literally danced for joy as this health moment. The timing of this was critical to allow for the taking of the drugs. Also, if it had taken any longer Sam might have needed a yet another new IV.
-

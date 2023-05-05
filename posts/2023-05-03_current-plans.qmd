@@ -5,33 +5,34 @@ author: Colin C.
 date: 2023-05-03T07:00
 category: daily
 draft: false
-editor: 
-  markdown: 
+categories: [daily]
+editor:
+  markdown:
     wrap: 72
 ---
 
-It is Wednesday morning, day 15, I just arrived at the hospital having had a full night sleep.  My family is sleeping, and it appears that I was not missed overnight -- so good. 
+It is Wednesday morning, day 15, I just arrived at the hospital having had a full night sleep.  My family is sleeping, and it appears that I was not missed overnight -- so good.
 
 ## Reflections on May 2
 
-Breakfast this am was a beautiful surprise, as friends from Prince George ordered us an amazing breakfast from Juliet's Cafe including a Tina friendly version.  The remainder of the morning was a parade of various members of the medical team.  This included a visit with Dr. Cheng, Sam's oncologist -- we reviewed the plan going forward with her (below). 
+Breakfast this am was a beautiful surprise, as friends from Prince George ordered us an amazing breakfast from Juliet's Cafe including a Tina friendly version.  The remainder of the morning was a parade of various members of the medical team.  This included a visit with Dr. Cheng, Sam's oncologist -- we reviewed the plan going forward with her (below).
 
-The afternoon and evening was similar with various visits.  I got out for a couple hours to do some shopping to gear us up to live here.  A carry-on bag of cloths was just not enough and we all needed some new socks. Tomorrow I will get out to stock up on snacks -- as our boy's appetite continues to strengthen. In the evening, the three of us got out onto a deck and watched the sunset. 
+The afternoon and evening was similar with various visits.  I got out for a couple hours to do some shopping to gear us up to live here.  A carry-on bag of cloths was just not enough and we all needed some new socks. Tomorrow I will get out to stock up on snacks -- as our boy's appetite continues to strengthen. In the evening, the three of us got out onto a deck and watched the sunset.
 
-## Plans 
+## Plans
 
 Sam's treatment plan does not extend very far.  Here is what I currently know... though plans change based on numerous factors.
 
-1.  Currently, Sam is mid-way through his first round of chemotherapy.  
-2.  On Friday, he will go for a scan.  The purpose of this will be two-fold 
+1.  Currently, Sam is mid-way through his first round of chemotherapy.
+2.  On Friday, he will go for a scan.  The purpose of this will be two-fold
     a. To evaluate the response of the cancer to the current treatment
-    b. To evaluate if PICC to determine if it will work for delivering future treatment. 
-3.  On Monday, Sam may have to have place a new central line.  
+    b. To evaluate if PICC to determine if it will work for delivering future treatment.
+3.  On Monday, Sam may have to have place a new central line.
 
-That's it! We have an idea of what the next five days may hold.  The medical team does not know what the steps are beyond as they do not have the data.  Although it would be nice to know what Sam is in for, what challenges he may have to face, I appreciate that decisions are being made based on the information available.  When more is known, informed decisions can be made. 
+That's it! We have an idea of what the next five days may hold.  The medical team does not know what the steps are beyond as they do not have the data.  Although it would be nice to know what Sam is in for, what challenges he may have to face, I appreciate that decisions are being made based on the information available.  When more is known, informed decisions can be made.
 
 
-## Concerns and victories 
+## Concerns and victories
 
 - Umm, Wow! We are stunned, blessed, blown-away by the generosity of so many as evidenced by the [GoFundMe](https://www.gofundme.com/f/help-the-chisholm-family-while-sam-battles-cancer).
 

@@ -3,9 +3,10 @@ title: "Humbled by generosity"
 description: "Grateful for all of your support.  GoFundMe page is now up.  Great day behind us."
 author: Colin C.
 date: 2023-05-02
+categories: [daily]
 draft: false
-editor: 
-  markdown: 
+editor:
+  markdown:
     wrap: 72
 ---
 
@@ -63,7 +64,7 @@ Mostly victories today!
 
 -   Tina had a a full night sleep in our room at the [Ronald McDonald
     House] (night of April 30).
-    
+
 -   We all slept well last night (the family still is).  Sam commented how cozy he felt after his nurse re-tucked him in following bloodwork and a bathroom break.
 
 -   Sam has his appetite back.

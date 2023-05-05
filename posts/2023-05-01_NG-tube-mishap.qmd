@@ -3,9 +3,10 @@ title: "A good day, but a rough night..."
 description: "We celebrate the little things but sometimes the little things go wrong."
 author: Colin C.
 date: 2023-05-01
+categories: [daily]
 draft: false
-editor: 
-  markdown: 
+editor:
+  markdown:
     wrap: 72
 ---
 

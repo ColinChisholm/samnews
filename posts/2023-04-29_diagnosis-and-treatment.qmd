@@ -3,6 +3,7 @@ title: "Diagnosis and the initiation of treatment"
 description: "Yesterday was intense. Sam has an extremely rare cancer. Treatment of the disease has now started."
 author: Colin C.
 date: 2023-04-29
+categories: [daily, results, milestones]
 draft: false
 editor:
   markdown:

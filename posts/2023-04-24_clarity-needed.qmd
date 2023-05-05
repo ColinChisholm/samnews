@@ -3,8 +3,9 @@ title: "Clarity Needed"
 description: "Our biggest challenge: the pathology team has not been able to determine the specific type of cancer -- essential for ensuring the most effective treatment... Other items: On needles, victories, and comforts."
 # image: /img/sam-clean.jpg
 # image-alt: The Chisholms at BC Children's Hospital
+categories: [daily]
 date: 2023-04-24
-author: Colin C. 
+author: Colin C.
 draft: false
 ---
 
