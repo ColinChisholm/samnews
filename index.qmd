@@ -21,30 +21,40 @@ Don't have our contact information and want to reach us? Use [this form](/contac
 
 ------------------------------------------------------------------------
 
-# Anticipation of next steps
+# Response to the first round of chemotherapy
 
-*May 5, 2023*
+*May 6, 2023*
 
-This morning's run of pills will mark the end of Sam's first round of chemotherapy.  At 9:30 Sam is scheduled for a CT scan and we will wait in anticipation for the results, as the scan will help inform our next steps including: 1) the need (or not) of a new central line for drug delivery, and 2) response of the cancer so far and a strategy moving forward.  
+Yesterday, Sam finished his first round of chemotherapy his final round of drugs. Mid-morning he had a CT scan. In the afternoon we had a visit with Dr. Cheng to discuss the results and the next steps. Being that Sam's cancer is very rare we did not know if it would respond to the chemotherapy. I am so glad to say that it has.
 
-## Reflection on May 4
+-   The size of the main tumor in Sam's chest has seen an estimated 40% reduction in size.
 
-Sam was full of energy and he was determined to show the physiotherapist all that he could do.  We went for a couple of walks including getting off the floor and getting outside. Sam was also able to be disconnected from his IV and we are all loving the freedom that comes with that.  
+This is excellent news -- though there is much work to be done. It has been amazing to see Sam's body respond so well this past week and to know that the cancer was reduced in size. With these results in, the beginnings of a plan can be made, and we have an idea of what the next couple weeks will look like.
 
-## Concerns and victories
+-   This coming Monday Sam will have two procedures.
 
--   CT scan today, the information will be used to determine next steps. 
+    -   Adjustments to his PICC line. Initial problems with the PICC resolved -- how or why remain unclear, but the result was that regular blood tests (on average about every 8 hours) were taken easily via the PICC line. Going forward, the PICC need some re-positioning to allow for the safe delivery of the next round of chemotherapy.
+    -   A lumbar puncture to confirm that the caner continues to not be in the central nervous system (there is some concern that this form of cancer could migrate there). Dr. will also inject chemotherapy medications into the spinal fluid as a preventative measure.
 
--   Sam is mobile and regaining strength.  So great to have a break from IV line. 
+-   Tuesday, Dr. Cheng will be presenting Sam's case and consulting with other experts in the field. That afternoon, the we should know the plan for the next round of chemotherapy.
 
--   Concern that the cancer responds well to the treatment and wisdom for the next steps. 
+-   Wednesday, the next week of chemotherapy should begin.
 
+## Victories and concerns
+
+-   Excellent results from the first week of chemotherapy.
+
+-   On the flip-side, there is much work to be done to further reduce and ultimately remove the cancer. There is always a possibility that the disease adapts and stops responding
+
+-   We are thankful for an amazing community of people around us. We have been encouraged and gifted beyond what we could have ever expected.
+
+-   Yesterday we spent time as a family simply listing things that we are thankful for. It was a beautiful time.
 
 ------------------------------------------------------------------------
 
 # Support
 
-Here we include options to provide financial support cancer research at the BC Children's Hospital or to support us directly. We have been blown away by the generosity of so many.  We also love the support provided in words of encouragement.  Please feel free to [send us notes of encouragement](contact.html).  It is impossible to thank you all enough. 
+Here we include options to provide financial support cancer research at the BC Children's Hospital or to support us directly. We have been blown away by the generosity of so many. We also love the support provided in words of encouragement. Please feel free to [send us notes of encouragement](contact.html). It is impossible to thank you all enough.
 
 ::: {#support layout-ncol="2"}
 [![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
@@ -59,5 +69,3 @@ Here we include options to provide financial support cancer research at the BC C
 ------------------------------------------------------------------------
 
 # Previous Posts
-
-

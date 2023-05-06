@@ -10,7 +10,36 @@
 <atom:link href="http://samc-news.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>News updating friends and family on our journey</description>
 <generator>quarto-1.2.335</generator>
-<lastBuildDate>Thu, 04 May 2023 13:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 05 May 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Anticipation of next steps</title>
+  <dc:creator>Colin C.</dc:creator>
+  <link>http://samc-news.netlify.app/posts/2023-05-05_anticipation.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This morning’s run of pills will mark the end of Sam’s first round of chemotherapy. At 9:30 Sam is scheduled for a CT scan and we will wait in anticipation for the results, as the scan will help inform our next steps including: 1) the need (or not) of a new central line for drug delivery, and 2) response of the cancer so far and a strategy moving forward.</p>
+<section id="reflection-on-may-4" class="level2">
+<h2 class="anchored" data-anchor-id="reflection-on-may-4">Reflection on May 4</h2>
+<p>Sam was full of energy and he was determined to show the physiotherapist all that he could do. We went for a couple of walks including getting off the floor and getting outside. Sam was also able to be disconnected from his IV and we are all loving the freedom that comes with that.</p>
+</section>
+<section id="concerns-and-victories" class="level2">
+<h2 class="anchored" data-anchor-id="concerns-and-victories">Concerns and victories</h2>
+<ul>
+<li><p>CT scan today, the information will be used to determine next steps.</p></li>
+<li><p>Sam is mobile and regaining strength. So great to have a break from IV line.</p></li>
+<li><p>Concern that the cancer responds well to the treatment and wisdom for the next steps.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>daily</category>
+  <guid>http://samc-news.netlify.app/posts/2023-05-05_anticipation.html</guid>
+  <pubDate>Fri, 05 May 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Clarifying… from what I understand</title>
   <dc:creator>Colin C.</dc:creator>
@@ -317,6 +346,7 @@
 
  ]]></description>
   <category>daily</category>
+  <category>results</category>
   <guid>http://samc-news.netlify.app/posts/2023-04-28_confirming-cancer.html</guid>
   <pubDate>Fri, 28 Apr 2023 07:00:00 GMT</pubDate>
 </item>

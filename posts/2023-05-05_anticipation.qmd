@@ -3,8 +3,8 @@ title: "Anticipation of next steps"
 description: "Short post anticipating our next steps and victories from the previous day"
 author: Colin C.
 date: 2023-05-05
-draft: true
-categories: [daily, procedures]
+draft: false
+categories: [daily]
 editor:
   markdown:
     wrap: 72

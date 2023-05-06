@@ -2,7 +2,7 @@
 title: "Pending decisions"
 description: "We continue to wait.  Diagnosis is still pending. Decisions need to be made."
 author: Colin C.
-categories: [daily]
+categories: [daily, results]
 date: 2023-04-28
 draft: false
 ---
