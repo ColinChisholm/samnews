@@ -50,7 +50,7 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="http://samc-news.netlify.app/posts/http:/www.livinglife.ca/img/230504_sunrise.jpg" class="img-fluid figure-img"></p>
+<p><img src="http://samc-news.netlify.app/img/230504_sunrise.jpg" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Sunrise from BC Children’s Hospital... Finally providing the ‘room with a view’ picture.</figcaption><p></p>
 </figure>
 </div>
@@ -76,7 +76,7 @@
  ]]></description>
   <guid>http://samc-news.netlify.app/posts/2023-05-04_current-understanding.html</guid>
   <pubDate>Thu, 04 May 2023 13:00:00 GMT</pubDate>
-  <media:content url="http://www.livinglife.ca/img/230504_sunrise.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="http://samc-news.netlify.app/img/230504_sunrise.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Current plans</title>

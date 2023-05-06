@@ -10,7 +10,7 @@ editor:
 ---
 
 ![Sunrise from BC Children's Hospital\... Finally providing the 'room
-with a view' picture.](http://www.livinglife.ca/img/230504_sunrise.jpg)
+with a view' picture.](/img/230504_sunrise.jpg)
 
 It looks like another beautiful sunny day here in Vancouver. The sun is
 just coming up over the mountains and is beaming into Sam's room. These
