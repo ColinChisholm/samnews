@@ -10,7 +10,48 @@
 <atom:link href="http://samc-news.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>News updating friends and family on our journey</description>
 <generator>quarto-1.2.335</generator>
-<lastBuildDate>Fri, 05 May 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 May 2023 14:00:00 GMT</lastBuildDate>
+<item>
+  <title>Response to the first round of chemotherapy</title>
+  <dc:creator>Colin C.</dc:creator>
+  <link>http://samc-news.netlify.app/posts/2023-05-06_results-1st-chemotherapy.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Yesterday, Sam finished his first round of chemotherapy his final round of drugs. Mid-morning he had a CT scan. In the afternoon we had a visit with Dr.&nbsp;Cheng to discuss the results and the next steps. Being that Sam’s cancer is very rare we did not know if it would respond to the chemotherapy. I am so glad to say that it has.</p>
+<ul>
+<li>The size of the main tumor in Sam’s chest has seen an estimated 40% reduction in size.</li>
+</ul>
+<p>This is excellent news – though there is much work to be done. It has been amazing to see Sam’s body respond so well this past week and to know that the cancer was reduced in size. With these results in, the beginnings of a plan can be made, and we have an idea of what the next couple weeks will look like.</p>
+<ul>
+<li><p>This coming Monday Sam will have two procedures.</p>
+<ul>
+<li>Adjustments to his PICC line. Initial problems with the PICC resolved – how or why remain unclear, but the result was that regular blood tests (on average about every 8 hours) were taken easily via the PICC line. Going forward, the PICC need some re-positioning to allow for the safe delivery of the next round of chemotherapy.</li>
+<li>A lumbar puncture to confirm that the caner continues to not be in the central nervous system (there is some concern that this form of cancer could migrate there). Dr.&nbsp;will also inject chemotherapy medications into the spinal fluid as a preventative measure.</li>
+</ul></li>
+<li><p>Tuesday, Dr.&nbsp;Cheng will be presenting Sam’s case and consulting with other experts in the field. That afternoon, the we should know the plan for the next round of chemotherapy.</p></li>
+<li><p>Wednesday, the next week of chemotherapy should begin.</p></li>
+</ul>
+<section id="victories-and-concerns" class="level2">
+<h2 class="anchored" data-anchor-id="victories-and-concerns">Victories and concerns</h2>
+<ul>
+<li><p>Excellent results from the first week of chemotherapy.</p></li>
+<li><p>On the flip-side, there is much work to be done to further reduce and ultimately remove the cancer. There is always a possibility that the disease adapts and stops responding</p></li>
+<li><p>We are thankful for an amazing community of people around us. We have been encouraged and gifted beyond what we could have ever expected.</p></li>
+<li><p>Yesterday we spent time as a family simply listing things that we are thankful for. It was a beautiful time.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>daily</category>
+  <category>results</category>
+  <category>milestones</category>
+  <guid>http://samc-news.netlify.app/posts/2023-05-06_results-1st-chemotherapy.html</guid>
+  <pubDate>Sat, 06 May 2023 14:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Anticipation of next steps</title>
   <dc:creator>Colin C.</dc:creator>
@@ -669,7 +710,7 @@ If you would like to see us, please contact me first, and I will try to work som
 
  ]]></description>
   <category>daily</category>
-  <category>procedures</category>
+  <category>results</category>
   <category>milestones</category>
   <guid>http://samc-news.netlify.app/posts/2023-04-20_an-alarming-xray.html</guid>
   <pubDate>Thu, 20 Apr 2023 07:00:00 GMT</pubDate>
