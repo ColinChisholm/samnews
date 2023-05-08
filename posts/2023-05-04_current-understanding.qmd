@@ -3,9 +3,10 @@ title: "Clarifying... from what I understand"
 description: "I explain, from what I understand, Sam's response to treatment, and what we currently know."
 author: Colin C.
 date: 2023-05-04T06:00
+categories: [daily]
 draft: false
-editor: 
-  markdown: 
+editor:
+  markdown:
     wrap: 72
 ---
 

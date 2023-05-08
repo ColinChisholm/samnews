@@ -1,29 +1,14 @@
 ---
-title: "Updates"
-# author: Colin C.
-listing:
-  contents: posts
-  filter-ui: false
-  fields: [image, date, title, author, categories, description]
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
-  page-size: 10
+title: "Ambassadors from Prince George"
+description: "Friends arrive as ambassadors of love from Prince George.  Upcoming procedures and chemotherapy."
+author: Colin C.
+date: 2023-05-01
+categories: [daily]
+draft: true
+editor: 
+  markdown: 
+    wrap: 72
 ---
-
-For an overview of this journey see the [timeline](./timeline.html).
-
-Don't have our contact information and want to reach us? Use [this form](/contact.html). <br />*Note: if you do know how to reach us, use our email, or message us (no need to use the form).*
-
-<br/> Visitation status: **by appointment only**
-
-------------------------------------------------------------------------
-
-# Ambassadors from Prince George
-
-_May 8, 2023_ 
 
 ![Great visits with Hunter this past weekend. Hunter also brought gifts
 from friends in Prince George. Sam is looking forward to cashing in a
@@ -62,23 +47,3 @@ Tina's soul.
 -   We continue to feel loved an supported. Friends want to be here with
     us, and send there love when they cannot. Friends, family, and a
     broader community of support continue to send their love.
-
-------------------------------------------------------------------------
-
-# Support
-
-Here we include options to provide financial support cancer research at the BC Children's Hospital or to support us directly. We have been blown away by the generosity of so many. We also love the support provided in words of encouragement. Please feel free to [send us notes of encouragement](contact.html). It is impossible to thank you all enough.
-
-::: {#support layout-ncol="2"}
-[![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
-
-::: {.gfm-embed data-url="https://www.gofundme.com/f/help-the-chisholm-family-while-sam-battles-cancer/widget/medium"}
-```{=html}
-<script defer src="https://www.gofundme.com/static/js/embed.js"></script>
-```
-:::
-:::
-
-------------------------------------------------------------------------
-
-# Previous Posts
