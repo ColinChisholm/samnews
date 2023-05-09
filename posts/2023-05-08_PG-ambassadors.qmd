@@ -2,9 +2,9 @@
 title: "Ambassadors from Prince George"
 description: "Friends arrive as ambassadors of love from Prince George.  Upcoming procedures and chemotherapy."
 author: Colin C.
-date: 2023-05-01
+date: 2023-05-08
 categories: [daily]
-draft: true
+draft: false
 editor: 
   markdown: 
     wrap: 72
@@ -18,9 +18,10 @@ nuggets.](https://samsstory.s3.ca-central-1.amazonaws.com/20230506_sam-hunter-ce
 This morning as I write, I am also chatting with my boy. He is in great
 spirits. He is also hungry: *This smile will be a lot bigger when I get
 food*. In a couple hours Sam will have a procedure to adjust the
-internal position of his PICC. The medical team is also hoping while he
-is under general anesthetic he will also get a lumbar puncture to
-continue monitoring Sam's health there.
+internal position of his PICC (so no food allowed until after the
+procedure). The medical team is also hoping while he is under general
+anesthetic he will also get a lumbar puncture to continue monitoring
+Sam's health there.
 
 ## Reflections on the weekend
 

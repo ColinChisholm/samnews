@@ -1,29 +1,14 @@
 ---
-title: "Updates"
-# author: Colin C.
-listing:
-  contents: posts
-  filter-ui: false
-  fields: [image, date, title, author, categories, description]
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
-  page-size: 10
+title: "PICCs and other procedures"
+description: "Quick review of Sam's procedures yesterday. Tina gets out with a good friend."
+author: Colin C.
+date: 2023-05-09
+categories: [daily]
+draft: true
+editor: 
+  markdown: 
+    wrap: 72
 ---
-
-For an overview of this journey see the [timeline](./timeline.html).
-
-Don't have our contact information and want to reach us? Use [this form](/contact.html). <br />*Note: if you do know how to reach us, use our email, or message us (no need to use the form).*
-
-<br/> Visitation status: **by appointment only**
-
-------------------------------------------------------------------------
-
-# PICCs and other procedures
-
-*May 9, 2023*
 
 Sam and I are both up. Sam is in good spirits having had a sound sleep
 last night. It must have been a quality sleep because it certainly was
@@ -91,23 +76,3 @@ Tina-friendly meal.
 
 -   Joyful for connections with friends -- in person and through
     communication.
-
-------------------------------------------------------------------------
-
-# Support
-
-Here we include options to provide financial support cancer research at the BC Children's Hospital or to support us directly. We have been blown away by the generosity of so many. We also love the support provided in words of encouragement. Please feel free to [send us notes of encouragement](contact.html). It is impossible to thank you all enough.
-
-::: {#support layout-ncol="2"}
-[![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
-
-::: {.gfm-embed data-url="https://www.gofundme.com/f/help-the-chisholm-family-while-sam-battles-cancer/widget/medium"}
-```{=html}
-<script defer src="https://www.gofundme.com/static/js/embed.js"></script>
-```
-:::
-:::
-
-------------------------------------------------------------------------
-
-# Previous Posts
