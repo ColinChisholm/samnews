@@ -19,13 +19,15 @@ website:
     pinned: true
   page-navigation: true
   page-footer: 
-    center: Copyright 2023, Colin Chisholm
+    center: Copyright 2023 Colin Chisholm
     background: light
     
   
 format:
   html:
-    theme: spacelab
+    theme:
+      light: flatly
+      dark: darkly
     css: 
       - styles.css
       - timeline.css
