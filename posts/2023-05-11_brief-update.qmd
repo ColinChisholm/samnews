@@ -1,21 +1,37 @@
 ---
-title: "In preparation for chemotherapy"
+title: "In preparation for chemotherapy -- waiting"
 description: "A brief list of concerns and victories as we approach round two of chemotherapy."
 author: Colin C.
-date: 2023-05-10
+date: 2023-05-11
 categories: [daily]
-draft: false
+draft: true
 editor: 
   markdown: 
     wrap: 72
 ---
 
-I'll keep it brief this morning. We are now in preparation mode for the
-next round of chemotherapy. It will hit hard, but I will describe that
-within the next couple days. There are a number of steps that need to
-occur before we begin -- I have included these below
+We are in a waiting period. The next round of chemo cannot begin until
+the new central line is established. Over the last couple days:
+
+-   We have had visits with various doctors to discuss the next steps
+    (e.g. procedure for central line and chemotherapy treatments).
+
+-   To ensure that Sam gets the nutrition that he needs in the weeks
+    ahead he had a new NG tube installed -- allowing for supplemental
+    food to be pumped to his stomach via a tube going in his nose and
+    down to the stomach.
+
+-   Sam has good energy these days and we have been walking around the
+    hospital and Sam is looking at his schoolwork via google-classrooms
+    -- getting excited about finishing grade nine.
+
+-   Yesterday evening my parents arrived. Sam and Papa enjoyed watching
+    the hockey game together while Tina and I got away together for a
+    good dinner a few blocks away on Main St.
 
 ## Concerns and victories
+
+*repeated from yesterday*
 
 1.  We are very thankful for the entire medical team here. The care-aid
     and nurses take on the day-to-day care, each with their own style of

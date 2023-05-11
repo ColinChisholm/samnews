@@ -6,7 +6,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/index.html</loc>
-    <lastmod>2023-05-10T13:45:23.822Z</lastmod>
+    <lastmod>2023-05-11T14:35:16.639Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/photos.html</loc>
@@ -91,5 +91,9 @@
   <url>
     <loc>http://samc-news.netlify.app/posts/2023-05-09_PICCs-procedures.html</loc>
     <lastmod>2023-05-10T13:45:13.612Z</lastmod>
+  </url>
+  <url>
+    <loc>http://samc-news.netlify.app/posts/2023-05-10_brief-update.html</loc>
+    <lastmod>2023-05-11T14:35:05.691Z</lastmod>
   </url>
 </urlset>
