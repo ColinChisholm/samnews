@@ -9,11 +9,6 @@
 <link>http://samc-news.netlify.app/index.html</link>
 <atom:link href="http://samc-news.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>News updating friends and family on our journey</description>
-<image>
-<url>http://samc-news.netlify.app/img/sam-clean.jpg</url>
-<title>Sam Chisholm</title>
-<link>http://samc-news.netlify.app/index.html</link>
-</image>
 <generator>quarto-1.2.335</generator>
 <lastBuildDate>Thu, 11 May 2023 07:00:00 GMT</lastBuildDate>
 <item>

@@ -1,6 +1,5 @@
 ---
 title: "Updates"
-image: /img/sam-clean.jpg
 # author: Colin C.
 listing:
   contents: posts
