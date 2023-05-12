@@ -9,8 +9,45 @@
 <link>http://samc-news.netlify.app/index.html</link>
 <atom:link href="http://samc-news.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>News updating friends and family on our journey</description>
+<image>
+<url>http://samc-news.netlify.app/img/sam-clean.jpg</url>
+<title>Sam Chisholm</title>
+<link>http://samc-news.netlify.app/index.html</link>
+</image>
 <generator>quarto-1.2.335</generator>
-<lastBuildDate>Wed, 10 May 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 May 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>In preparation for chemotherapy – waiting</title>
+  <dc:creator>Colin C.</dc:creator>
+  <link>http://samc-news.netlify.app/posts/2023-05-11_brief-update.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>We are in a waiting period. The next round of chemo cannot begin until the new central line is established. Over the last couple days:</p>
+<ul>
+<li><p>We have had visits with various doctors to discuss the next steps (e.g.&nbsp;procedure for central line and chemotherapy treatments).</p></li>
+<li><p>To ensure that Sam gets the nutrition that he needs in the weeks ahead he had a new NG tube installed – allowing for supplemental food to be pumped to his stomach via a tube going in his nose and down to the stomach.</p></li>
+<li><p>Sam has good energy these days and we have been walking around the hospital and Sam is looking at his schoolwork via google-classrooms – getting excited about finishing grade nine.</p></li>
+<li><p>Yesterday evening my parents arrived. Sam and Papa enjoyed watching the hockey game together while Tina and I got away together for a good dinner a few blocks away on Main St.</p></li>
+</ul>
+<section id="concerns-and-victories" class="level2">
+<h2 class="anchored" data-anchor-id="concerns-and-victories">Concerns and victories</h2>
+<p><em>repeated from yesterday</em></p>
+<ol type="1">
+<li><p>We are very thankful for the entire medical team here. The care-aid and nurses take on the day-to-day care, each with their own style of care but all doing a great job of addressing needs as they arise. The support teams including IV, nutrition, and physio. The cleaning staff who are so polite. Sam’s doctors who are excellent communicators and are gracious in allowing time for dialogue and answering our questions when they have answers, and are straight with us when they do not know.</p></li>
+<li><p>There are a lot of unknowns going forward. Sam’s form of cancer is mostly unknown. As such, the treatment plan / chemotherapy will be to hit it with the largest hammer available. This will be hard on Sam’s body and we hope much harder on the cancer.</p></li>
+<li><p>In preparation, another attempt to establish a central-line will be made. As the clotting in the chest blocking access via the arms towards the heart a line will be attempted through the vessels in one of Sams’s legs, to approach the heart from below. Once this line is established chemotherapy will begin. Timing will be based on the next available time… this may be as late as Friday.</p></li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>daily</category>
+  <guid>http://samc-news.netlify.app/posts/2023-05-11_brief-update.html</guid>
+  <pubDate>Thu, 11 May 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>In preparation for chemotherapy</title>
   <dc:creator>Colin C.</dc:creator>
@@ -789,31 +826,6 @@ If you would like to see us, please contact me first, and I will try to work som
   <category>results</category>
   <guid>http://samc-news.netlify.app/posts/2023-04-21_Biopsy-Recovery.html</guid>
   <pubDate>Fri, 21 Apr 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>An Alarming X-ray</title>
-  <dc:creator>Colin C.</dc:creator>
-  <link>http://samc-news.netlify.app/posts/2023-04-20_an-alarming-xray.html</link>
-  <description><![CDATA[ 
-
-
-
-<p>Hi friends,</p>
-<p>The last 48 hours have been a whirlwind, and we are where we need to be.</p>
-<p>Sam is now at BC Children’s hospital, and Tina and I are able to stay in the room with him. Steps are being taken to manage what all indications suggest is lymphoma. Staff here have been amazing in: providing care, communicating what is happening and next steps, and conveying a sense that ‘this is serious’ mixed with a calming confidence.</p>
-<p>The process: Yesterday, tests were run – the primary one being a CT scan of his chest. Today, Sam will start the day with a surgery to complete a series of biopsies, the primary one being one of his lymph nodes at the base of his neck. By the end of the day, we should have firmer answers as to what exactly is happening and a treatment plan.</p>
-<p>Sam’s friends and classmates have been amazing. They have been in direct communication with him via Snapchat and hearing from them has been really encouraging to him, also to Tina and I – it is amazing to see friends rally behind him.</p>
-<p>Thank you for your support and prayers,</p>
-<p>Colin and Tina</p>
-
-
-
- ]]></description>
-  <category>daily</category>
-  <category>results</category>
-  <category>milestones</category>
-  <guid>http://samc-news.netlify.app/posts/2023-04-20_an-alarming-xray.html</guid>
-  <pubDate>Thu, 20 Apr 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
