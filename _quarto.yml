@@ -25,6 +25,11 @@ website:
     image: https://samsstory.s3.ca-central-1.amazonaws.com/chisholms-bcch-logo.jpg
     title: Sam Chisholm's cancer journey
     description: Regular updates on our lives as we journey with Sam in his journey battling cancer, including concerns and victories.  
+  open-graph: 
+    image: https://samsstory.s3.ca-central-1.amazonaws.com/chisholms-bcch-logo.jpg
+    title: Sam Chisholm's cancer journey
+    description: Regular updates on our lives as we journey with Sam in his journey battling cancer, including concerns and victories.  
+    site-name: Sam C. Updates
     
   
 format:
