@@ -1,29 +1,14 @@
 ---
-title: "Updates"
-# author: Colin C.
-listing:
-  contents: posts
-  filter-ui: false
-  fields: [image, date, title, author, categories, description]
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
-  page-size: 10
+title: "Chemotherapy round 2 has begun"
+description: "We are into the first 24 hours of Sma's second round of chemotherapy"
+author: Colin C.
+date: 2023-05-13
+categories: [daily, procedures, milestones]
+draft: true
+editor: 
+  markdown: 
+    wrap: 72
 ---
-
-For an overview of this journey see the [timeline](./timeline.html).
-
-Don't have our contact information and want to reach us? Use [this form](/contact.html). <br />*Note: if you do know how to reach us, use our email, or message us (no need to use the form).*
-
-<br/> Visitation status: **by appointment only**
-
-------------------------------------------------------------------------
-
-# Chemotherapy round two has begun
-
-*May 13, 2023*
 
 I am happy to report that everything went as planned yesterday. Sam cam through the surgery to establish the new central line without any difficulty -- though a little tender where he opened up. The new central line working as expected, this line (aka Hickman device) was established travelling from Sam's leg through to the major vessels just below his heart. The previous PICC lines were not able to reach the major vessels near the heart as there was too much clotting in Sam's chest. With this new line established round two of chemotherapy has begun.
 
@@ -44,23 +29,3 @@ Gram and Papa were here providing moral and practical support. We also had a vis
 -   We are thankful for an amazing medical team here at BC Children's hospital.
 
 -   Tina and I are thankful for Sam. He continues to have an amazing attitude through everything!
-
-------------------------------------------------------------------------
-
-# Support
-
-Here we include options to provide financial support cancer research at the BC Children's Hospital or to support us directly. We have been blown away by the generosity of so many. We also love the support provided in words of encouragement. Please feel free to [send us notes of encouragement](contact.html). It is impossible to thank you all enough.
-
-::: {#support layout-ncol="2" style="background-color: #fff; padding-top:1.4em; padding-right:2em"}
-[![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
-
-::: {.gfm-embed data-url="https://www.gofundme.com/f/help-the-chisholm-family-while-sam-battles-cancer/widget/medium"}
-```{=html}
-<script defer src="https://www.gofundme.com/static/js/embed.js"></script>
-```
-:::
-:::
-
-------------------------------------------------------------------------
-
-# Previous Posts
