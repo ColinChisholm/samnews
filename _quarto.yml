@@ -20,7 +20,7 @@ website:
   page-navigation: true
   page-footer: 
     center: Copyright 2023 Colin Chisholm
-    background: light
+    background: dark
   twitter-card:
     image: https://samsstory.s3.ca-central-1.amazonaws.com/chisholms-bcch-logo.jpg
     title: Sam Chisholm's cancer journey
