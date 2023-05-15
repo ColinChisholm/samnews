@@ -1,34 +1,14 @@
 ---
-title: "Updates"
-# author: Colin C.
-listing:
-  contents: posts
-  filter-ui: false
-  fields: [image, date, title, author, categories, description]
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
-  page-size: 10
+title: "Chemo, friends, family, and mothers day"
+description: "A full weekend with visits from Gram and Papa C, friends, mothers day, and chemotherapy."
+author: Colin C.
+date: 2023-05-15
+categories: [daily]
+draft: true
 editor: 
   markdown: 
     wrap: 72
 ---
-
-For an overview of this journey see the [timeline](./timeline.html).
-
-Don't have our contact information and want to reach us? Use [this
-form](/contact.html). <br />*Note: if you do know how to reach us, use
-our email, or message us (no need to use the form).*
-
-<br/> Visitation status: **by appointment only**
-
-------------------------------------------------------------------------
-
-# Chemo, friends, family, and mothers day
-
-*May 15, 2023*
 
 ![Sam and John B. Long time friends
 reunited.](https://samsstory.s3.ca-central-1.amazonaws.com/2023-05-13_sam-john.jpg){fig-align="center"}
@@ -91,27 +71,3 @@ our boy through whatever challenges present themselves.
 
 -   Ultimately, we are concerned that the treatment is effective and
     that the cancer is removed entirely from Sam's body.
-
-------------------------------------------------------------------------
-
-# Support
-
-Here we include options to provide financial support cancer research at
-the BC Children's Hospital or to support us directly. We have been blown
-away by the generosity of so many. We also love the support provided in
-words of encouragement. Please feel free to [send us notes of
-encouragement](contact.html). It is impossible to thank you all enough.
-
-::: {#support layout-ncol="2" style="background-color: #fff; padding-top:1.4em; padding-right:2em"}
-[![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
-
-::: {.gfm-embed data-url="https://www.gofundme.com/f/help-the-chisholm-family-while-sam-battles-cancer/widget/medium"}
-```{=html}
-<script defer src="https://www.gofundme.com/static/js/embed.js"></script>
-```
-:::
-:::
-
-------------------------------------------------------------------------
-
-# Previous Posts
