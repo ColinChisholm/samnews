@@ -28,16 +28,17 @@ our email, or message us (no need to use the form).*
 
 # The current pattern
 
-*May 16, 2023.  Day 28 at BC Children's Hospital. Day 5 of Chemo round 2.*
+*May 16, 2023. Day 28 at BC Children's Hospital. Day 5 of Chemo round
+2.*
 
-Yesterday evening Kevin, my brother-in-law and soul-brother, checked in with me.
-With everything going on we kept it to a text-based conversation. He asked
-a simple question of how was today? I was going to write something
-simple, to say that it went well and I had to catch myself as I realized
-our normal here just is not normal. Generally, it was a good day, we are
-carrying on with the plan. Generally, it was a lower stress day. Below I
-refine and expand on my original text to give you a glimpse at how our
-days are:
+Yesterday evening Kevin, my brother-in-law and soul-brother, checked in
+with me. With everything going on we kept it to a text-based
+conversation. He asked a simple question of how was today? I was going
+to write something simple, to say that it went well and I had to catch
+myself as I realized our normal here just is not normal. Generally, it
+was a good day, we are carrying on with the plan. Generally, it was a
+lower stress day. Below I refine and expand on my original text to give
+you a glimpse at how our days are:
 
 -   The day started early, or perhaps there was not night. Given the
     amount of fluids being pumped into Sam we were up every 1.5 - 2
@@ -70,14 +71,14 @@ days are:
     five.
 
 -   I got out --- took a nap and had a shower over at the Ronald McD
-    House.  When I got back Sam and Tina were also able to nap -- so helpful is restoring our short nights.
+    House. When I got back Sam and Tina were also able to nap -- so
+    helpful is restoring our short nights.
 
 -   We have a small fridge in the room, and with recent meals it was a
     left-over night. On the food front, we are very pleased that we have
     not struggled to keep Tina in food despite all her food
     sensitivities.
-    
-    
+
 ## Victories and concerns
 
 -   Thankful for visits with friends and family
@@ -85,7 +86,8 @@ days are:
 -   Thankful that Tina has had good food.
 
 -   Concern for the current round of treatment. We are expecting side
-    effects. To date, we have not seen very little.  A little soreness in the mouth but this has been very manageable.
+    effects. To date, we have not seen very little. A little soreness in
+    the mouth but this has been very manageable.
 
 -   Concern for potential longer lasting and high impact side effects.
     These can include damage to bodily organ or secondary cancers.
@@ -93,18 +95,20 @@ days are:
 -   Ultimately, we are concerned that the treatment is effective and
     that the cancer is removed entirely from Sam's body.
 
-
 ------------------------------------------------------------------------
 
 # Support
 
 Here we include options to provide financial support cancer research at
-the BC Children's Hospital or to support us directly. We have been blown
-away by the generosity of so many. We also love the support provided in
-words of encouragement. Please feel free to [send us notes of
-encouragement](contact.html). It is impossible to thank you all enough.
+the BC Children's Hospital, the Ronald McDonald House, or to support us
+directly. We have been blown away by the generosity of so many. We also
+love the support provided in words of encouragement. Please feel free to
+[send us notes of encouragement](contact.html). It is impossible to
+thank you all enough.
 
-::: {#support layout-ncol="2" style="background-color: #fff; padding-top:1.4em; padding-right:2em"}
+
+::: {.support-container style="background-color: #fff"}
+::: {.support layout-ncol="2" style="background-color: #fff; padding-top:1.4em; padding-right:2em"}
 [![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
 
 ::: {.gfm-embed data-url="https://www.gofundme.com/f/help-the-chisholm-family-while-sam-battles-cancer/widget/medium"}
@@ -114,6 +118,10 @@ encouragement](contact.html). It is impossible to thank you all enough.
 :::
 :::
 
+::: {.support style="background-color: #fff; padding-bottom:1.4em; padding-right:2em; align:center"}
+[![](https://samsstory.s3.ca-central-1.amazonaws.com/rmdhbc.png)](https://rmhbc.ca)
+:::
+:::
 ------------------------------------------------------------------------
 
 # Previous Posts
