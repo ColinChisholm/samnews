@@ -1,6 +1,6 @@
 ---
 title: "Chemotherapy round 2 has begun"
-description: "We are into the first 24 hours of Sma's second round of chemotherapy"
+description: "We are into the first 24 hours of Sam's second round of chemotherapy"
 author: Colin C.
 date: 2023-05-13
 categories: [daily, procedures, milestones]
