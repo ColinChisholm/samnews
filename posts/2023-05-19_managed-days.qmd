@@ -4,7 +4,7 @@ description: "Learning to manage side effects."
 author: Colin C.
 date: 2023-05-19
 categories: [daily]
-draft: true
+draft: false
 editor: 
   markdown: 
     wrap: 72
