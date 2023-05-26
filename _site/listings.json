@@ -80,8 +80,6 @@
   },
   {
     "listing": "/devos/index.html",
-    "items": [
-      "/devos/00_mark-overview.html"
-    ]
+    "items": []
   }
 ]
