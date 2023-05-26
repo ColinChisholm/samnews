@@ -26,9 +26,13 @@ our email, or message us (no need to use the form).*
 
 ------------------------------------------------------------------------
 
-# Preliminary findings
+::: callout-note
+May 26 -- no post today.
+:::
 
-_May 25, 2023_
+# Preliminary findings (round 2)
+
+*May 25, 2023*
 
 The days have been blurring together in this time-warp experience here
 at BC Children's hospital. This morning is the beginning of day 37 --
@@ -99,7 +103,6 @@ we either meet with them or simply bump into them in the halls here.
 
 [^1]: Gastrointestinal track -- from the mouth all the way through and
     out of the digestive system
-
 
 ------------------------------------------------------------------------
 

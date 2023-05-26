@@ -1,0 +1,21 @@
+---
+title: "Devos from Dad"
+listing:
+  filter-ui: false
+  fields: [image, date, title, author, categories, description]
+  sort: "date desc"
+  sort-ui: true
+  type: default
+  categories: false
+  feed: true
+  page-size: 10
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+I have started these posts in response to, and specifically for Sam.  We had a great talk near the end of May 2023 about how the devo book he was reading was not providing anything new, and was trying too hard to be relavent.  Here, I will simply try to read, provide some of my thoughts and provide a prayer.  
+
+It is my hope that these posts will provide opportunities for further spiritual discussion and development.  
+
+## Devos

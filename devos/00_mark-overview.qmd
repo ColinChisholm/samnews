@@ -1,0 +1,54 @@
+---
+title: "Mark -- Quick Overview"
+description: "A quick overview of mark"
+author: Colin C.
+date: 2023-05-26
+categories: [Mark, overview]
+draft: false
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+I want to start us in the Gospels. My experience with the gospel of
+Mark is that it is short and gets the the oint quickly.
+As we read the word 'together' I want to make sure we break it into
+bite-sized pieces but that in doing so we continually remember how any
+passage fits in with the passages surrounding it. The gospel was never
+meant to be read paragraph by paragraph, rather it was meant to be read
+as a whole.
+
+| Chapter(s) | Themes/ Description/ Topics                                                                     |
+|:---------------------------------:|-------------------------------------|
+|   1 - 3    | Jesus' call, the beginning of his ministry proclaiming the gospel, and calling of his disciples |
+|   1 - 3    | Jesus has authority: over the spiritual, the physical, to forgive sins                          |
+|   2 - 3    | God's heart versus religious tradition                                                          |
+|     4      | Some teachings of Jesus                                                                         |
+|   5 - 8    | Authority and miracles of Jesus plus some other events                                          |
+|   8 - 9    | Messiah and the path of the Messiah                                                             |
+|     10     | Teaching and miracles                                                                           |
+|     11     | J. enters Jerusalem                                                                             |
+|  12 - 13   | Teachings                                                                                       |
+|  14 - 15   | The passion / suffering of Christ                                                               |
+|     16     | The resurrection                                                                                |
+
+: A one morning overview of Mark... informed by my review, and the
+teachings embedded in me through my life.
+
+## Questions
+
+1.  What is ministry? What is the gospel -- the good news?
+2.  As we move forward -- how does any passage fit in with the greater
+    context of the entire gospel? The author, Mark, would have a purpose
+    to the individual stories but may also have a purpose for the
+    placement of the story within the gospel.
+3.  Always be willing to ask questions. Do you have any right now?
+
+## Prayer
+
+*God, please open your word to our hearts. May we learn your ways, your
+purposes. May we apply your ways and learn your purposes for our lives.*
+
+::: {style="align: center; text-align: center;"}
+[devo list](/devos/)
+:::
