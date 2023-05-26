@@ -1,7 +1,6 @@
 ---
 title: "Devos from Dad"
 listing:
-  contents: devos
   filter-ui: false
   fields: [image, date, title, author, categories, description]
   sort: "date desc"
