@@ -7,7 +7,7 @@ listing:
   sort-ui: true
   type: default
   categories: false
-  feed: true
+  feed: false
   page-size: 10
 editor: 
   markdown: 
