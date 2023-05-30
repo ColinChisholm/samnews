@@ -3,7 +3,7 @@ title: "Mark -- Introduction I"
 description: "In context of prophecy"
 author: Colin C.
 date: 2023-05-29
-categories: [Mark, overview]
+categories: [Mark]
 draft: false
 editor: 
   markdown: 
