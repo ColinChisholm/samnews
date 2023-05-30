@@ -1,0 +1,74 @@
+---
+title: "Sam's blood counts"
+subtitle: "Round 2 of chemotherapy"
+date: today
+format:
+  html: default
+  pdf: default
+knitr: 
+  opts_chunk: 
+    eval: false
+    message: false
+    warning: false
+    echo: false
+code-fold: true
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r, include=FALSE}
+library(tidyverse)
+library(lubridate)
+```
+
+Data has been provided daily by the medical team here at BC Children's Hospital. Day 0, May 12, 2023, was the start of Sam's second round of chemotherapy.
+
+```{r}
+## Import the data 
+
+dat <- 
+  readxl::read_xlsx(path = "~/workspace/family/sams_journey/sams_journey/data/events-and-gifts.xlsx",
+                    sheet = "Blood"
+  )
+
+
+dat <- dat %>% 
+  dplyr::select(Date: ANC) %>%  
+  pivot_longer(WBC:ANC, 
+               names_to = "Metric", 
+               values_to = "Values") %>% 
+  mutate(Date = date(Date))
+
+start <- min(dat$Date)
+
+dat <- dat %>% 
+  mutate(Day =  Date - start,
+         Metric = factor(Metric, 
+                         levels = c("WBC", "Hgb", "PHS", "ANC")))
+
+```
+
+```{r}
+#| fig-height: 8
+#| eval: false
+
+## graph the data 
+g <- dat %>% ggplot(aes(x = Day, y = Values)) +
+  geom_smooth(method = "loess",se = F) + 
+  geom_point() +
+  facet_grid(rows = "Metric",
+             scales = "free_y")  +
+  coord_cartesian(ylim = c(0, NA)) +
+  labs(title = "Blood counts",
+       x = "Day",
+       y = NULL)
+
+ggsave(height = 8, width = 6, 
+       path = "/home/rstudio/workspace/family/sams_journey/sams_journey/_img/",
+       filename = "blood_graph.png",plot = g,
+       dpi = 150)
+
+  
+```
+
+![Blood counts from chemo round 2](https://samsstory.s3.ca-central-1.amazonaws.com/blood_graph.png)
