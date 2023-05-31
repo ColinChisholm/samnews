@@ -1,6 +1,6 @@
 ---
 title: "Mark -- Introduction II"
-description: "In context of prophecy"
+description: "John the Baptist -- making the way ready"
 author: Colin C.
 date: 2023-05-30
 search: false
