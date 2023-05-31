@@ -2,10 +2,9 @@
 title: "Sam's blood counts"
 subtitle: "Round 2 of chemotherapy"
 search: false
-date: May 30, 2023
+date: May 31, 2023
 format:
   html: default
-  pdf: default
 knitr: 
   opts_chunk: 
     eval: false
