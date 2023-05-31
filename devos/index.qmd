@@ -1,5 +1,6 @@
 ---
 title: "Devos from Dad"
+search: false
 listing:
   filter-ui: false
   fields: [image, date, title, author, categories, description]

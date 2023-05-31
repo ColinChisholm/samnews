@@ -1,7 +1,8 @@
 ---
 title: "Sam's blood counts"
 subtitle: "Round 2 of chemotherapy"
-date: today
+search: false
+date: May 30, 2023
 format:
   html: default
   pdf: default
@@ -66,7 +67,7 @@ g <- dat %>% ggplot(aes(x = Day, y = Values)) +
 ggsave(height = 8, width = 6, 
        path = "/home/rstudio/workspace/family/sams_journey/sams_journey/_img/",
        filename = "blood_graph.png",plot = g,
-       dpi = 150)
+       dpi = 200)
 
   
 ```

@@ -1,32 +1,14 @@
 ---
-title: "Updates"
-# author: Colin C.
-listing:
-  contents: posts
-  filter-ui: false
-  fields: [image, date, title, author, categories, description]
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
-  page-size: 10
+title: "Visits and a date"
+description: "A number of good visits, a date for Tina and I, and goodbye to Nana."
+author: Colin C.
+date: 2023-05-31
+categories: [daily]
+draft: false
 editor: 
   markdown: 
     wrap: 72
 ---
-
-For an overview of this journey see the [timeline](./timeline.html).
-
-Don't have our contact information and want to reach us? Use [this
-form](/contact.html). <br />*Note: if you do know how to reach us, use
-our email, or message us (no need to use the form).*
-
-<br/> Visitation status: **by appointment only**
-
-------------------------------------------------------------------------
-
-# Visits and a date
 
 ## Reflections on May 29 and 30
 
@@ -76,34 +58,3 @@ Elara G.
     scans suggest significant reductions in the cancer and that this
     scan should confirm that. As always, we will remain concerned about
     any cancer in his system.
-
-------------------------------------------------------------------------
-
-# Support
-
-Here we include options to provide financial support cancer research at
-the BC Children's Hospital, the Ronald McDonald House, or to support us
-directly. We have been blown away by the generosity of so many. We also
-love the support provided in words of encouragement. Please feel free to
-[send us notes of encouragement](contact.html). It is impossible to
-thank you all enough.
-
-::: {.support-container style="background-color: #fff"}
-::: {.support layout-ncol="2" style="background-color: #fff; padding-top:1.4em; padding-right:2em"}
-[![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
-
-::: {.gfm-embed data-url="https://www.gofundme.com/f/help-the-chisholm-family-while-sam-battles-cancer/widget/medium"}
-```{=html}
-<script defer src="https://www.gofundme.com/static/js/embed.js"></script>
-```
-:::
-:::
-
-::: {.support style="background-color: #fff; padding-bottom:1.4em; padding-right:2em; align:center"}
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/rmdhbc.png)](https://rmhbc.ca)
-:::
-:::
-
-------------------------------------------------------------------------
-
-# Previous Posts

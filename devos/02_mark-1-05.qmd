@@ -3,6 +3,7 @@ title: "Mark -- Introduction II"
 description: "In context of prophecy"
 author: Colin C.
 date: 2023-05-30
+search: false
 categories: [Mark]
 draft: false
 editor: 
@@ -27,4 +28,4 @@ John also points to Jesus -- that his baptism will be different.  It will be a b
 
 ### Prayer
 
-Lord thank you for your forgiveness.  May my heart long for holiness as the people that came to John longed for right relationship with you.  In our world I pray that my friends and neighbours, our society would long to be i right relationship with you. 
+Lord thank you for your forgiveness.  May my heart long for holiness as the people that came to John longed for right relationship with you.  In our world I pray that my friends and neighbours, our society would long to be in right relationship with you. 
