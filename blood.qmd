@@ -2,7 +2,7 @@
 title: "Sam's blood counts"
 subtitle: "Round 2 of chemotherapy"
 search: false
-date: May 31, 2023
+date: today
 format:
   html: default
   
@@ -22,7 +22,7 @@ library(tidyverse)
 library(lubridate)
 ```
 
-Data has been provided daily by the medical team here at BC Children's Hospital. Day 0, May 12, 2023, was the start of Sam's second round of chemotherapy.
+Data has been provided daily by the medical team here at BC Children's Hospital. Day 1, May 12, 2023, was the start of Sam's second round of chemotherapy.
 
 ```{r}
 ## Import the data 
@@ -40,7 +40,7 @@ dat <- dat %>%
                values_to = "Values") %>% 
   mutate(Date = date(Date))
 
-start <- min(dat$Date)
+start <- min(dat$Date) -1
 
 dat <- dat %>% 
   mutate(Day =  Date - start,
@@ -55,14 +55,18 @@ dat <- dat %>%
 
 ## graph the data 
 g <- dat %>% ggplot(aes(x = Day, y = Values)) +
-  geom_smooth(method = "loess",se = F) + 
+  geom_smooth(method = "loess",se = F, alpha = .5, size = .2) +
+  geom_line(color = "grey", size = 1) +
   geom_point() +
   facet_grid(rows = "Metric",
              scales = "free_y")  +
-  coord_cartesian(ylim = c(0, NA)) +
+  coord_cartesian(ylim = c(0, NA),
+                  xlim = c(1, NA)) +
   labs(title = "Blood counts",
        x = "Day",
        y = NULL)
+
+g
 
 ggsave(height = 8, width = 6, 
        path = "/home/rstudio/workspace/family/sams_journey/sams_journey/_img/",
