@@ -32,19 +32,12 @@ our email, or message us (no need to use the form).*
 We are in a day of transition:
 
 -   PET and CT scans this am
-<<<<<<< HEAD
-
 -   Various meetings with the medical team through the day
-
 -   Leaving the hospital for a few days at the Ronald McDonald House
 
 *We are missing home -- glad for chance to leave the hospital though
 our hearts yearn to be back home.*
-=======
--   Meetings with the medical team
--   transition to life out of hospital for a few days at the Ronald
-    McDonald House
->>>>>>> 010a8d4 (brief)
+
 :::
 
 # A weekend pass, friends, and a date!
