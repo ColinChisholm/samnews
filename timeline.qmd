@@ -7,6 +7,16 @@ Most recent items at the top.
 ::: timeline
 
 
+::: {.tl_container .tl_left}
+::: tl_content
+### Outpatient at RMH 
+
+2023-06-02
+
+With the completion of the second round of chemotherapy and the return of Sam's blood counts he has been discharged for a few days.  We will live at the Ronald McDonald House. 
+
+:::
+:::
 
 
 ::: {.tl_container .tl_right}
