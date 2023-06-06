@@ -1,64 +1,81 @@
 ---
-title: "Amazing weekend"
-description: "description"
+title: "Amazing family weekend"
+description: "the weekend felt like a vacation."
 author: Colin C.
 date: 2023-06-06
 categories: [daily]
-draft: true
+draft: false
 editor: 
   markdown: 
     wrap: 72
+editor_options: 
+  chunk_output_type: console
 ---
 
--   writing from the RMH, family is sleeping
--   We have had such an amazing weekend together! 
+![A family vacation weekend! Left our dinner out at Whitespot. Auntie
+Tina with nephew Chris and neice Jane (upper left). Right -- time simply being
+outside.](https://samsstory.s3.ca-central-1.amazonaws.com/weekend-vacation.jpg)
 
-## Reflections on ...
+Our break away from the hospital comes to an end today, yet we can bask
+in the joy that this weekend provided! We have had an incredible weekend
+as a family and with some of our extended family. It was amazing to see
+how well Sam is doing. I don't know if the cancer i gone -- but I do
+know that it has been dramatically reduced.
+
+## Reflections on this past weekend
 
 ### June 3
 
--   A day of rest
--   Exploring the RMH
--   Taking care of the medical items ourselves -- medications and needles and NG tube feeding.  We had it all down -- until we didn't.  We do not have a reason for it, and we have seen it happen a number of times while in the hospital:  The NG tube clogged and this time we could not get it back -- after working at it for an hour got as much Coca-cola into it as we could (a trick that sometimes works to dissolve the clog).
-
+Our first full day off. A day of rest and simply exploring the RMH
+(Ronald McDonald House). We also took care of all the medical items
+ourselves -- medications and needles and NG tube feeding. We had it all
+down all the steps were going well -- until we hit a glitch. We do not
+have a reason for it, and we have seen it happen a number of times while
+in the hospital: The NG tube clogged and this time we could not get it
+back. After working at it for about an hour we decided togive up for the
+night and pushed as much Coca-cola into it as we could (a hack that
+sometimes works to dissolve clogs).
 
 ### June 4
 
--   NG remained clogged -- Sam's job: to eat and demonstrate that the NG is not needed -- he did not fail us!  Our boy's appetite is back! 
--   Visit with Uncle Kevin
--   Visit with Chris and Jane -- including Sam's first trip away from hospital properties! We went to White Spot in Kerrisdale -- Sam had a milk-shake and a the double-double (with a little left over).
+Sunday morning the NG remained clogged. We were fairly quick to
+recognize that this was a blessing! Sam had a new job -- to eat and
+ensure that he met or exceeded the calories that he would have received
+via the NG tube. He did not disappoint --our boy has his appetite back.
+About mid-afternoon, Tina pulled the tube.
+
+Also in the afternoon we had some great visits. First with Uncle Kevin
+and then joined by cousins Chris and Jane (Cal's children). We all
+chatted and hung out outside. That evening the cousins and the three of
+us got Sam off hospital property for the first time since this whole
+journey began! We got out for a meal -- at the Kerrisdale White Spot
+where Sam had a milkshake and a double-double.
 
 ### June 5
 
--   
+Another great day as a family starting with a full breakfast provided by
+volunteers at the RMH. Times talking together, imagining, drawing --
+including time outside (outside can be precious following weeks of being
+in hospital). In the afternoon we grabbed an ride-share down the Marine
+Gateway Cineplex and took in the new Guardians o the Galaxy movie --
+loved it!
 
-
+These last few days have felt like a vacation!
 
 ## Concerns and victories
 
--   Thankful for the upcoming opportunity to get out for a few days.
-    Round 3 of chemo will likely start next Tuesday. There will be
-    adjustments as we take on a new routine.
+-   Celebrating how well Sam has been doing
 
--   Thankful for the chance to visit with friends.
+-   A joyful family weekend -- letting medical issues be in the
+    background of our lives.
 
--   Thankful for date nights!
+-   Bonus physiotherapy for Sam. The elevator at the RMH was under
+    repair for most of the weekend. This initially forced Sam to take
+    the stairs -- two flights up to the room. By the end of the weekend
+    he chose the stairs to keep restoring his strength.
 
--   Thankful to see Sam's blood counts returning to normal including the
-    numbers indicating the strengthening of hi immune system.
-
--   Challenges of side-effects. Sam, although have a return of energy,
-    is becoming physically exhausted. This whole regime, and being
-    bed-bound for a full week has led to parts of his system being bound
-    -- constipation is significant issue. It will pass but likely not
-    without pain. GI sores from the chemotherapy also complicate this.
-
--   Concern, a recent scan flagged a the potential for a problematic
-    kidney stone.
-
--   Upcoming, this Friday June 2, Sam is books for a PET scans. The
-    purpose of this scan is to determine to current state of the cancer.
-    We look forward to knowing the results. We are excited that previous
-    scans suggest significant reductions in the cancer and that this
-    scan should confirm that. As always, we will remain concerned about
-    any cancer in his system.
+-   Today we will learn the results of last Friday's PET and CT scans --
+    the current state of the cancer.\
+    We will discuss with the medical team what the next steps are. Once
+    again we will be stepping into the unknown. For now we know what
+    life looks like until mid-day.
