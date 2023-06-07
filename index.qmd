@@ -26,10 +26,96 @@ our email, or message us (no need to use the form).*
 
 ------------------------------------------------------------------------
 
+::: {.center style="text-align: center"}
+*Note: I left the last post up as I made a few edits.*
+:::
+
+------------------------------------------------------------------------
+
+# Results and the return for round 2
+
+*June 7, 2023*
+
+Once again I am writing from Sam's bedside here at BC Children's
+Hospital -- our second arrival. Compared with the first, this is so much
+easier. Sam's health has dramatically improved and it is much easier to
+be in hospital when you plan to go there. We are also returning to
+people that know and care for Sam.
+
+## Reflections on June 7
+
+Yesterday was a business day. Sam's return to the hospital. We checked
+into the Oncology day-clinic, Sam had a few tests, we met with Dr. Cheng
+to discuss the progress made and the plans moving forward. In the
+afternoon Sam would receive his first chemical doses of chemo round
+2[^1].
+
+[^1]: This is the actual round 2. What I referred to previously as round
+    to was actually round 1, and the very first week of chemo ... well
+    they don't actually count that one.
+
+### Results
+
+We had an opportunity to look at before and after imagery from Sam's PET
+scans. I am glad I had not seen the first scans until now. The
+difference is dramatic.
+
+1.  The size and density to the cancerous mass is greatly reduced
+2.  The impacts on Sam's other organs has been removed -- or is minimal.
+    The first scans showed high impacts on Sam's lungs heart -- mostly
+    causing high levels of fluid build up and pressure. Now his lungs
+    are now clear of fluid and only a residual amount of fluid remains
+    around the heart -- this is expected to resolve over time.
+3.  Currently Sam has two main masses of cancer. The largest is in his
+    chest and a smaller one in his neck. They are greatly reduced since
+    our arrival seven weeks ago. I need to get a copy of the results
+    again so I can quantify the amount of reduction.
+
+This is exciting -- the cancer is responding to treatment.
+
+### Plans
+
+It is exciting to see such progress though in moments of weakness it is
+also terrifying. The remains a lot of work to be done these cancerous
+masses are measurable in centimetres -- there are billions of cancerous
+cells to be removed[^2].
+
+[^2]: *cell densities in human tissues are on the order of 1 billion to
+    3 billion cells/ml*.\
+    McClelland, Randall E., Robert Dennis, Lola M. Reid, Jan P.
+    Stegemann, Bernard Palsson, and Jeffrey M. Macdonald. "Chapter 6 -
+    Tissue Engineering." In Introduction to Biomedical Engineering
+    (Third Edition), edited by John D. Enderle and Joseph D. Bronzino,
+    273--357. Boston: Academic Press, 2012.
+    https://doi.org/10.1016/B978-0-12-374979-6.00006-X.
+
+Despite the challenges, for the first time we actually have a plan!
+Until now, plans were not possible. Sam's cancer is extremely rare, and
+how it would respond to treatment was not known. Now that we know the
+treatment is working we will move forward with a treatment regime. The
+plan is to complete six rounds of chemotherapy with on-going evaluation
+to adapt the plan as needed.
+
+## Concerns and victories
+
+-   We are thankful for positive results and that Sam is doing so well.
+
+-   We are thankful for a plan, though we need to gear ourselves for a
+    marathon. We have heard it said around here numerous times that this
+    cancer journey is both a roller-coaster and a marathon.
+
+-   Concern that the cancer will be fully removed and that it will
+    continue to respond to the treatment.
+
+------------------------------------------------------------------------
+
 # Amazing family weekend
 
+*June 6, 2023*
+
 ![A family vacation weekend! Left our dinner out at Whitespot. Auntie
-Tina with Chris and Jane. Right -- time simply being
+Tina with nephew Chris and neice Jane (upper left). Right -- time simply
+being
 outside.](https://samsstory.s3.ca-central-1.amazonaws.com/weekend-vacation.jpg)
 
 Our break away from the hospital comes to an end today, yet we can bask
@@ -51,6 +137,12 @@ in the hospital: The NG tube clogged and this time we could not get it
 back. After working at it for about an hour we decided togive up for the
 night and pushed as much Coca-cola into it as we could (a hack that
 sometimes works to dissolve clogs).
+
+Saturday afternoon we had a wonderful visit with Bob and Wendy H. Sam
+shocked me as he was also up for the visit. Wendy and Tina had a good
+catch-up, while Bob, Sam, and played on a digital game table. Sam and
+Bob broke the game after Sam discovered a glitch and they both exploited
+it.
 
 ### June 4
 
