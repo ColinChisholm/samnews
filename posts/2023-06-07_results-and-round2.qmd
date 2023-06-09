@@ -1,5 +1,5 @@
 ---
-title: "Results and returning for round 2"
+title: "Results and the return for round 2"
 description: "Results of treatment so far, and a return to the hospital to start the next round of chemotherapy."
 author: Colin C.
 date: 2023-06-07
@@ -52,23 +52,31 @@ This is exciting -- the cancer is responding to treatment.
 It is exciting to see such progress. In moments of weakness it is also
 terrifying. The remains a lot of work to be done these cancerous masses
 are measurable in centimetres -- there are billions of cancerous cells
-to be removed[^2].  
+to be removed[^2].
 
 [^2]: *cell densities in human tissues are on the order of 1 billion to
     3 billion cells/ml*.\
-    McClelland, Randall E., Robert Dennis,
-    Lola M. Reid, Jan P. Stegemann, Bernard Palsson, and Jeffrey M.
-    Macdonald. "Chapter 6 - Tissue Engineering." In Introduction to
-    Biomedical Engineering (Third Edition), edited by John D. Enderle
-    and Joseph D. Bronzino, 273--357. Boston: Academic Press, 2012.
+    McClelland, Randall E., Robert Dennis, Lola M. Reid, Jan P.
+    Stegemann, Bernard Palsson, and Jeffrey M. Macdonald. "Chapter 6 -
+    Tissue Engineering." In Introduction to Biomedical Engineering
+    (Third Edition), edited by John D. Enderle and Joseph D. Bronzino,
+    273--357. Boston: Academic Press, 2012.
     https://doi.org/10.1016/B978-0-12-374979-6.00006-X.
-    
-Despite the challenges, for the first time we actually have a plan! Until now, none of us have known what the plan would be.  Sam's cancer is extremely rare, and how it would respond to treatment was not known.  Now that we know the treatment is working.  We will move forward with a treatment regime.  The plan is to complete six rounds of chemotherapy with on-going evaluation to adapt the plan as needed. 
+
+Despite the challenges, for the first time we actually have a plan!
+Until now, none of us have known what the plan would be. Sam's cancer is
+extremely rare, and how it would respond to treatment was not known. Now
+that we know the treatment is working. We will move forward with a
+treatment regime. The plan is to complete six rounds of chemotherapy
+with on-going evaluation to adapt the plan as needed.
 
 ## Concerns and victories
 
--   We are thankful for positive results and that Sam is doing so well. 
+-   We are thankful for positive results and that Sam is doing so well.
 
--   We are thankful for a plan, though we need to gear ourselves for a marathon. We have heard it said around here numerous times that this cancer journey is both a roller-coaster and a marathon.
+-   We are thankful for a plan, though we need to gear ourselves for a
+    marathon. We have heard it said around here numerous times that this
+    cancer journey is both a roller-coaster and a marathon.
 
--   
+-   Concern that the cancer will be fully removed and that it will
+    continue to respond to the treatment.

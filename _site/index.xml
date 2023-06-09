@@ -10,9 +10,67 @@
 <atom:link href="http://samc-news.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>News updating friends and family on our journey</description>
 <generator>quarto-1.2.335</generator>
-<lastBuildDate>Wed, 07 Jun 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Jun 2023 07:00:00 GMT</lastBuildDate>
 <item>
-  <title>Results and returning for round 2</title>
+  <title>What does a round of chemo look like? An overview</title>
+  <dc:creator>Colin C.</dc:creator>
+  <link>http://samc-news.netlify.app/posts/2023-06-08_chemo-overview.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>We are back at BC Children’s Hospital, once again receiving the amazing care that this place provides. Sam has just started his second round of chemotherapy. Today I thought I would provide a brief sketch of what Sam’s chemotherapy looks like – there is no one method for chemotherapy, rather plans are tailored to each circumstance. As such, though there may be some similarities with other chemotherapies this is Sam’s – and really it is the only one that I can speak to.</p>
+<p>Considering chemotherapy in days and weeks:</p>
+<ul>
+<li>A round of chemotherapy is 21 days long.</li>
+<li>The first five days are intensly chemical. Numerous does of various chemotherapy specific drugs, along with drugs to help Sam not feel sick from receiving the prior are delivered. These days Sam is attached to the IV pole and has anywhere from 2-5 lines delivering chemical treatment to him via his central line (Hickman CVC<sup>1</sup>).</li>
+<li>The following ~10 days are the valley, the chemicals take effect and life gets gross. Chemotherapy is intense. It hammers actively growing cells, in hammers your immune system. The benefit is that it hammers the caner the hardest. Over this time:
+<ul>
+<li>Blood counts will drop and there may be need for transfusions.</li>
+<li>Sam’s immune system will be entirely wiped out leaving him with no defences and secondary infections are a risk.</li>
+<li>In addition, he will likely experience some level of mucositis where sores can develop in the mouth and possibly anywhere in the GI<sup>2</sup> system.</li>
+<li>Drugs during this phase are generally for pain and nausea control with additional drugs, as needed, for secondary infection management.</li>
+</ul></li>
+<li>The final days of the treatment are when we expect to see Sam’s body recover from treatment with a return to normal blood counts and life starts to feel better again.</li>
+</ul>
+<p>Following a round of chemotherapy Sam, well all of us, will get a few days of a break … before starting this pattern all over again.</p>
+<p>This is written on day 4 of 21. In the 2<sup>nd</sup> round of treatment – a day or two before we start into the valley.</p>
+<section id="reflections-on-june-7-and-8" class="level2">
+<h2 class="anchored" data-anchor-id="reflections-on-june-7-and-8">Reflections on June 7 and 8</h2>
+<p>The 7<sup>th</sup> was our first full day back at the hospital and day 2 of this round chemotherapy. There were many visits by the various members of the medical team – making it feel like a day of interruptions, but this is the work of getting well.</p>
+<p>Nurses trained me how to change Sam’s dressing – a clear bandage protecting his central line. Even now, when home seems so far away, they are preparing us to be there. Maybe it is weird but I enjoyed this – taking on a new challenge and also caring for my boy.</p>
+<p>V., Sam’s physiotherapist, is thrilled with how improved he is, and the strength that he is regaining. She has provided additional tools to keep him moving – a stationary bike, and the next day some resistance bands and weights.</p>
+<p>The next morning was more routine filled with various drug deliveries and fluids testing. In the afternoon: Tina and I got away, stocked her up on food that she can eat, after we returned, we had a good visit with Cal and Tricia.</p>
+</section>
+<section id="concerns-and-victories" class="level2">
+<h2 class="anchored" data-anchor-id="concerns-and-victories">Concerns and victories</h2>
+<ul>
+<li><p>Thankful for the team here at BC Childrens’s Hospital. For their expertise, the hard work that they do, and also the personal care they invest.</p></li>
+<li><p>Thankful for the care of friends and family. Many thanks to for encouraging notes received through this site, email, and FaceBook.<br>
+<em>Note: if you ever feel that you do not want to bother us – please ignore that feeling and send us a note. Hearing from you is always encouraging.</em></p></li>
+<li><p>Concern, that Sam seems to be losing weight, despite eating well. We may have to supplement his diet sooner than we had hoped (i.e.&nbsp;a new NG tube)</p></li>
+<li><p>Concern as we head into the valley and life for Sam will feel gross (mucositis/GI sores, nausea…).</p></li>
+<li><p>Concern that the cancer will be fully removed and that it will continue to respond to the treatment.</p></li>
+</ul>
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Central venous catheter↩︎</p></li>
+<li id="fn2"><p>gastrointestinal↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>daily</category>
+  <category>info</category>
+  <guid>http://samc-news.netlify.app/posts/2023-06-08_chemo-overview.html</guid>
+  <pubDate>Fri, 09 Jun 2023 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Results and the return for round 2</title>
   <dc:creator>Colin C.</dc:creator>
   <link>http://samc-news.netlify.app/posts/2023-06-07_results-and-round2.html</link>
   <description><![CDATA[ 
@@ -43,7 +101,7 @@
 <ul>
 <li><p>We are thankful for positive results and that Sam is doing so well.</p></li>
 <li><p>We are thankful for a plan, though we need to gear ourselves for a marathon. We have heard it said around here numerous times that this cancer journey is both a roller-coaster and a marathon.</p></li>
-<li></li>
+<li><p>Concern that the cancer will be fully removed and that it will continue to respond to the treatment.</p></li>
 </ul>
 
 
@@ -814,43 +872,6 @@ they will walk and not be faint.</p>
   <category>daily</category>
   <guid>http://samc-news.netlify.app/posts/2023-05-10_brief-update.html</guid>
   <pubDate>Wed, 10 May 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>PICCs and other procedures</title>
-  <dc:creator>Colin C.</dc:creator>
-  <link>http://samc-news.netlify.app/posts/2023-05-09_PICCs-procedures.html</link>
-  <description><![CDATA[ 
-
-
-
-<p>Sam and I are both up. Sam is in good spirits having had a sound sleep last night. It must have been a quality sleep because it certainly was not a long one … we should both take naps today. Last night we watched a very disappointing hockey game and then had a gaming session. I confess it got later than it should and Tina was not here to put a stop to it. She went to have a full night sleep at the <a href="https://rmhbc.ca">RMDH</a> and I hope that she is able to sleep well into the morning. As I write this Sam is reading a classic – if you know that the answer is <code>42</code> then you know the series he just started.</p>
-<section id="reflections-on-may-8" class="level2">
-<h2 class="anchored" data-anchor-id="reflections-on-may-8">Reflections on May 8</h2>
-<p>To start the day we thought it would be rather simple and that the afternoon would be relaxed… It wasn’t all bad though there are some concerning elements, it just did not all go as planned. The bulk of the day</p>
-<ol type="1">
-<li><p>To start Sam did go under general anesthetic to adjust his <a href="http://www.cw.bc.ca/library/pdf/pamphlets/BCCH1552_PICC.pdf">PICC-line</a> and complete a lumbar puncture. The PICC procedure did not go the way the medical team had hoped. The plan was simply to adjust the position of the existing line, but they were not able to do this so they pulled that line and attempted a new line on the other arm. This new line also did not go as planned, as they were not able to centrally locate the outlet. This is where there is some concern, attempts to (re)position the previous or locate the current line failed due to blood clots in Sam’s system. No one is very clear as to why he has clots so frequently in his blood vessels (to be clear this is not because they are keeping anything from us … it is just they do not know). We know that some of the clots are an effect of the cancer – as the body tried to fight it; alternately, this clotting could be somehow related to the previous chemotherapy. The fact is there is clotting in Sam’s blood vessels, and there is more clotting than a couple weeks ago despite taking blood thinners twice a day.</p></li>
-<li><p>The lumbar puncture went as planned.</p></li>
-<li><p>The quiet afternoon turned into an additional procedure. The previous scans had focused on the upper chest and neck. This ultrasound was done to evaluate the potential of clotting in the abdomen and legs. Results are pending.</p></li>
-</ol>
-<p>We were finally back to the room by about 4pm. Time for dinner. I had left overs. A friend had brought poke bowls yesterday and the left over one as almost as good as the first. Sam had a hospital dinner supplemented with snacks from Safeway. Tina was off on her own adventure.</p>
-<p>I am so happy for Tina as she was able to get away yesterday afternoon. Senga was here and she took her out to a local park and then out for a Tina-friendly meal.</p>
-</section>
-<section id="concerns-and-victories" class="level2">
-<h2 class="anchored" data-anchor-id="concerns-and-victories">Concerns and victories</h2>
-<ul>
-<li><p>Sam has a new PICC, despite not being placed idealy it should work.</p></li>
-<li><p>Concerns around clotting in Sam’s blood vessels. He is on blood thinners but there appear be more clots than a couple weeks ago.</p></li>
-<li><p>We are expecting to meet with the Dr.&nbsp;Cheng this afternoon to discuss recent results and plans for Sam’s next round of chemotherapy – which may start tomorrow.</p></li>
-<li><p>Joyful for connections with friends – in person and through communication.</p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>daily</category>
-  <guid>http://samc-news.netlify.app/posts/2023-05-09_PICCs-procedures.html</guid>
-  <pubDate>Tue, 09 May 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

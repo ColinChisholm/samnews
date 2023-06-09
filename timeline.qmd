@@ -6,6 +6,20 @@ Most recent items at the top.
 
 ::: timeline
 
+::: {.tl_container .tl_right}
+::: tl_content
+### Beginning of Round 2 of 6 
+
+2023-06-06
+
+We checked in at the oncology clinic, completed several standard tests including bloodwork. The tests confirmed that Sam is ready to start round 2 of chemotherapy.  Dr. Cheng reviewed the plan with us. 
+
+_note: We now have a plan! Seeing that the cancer has responded well to the treatment it is possible to continue with a treatment regime._
+:::
+:::
+
+
+
 
 ::: {.tl_container .tl_left}
 ::: tl_content

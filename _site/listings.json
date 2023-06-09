@@ -45,6 +45,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/2023-06-08_chemo-overview.html",
       "/posts/2023-06-07_results-and-round2.html",
       "/posts/2023-06-06_amazing-weekend-rmh.html",
       "/posts/2023-06-03_freedom-release-to-rmd.html",
@@ -88,6 +89,7 @@
   {
     "listing": "/devos/index.html",
     "items": [
+      "/devos/mark-1-29.html",
       "/devos/mark-1-21.html",
       "/devos/mark-1-16.html",
       "/devos/mark-1-14.html",
