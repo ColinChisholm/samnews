@@ -26,15 +26,24 @@ our email, or message us (no need to use the form).*
 
 ------------------------------------------------------------------------
 
-::: {.center}
-Latest results are from [June 7^th^'s post: Results and returning for round 2](posts/2023-06-07_results-and-round2.html)
+::: center
+Latest results are from [June 7^th^'s post: Results and returning for
+round 2](posts/2023-06-07_results-and-round2.html)
 :::
 
 ------------------------------------------------------------------------
 
+::: callout-note
+## June 10
+
+No post today. Sam finishes his last major chemical dose of chemo this
+am. We may be discharged to the RMH for the weekend, returning to the
+hospital for the time in the valley (i.e. drops in blood-counts).
+:::
+
 # What does a round of chemo look like? An overview
 
-_June 9, 2023_
+*June 9, 2023*
 
 We are back at BC Children's Hospital, once again receiving the amazing
 care that this place provides. Sam has just started his second round of
@@ -84,13 +93,12 @@ or two before we start into the valley.
 The 7^th^ was our first full day back at the hospital and day 2 of this
 round chemotherapy. There were many visits by the various members of the
 medical team -- making it feel like a day of interruptions, but this is
-the work of getting well. 
+the work of getting well.
 
-Nurses trained me how to change Sam's dressing
--- a clear bandage protecting his central line. Even now, when home
-seems so far away, they are preparing us to be there. Maybe it is weird
-but I enjoyed this -- taking on a new challenge and also caring for my
-boy.
+Nurses trained me how to change Sam's dressing -- a clear bandage
+protecting his central line. Even now, when home seems so far away, they
+are preparing us to be there. Maybe it is weird but I enjoyed this --
+taking on a new challenge and also caring for my boy.
 
 V., Sam's physiotherapist, is thrilled with how improved he is, and the
 strength that he is regaining. She has provided additional tools to keep
@@ -146,8 +154,10 @@ thank you all enough.
 :::
 :::
 
-::: {.support style="background-color: #fff; padding-bottom:1.4em; padding-right:2em; align:center"}
+::: {.support layout-ncol="2" style="background-color: #fff; padding-top:1.4em; padding-right:2em"}
 [![](https://samsstory.s3.ca-central-1.amazonaws.com/rmdhbc.png)](https://rmhbc.ca)
+
+[![](https://www.friendsofchildren.ca/application/themes/foc/images/logo.png)](https://www.friendsofchildren.ca)
 :::
 :::
 

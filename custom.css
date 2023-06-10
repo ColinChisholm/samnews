@@ -10,3 +10,10 @@
 .center {
   text-align: center;
 }
+
+
+/* tweak to task list --- */
+ul.task-list {
+    margin-left: 1em;
+    padding-left: 1em;
+}
