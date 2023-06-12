@@ -4,7 +4,7 @@ description: "Jesus demonstrates authority -- again and again"
 author: Colin C.
 date: 2023-06-09
 search: false
-categories: [Mark]
+categories: [Mark, authority]
 draft: false
 editor: 
   markdown: 

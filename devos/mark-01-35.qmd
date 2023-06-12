@@ -4,7 +4,7 @@ description: "Jesus gets away from it all and has clarity of purpose."
 author: Colin C.
 date: 2023-06-10
 search: false
-categories: [Mark]
+categories: [Mark, prayer]
 draft: false
 editor: 
   markdown: 

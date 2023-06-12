@@ -4,7 +4,7 @@ description: "Jesus demonstrates his authority in the spirital world."
 author: Colin C.
 date: 2023-06-06
 search: false
-categories: [Mark]
+categories: [Mark, authority]
 draft: false
 editor: 
   markdown: 
