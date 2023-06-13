@@ -1,7 +1,7 @@
 ---
 title: "Mark -- Jesus forgives and heals the paralyzed man (I)"
 subtitle: "Reaching Jesus"
-description: "Friends of a paralyzed man pushh through barriers to get to Jesus."
+description: "Friends of a paralyzed man push through barriers to get to Jesus."
 author: Colin C.
 date: 2023-06-12
 search: false
