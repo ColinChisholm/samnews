@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/devos/index.html</loc>
-    <lastmod>2023-06-12T13:06:49.078Z</lastmod>
+    <lastmod>2023-06-12T13:16:14.028Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/devos/mark-01-01.html</loc>
@@ -66,7 +66,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/index.html</loc>
-    <lastmod>2023-06-12T13:07:21.284Z</lastmod>
+    <lastmod>2023-06-13T15:24:52.696Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/photos.html</loc>
@@ -235,5 +235,9 @@
   <url>
     <loc>http://samc-news.netlify.app/wishes.html</loc>
     <lastmod>2023-06-12T13:08:05.533Z</lastmod>
+  </url>
+  <url>
+    <loc>http://samc-news.netlify.app/posts/2023-06-13_rmh-weekend.html</loc>
+    <lastmod>2023-06-13T15:24:33.859Z</lastmod>
   </url>
 </urlset>
