@@ -1,46 +1,17 @@
 ---
-title: "Updates"
-# author: Colin C.
-listing:
-  contents: posts
-  filter-ui: false
-  fields: [image, date, title, author, categories, description]
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
-  page-size: 10
+title: "Another extension to our days of freedom!"
+description: "Sam's bloodwork is holding! Additional bonus days away from the hospital!"
+author: Colin C.
+date: 2023-06-17
+categories: [daily, outings]
+draft: false
 editor: 
   markdown: 
     wrap: 72
 ---
 
-For an overview of this journey see the [timeline](./timeline.html).
-
-Don't have our contact information and want to reach us? Use [this
-form](/contact.html). <br />*Note: if you do know how to reach us, use
-our email, or message us (no need to use the form).*
-
-<br/> Visitation status: **by appointment only**
-
-------------------------------------------------------------------------
-
-::: center
-Latest results are from [June 7^th^'s post: Results and returning for
-round 2](posts/2023-06-07_results-and-round2.html)
-:::
-
-------------------------------------------------------------------------
-
-
-
 ![Freedom!! We spent the evening exploring the Richmond Night
 Market.](https://samsstory.s3.ca-central-1.amazonaws.com/richmond-night-market.jpg)
-
-# Another extension to our days of freedom!
-
-_June 17, 2023_
 
 Wow!
 
@@ -128,36 +99,3 @@ Friday, June 16
 
 -   We are thankful that the treatment is working. There is also concern
     that it is effective to remove the cancer fully.
-
-------------------------------------------------------------------------
-
-# Support
-
-Here we include options to provide financial support cancer research at
-the BC Children's Hospital, the Ronald McDonald House, or to support us
-directly. We have been blown away by the generosity of so many. We also
-love the support provided in words of encouragement. Please feel free to
-[send us notes of encouragement](contact.html). It is impossible to
-thank you all enough.
-
-::: {.support-container style="background-color: #fff"}
-::: {.support layout-ncol="2" style="background-color: #fff; padding-top:1.4em; padding-right:2em"}
-[![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
-
-::: {.gfm-embed data-url="https://www.gofundme.com/f/help-the-chisholm-family-while-sam-battles-cancer/widget/medium"}
-```{=html}
-<script defer src="https://www.gofundme.com/static/js/embed.js"></script>
-```
-:::
-:::
-
-::: {.support layout-ncol="2" style="background-color: #fff; padding-top:1.4em; padding-right:2em"}
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/rmdhbc.png)](https://rmhbc.ca)
-
-[![](https://www.friendsofchildren.ca/application/themes/foc/images/logo.png)](https://www.friendsofchildren.ca)
-:::
-:::
-
-------------------------------------------------------------------------
-
-# Previous Posts

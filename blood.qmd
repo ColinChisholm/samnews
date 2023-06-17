@@ -90,7 +90,7 @@ g <- dat %>% ggplot(aes(x = Day, y = Values, color = label, linewidth = label, s
   scale_size_manual(values = c("current" = 1.5, "previous" = .7)) +
   theme(legend.position = "bottom")
 
-# g
+g
 
 ggsave(height = 8, width = 6, 
        path = "/home/rstudio/workspace/family/sams_journey/sams_journey/_img/",
