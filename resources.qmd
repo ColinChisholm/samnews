@@ -3,6 +3,7 @@ title: "Resources and lessons learned"
 description: "List of key lessons learned and resources that we have found useful."
 author: Colin C.
 date: 2023-05-18
+date-modified: 2023-06-19
 draft: true
 editor: 
   markdown: 
@@ -12,16 +13,18 @@ editor:
 
 # Thoughts on cancer 
 
+These are what I have learned about cancer.  Our son's cancer is a lymphoma or lymphoma-like.  
+
 ## General 
 
-1.    Perhaps the most important lesson is that every cancer story is unique.  Cancer presents in many different ways, and treatment plans are very specific.  It is great 
+1.    Perhaps the most important lesson is that every cancer story is unique.  Cancer presents in many different ways, and treatment plans are very specific. 
 
 
 
 
 # On life in hospital 
 
-## Sich child 
+## Sick child 
 
 -   There are days and weeks where your child is sick and has very low capacity.  Extend grace to them.  Love them where they are at.  Celebrate their courage.  Accept and validate their tears.  This is a hard time 
 
@@ -31,5 +34,33 @@ editor:
 
 
 
-# Care fr the care-giver 
+# Chemotherapy rounds 
+
+The medical team will talk about cycles or rounds of chemotherapy.  These are tailored to each individual.  I will use ours as a specific example to the general stages of a chemo-cycle/ round.
+
+## A Cycle or Round 
+
+1.   Chemotherapy drug delivery.  This is several days of drugs delivered usually via the central-line.  For our son this was five days.  Round 1 this was all in the hospital.  Round 2 the first day was in the day-clinic, the rest were in hospital though our son was discharged following drug delivery on day 5
+
+2.   Recovery period.  The drugs take a toll on the body and this does not take effect immediately
+     a.    Decent into the valley.  Blood-level metrics continue to decline.  ANC will hit zero.  Platelets may hit zero.   Hemoglobin may get to low.  Time in the hospital is likely.
+          -   When ANC is zero the body has no ability to defend itself.  You may be asked to stay in hospital during this stage
+          -   When Hemoglobin is too low, the body loses its ability to deliver oxygen and a red-blood-transfusion may be needed.
+          -   When platelets are too low the body is not able to clot/ stop bleeding effectively a platelet-transfusion may be needed.
+      b.   The body starts to regenerate its own red and white blood cells  once levels are above a certain threshold it will be possible to leave the hospital. 
+
+
+# Metrics 
+
+Measurements that the medical team will use in their decision making.
+
+## Blood-levels 
+
+-    Blood-level  metrics are used to monitor how the body is responding to chemotherapy, and how *at-risk* someone is to infections.   
+-    Blood-levels will fall.  Absolute neutrophil count (ANC) will drop to zero at some point in a cycle or round and may stay zero or undetectable for a number of days.  For us round 1 was 10 days.  Round 2 was ____  and we spent most of the time *at-home*
+
+
+
+
+# Care for the care-giver 
 

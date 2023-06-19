@@ -1,6 +1,22 @@
-/.quarto/
 .Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
 
-_img
+.quarto/
+.vscode/
 
-posts/*.html
+_thankfulness/*
+_*.qmd
+
+blog-notes.txt
+
+_img/
+
+data/
+_reports/*
+_freeze
+
+
+wishes*
