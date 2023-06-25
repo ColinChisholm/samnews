@@ -4,7 +4,7 @@ description: "Jesus demonstrates his authority over the body."
 author: Colin C.
 date: 2023-06-07
 search: false
-categories: [Mark, authority]
+categories: [Mark, authority, healing]
 draft: false
 editor: 
   markdown: 

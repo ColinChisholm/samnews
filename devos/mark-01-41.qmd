@@ -4,7 +4,7 @@ description: "Jesus has compassion on a man with leprosy."
 author: Colin C.
 date: 2023-06-11
 search: false
-categories: [Mark, authority]
+categories: [Mark, authority, healing]
 draft: false
 editor: 
   markdown: 

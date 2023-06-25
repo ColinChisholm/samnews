@@ -4,7 +4,7 @@ description: "Jesus' first disciples answer the call"
 author: Colin C.
 date: 2023-06-05
 search: false
-categories: [Mark]
+categories: [Mark, healing]
 draft: false
 editor: 
   markdown: 

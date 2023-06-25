@@ -5,7 +5,7 @@ description: "Friends of a paralyzed man push through barriers to get to Jesus."
 author: Colin C.
 date: 2023-06-12
 search: false
-categories: [Mark, authority]
+categories: [Mark, authority, healing]
 draft: false
 editor: 
   markdown: 

@@ -4,7 +4,7 @@ description: "Jesus forgives and heals a paralyzed man."
 author: Colin C.
 date: 2023-06-13
 search: false
-categories: [Mark, authority]
+categories: [Mark, authority, healing]
 draft: false
 editor: 
   markdown: 
