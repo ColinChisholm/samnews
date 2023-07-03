@@ -66,7 +66,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/index.html</loc>
-    <lastmod>2023-06-28T16:18:57.381Z</lastmod>
+    <lastmod>2023-07-03T15:47:25.768Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/photos.html</loc>
@@ -226,7 +226,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/posts/2023-06-08_chemo-overview.html</loc>
-    <lastmod>2023-06-12T13:08:02.228Z</lastmod>
+    <lastmod>2023-07-03T14:35:12.310Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/timeline.html</loc>
@@ -287,5 +287,9 @@
   <url>
     <loc>http://samc-news.netlify.app/devos/mark-03-20.html</loc>
     <lastmod>2023-07-01T13:51:24.314Z</lastmod>
+  </url>
+  <url>
+    <loc>http://samc-news.netlify.app/posts/2307/2023-07-03_anniversay-canada-day.html</loc>
+    <lastmod>2023-07-03T15:45:24.041Z</lastmod>
   </url>
 </urlset>

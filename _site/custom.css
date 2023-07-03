@@ -7,6 +7,12 @@
 }
 
 
+.box-cc-important{
+      border-left: thick solid #2c3e50;
+      padding-left: 1rem;
+}
+
+
 .center {
   text-align: center;
 }

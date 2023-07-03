@@ -1,5 +1,5 @@
 ---
-title: "Updates"
+title: "Cancer journey updates"
 # author: Colin C.
 listing:
   contents: posts
@@ -26,61 +26,70 @@ our email, or message us (no need to use the form).*
 
 ------------------------------------------------------------------------
 
-::: center
-Latest results are from [June 7^th^'s post: Results and returning for
-round 2](posts/2023-06-07_results-and-round2.html)
+::: box-cc-important
+## Summary of the treatment progress and plan 
+
+-   Sam has completed round 2 of the initial six rounds of treatment. 
+-   Our hope is that Sam will be able to return home following round 6 with regular visits to BC Children's Hospital for monitoring.
+-   The results following round 1 are described in June 7^th^'s post: [Results and returning for round 2](posts/2023-06-07_results-and-round2.html)
+-   A round of chemo is described in the June 9^th^ post: [What does a round of chemo look like? An overview](posts/2023-06-08_chemo-overview.html)
 :::
 
 ------------------------------------------------------------------------
 
-# Round 2 complete and some family fun
 
-_June 28, 2023_
+# Happy anniversary and Canada Day
 
-Chemo round 2 officially ended on the weekend and it has felt like a
-great success. Aside from 4 nights during the initial chemical delivery
-days and several clinic days, Sam spent the remainder of the time out of hospital. The
-majority of the days have been within the hospital campus, and over the last week
-we were able to spread our wings a little further as Sam's immune system
-strengthened.
+_July 3, 2023_
 
-Though the lived experience of this round felt better, tests this week
-will determine what the unseen impacts were on the cancer. Sam will have
-a lumbar puncture and a PET scan over the next few days.
 
-Next week Sam will return for some hospital days to begin round 3 of chemotherapy which, given
-it's chemical makeup, may be harder on him then this last round.
+![Canada Day in Delta](https://samsstory.s3.ca-central-1.amazonaws.com/canada-day-delta.jpg)
+
 
 ## Highlights from the past few days
 
-This past weekend we have had good time as a family and with the
-extended family.
+This past weekend was spent like many of yours -- celebrating Canada
+Day.
 
--   We were able to celebrate little Jayme's birthday. Though Auntie
-    Tricia and Uncle Cal also took the chance to spoil our boy --
-    providing him a huge steak, which he enjoyed immensely.
+Sam's day-to-day health is much improved. To look at him, other than the
+thin short hair, your might no know there was anything wrong. Since my
+last post:
 
--   Uncle Kevin started his new position in Delta and so we have been
-    able to connect with them more. We spent an afternoon with Kevin and
-    Kaden at Granville Island. Over the last few years Sam, Tina and I
-    have made it there a number of times and have our favourite spots
-    for snacks.
+-   Tina and I celebrated our 27^th^ anniversary! We celebrated as a
+    family out for a great meal and then ice cream.
 
--   What do you do if your immune system is low and you want to go to
-    the movies. The drive-in is a great option. The three of us had a
-    great night taking in a double header ... though we paid for it the
-    following day.
+-   Sam had his lumbar puncture and PET scan -- results are pending.
+
+-   Nana (Tina's mom) arrived -- she will be here for the week.
+
+-   Celebrated Canada Day in North Delta where Kevin and Kelsey F. were
+    the MCs for the activities there.
+
+-   Townsend reunion with Tina, her mom, her siblings and most of their
+    families -- four generations.
+
+## Upcoming
+
+Tomorrow Sam returns to the hospital. We will check in at the day-clinic
+where:
+
+1.  We will hear the results of this past weeks scans.
+
+2.  Check blood levels.
+
+3.  Start round 3 (i.e. begin delivery of chemotherapy drugs) --
+    assuming blood levels are where they need to be.
+
+Assuming all goes as planned Sam will be admitted tomorrow evening for a
+total of five days of chemo-drug delivery.
 
 ## Concerns and victories
 
--   Thankful that Sam has completed his second round of chemo
-    as an out-patient.
+-   Thankful for my wife!  We have had an amazing journey together though this latest chapter is the hardest we have faced.  I am grateful to be able journey this storm with her.
+   
+-   Thankful that we are able to take part in normal activities! Happy Canada Day! Great to be with family.
 
--   Thankful that we have family in the area.
-
--   We are thankful that we are getting to know some families here.
-
--   Round 3 starts next week.  It has a different drug delivery regime then the last round and impacts will likely it will feel stronger.K
+-   Round 3 starts tomorrow.  It has a different drug delivery regime then the last round and impacts will likely it will feel stronger.
 
 -   We are thankful that the treatment is working. There is also concern
     that it is effective to remove the cancer fully.
@@ -98,14 +107,13 @@ thank you all enough.
 
 ::: {.support-container style="background-color: #fff"}
 ::: {.support layout-ncol="2" style="background-color: #fff; padding-top:1.4em; padding-right:2em"}
-[![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
+[![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate) 
 
-::: {.gfm-embed data-url="https://www.gofundme.com/f/help-the-chisholm-family-while-sam-battles-cancer/widget/medium"}
-```{=html}
-<script defer src="https://www.gofundme.com/static/js/embed.js"></script>
-```
+<div>### Help the Chisholms via GoFundMe
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/help-the-chisholm-family-while-sam-battles-cancer/widget/small"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+</div>
 :::
-:::
+
 
 ::: {.support layout-ncol="2" style="background-color: #fff; padding-top:1.4em; padding-right:2em"}
 [![](https://samsstory.s3.ca-central-1.amazonaws.com/rmdhbc.png)](https://rmhbc.ca)
