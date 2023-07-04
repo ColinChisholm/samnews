@@ -121,4 +121,4 @@ ggsave(height = 8, width = 6,
   
 ```
 
-![Blood counts from chemo round 2](https://samsstory.s3.ca-central-1.amazonaws.com/blood_graph.png)
+![](https://samsstory.s3.ca-central-1.amazonaws.com/blood_graph.png)
