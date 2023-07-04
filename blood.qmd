@@ -21,10 +21,11 @@ library(tidyverse)
 library(lubridate)
 ```
 
-Data has been provided daily by the medical team here at BC Children's Hospital. 
+Data has been provided by the medical team here at BC Children's Hospital. 
 
 -   Round 1 started May 12, 2023
 -   Round 2 started June 6, 2023
+-   Round 3 started July 4, 2023
 
 ```{r}
 ## Import the data 
