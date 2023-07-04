@@ -34,11 +34,11 @@ dat <-
                     sheet = "Blood"
   )
 
-dat$Current[dat$Round == 2] <- T
-dat$Current[dat$Round != 2] <- F
-
-dat$label[dat$Current == F] <- "previous"
-dat$label[dat$Current == T] <- "current"
+# dat$Current[dat$Round == 3] <- T
+# dat$Current[dat$Round != 3] <- F
+# 
+# dat$label[dat$Current == F] <- "previous"
+# dat$label[dat$Current == T] <- "current"
 
 
 
@@ -52,12 +52,25 @@ dat <- dat %>%
 
 # start <- min(dat$Date) -1
 
+
+
+
+dat$facet[dat$Metric == "WBC"] <- "White Blood Cells"
+dat$facet[dat$Metric == "Hgb"] <- "Hemoglobin"
+dat$facet[dat$Metric == "PHS"] <- "Platelets"
+dat$facet[dat$Metric == "ANC"] <- "ANC"
+
+
 dat <- dat %>% 
   mutate(#Day =  Date - start,
          Metric = factor(Metric, 
-                         levels = c("WBC", "Hgb", "PHS", "ANC")))
+                         levels = c("WBC", "Hgb", "PHS", "ANC")),
+         facet = factor(facet, 
+                        levels = c("White Blood Cells", "Hemoglobin", "Platelets", "ANC")))
 
-dat$lw <- dat$Current *0.5 + 0.5
+
+
+# dat$lw <- dat$Current *0.5 + 0.5
 
 
 
@@ -67,13 +80,15 @@ dat$lw <- dat$Current *0.5 + 0.5
 #| fig-height: 8
 #| eval: false
 
+dat$Round <- as.character(dat$Round)
+
 ## graph the data 
-g <- dat %>% ggplot(aes(x = Day, y = Values, color = label, linewidth = label, size = label)) +
+g <- dat %>% ggplot(aes(x = Day, y = Values, color = Round, linewidth = Round, size = Round)) +
   # geom_smooth(method = "loess",se = F, alpha = .5, size = .2) +
   geom_line() + 
   geom_line(aes(alpha = 0.5), show.legend = F) +
   geom_point() +
-  facet_grid(rows = "Metric",
+  facet_grid(rows = "facet",
              scales = "free_y")  +
   coord_cartesian(ylim = c(0, NA),
                   xlim = c(1, NA)) +
@@ -85,9 +100,15 @@ g <- dat %>% ggplot(aes(x = Day, y = Values, color = label, linewidth = label, s
        linewidth = NULL, 
        size = NULL) +
   # scale_color_manual(values = c("TRUE" = "red", "FALSE" = "grey")) +
-  scale_color_manual(values = c("current" = "red", "previous" = "grey")) + 
-  scale_linewidth_manual(values = c("current" = .8, "previous" = 0.4)) +
-  scale_size_manual(values = c("current" = 1.5, "previous" = .7)) +
+  scale_color_manual(values = c("3" = "red", 
+                                "2" = "lightblue",
+                                "1" = "grey"))  +
+  scale_linewidth_manual(values = c("3" = .8,
+                                    "2" = 0.4,
+                                    "1" = 0.4)) +
+  scale_size_manual(values = c("3" = 1.5, 
+                               "2" = .7,
+                               "1" = .7)) +
   theme(legend.position = "bottom")
 
 g
