@@ -3,7 +3,6 @@ title: "Jesus' family"
 description: "Jesus redefines family"
 author: Colin C.
 date: 2023-07-03
-date-modified: 2023-07-03
 search: false
 categories: [Mark, priorities]
 draft: false
