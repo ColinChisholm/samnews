@@ -29,70 +29,45 @@ our email, or message us (no need to use the form).*
 ::: box-cc-important
 ## Summary of the treatment progress and plan 
 
--   Sam has completed round 2 of the initial six rounds of treatment. 
+-   Sam has currently in round 3 of the initial six rounds of treatment. 
 -   Our hope is that Sam will be able to return home following round 6 with regular visits to BC Children's Hospital for monitoring.
--   The results following round 1 are described in June 7^th^'s post: [Results and returning for round 2](posts/2023-06-07_results-and-round2.html)
+-   The results following round 1 are described in the June 7^th^ post: [Results and returning for round 2](posts/2023-06-07_results-and-round2.html)
+-   Results following round 2 are described in the July 5^th^ post: [Treatment progress and the start of round 3](posts/2307/2023-07-05_round3-and-results.qmd)
 -   A round of chemo is described in the June 9^th^ post: [What does a round of chemo look like? An overview](posts/2023-06-08_chemo-overview.html)
 :::
 
 ------------------------------------------------------------------------
 
+# Treatment progress and the start of round 3
 
-# Happy anniversary and Canada Day
+_July 5, 2023_
 
-_July 3, 2023_
+Sam's clinic appointment went as expected yesterday: bloodwork confirmed that his body was ready to start round 3.  We were also able to discuss results of last week's PET scan and lumbar puncture.  
+
+-   Last Thursday Sam had a lumbar puncture.  A small amount of spinal fluid was removed and an equal amount of chemo-drugs was inserted.  Analysis of the spinal fluid confirmed that there is no cancer in the central nervous system! 
+
+-   PET scan results -- the treatment is working! Sam has two main cancerous masses one in his chest, and a smaller one in his neck.  Results from the PET scan indicate that:
+    -   Both masses are smaller then in the previous scan
+    -   The activity level of the cancer in the body is reduced
+    -   No new locations of cancer have been detected (i.e. it has not moved to other locations in the body)
+
+_Note: Sam is receiving additional monitoring (i.e. more scans) then normal because his case is ... not a normal cancer case.  Since so little is known about this form of cancer additional monitoring is taking place.  I expect this is for two purposes.  First to confirm that the treatment is working. Second, to document that the treatment is working -- adding to the pool of knowledge on cancer._
 
 
-![Canada Day in Delta](https://samsstory.s3.ca-central-1.amazonaws.com/canada-day-delta.jpg)
+## Upcoming 
 
+The next number of days will be here at the hospital while Sam receives his treatment.  I will be with him through the nights.  Tina and her mom will join us through the day.  Tina and I may even get away for some additional time together while Nana visits.
 
-## Highlights from the past few days
+This round of chemo includes some nastier drugs, though Sam is in a much stronger place then the last time he experienced them.  Potential side effects are likely to include pain, nausea, GI sores, and further hair loss.  
 
-This past weekend was spent like many of yours -- celebrating Canada
-Day.
-
-Sam's day-to-day health is much improved. To look at him, other than the
-thin short hair, your might no know there was anything wrong. Since my
-last post:
-
--   Tina and I celebrated our 27^th^ anniversary! We celebrated as a
-    family out for a great meal and then ice cream.
-
--   Sam had his lumbar puncture and PET scan -- results are pending.
-
--   Nana (Tina's mom) arrived -- she will be here for the week.
-
--   Celebrated Canada Day in North Delta where Kevin and Kelsey F. were
-    the MCs for the activities there.
-
--   Townsend reunion with Tina, her mom, her siblings and most of their
-    families -- four generations.
-
-## Upcoming
-
-Tomorrow Sam returns to the hospital. We will check in at the day-clinic
-where:
-
-1.  We will hear the results of this past weeks scans.
-
-2.  Check blood levels.
-
-3.  Start round 3 (i.e. begin delivery of chemotherapy drugs) --
-    assuming blood levels are where they need to be.
-
-Assuming all goes as planned Sam will be admitted tomorrow evening for a
-total of five days of chemo-drug delivery.
 
 ## Concerns and victories
 
--   Thankful for my wife!  We have had an amazing journey together though this latest chapter is the hardest we have faced.  I am grateful to be able journey this storm with her.
-   
--   Thankful that we are able to take part in normal activities! Happy Canada Day! Great to be with family.
+-   We are thankful for positive results -- that the treatment is working! 
 
--   Round 3 starts tomorrow.  It has a different drug delivery regime then the last round and impacts will likely it will feel stronger.
+-   There is always concern that it remains effective to fully remove the cancer.
 
--   We are thankful that the treatment is working. There is also concern
-    that it is effective to remove the cancer fully.
+-   Specific more immediate concerns are the side effects from this current round of chemotherapy.
 
 ------------------------------------------------------------------------
 

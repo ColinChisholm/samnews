@@ -97,19 +97,22 @@ g <- dat %>% ggplot(aes(x = Day, y = Values, color = Round, linewidth = Round, s
        subtitle = "Current and previous rounds of chemo-therapy",
        x = "Day",
        y = NULL,
-       color = NULL,
        linewidth = NULL, 
-       size = NULL) +
+       size = NULL,
+       color = NULL) +
   # scale_color_manual(values = c("TRUE" = "red", "FALSE" = "grey")) +
   scale_color_manual(values = c("3" = "red", 
                                 "2" = "lightblue",
-                                "1" = "grey"))  +
+                                "1" = "grey"),
+                     name = "Round")  +
   scale_linewidth_manual(values = c("3" = .8,
                                     "2" = 0.4,
-                                    "1" = 0.4)) +
+                                    "1" = 0.4),
+                         name="Round") +
   scale_size_manual(values = c("3" = 1.5, 
                                "2" = .7,
-                               "1" = .7)) +
+                               "1" = .7),
+                    name ="Round") +
   theme(legend.position = "bottom")
 
 g

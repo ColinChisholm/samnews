@@ -10,7 +10,49 @@
 <atom:link href="http://samc-news.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>News updating friends and family on our journey</description>
 <generator>quarto-1.3.361</generator>
-<lastBuildDate>Mon, 03 Jul 2023 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Jul 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Treatment progress and the start of round 3</title>
+  <dc:creator>Colin C.</dc:creator>
+  <link>http://samc-news.netlify.app/posts/2307/2023-07-05_round3-and-results.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Sam’s clinic appointment went as expected yesterday: bloodwork confirmed that his body was ready to start round 3. We were also able to discuss results of last week’s PET scan and lumbar puncture.</p>
+<ul>
+<li><p>Last Thursday Sam had a lumbar puncture. A small amount of spinal fluid was removed and an equal amount of chemo-drugs was inserted. Analysis of the spinal fluid confirmed that there is no cancer in the central nervous system!</p></li>
+<li><p>PET scan results – the treatment is working! Sam has two main cancerous masses one in his chest, and a smaller one in his neck. Results from the PET scan indicate that:</p>
+<ul>
+<li>Both masses are smaller then in the previous scan</li>
+<li>The activity level of the cancer in the body is reduced</li>
+<li>No new locations of cancer have been detected (i.e.&nbsp;it has not moved to other locations in the body)</li>
+</ul></li>
+</ul>
+<p><em>Note: Sam is receiving additional monitoring (i.e.&nbsp;more scans) then normal because his case is … not a normal cancer case. Since so little is known about this form of cancer additional monitoring is taking place. I expect this is for two purposes. First to confirm that the treatment is working. Second, to document that the treatment is working – adding to the pool of knowledge on cancer.</em></p>
+<section id="upcoming" class="level2">
+<h2 class="anchored" data-anchor-id="upcoming">Upcoming</h2>
+<p>The next number of days will be here at the hospital while Sam receives his treatment. I will be with him through the nights. Tina and her mom will join us through the day. Tina and I may even get away for some additional time together while Nana visits.</p>
+<p>This round of chemo includes some nastier drugs, though Sam is in a much stronger place then the last time he experienced them. Potential side effects are likely to include pain, nausea, GI sores, and further hair loss.</p>
+</section>
+<section id="concerns-and-victories" class="level2">
+<h2 class="anchored" data-anchor-id="concerns-and-victories">Concerns and victories</h2>
+<ul>
+<li><p>We are thankful for positive results – that the treatment is working!</p></li>
+<li><p>There is always concern that it remains effective to fully remove the cancer.</p></li>
+<li><p>Specific more immediate concerns are the side effects from this current round of chemotherapy.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>daily</category>
+  <category>results</category>
+  <category>treatment</category>
+  <guid>http://samc-news.netlify.app/posts/2307/2023-07-05_round3-and-results.html</guid>
+  <pubDate>Wed, 05 Jul 2023 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Happy anniversary and Canada Day</title>
   <dc:creator>Colin C.</dc:creator>
@@ -927,37 +969,6 @@ We would love some recommendations of shows or movies that you have enjoyed.</em
   <category>daily</category>
   <guid>http://samc-news.netlify.app/posts/2023-05-20_rest.html</guid>
   <pubDate>Sat, 20 May 2023 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Well managed days</title>
-  <dc:creator>Colin C.</dc:creator>
-  <link>http://samc-news.netlify.app/posts/2023-05-19_managed-days.html</link>
-  <description><![CDATA[ 
-
-
-
-<p>It is nice to provide a quick, low-intensity post. To all reading, thank you again for journeying with us.</p>
-<p>I wonder if I ever read this again what my experience will be. I expect, that it will be an emotional roller coaster and perhaps this is your experience reading along. This last month has been the most intense of our lives, some days are just plain difficult and painful, others are quiet as we wait for next steps, new phases of experience. In all the days I think I live in a constant state of vigilance, my guard is always up, until something knocks me over. Yesterday, was a quiet day, a day of calm in this storm. My hope is that today will be as well.</p>
-<section id="reflections-on-may-18" class="level2">
-<h2 class="anchored" data-anchor-id="reflections-on-may-18">Reflections on May 18</h2>
-<p>Learning lessons from the day before the current medication plan for Sam is working. He has not had anymore nausea, and when he has some pain (e.g.&nbsp;muscle ache, headaches) we are on it quickly and medicines are quickly made available. All-in-all, it was a quiet day. We played some video games, got down the hall for a walk, and played a board game.</p>
-</section>
-<section id="concerns-and-victories" class="level2">
-<h2 class="anchored" data-anchor-id="concerns-and-victories">Concerns and victories</h2>
-<ul>
-<li><p>Rest: we all need it. Last night was far better than the previous days as fluids are not being pushed on Sam. We still need to find more rest.</p></li>
-<li><p>Side effects: we have have learned some lessons and are managing current side effects well-enough. Other side effects are expected. I expect that Sam’s mouth will be more sensitive as sores develop, these sores could extend all they way through his digestive track. Chemo-balding is also expected.</p></li>
-<li><p>Potential for secondary infection: One of the effects of the chemotherapy is a reduction in Sam’s blood counts. The medical team can manage reductions in red cells and platelets, but they cannot manage reduced white cell counts. As such, Sam will be more susceptible to colds, flus, or whatever is floating around. We will likely move to a mask-up and wash-up protocol before entering the room.</p></li>
-<li><p>Ultimately, that this intense treatment is effective at removing the cancer from Sam’s body.</p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>daily</category>
-  <guid>http://samc-news.netlify.app/posts/2023-05-19_managed-days.html</guid>
-  <pubDate>Fri, 19 May 2023 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

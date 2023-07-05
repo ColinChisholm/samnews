@@ -6,6 +6,22 @@ Most recent items at the top.
 
 ::: timeline
 
+
+::: {.tl_container .tl_left}
+::: tl_content
+### Response and beginning of Round 3 
+
+2023-07-04
+
+The treatment plan is working. PET scan on June 30^th^ confirmed further reduction in the size and activity of the cancer.  
+
+Round 3 of 6 starts. 
+:::
+:::
+
+
+
+
 ::: {.tl_container .tl_right}
 ::: tl_content
 ### Beginning of Round 2 of 6 
