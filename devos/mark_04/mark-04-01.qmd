@@ -4,7 +4,7 @@ description: "The word is spread like seed and falls in various locations -- som
 author: Colin C.
 date: 2023-07-05
 search: false
-categories: [Mark, parable]
+categories: [Mark, parable, teachings]
 draft: false
 editor: 
   markdown: 
