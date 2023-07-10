@@ -1,6 +1,6 @@
 ---
-title: "Parable of the lamp stand"
-description: "How will you respond to the good news."
+title: "Parables Grain and Mustard"
+description: "The kingdom of God will grow!"
 author: Colin C.
 date: 2023-07-10
 search: false
