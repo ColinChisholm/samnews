@@ -30,8 +30,13 @@ Data has been provided by the medical team here at BC Children's Hospital.
 ```{r}
 ## Import the data 
 
+# dat <- 
+#   readxl::read_xlsx(path = "~/workspace/family/sams_journey/sams_journey/data/events-and-gifts.xlsx",
+#                     sheet = "Blood"
+#   )
+
 dat <- 
-  readxl::read_xlsx(path = "~/workspace/family/sams_journey/sams_journey/data/events-and-gifts.xlsx",
+  readxl::read_xlsx(path = "data/events-and-gifts.xlsx",
                     sheet = "Blood"
   )
 
