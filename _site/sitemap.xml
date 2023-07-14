@@ -6,7 +6,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/blood.html</loc>
-    <lastmod>2023-07-12T14:44:28.636Z</lastmod>
+    <lastmod>2023-07-12T14:52:00.746Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/contact.html</loc>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/devos/index.html</loc>
-    <lastmod>2023-07-12T14:38:46.974Z</lastmod>
+    <lastmod>2023-07-14T14:29:03.151Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/devos/mark-01-01.html</loc>
@@ -319,5 +319,9 @@
   <url>
     <loc>http://samc-news.netlify.app/devos/mark_04/mark-04-35.html</loc>
     <lastmod>2023-07-12T14:38:48.223Z</lastmod>
+  </url>
+  <url>
+    <loc>http://samc-news.netlify.app/devos/mark_05/mark-05-01.html</loc>
+    <lastmod>2023-07-14T14:28:47.709Z</lastmod>
   </url>
 </urlset>

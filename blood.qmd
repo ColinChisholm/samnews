@@ -123,7 +123,8 @@ g <- dat %>% ggplot(aes(x = Day, y = Values, color = Round, linewidth = Round, s
 g
 
 ggsave(height = 8, width = 6, 
-       path = "/home/rstudio/workspace/family/sams_journey/sams_journey/_img/",
+      #  path = "/home/rstudio/workspace/family/sams_journey/sams_journey/_img/",
+      path = "C:/Users/colin/Sync/workRspace/family/sams_journey/sams_journey/_img",
        filename = "blood_graph.png",plot = g,
        dpi = 200)
 
