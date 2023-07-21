@@ -132,3 +132,55 @@ ggsave(height = 8, width = 6,
 ```
 
 ![](https://samsstory.s3.ca-central-1.amazonaws.com/blood_graph.png)
+
+
+
+
+
+```{r}
+#| eval: false
+
+g <- dat %>% ggplot(aes(x = Day, y = Values, color = Round, linewidth = Round, size = Round)) +
+  # geom_smooth(method = "loess",se = F, alpha = .5, size = .2) +
+  geom_line() + 
+  geom_line(aes(alpha = 0.5), show.legend = F) +
+  geom_point() +
+  facet_grid(rows = "facet",
+             scales = "free_y")  +
+  coord_cartesian(ylim = c(0, NA),
+                  xlim = c(1, NA)) +
+  labs(title = "Blood counts",
+       subtitle = "Current and previous rounds of chemo-therapy.  Y-axis has been sqrt transformed",
+       x = "Day",
+       y = NULL,
+       linewidth = NULL, 
+       size = NULL,
+       color = NULL) +
+  # scale_color_manual(values = c("TRUE" = "red", "FALSE" = "grey")) +
+  scale_color_manual(values = c("3" = "red", 
+                                "2" = "lightblue",
+                                "1" = "grey"),
+                     name = "Round")  +
+  scale_linewidth_manual(values = c("3" = .8,
+                                    "2" = 0.4,
+                                    "1" = 0.4),
+                         name="Round") +
+  scale_size_manual(values = c("3" = 1.5, 
+                               "2" = .7,
+                               "1" = .7),
+                    name ="Round") +
+  theme(legend.position = "bottom")
+
+g + scale_y_sqrt()
+
+
+ggsave(height = 8, width = 6, 
+      #  path = "/home/rstudio/workspace/family/sams_journey/sams_journey/_img/",
+      path = "C:/Users/colin/Sync/workRspace/family/sams_journey/sams_journey/_img",
+       filename = "blood_graph_y-scaled.png",plot = g,
+       dpi = 200)
+
+```
+
+
+![](https://samsstory.s3.ca-central-1.amazonaws.com/blood_graph_y-scaled.png)
