@@ -31,6 +31,7 @@ our email, or message us (no need to use the form).*
 
 -   Sam has currently in round 3 of the initial six rounds of treatment. 
 -   Our hope is that Sam will be able to return home following round 6 with regular visits to BC Children's Hospital for monitoring.
+-   Should the current treatment not be enough Sam may have to have a bone marrow transplant described in the July 18^th^ post: [Contingency planning](/posts/2307/2023-07-17_contigency-plan.qmd)
 -   The results following round 1 are described in the June 7^th^ post: [Results and returning for round 2](posts/2023-06-07_results-and-round2.html)
 -   Results following round 2 are described in the July 5^th^ post: [Treatment progress and the start of round 3](posts/2307/2023-07-05_round3-and-results.qmd)
 -   A round of chemo is described in the June 9^th^ post: [What does a round of chemo look like? An overview](posts/2023-06-08_chemo-overview.html)
@@ -38,61 +39,60 @@ our email, or message us (no need to use the form).*
 
 ------------------------------------------------------------------------
 
-# Contingency planning
 
-_July 18, 2023_
+# Monitoring, supplements, and Buddy!
 
-Sam had a clinic appointment this past Friday and honestly I had to let that conversation sit for a number of days before presenting it here.  It was a really important conversation, one that I very much appreciated as the team is being proactive in Sam's treatment.  Despite this, I received it like a gut-punch. 
+_July, 23, 2023_
 
-What it came down to is making a contingency plan.  Sam's cancer is unknown and as such it is impossible to know if the current treatment will be fully effective.  If it is not, then what next?  We discussed the possibility of following the current treatment up with a bone marrow transplant.  There is quite a lot of planning needed to move forward with a such a procedure as a donor needs to be found.  So we are starting now. 
+![The highlight this week is the arrival of Gram, Papa C., and Buddy!](https://samsstory.s3.ca-central-1.amazonaws.com/buddy-visit_20230721.jpg)
 
-The bone marrow transplant treatment, if needed, would start following the current treatment (~early Oct), and would add some significant time to our stay down here.  
+Sam is nearing the end of round 3 which will mark the half-way through this treatment regime. Generally, it has been slow and quiet week with trips back and forth to the clinic but there has been much anticipation in our minds for the arrival of my parents and Sam's dog Buddy this past Friday.  
 
-If it is needed, of course we will do it.  We just hope that it is not needed. 
+For each of the clinic visits Sam's energy was low, walking down the hall took significant effort, so we transported back and forth him by wheel chair.  Thursday afternoon we were in to check levels to prepare for Friday's LP^[LP: Lumbar puncture, to monitor if cancer has crossed into the central nervous system and to provide chemo drugs into the spinal column as a preventative.].  Friday was a long day in the clinic:  Platelets first, then the LP, and Hemoglobin provided in the afternoon.  
 
-
-:::callout-important
-## Become a bone marrow donor
-
-[![](https://www.blood.ca/themes/custom/cbs_bootstrap_sass/CBS_Logo_descriptors_RGB-WhiteBG.svg){style="max-width:80%}](https://makeallthedifference.blood.ca/stem-cells-1/)
-
-It is easy to become a donor -- no needles, just a cheek swab that you can do yourself.  
-
-Register via Canada Blood Services' stem cell donor website: 
-
-[https://makeallthedifference.blood.ca/stem-cells-1/](https://makeallthedifference.blood.ca/stem-cells-1/)
-
-Perhaps you will be a match for Sam or someone else in need.  
-:::
+With the completion of clinic procedures and a couple units of new blood Sam was ready to go.  We packed up and made our way to Ft. Langley for a great reunion! Sam has been having great visits with my parents and Buddy these last couple days.  So good for him, for all of us, to experience some normal life!
 
 
 
-## The past few days -- including a hospital visit 
-
-This past weekend has been very quiet.  As a family we managed one outing on Friday night to visit Uncle Kev.  The remainder of our days have at RMH and for the most part in our room here.  Sam is mid-way through this cycle of chemotherapy and as expected his blood counts are falling.  This means that his energy levels are low, and that his immune system is compromised. The best thing we can do is keep him from getting sick -- hide away until his system starts recovering.  
-
-### Hospital ER visit
-
-Last night we paid a visit to the ER.  Sam was having chest pain and headaches that would come in waves.  The medical team pursued the potential for a blood embolus (throwing a clot) ordering ECGs, bloodwork, and a CT. After a few hours these pains subsided, and the tests were all clear.  So a bit of a mystery but good that there was nothing serious. 
 
 ## Concerns and victories
 
 -   Thankful that we can easily access to care here and the amazing medical team.
 
 -   We are thankful for the successful completion of round three's drug
-    delivery phase!  So far the side effects have been minimal.  Sam is currently in the valley trying to avoid any secondary infections / flu, etc.
+    delivery phase!  So far the side effects have been minimal.  Sam is nearing the end of round 3.
 
--   We hope that there will not be a need for the contingency plan, yet we need to prepare ourselves for it, and all the additional time may bring with it.
-
--   Last's nights visit made us remember the blood clots associated with this cancer.  Sam's current medicines should keep them from being an issue but they remain a background concern.
-
+-   We hope that there will not be a need for the contingency plan ([bone marrow transplant](/posts/2307/2023-07-17_contigency-plan.qmd)), yet we need to prepare ourselves for it, and all the additional time may bring with it.
 
 -   There is always concern that the cancer remains.  We long for the day when Sam is clear of this disease. 
+
+
 
 
 ------------------------------------------------------------------------
 
 # Support
+
+:::callout-important
+## Become a bone marrow donor
+
+[![](https://www.blood.ca/themes/custom/cbs_bootstrap_sass/CBS_Logo_descriptors_RGB-WhiteBG.svg){style="max-width:80%}](https://makeallthedifference.blood.ca/stem-cells-1/)
+
+We are preparing for the potential need for Sam to receive a bone marrow transplant.  Consider becoming a donor.  It is easy -- no needles, just a cheek swab that you can do yourself.  
+
+Register via Canada Blood Services' stem cell donor website: 
+
+[https://makeallthedifference.blood.ca/stem-cells-1/](https://makeallthedifference.blood.ca/stem-cells-1/)
+
+Perhaps you will be a match for Sam or someone else in need.  
+
+_Note: You need to be between the ages of 17 and 35 to become a donor._
+:::
+
+
+
+
+## Financial Support
 
 Here we include options to provide financial support cancer research at
 the BC Children's Hospital, the Ronald McDonald House, or to support us
