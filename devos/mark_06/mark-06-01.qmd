@@ -1,8 +1,8 @@
 ---
-title: "The sick child ... dead child"
-description: "Jesus is never too late"
+title: "The skeptical people"
+description: "He is amazed at their lack of faith"
 author: Colin C.
-date: 2023-07-21
+date: 2023-07-31
 search: false
 categories: [Mark, authority]
 draft: false
