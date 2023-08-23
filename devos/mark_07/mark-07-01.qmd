@@ -11,7 +11,7 @@ editor:
     wrap: 72
 ---
 
-### [Mark 6: 53 - 8](https://www.bible.com/bible/111/MRK.7.NIV)
+### [Mark 7: 1 - 8](https://www.bible.com/bible/111/MRK.7.NIV)
 
 > The Pharisees and some of the teachers of the law who had come from Jerusalem gathered around Jesus and saw some of his disciples eating food with hands that were defiled, that is, unwashed. (The Pharisees and all the Jews do not eat unless they give their hands a ceremonial washing, holding to the tradition of the elders. When they come from the marketplace they do not eat unless they wash. And they observe many other traditions, such as the washing of cups, pitchers and kettles.)\
 > So the Pharisees and teachers of the law asked Jesus, “Why don’t your disciples live according to the tradition of the elders instead of eating their food with defiled hands?”\
