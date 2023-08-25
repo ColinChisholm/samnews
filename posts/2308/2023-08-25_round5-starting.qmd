@@ -1,8 +1,8 @@
 ---
-title: "Pending..."
-description: "A number of items are pending as the PET scan was delayed and we expect to hear from the medical team regarding recommended next steps.<br/>Gram and Papa visit with Buddy!"
+title: "Pending results and preparing for round 5"
+description: "Round 4 has been rough and we anticipate round 5 starting today. Results and recommendations are expected."
 author: Colin C.
-date: 2023-08-21
+date: 2023-08-25
 categories: [regular]
 draft: false
 editor: 
@@ -10,55 +10,38 @@ editor:
     wrap: 72
 ---
 
-![A typical clinic day view.  Waiting for bloodwork and discussions with the medical team.](https://samsstory.s3.ca-central-1.amazonaws.com/clinic_sam-tina.JPG)
+Round 4 is officially complete.  It has been a rough one with little relief.  The previous rounds Sam would usually have 2-4 days of feeling more normal... This past round hardly let up.  As he was starting to feel a little better he was hit with another bought of nausea and mucositis.  
 
-It is Monday morning.  Much of the province is covered in smoke and many are trying to find places to live. What a challenging time for so many.  
+Sam has a very significant clinic appointment today.  
 
-Our own challenges continue.  
+1.   We should receive the results of the lasted PET scan and lumbar-puncture
 
+2.   The medical team may be ready to present recommendations for treatment -- will a bone marrow transplant be necessary?
+
+3.   Round 5 is likely to start today. This will begin with five days in hospital for chemo-drug delivery. 
+
+All this to say, I am a little anxious this morning. 
 
 ## Looking back -- the past week
 
-As far as medical procedures, it was a mostly uneventful week... too uneventful.  We had the usual clinic check-ins.  Sam only needed one transfusion this round (platelets).  Friday, Sam was scheduled to have a PET.  This scan generates a 3-dimensional image of his body and where the cancer is in it.  However, maintenance issues caused this scan to be postponed -- hopefully Sam can get in this Wednesday.
+Despite Sam has not felt great we have had some great visits this week. 
 
-The rest of the week was focused on the management of Sam's side-effects.  We have had to be very strict with the scheduling his medications this round.  We have seen decent success in managing his nausea and some success in managing his pain.  Sam's energy levels have been low, and his bone ache as his marrow is in full production mode to restore the blood that was destroyed in this last round of chemo.  
+-   On Monday, we had a last visit with my parents and Buddy before they made the return drive back to Prince George. 
 
-## Looking back -- the past weekend
+-   Tuesday, Tina's mom arrived!
 
-![We took my parents out for ice cream and brought some back for Sam](https://samsstory.s3.ca-central-1.amazonaws.com/ice-cream_c-t-gram-papa-buddy.JPG)
-
-Two great reports from the weekend! 
-
-1.   My parents were down and though our visits were fairly short, given Sam's energy levels, it was great to see them.  Of course they brought Buddy and he was a joy to all including numerous other families that stopped to meet him near the Ronald McDonald House entrance. 
-
-
-2.   The community driven _Fish for a Wish_ event was held out at Aleza Lake.  It sounds like it was a great day for everyone who attended!  The numbers are still be finalized but there is a significant donation to support Sam in this cancer journey.  We are amazed and humbled at the support of the community! Thank you!
-
-
-
-
-## Upcoming 
-
--   PET scan should happen this week.  
-
--   This weeks clinic appointments are significant.  The medical team will be meeting to discuss Sam's case either today or tomorrow morning.  From that meeting we expect that recommendations will be made regarding next steps.  Specifically, will there be a need for a bone-marrow transplant?  If 'no' then we will finish the current plan, likely wrapping up the main treatment by the end of October.  If 'yes', following this treatment plan (near the end of Oct.), Sam will likely start the bone-marrow transplant protocol.  
-
--   Round 5 is planned to start this coming Friday.
-
-
+-   Wednesday, Korena and Samuel Z. were here for the afternoon.  This was Sam's strongest day and it was great to see him reconnect with a friend.  Also great to see Korena and Tina reconnect! 
 
 
 ## Concerns and victories
 
--   I am amazed at our community, their support, and their gifts. 
+-   So thankful for all our friends and family for your visits, care, and on-going communication.   
 
--   I am amazed the medical tech. that is available to support the decision making here.  Sure the PET was delayed but we have access to this and the delay is simply an inconvenience. 
+-   I am amazed the medical tech. that is available to support the decision making here.  Results of the PT scan are expected today. 
 
--   We are very appreciative of all the support, notes of encouragement, and other communications.  Tina wishes that she had capacity to respond to these.  Her on-going health concerns are the major cause of her inability to reply. Please know that your messages to her have been received and are held dear ... despite any lack of response on her part.
+-   This round has been a challenge with much stronger side-effects causing pain and nausea. We have adapted and learned how to manage much of it.   
 
--   This round has been a challenge with much stronger side-effects causing pain and nausea. We have adapted and learned how to manage much of it.  The pain in particular has been most difficult. 
-
--   This week, likely tomorrow, we expect that major decisions will be discussed regarding Sam's future treatment -- specifically determining if Sam will need a bone-marrow transplant.  
+-   We expect that major decisions will be discussed regarding Sam's future treatment -- specifically determining if Sam will need a bone-marrow transplant.  
 
 -   There is always concern that the cancer remains.   We long for the day when Sam is clear of this disease.
 
