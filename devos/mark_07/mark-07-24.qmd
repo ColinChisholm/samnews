@@ -3,6 +3,7 @@ title: "Not just for the Jews"
 description: "Jesus compassion extends to all people"
 author: Colin C.
 date: 2023-08-25
+date-modified: 2023-08-30
 search: false
 categories: [Mark, authority, for-all]
 draft: false
@@ -11,7 +12,7 @@ editor:
     wrap: 72
 ---
 
-### [Mark 7: 9 - 23](https://www.bible.com/bible/111/MRK.7.NIV)
+### [Mark 7: 24 - 30](https://www.bible.com/bible/111/MRK.7.NIV)
 
 > Jesus left that place and went to the vicinity of Tyre. He entered a house and did not want anyone to know it; yet he could not keep his presence secret. In fact, as soon as she heard about him, a woman whose little daughter was possessed by an impure spirit came and fell at his feet. The woman was a Greek, born in Syrian Phoenicia. She begged Jesus to drive the demon out of her daughter.\
 > “First let the children eat all they want,”he told her, “for it is not right to take the children’s bread and toss it to the dogs.”\
