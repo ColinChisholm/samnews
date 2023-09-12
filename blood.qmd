@@ -86,7 +86,6 @@ dat <- dat %>%
 
 ```{r}
 #| fig-height: 8
-#| eval: false
 
 dat$Round <- as.character(dat$Round)
 
@@ -146,7 +145,7 @@ ggsave(height = 8, width = 6,
 
 
 ```{r}
-#| eval: false
+
 
 
 g <- g + 

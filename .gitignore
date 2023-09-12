@@ -23,3 +23,6 @@ wishes*
 /.quarto/
 
 _other-doccs/*
+
+blood_files/*
+_site/blood_files
