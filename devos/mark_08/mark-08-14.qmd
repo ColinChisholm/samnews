@@ -11,7 +11,7 @@ editor:
     wrap: 72
 ---
 
-### [Mark 8: 14 - 21](https://www.bible.com/bible/111/MRK.7.NIV)
+### [Mark 8: 14 - 21](https://www.bible.com/bible/111/MRK.8.NIV)
 
 > The disciples had forgotten to bring bread, except for one loaf they had with them in the boat. “Be careful,”Jesus warned them. “Watch out for the yeast of the Pharisees and that of Herod.”\
 > They discussed this with one another and said, “It is because we have no bread.”\
