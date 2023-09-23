@@ -66,7 +66,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/index.html</loc>
-    <lastmod>2023-09-19T19:19:33.283Z</lastmod>
+    <lastmod>2023-09-23T13:38:37.910Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/photos.html</loc>
@@ -463,5 +463,9 @@
   <url>
     <loc>http://samc-news.netlify.app/devos/mark_08/mark-08-31.html</loc>
     <lastmod>2023-09-23T12:55:48.674Z</lastmod>
+  </url>
+  <url>
+    <loc>http://samc-news.netlify.app/posts/2309/2023-09-23_r6-treatment.html</loc>
+    <lastmod>2023-09-23T13:38:31.569Z</lastmod>
   </url>
 </urlset>
