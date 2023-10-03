@@ -1,0 +1,65 @@
+---
+title: "The Plan -- detailed"
+author: Colin C.
+date: 2023-10-02
+date-modified: today
+draft: false
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+::: callout-important
+## Non-public page
+::: center
+This page is for those to whom we are providing all the details.
+
+*Please do not share this page.*
+:::
+:::
+
+## BMT Prep / Sam's Baseline
+
+Upcoming tests and procedures to establish a baseline for Sam.
+
+| Day | Date     | Planned Activity                          |
+|:---:|:---------|:------------------------------------------|
+| -44 | Sept. 26 | Eye Exam                                  |
+| -44 | Sept. 29 | Infectious disease history                |
+| -34 | Oct. 6   | Medical Imaging                           |
+| -29 | Oct. 11  | Bone Marrow Biopsy                        |
+| -27 | Oct. 13  | **PET Scan**<br>state of the cancer       |
+| -27 | Oct. 13  | Ultrasound of neck (state of blood-clots) |
+
+*Additional activities to be booked*
+
+## BMT Countdown
+
+BMT specific activities
+
+| Day | Date    | Planned Activity                             |
+|:---:|:--------|:---------------------------------------------|
+| -23 | Oct. 16 | Targeted radiation                           |
+| -22 | Oct. 17 | Targeted radiation                           |
+| -21 | Oct. 18 | Targeted radiation                           |
+| -20 | Oct. 19 | Targeted radiation                           |
+| -19 | Oct. 20 | Targeted radiation                           |
+| -18 | Oct. 21 | weekend                                      |
+| -17 | Oct. 22 | weekend                                      |
+| -16 | Oct. 24 | Targeted radiation                           |
+| -15 | Oct. 25 | Targeted radiation                           |
+| -14 | Oct. 26 | Targeted radiation                           |
+| -13 | Oct. 27 | Targeted radiation                           |
+| -12 | Oct. 28 | Targeted radiation                           |
+| -11 | Oct. 29 | weekend                                      |
+| -10 | Oct. 30 | weekend                                      |
+| -9  | Oct. 31 | **Admit to ward**<br>Rabbit ATG              |
+| -8  | Nov. 1  | Rabbit ATG                                   |
+| -7  | Nov. 2  | Rabbit ATG                                   |
+| -6  | Nov. 3  | Rabbit ATG                                   |
+| -5  | Nov. 4  | Cyclophosphomide                             |
+| -4  | Nov. 5  | Cyclophosphomide                             |
+| -3  | Nov. 6  | Total body radiation                         |
+| -2  | Nov. 7  | Total body radiation                         |
+| -1  | Nov. 8  | Total body radiation<br>**Move to BMT room** |
+|  0  | Nov. 9  | ***Transplant day***                         |
