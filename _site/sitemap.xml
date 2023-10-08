@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/devos/index.html</loc>
-    <lastmod>2023-10-06T12:37:23.500Z</lastmod>
+    <lastmod>2023-10-08T16:47:48.548Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/devos/mark-01-01.html</loc>
@@ -491,5 +491,9 @@
   <url>
     <loc>http://samc-news.netlify.app/devos/mark_09/mark-09-14.html</loc>
     <lastmod>2023-10-06T12:37:27.435Z</lastmod>
+  </url>
+  <url>
+    <loc>http://samc-news.netlify.app/devos/mark_09/mark-09-30.html</loc>
+    <lastmod>2023-10-08T16:47:43.596Z</lastmod>
   </url>
 </urlset>
