@@ -2,7 +2,7 @@
 title: "The Plan"
 author: Colin C.
 date: 2023-09-05
-date-modified: today
+date-modified: 2023-10-09
 draft: false
 editor: 
   markdown: 
@@ -18,7 +18,7 @@ editor:
 :::
 
 
-Following round 4 Sam had a PET scan to determine how his cancer was progressing.  Results indicated that we continue to move in the right direction.  The cancer was reduced in size and remained in known location -- that is it had not spread anywhere else. However, it was also apparent that the rate of reduction was not enough to remove the cancer by the end of this chemotherapy regime.  
+Following round 4 Sam had a PET scan to determine how his cancer was progressing.  Results indicated that we continue to move in the right direction.  The cancer was reduced in size and remained in known locations -- that is it had not spread anywhere else. However, it was also apparent that the rate of reduction was not enough to remove the cancer by the end of this chemotherapy regime.  
 
 We are currently completing round 6 of Sam's initial chemotherapy treatment.  As this nears completion Sam will have a number of tests to determine his baseline health before starting his bone-marrow-transplant protocol.
 

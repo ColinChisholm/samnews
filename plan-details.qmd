@@ -26,12 +26,13 @@ Upcoming tests and procedures to establish a baseline for Sam.
 |:---:|:---------|:------------------------------------------|:----:|
 | -44 | Sept. 26 | Eye Exam                                  | &check;   |
 | -44 | Sept. 29 | Infectious disease history                | &check;   |
-| -34 | Oct. 5   | Renal GFR                                 | -    |
-| -29 | Oct. 10  | Bone Marrow Biopsy                        | -    |
+| -34 | Oct. 5   | Renal GFR                                 | &check;    |
+| -30 | Oct. 10  | Bone Marrow Biopsy                        | -    |
+| -29 | Oct. 11  | Radiation Consult<br>Respiratory function<br>Hearing   | -    |
 | -27 | Oct. 13  | **PET Scan**<br>state of the cancer       | -    |
 | -27 | Oct. 13  | Ultrasound of neck (state of blood-clots) | -    |
 
-*Additional activities to be booked*
+*Additional activities may be booked*
 
 ## BMT Countdown
 
@@ -62,5 +63,5 @@ BMT specific activities
 | -4  | Nov. 5  | Cyclophosphomide                             |
 | -3  | Nov. 6  | Total body radiation                         |
 | -2  | Nov. 7  | Total body radiation                         |
-| -1  | Nov. 8  | Total body radiation<br>**Move to BMT room** |
+| -1  | Nov. 8  | Total body radiation<br>**Move to BMT room**<br>(_isolation protocol begins_)|
 |  0  | Nov. 9  | ***Transplant day***                         |
