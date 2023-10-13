@@ -7,30 +7,107 @@ draft: false
 editor: 
   markdown: 
     wrap: 72
+knitr: 
+  opts_chunk: 
+    eval: true
+    message: false
+    warning: false
+    echo: false
+code-fold: true
+editor_options: 
+  chunk_output_type: console
 ---
 
+```{r}
+library(tidyverse)
+library(lubridate)
+library(knitr)
+library(kableExtra)
+
+dat <- 
+  readxl::read_xlsx(path = "data/events-and-gifts.xlsx",
+                    sheet = "BMT-planning"
+  )
+
+
+dat <- dat %>% 
+  dplyr::select(Category,Day, Date2, Activity, Complete, Activity)
+
+dat$Complete[is.na(dat$Complete)] <- ""
+
+
+base <- dat %>% filter(Category == "Baseline") %>% 
+    select(-Category) %>% 
+    mutate(Date2 = date(Date2)) %>% 
+    rename(Date = Date2)
+
+
+bmt  <- dat %>% filter(Category == "BMT") %>% 
+    select(-Category, -Complete) %>% 
+    mutate(Date2 = date(Date2)) %>% 
+    rename(Date = Date2)
+
+```
+
+
+
+
 ::: callout-important
-## Non-public page
+
+
+
 ::: center
+
+### **New BMT Transplant Date: _Nov. 14, 2023_**  
+
+-----
+
 This page is for those to whom we are providing all the details.
 
 *Please do not share this page.*
 :::
 :::
 
+
+
 ## BMT Prep / Sam's Baseline
 
 Upcoming tests and procedures to establish a baseline for Sam.
 
+```{r}
+
+base %>%
+  group_by(Day) %>% 
+  mutate(Day = replace(Day, duplicated(Day), " ")) %>% 
+  ungroup() %>% 
+  group_by(Date) %>% 
+  mutate(Date = as.character(Date)) %>% 
+  mutate(Date = replace(Date, duplicated(Date), " ")) %>% 
+  ungroup() %>% 
+
+  kbl() %>% 
+  kable_styling(bootstrap_options = "striped")
+
+
+
+
+
+```
+
+
+
+<!----
 | Day | Date     | Planned Activity                          | Complete |
 |:---:|:---------|:------------------------------------------|:----:|
 | -44 | Sept. 26 | Eye Exam                                  | &check;   |
 | -44 | Sept. 29 | Infectious disease history                | &check;   |
 | -34 | Oct. 5   | Renal GFR                                 | &check;    |
-| -30 | Oct. 10  | Bone Marrow Biopsy                        | -    |
-| -29 | Oct. 11  | Radiation Consult<br>Respiratory function<br>Hearing   | -    |
+| -30 | Oct. 10  | Bone Marrow Biopsy                        | &check;    |
+| -29 | Oct. 11  | Radiation Consult<br>Hearing   | &check;<br>&check;    |
+
 | -27 | Oct. 13  | **PET Scan**<br>state of the cancer       | -    |
 | -27 | Oct. 13  | Ultrasound of neck (state of blood-clots) | -    |
+----> 
 
 *Additional activities may be booked*
 
@@ -38,6 +115,24 @@ Upcoming tests and procedures to establish a baseline for Sam.
 
 BMT specific activities
 
+```{r}
+
+bmt %>%   
+  group_by(Day) %>% 
+  mutate(Day = replace(Day, duplicated(Day), " ")) %>% 
+  ungroup() %>% 
+  group_by(Date) %>% 
+  mutate(Date = as.character(Date)) %>% 
+  mutate(Date = replace(Date, duplicated(Date), " ")) %>% 
+  ungroup() %>% 
+
+  kbl() %>% 
+  kable_styling(bootstrap_options = "striped")
+
+```
+
+
+<!----
 | Day | Date    | Planned Activity                             |
 |:---:|:--------|:---------------------------------------------|
 | -24 | Oct. 16 | Targeted radiation                           |
@@ -65,3 +160,4 @@ BMT specific activities
 | -2  | Nov. 7  | Total body radiation                         |
 | -1  | Nov. 8  | Total body radiation<br>**Move to BMT room**<br>(_isolation protocol begins_)|
 |  0  | Nov. 9  | ***Transplant day***                         |
+---->
