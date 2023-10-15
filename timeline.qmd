@@ -2,6 +2,30 @@
 title: Milestones
 ---
 
+::: box-cc-important
+## Summary of the treatment progress and plan 
+
+-   Sam has currently at the end his sixth round of the initial six rounds of chemotherapy. 
+`
+-   Our hope was that Sam could return home following round six.  However, the cancer, although not growing, has not been reduced enough.  We are now preparing for a Bone Marrow Transplant in effort to remove the cancer. 
+<!------   Should the current treatment not be enough Sam may have to have a bone marrow transplant described in the July 18^th^ post: [Contingency planning](/posts/2307/2023-07-17_contigency-plan.qmd)----->
+-   Results so far:
+    -   Following round 1 are described in the June 7^th^ post: [Results and returning for round 2](posts/2023-06-07_results-and-round2.html)
+    -   Following round 2 are described in the July 5^th^ post: [Treatment progress and the start of round 3](posts/2307/2023-07-05_round3-and-results.qmd)
+    -   Results following round 4 are described in the August 26^th^ post: [Results and recommendations](posts/2308/2023-08-26_results-and-recommendations.qmd)
+    -   Results from round six confirm the direction to pursue a bone marrow transplant.  See the [Oct. 15^th^ post](/posts/2309/2023-10-15_Results-round-6.qmd)
+
+
+-   A round of chemo is described in the June 9^th^ post: [What does a round of chemo look like? An overview](posts/2023-06-08_chemo-overview.html)
+
+For upcoming events see: [The Plan](plan.qmd)
+
+:::
+
+------------------------------------------------------------------------
+
+
+
 Most recent items at the top.
 
 ::: timeline
