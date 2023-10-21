@@ -13,6 +13,9 @@ _*.qmd
 blog-notes.txt
 
 _img/
+_tmp/
+
+
 
 data/
 _reports/*

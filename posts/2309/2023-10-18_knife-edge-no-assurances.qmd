@@ -1,10 +1,10 @@
 ---
 title: "On a knife's edge"
-description: "Challenges and glimpses of what the next steps will bring us"
+description: "Challenges and glimpses of what the next steps may bring."
 author: Colin C.
-date: 2023-10-18
+date: 2023-10-21
 categories: [regular, BMT]
-draft: true
+draft: false
 editor: 
   markdown: 
     wrap: 72
@@ -16,24 +16,16 @@ knitr:
     echo: false
 ---
 
-```{=html}
-<!---
-*ideas -- how to structure this*
 
-1.  Overview -- not an ideal plan and the fears (This post)
-2.  Next posts
-    -   Radiation treatment
-    -   BMT preparation
-    -   BMT Grafting -- balancing graft vs. host and graft vs. disease.
+![A few of our visitors -- so great to have you
+here!](https://samsstory.s3.ca-central-1.amazonaws.com/2023-10-20_visitors.jpg)
 
 ------------------------------------------------------------------------
 
----->
-```
-In my last post I tried to keep things to the facts -- to pass on a
-clinical picture. Here I will attempt to capture a little of what it is
-to live through this cancer journey and to provide more detail on what
-the upcoming process may look like.
+In my last post I tried to keep things to a clinical picture. Here I
+will attempt to capture a little of what it is to live through this
+cancer journey and to provide more detail on what the upcoming process
+may look like.
 
 From the latest results, [last post](./2023-10-15_Results-round-6.qmd),
 It feels like we are walking along a knife's edge separating life and
@@ -43,16 +35,15 @@ though they are good enough to keep going.
 
 ## ~~Good results?~~ Good *enough* results
 
-Are the results good. Yes -- in that we get to keep going, and that
-there is hope in the treatment plan. However, there are no assurances
-and Sam is not in an ideal state for entering the next phases of
-treatment.
+Are the results good? Yes -- in that we get to keep going, and that
+there is hope that the treatment will work. However, there are no
+assurances, and Sam is not in an ideal state for entering the next
+phases of treatment.
 
-Sam's cancer is unique. Childhood cancer is very rare and Sam's cancer
-is a one-in-a-million chance with in the group of people that have
-cancer. Our medical team is using their best judgment, but none of them
-have battled this cancer before. They have found a single reference to
-it, but that has only provided a little guidance.
+Sam's cancer is unique, and our medical team is using their best
+judgment, but none of them have battled this cancer before. They have
+found a single reference to it, but that has only provided a little
+guidance.
 
 The medical team is battling hard for Sam and their strategies to date
 have initially reduced, and more recently kept the cancer from growing.
@@ -65,19 +56,19 @@ We are moving forward with a bone-marrow-transplant (BMT), but we are
 not in an ideal situation. Ideally, and for best results, when moving to
 BMT the medical team would like the cancer to be non-detectable. With
 Sam, starting from where he was back in April, the cancerous mass has
-been reduced in size, but a significant mass remains: measuring roughly
-4cm x 2cm x 2cm. It is not operable as it is in the lymphatic system,
-and it is not a hard tumour; although it can be located, as I understand
-it, it is too amorphous and intertwined within his healthy tissues.
+been reduced in size, but a significant mass remains. It is not operable
+as it is in the lymphatic system; although it can be located, as I
+understand it, it is too amorphous and intertwined within his healthy
+tissues and bear vital organs (e.g. heart and lungs).
 
 ### Challenges ahead
 
-In the weeks ahead Sam will be facing a good number of challenges (see
-[The Plan](/plan.qmd)).
+In the weeks ahead Sam will be facing a number of challenges (see [The
+Plan](/plan.qmd)).
 
 Radiation therapy -- phase 1: *Targeted radiation*
 
-:   The objective here is to directly attach the cancer and destroy as
+:   The objective here is to directly attack the cancer and destroy as
     much as possible. There are both immediate and long term challenges.
     The radiation oncologist is trying to balance attacking the cancer
     while protecting the adjacent lungs which are very sensitive to
@@ -91,43 +82,45 @@ Radiation therapy -- phase 2: *Total body irradiation (TBI)*
 :   Next, Sam will undergo three days of total body radiation (TBI).
     This radiation will not target his cancer, rather it is undertaken
     to condition his body for the upcoming bone marrow transplant. TBI
-    has the objective of permanently destroying Sam's immune system so
-    that his immune system will not compete with the transplant -- the
-    immune system to be grafted in.
+    has the objective of permanently destroying Sam's native immune
+    system so that his immune system will not compete with the
+    transplant.
 
-:   There is a long list of side effects and potential side effects from
-    two radiation treatments. A few of these include: almost certain
-    sterility, permanent scaring of the lungs, impacts on the thyroid,
-    heart disease, changes to metabolism, secondary cancers, and others.
-    Needless to say this can be scary.
+:   There is a long list of potential side effects from the two
+    radiation treatments. A few of these include: permanent scarring of
+    the lungs, impacts on the thyroid, heart disease, changes to
+    metabolism, secondary cancers, and others. Needless to say this can
+    be scary.
 
-:   This step, in conjunction with the BMT Chemotherapy, mark a point of
-    no return. Once these steps are initiated a transplant must happen
-    for Sam to ever have an immune system again.
+:   This step, in conjunction with the following BMT Chemotherapy, mark
+    a point of no return. Once these steps are initiated a transplant
+    must happen for Sam to ever have an immune system again.
 
-<!---*Remove Sam's immune system EXPAND and highlight long term radiation impacts*\--->
 
 BMT Chemotherapy
 
 :   The previous chemotherapy that Sam has had focused on targeting and
     removing the disease. This upcoming chemotherapy has a different
-    objective. It conjunction with TBI it will be used to remove Sam's
-    native immune system. Following this chemotherapy any cells that
+    objective. In conjunction with TBI it will be used to remove Sam's
+    own immune system. Following this chemotherapy any cells that
     produce/create blood will have been killed, and Sam's bone marrow
     will be ready to receive the transplant. As with most chemotherapy
-    drugs these will likely make Sam feel very ill.
+    drugs this treatment will likely make Sam feel ill.
 
 The transplant/graft
 
-:   On Nov. 14^th^ Sam will receive the donated bone marrow. The donated
-    cells will need to establish or engraft to start providing Sam his
-    new immune system. In the 2-3 weeks following receiving the
-    transplant we will wait in anticipation for signs that the graft has
-    taken hold.
+:   On Nov. 14^th^ Sam is scheduled to receive the donated bone marrow.
+    The donated cells will need to establish or engraft to start
+    providing Sam his new immune system. In the 2-3 weeks following
+    receiving the transplant we will wait in anticipation for signs that
+    the graft is taking hold. The whole transplant process will take
+    place in an isolation room -- Sam will not be allowed to leave until
+    his new immune system takes hold. Tina and I will be able to gown-up
+    and be with him.
 
-:   This will be a hard number of weeks. Given the prior steps Sam may
-    feel horrible for numerous weeks. It is highly likely that he will
-    need significant intravenous supports for management of pain,
+:   This will be a hard number of weeks. Given the prior steps Sam will
+    likely feel horrible for numerous weeks. It is highly likely that he
+    will need significant intravenous supports for management of pain,
     nausea, engraftment of the new immune system, hydration, nutrition,
     and then potentially additional medication should he become ill
     without an immune system to support him. To provide all of these
@@ -135,83 +128,62 @@ The transplant/graft
     all be connected at once. His current central lines should support
     most of this.
 
-:   Once the graft takes hold it will start generating an immune system
-    for Sam and fighting for him. However, this is a foreign immune
-    system and steps will need to be taken ensure that the graft does
-    not attack Sam -- potential graft versus host disease.
-
-:   The graft also must remain aggressive enough to continually attach
-    the cancer. One of my fears is that, because of the size of the
-    remaining cancer, the new immune system may adapt and not consider
-    it disease.
+:   Once the graft takes hold it will start generating Sam's new immune
+    system and start fighting for him, including battling the cancer.
+    However, this is a foreign immune system and steps will need to be
+    taken ensure that the graft does not attack Sam -- potential graft
+    versus host disease. The graft also must remain aggressive enough to
+    continually attach the cancer.
 
 ## Choosing hope
 
 There are many reasons to be consumed by fear -- to allow the beast of
-Despair to have a foothold in our lives. Sure we have our moments of anxiety -- but
-we choose hope. Sam remains a champion. We have also laid out some great
-ideas for his time in isolation -- I hope he will feel well enough to
-take part in the activities we have planned.
+Despair to have a foothold in our lives. Sure we have our moments of
+anxiety -- but we choose hope. Sam remains a champion. We have also laid
+out some great ideas for his time in isolation -- I hope he will feel
+well enough to take part in the activities we have planned.
 
 We invite you to choose hope with us. It does make this journey easier
-knowing that you are there with us in mind and spirit. Please send us your
-commitment care and prayer.
+knowing that you are there with us in mind and spirit. Please continue
+in your commitment to care and prayer.
 
-```{=html}
-<!--- MOVE TO ANOTHER POST(s)
 
-### Radiation therapy
 
-Sam will be having two phases of radiation. The first starts next week
-and will directly treat the cancer -- using radiation targeted at the
-cancerous mass -- destroying cancer cells. The difficulty is that the
-cancer is also immediately adjacent to Sam's heart and lungs.
-
-The second phase of radiation is part of preparing Sam's body to receive
-the BMT -- part o removing his existing immune system to make way for
-the new.
-
-Although the radiation is simple enough to receive there are both
-immediate and long term side effects.
-
-### Graft vs. Host Disease
-
-Within Sam's body, his own immune system is not able to recognize the
-cancer and fight it. The BMT process replaces Sam's immunity with that
-of the donors. This new immune system will fight and attack anything
-that it does not recognize... To begin with this will be all of Sam. To
-combat this
----->
-```
 ## Highlights from this past week
 
 Visits
 
-:   David and Beth H. came down. So good to see Sam be ale to spend time
-    with a friend in person!
+:   David and Beth H. came down. So good to see Sam be able to spend
+    time with a friend in person!
 
 :   We invited Nana over for a sleep-over. Although she now lives in the
     area it was great to have her here with us like before she moved.
 
-:   Gram and Papa C. arrived yesterday evening. Great to have them here and feel their support.
+:   Gram and Papa C. arrived yesterday evening. Great to have them here
+    and have their in-person support.
 
 Sam's Energy
 
-:   We have not seen Sam have this much energy since well before we left home. The cancer has been set
-    back and he as a week break between treatments. It definitely, shows
-    how the chemotherapy has been relentless.
+:   We have not seen Sam have this much energy since well before we left
+    home. The cancer has been set back and he has had a week long break
+    between treatments. It definitely shows how the chemotherapy has
+    been relentless.
 
 :   Sam has had renewed energy to take on some academics, to build Lego,
-    to tease his parents (...I happy about that? Right?...). So good to
-    see him have more physical and mental capacity.
+    to tease his parents (...I am happy about that? Right?...). So good
+    to see him have more physical and mental capacity.
 
 ## Victories and concerns
 
--   It has been amazing to see Sam out from under the influence of chemotherapy.  To see him return to strength of mind 
+-   It has been amazing to see Sam out from under the influence of
+    chemotherapy. To see him return to strength of mind and to have
+    capacity for more activity.
 
 -   We have completed a major chapter in Sam's treatment. With the
     completion of this last/ sixth round of chemotherapy we now pivot to
-    the bone marrow treatment plan.
+    the bone marrow treatment plan -- this next treatment brings hope of
+    removal of the disease but also anxiety about both the challenging
+    process and the potential for long term side effects.
 
 -   It is the beginning of flu season and covid is still out there. In
     the weeks ahead, as a family, we will be very cautious to reduce our
@@ -219,10 +191,10 @@ Sam's Energy
     will add challenges to Sam and the BMT process as he will be
     entering a phase where he has no immune system for weeks.
 
--   I am continually thankful for our medical teams here. They continue
-    to provide incredible care. They are always open to conversation and
-    answering questions. They have been incredibly pro-active and I am
-    glad we are prepared for the next steps.
+-   We are continually thankful for our medical teams here. They
+    continue to provide incredible care. They are always open to
+    conversation and answering questions. They have been incredibly
+    pro-active and I am glad we are prepared for the next steps.
 
 -   Thankful that the chemotherapy has been effective at initially
     reducing the cancer and lately keeping the cancer contained (as
