@@ -1,5 +1,6 @@
 ---
-title: "The Plan -- detailed"
+title: "The BMT Plan -- detailed"
+subtitle: "Details of appointments and procedures leading up to the BMT"
 author: Colin C.
 date: 2023-10-02
 date-modified: today
@@ -43,7 +44,7 @@ base <- dat %>% filter(Category == "Baseline") %>%
 
 
 bmt  <- dat %>% filter(Category == "BMT") %>% 
-    select(-Category, -Complete) %>% 
+    select(-Category) %>% 
     mutate(Date2 = date(Date2)) %>% 
     rename(Date = Date2)
 
