@@ -1,0 +1,121 @@
+---
+title: "Radiation sickness"
+description: "Sam receives his first doses of total body irradiation."
+author: Colin C.
+date: 2023-11-09
+categories: [regular, BMT, hospital]
+draft: false
+editor: 
+  markdown: 
+    wrap: 72
+knitr: 
+  opts_chunk: 
+    eval: true
+    message: false
+    warning: false
+    echo: false
+---
+
+I am writing from BC Children's Hospital, it is in the morning of Day -5
+leading up to Sam's bone marrow transplant (BMT; transplant day is Nov.
+14). Yesterday Sam began his BMT conditioning treatments. This started
+with two rounds of total body irradiation (TBI) at 8:00am and 2:30pm.
+Following these treatments Sam was admitted, as planned, to the
+hospital.
+
+The days leading up to the BMT will be full of various treatments to
+prepare Sam's body to receive the donated bone marrow. We had expected
+this to be hard, but I had not expected it to be immediately hard. This
+new treatment has hit Sam with a new intensity. He has been nauseous and
+ill, has had distinct new pains, and slept most of the day and continues
+to sleep now. Talking with the doctors all of the new symptoms are
+common to the TBI.
+
+Sam continues to be strong. Halfway through the afternoon treatment he
+was nauseated, he took a few minutes to puke, then with a
+let's-do-this-determination positioned himself to complete the second
+half of that treatment.
+
+## Current treatments
+
+The goal of these pre-transplant treatments are two-fold: 1) Make room
+for the donated material, and 2) Suppress Sam's existing immune defenses
+to allow acceptance of the donated material.
+
+### Making room
+
+Between today and tomorrow Sam will receive another four treatments of
+TBI. Over the weekend he will receive chemotherapy. The intent of these
+treatments will be permanently remove Sam's native immune system. More
+specifically, the blood producing cells in his bone marrow will be
+destroyed to make room for the donated material. There will be no going
+back.
+
+### Immune suppression
+
+Also on the weekend Sam will start receiving immune suppression
+treatments to prepare his body to receive the transplant material. Where
+the TBI and chemotherapy remove the body's ability to generate *new
+blood* including immune system blood cells, the immune suppression
+therapy will manage the existing immune defenses. Sam's existing mature
+immune defense cells will be suppressed so that they do no attack the
+donated material -- facilitating the acceptance of the donated bone
+marrow.
+
+------------------------------------------------------------------------
+
+## Victories and concerns
+
+-   Immediate concerns for Sam: Sickness and pain from the total body
+    irradiation (TBI).
+
+-   It has been amazing to see Sam out from under the influence of
+    chemotherapy. To see him return to strength of mind and to have
+    capacity for more activity. It is hard to see him have this strength
+    pulled away from him.
+
+-   Thankful for friends who have chosen to meet regularly to pray for
+    Sam. If you would like to join them talk with Beth H., Krista C., or
+    contact the [Westwood Church](https://westwoodchurch.bc.ca) office.
+
+-   We have completed a major chapter in Sam's treatment. With the
+    completion of this last/ sixth round of chemotherapy and targeted
+    radiation. We now pivot to the bone marrow transplant -- this
+    current and upcoming treatments brings hope of removal of the
+    disease but also anxiety about both the challenging process and the
+    potential for long term side effects. We hope and pray that this
+    treatment will be effective in beating the cancer for life.
+
+-   It is flu season and covid is still out there. If any of us get sick
+    it will add challenges to Sam and the BMT process as he will be
+    entering a phase where he has no immune system for weeks.
+
+-   We are continually thankful for our medical teams here. They
+    continue to provide incredible care. They are always open to
+    conversation and answering questions. They have been incredibly
+    pro-active and I am glad we are prepared for the next steps.
+
+-   Thankful that the chemotherapy has been effective at initially
+    reducing the cancer and keeping the cancer contained (as indicated
+    by the PET scan). Thankful that these results allow us to move
+    forward.
+
+-   In preparation for the BMT there are numerous items that need to
+    come together:
+
+    1.  Due to some timing and logistics we have had to change donors.
+        We are thankful for this current donor who will provide a
+        peripheral blood sample and is a good match for Sam.
+    2.  We are desiring that side effects both immediate and long-term
+        would be limited. *Ideally, that there would be no measurable
+        side effects long term*.
+    3.  The medical team has a huge coordination task ahead of them.
+        From our meetings with them it seems all of the pieces are
+        coming together, but with so many moving parts it is easy for
+        things go wrong.
+
+-   We are thankful for the support of family and friends. Thank you for
+    your notes of encouragement.
+
+-   There is always concern as the cancer remains. We long for the day
+    when Sam is clear of this disease.
