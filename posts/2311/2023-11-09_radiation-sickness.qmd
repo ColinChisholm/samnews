@@ -3,6 +3,7 @@ title: "Radiation sickness"
 description: "Sam receives his first doses of total body irradiation."
 author: Colin C.
 date: 2023-11-09
+date-modified: 2023-11-10
 categories: [regular, BMT, hospital]
 draft: false
 editor: 
@@ -15,6 +16,18 @@ knitr:
     warning: false
     echo: false
 ---
+
+:::callout-note
+## Update: Nov. 10, 2023
+
+By yesterday afternoon Sam was feeling himself again.  Nausea and pain 
+were under control and he has is appetite back!  As a family we had a good
+time sharing the notes of encouragement that we have received from the 
+recent post on Facebook.  
+
+Today Sam completes the TBI treatments. 
+:::
+
 
 I am writing from BC Children's Hospital, it is in the morning of Day -5
 leading up to Sam's bone marrow transplant (BMT; transplant day is Nov.
