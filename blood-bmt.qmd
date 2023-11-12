@@ -1,0 +1,204 @@
+---
+title: "Sam's BMT blood counts"
+search: false
+date: today
+format:
+  html: default
+knitr: 
+  opts_chunk: 
+    eval: false
+    message: false
+    warning: false
+    echo: false
+code-fold: true
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r, include=FALSE}
+#| eval: true
+library(tidyverse)
+library(lubridate)
+
+library(knitr)
+library(kableExtra)
+```
+
+Blood counts related to Sam's BMT -- transplant day, day zero, is Nov. 14^th^.
+
+
+```{r}
+#| eval: true
+## Import the data 
+
+# dat <- 
+#   readxl::read_xlsx(path = "~/workspace/family/sams_journey/sams_journey/data/events-and-gifts.xlsx",
+#                     sheet = "Blood"
+#   )
+
+dat <- 
+  readxl::read_xlsx(path = "data/events-and-gifts.xlsx",
+                    sheet = "Blood"
+  )
+
+# dat$Current[dat$Round == 3] <- T
+# dat$Current[dat$Round != 3] <- F
+# 
+# dat$label[dat$Current == F] <- "previous"
+# dat$label[dat$Current == T] <- "current"
+
+```
+
+
+
+```{r}
+#| eval: true
+#| tbl-cap: "Blood levels.  WBC: White Blood Count, Hgb: Hemoglobin, PHS: Platelets, ANC: Absolute Nutriphil Count"
+
+dat <- 
+  dat %>% 
+  filter(Round == "BMT") %>% 
+  dplyr::select(-Comment, -Transfusion, -Round) %>% 
+  mutate(Date = as.Date(Date)) 
+
+dat %>% kbl() %>% kable_styling(bootstrap_options = "striped")
+
+```
+
+Notes: 
+
+-   Day -2 spikes up in WBC and ANC are attributed to the influence of Rabbit ATG.
+
+
+## Graphs of the data
+
+
+```{r}
+
+dat <- dat %>% 
+#   dplyr::select(-Comment) %>% 
+  # dplyr::select(Date: Current) %>%  
+  pivot_longer(WBC:ANC, 
+               names_to = "Metric", 
+               values_to = "Values") %>% 
+  mutate(Date = date(Date))
+
+# start <- min(dat$Date) -1
+
+
+
+
+dat$facet[dat$Metric == "WBC"] <- "White Blood Cells"
+dat$facet[dat$Metric == "Hgb"] <- "Hemoglobin"
+dat$facet[dat$Metric == "PHS"] <- "Platelets"
+dat$facet[dat$Metric == "ANC"] <- "ANC"
+
+
+dat <- dat %>% 
+  mutate(#Day =  Date - start,
+         Metric = factor(Metric, 
+                         levels = c("WBC", "Hgb", "PHS", "ANC")),
+         facet = factor(facet, 
+                        levels = c("White Blood Cells", "Hemoglobin", "Platelets", "ANC")))
+
+
+
+# dat$lw <- dat$Current *0.5 + 0.5
+
+
+
+```
+
+```{r}
+#| fig-height: 8
+
+# dat$Round <- as.character(dat$Round)
+
+# dat <- dat %>% filter(Round == "BMT")
+
+## graph the data 
+g <- dat %>% ggplot(aes(x = Day, y = Values)) +
+            #  color = Round,
+            #  linewidth = Round, size = Round)) +
+  # geom_smooth(method = "loess",se = F, alpha = .5, size = .2) +
+  geom_line() + 
+  geom_line(aes(alpha = 0.5), show.legend = F) +
+  geom_point() +
+  facet_grid(rows = "facet",
+             scales = "free_y")  +
+  coord_cartesian(ylim = c(0, NA),
+                  xlim = c(NA, NA)) +
+  labs(title = "Blood counts",
+    #    subtitle = "Current and previous rounds of chemo-therapy",
+       x = "Day",
+       y = NULL,
+    #    linewidth = 1, 
+       size = NULL,
+       color = NULL) +
+  # scale_color_manual(values = c("TRUE" = "red", "FALSE" = "grey")) +
+#   scale_color_manual(values = c("6" = "blue",
+#                                 "5" = "red",
+#                                 "4" = "orange", 
+#                                 "3" = "lightblue",
+#                                 "2" = "grey",
+#                                 "1" = "grey"),
+#                      name = "Round")  +
+#   scale_linewidth_manual(values = c("6" = 0.8,
+#                                     "5" = 0.5,
+#                                     "4" = .4,
+#                                     "3" = 0.4,
+#                                     "2" = 0.3,
+#                                     "1" = 0.2),
+#                          name="Round") +
+#   scale_size_manual(values = c("6" = 1.5,
+#                                "5" = .7,
+#                                "4" = .7, 
+#                                "3" = .7,
+#                                "2" = .5,
+#                                "1" = .3),
+#                     name ="Round") +
+  theme(legend.position = "bottom")
+
+g
+
+ggsave(height = 8, width = 6, 
+      #  path = "/home/rstudio/workspace/family/sams_journey/sams_journey/_img/",
+      path = "C:/Users/colin/Sync/workRspace/family/sams_journey/sams_journey/_img",
+       filename = "blood_bmt_graph.png",plot = g,
+       dpi = 200)
+
+  
+```
+
+![](https://samsstory.s3.ca-central-1.amazonaws.com/blood_bmt_graph.png)
+
+
+
+
+
+```{r}
+
+
+
+g <- g + 
+     labs(title = "Blood counts",
+       subtitle = "Y-axis has been sqrt transformed",
+       x = "Day",
+       y = NULL,
+       linewidth = NULL, 
+       size = NULL,
+       color = NULL) +
+     scale_y_sqrt()
+
+g
+
+ggsave(height = 8, width = 6, 
+      #  path = "/home/rstudio/workspace/family/sams_journey/sams_journey/_img/",
+      path = "C:/Users/colin/Sync/workRspace/family/sams_journey/sams_journey/_img",
+       filename = "blood_bmt_graph_y-scaled.png",plot = g,
+       dpi = 200)
+
+```
+
+
+![](https://samsstory.s3.ca-central-1.amazonaws.com/blood_bmt_graph_y-scaled.png)
