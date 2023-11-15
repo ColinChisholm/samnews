@@ -29,3 +29,7 @@ _other-doccs/*
 
 blood_files/*
 _site/blood_files
+
+blood-bmt_files/*
+_site/blood-bmt_files
+
