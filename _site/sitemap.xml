@@ -66,7 +66,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/index.html</loc>
-    <lastmod>2023-11-15T02:53:43.150Z</lastmod>
+    <lastmod>2023-11-15T16:18:14.968Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/photos.html</loc>
@@ -558,6 +558,10 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/posts/2311/2023-11-14_bmt-ready.html</loc>
-    <lastmod>2023-11-14T15:57:34.302Z</lastmod>
+    <lastmod>2023-11-15T15:29:47.278Z</lastmod>
+  </url>
+  <url>
+    <loc>http://samc-news.netlify.app/posts/2311/2023-11-15_bmt-received.html</loc>
+    <lastmod>2023-11-15T16:18:17.008Z</lastmod>
   </url>
 </urlset>
