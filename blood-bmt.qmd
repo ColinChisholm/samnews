@@ -22,6 +22,9 @@ library(lubridate)
 
 library(knitr)
 library(kableExtra)
+
+
+`%notin%` <- Negate(`%in%`)
 ```
 
 Blood counts related to Sam's BMT -- transplant day, day zero, is Nov. 14^th^.
@@ -53,15 +56,26 @@ dat <-
 
 ```{r}
 #| eval: true
-#| tbl-cap: "Blood levels.  WBC: White Blood Count, Hgb: Hemoglobin, PHS: Platelets, ANC: Absolute Nutriphil Count"
+#| tbl-cap: "Blood levels and transfusion record.  WBC: White Blood Count, Hgb: Hemoglobin, PHS: Platelets, ANC: Absolute Nutriphil Count.  Transfusions.  R: Red blood cells, P: Platelets, RP: both.  Note a WBC of 0 is actually reported as < 0.1. "
 
 dat <- 
   dat %>% 
-  filter(Round == "BMT") %>% 
-  dplyr::select(-Comment, -Transfusion, -Units, -Round) %>% 
-  mutate(Date = as.Date(Date)) 
+  filter(Round == "BMT") 
 
-dat %>% kbl() %>% kable_styling(bootstrap_options = "striped")
+  
+
+
+  
+dat_tbl <- dat  %>% 
+  dplyr::select(-Comment, 
+  #-Transfusion, 
+  -Units, 
+  -Round) %>% 
+  mutate(Date = as.Date(Date))
+
+dat_tbl$Transfusion[is.na(dat_tbl$Transfusion)] <- ""
+
+dat_tbl %>% kbl() %>% kable_styling(bootstrap_options = "striped")
 
 ```
 
@@ -72,13 +86,23 @@ Notes:
 
 ## Graphs of the data
 
+_For the graphs below outliers on day -2 have been removed._
 
 ```{r}
+# View(dat)
+# dat <- dat %>% 
+#         mutate(Transfusion = factor(Transfusion, levels = c("R", "P", "RP")))
+
+# dat <- dat %>% mutate(T = as.numeric(Transfusion))
+
+
 
 dat <- dat %>% 
-#   dplyr::select(-Comment) %>% 
+  dplyr::select(-Comment)#, -Transfusion)
+
+
   # dplyr::select(Date: Current) %>%  
-  pivot_longer(WBC:ANC, 
+dat <- dat  %>% pivot_longer(WBC:ANC, 
                names_to = "Metric", 
                values_to = "Values") %>% 
   mutate(Date = date(Date))
@@ -104,7 +128,17 @@ dat <- dat %>%
 
 
 # dat$lw <- dat$Current *0.5 + 0.5
+```
 
+
+```{r}
+
+## remove day -2 outliers
+ 
+  # day2 <- grep(-2, dat$Day)#
+  # day2
+  # [1]  9 10 11 12
+  dat <- dat[-c(9,12),]
 
 
 ```
