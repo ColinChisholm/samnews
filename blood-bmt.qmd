@@ -75,7 +75,7 @@ dat_tbl <- dat  %>%
 
 dat_tbl$Transfusion[is.na(dat_tbl$Transfusion)] <- ""
 
-dat_tbl %>% kbl() %>% kable_styling(bootstrap_options = "striped")
+dat_tbl %>% kable(align = "lrrrrrc") %>% kable_styling(bootstrap_options = "striped")
 
 ```
 
@@ -90,8 +90,8 @@ _For the graphs below outliers on day -2 have been removed._
 
 ```{r}
 # View(dat)
-# dat <- dat %>% 
-#         mutate(Transfusion = factor(Transfusion, levels = c("R", "P", "RP")))
+dat <- dat %>% 
+        mutate(Transfusion = factor(Transfusion, levels = c("R", "P", "RP")))
 
 # dat <- dat %>% mutate(T = as.numeric(Transfusion))
 
@@ -145,6 +145,7 @@ dat <- dat %>%
 
 ```{r}
 #| fig-height: 8
+#| fig-cap: "Key blood metrics.  Colour of point indicates type of transfusion.  R: Hemoglobin, P: Platelets, RP: both, NA: no transfusion"
 
 # dat$Round <- as.character(dat$Round)
 
@@ -156,8 +157,9 @@ g <- dat %>% ggplot(aes(x = Day, y = Values)) +
             #  linewidth = Round, size = Round)) +
   # geom_smooth(method = "loess",se = F, alpha = .5, size = .2) +
   geom_line() + 
-  geom_line(aes(alpha = 0.5), show.legend = F) +
-  geom_point() +
+  geom_line(aes(alpha = 1), show.legend = F) +
+  geom_point(aes(color = Transfusion)) +
+  geom_point(aes(color = Transfusion), size = 3, show.legend = F) +
   facet_grid(rows = "facet",
              scales = "free_y")  +
   coord_cartesian(ylim = c(0, NA),
@@ -168,7 +170,7 @@ g <- dat %>% ggplot(aes(x = Day, y = Values)) +
        y = NULL,
     #    linewidth = 1, 
        size = NULL,
-       color = NULL) +
+       color = "Transfusion") +
   # scale_color_manual(values = c("TRUE" = "red", "FALSE" = "grey")) +
 #   scale_color_manual(values = c("6" = "blue",
 #                                 "5" = "red",
@@ -211,6 +213,7 @@ ggsave(height = 8, width = 6,
 
 
 ```{r}
+#| fig-cap: "Key blood metrics.  Colour of point indicates type of transfusion.  R: Hemoglobin, P: Platelets, RP: both, NA: no transfusion"
 
 
 
