@@ -1,12 +1,26 @@
 ---
 title: Milestones
+date-modified: 2023-11-26
 ---
 
 ::: box-cc-important
-## Summary of the treatment progress and plan 
+## Bone Marrow transplant
 
--   Sam has currently at the end his sixth round of the initial six rounds of chemotherapy. 
-`
+On Nov. 14^th^ Sam received an incredible generous donation of bone marrow stem cells. In preparation for this Sam went undergo several treatments including:
+
+- targeted radiation 
+- total body irradiation 
+- intense chemotherapy
+
+More details of these steps can be found here: [The BMT Process](bmt-process.qmd).
+
+::: 
+
+
+::: box-cc-important
+## Summary of the original chemotherapy treatment 
+
+-   Sam completed his sixth round and final round of chemotherapy.  This original phase of treatment is now complete. 
 -   Our hope was that Sam could return home following round six.  However, the cancer, although not growing, has not been reduced enough.  We are now preparing for a Bone Marrow Transplant in effort to remove the cancer. 
 <!------   Should the current treatment not be enough Sam may have to have a bone marrow transplant described in the July 18^th^ post: [Contingency planning](/posts/2307/2023-07-17_contigency-plan.qmd)----->
 -   Results so far:

@@ -159,7 +159,7 @@ g <- dat %>% ggplot(aes(x = Day, y = Values)) +
   geom_line() + 
   geom_line(aes(alpha = 1), show.legend = F) +
   geom_point(aes(color = Transfusion)) +
-  geom_point(aes(color = Transfusion), size = 3, show.legend = F) +
+  geom_point(aes(color = Transfusion, size = c(3,3,3,1)) , show.legend = F) +
   facet_grid(rows = "facet",
              scales = "free_y")  +
   coord_cartesian(ylim = c(0, NA),
@@ -224,7 +224,7 @@ g <- g +
        y = NULL,
        linewidth = NULL, 
        size = NULL,
-       color = NULL) +
+      #  color = NULL) +
      scale_y_sqrt()
 
 g

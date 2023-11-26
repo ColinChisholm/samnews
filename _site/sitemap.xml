@@ -66,7 +66,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/index.html</loc>
-    <lastmod>2023-11-22T16:50:21.398Z</lastmod>
+    <lastmod>2023-11-26T15:13:15.722Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/photos.html</loc>
@@ -230,7 +230,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/timeline.html</loc>
-    <lastmod>2023-10-15T15:47:00.718Z</lastmod>
+    <lastmod>2023-11-26T15:13:43.036Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/wishes.html</loc>
@@ -446,7 +446,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/plan.html</loc>
-    <lastmod>2023-11-06T20:51:46.272Z</lastmod>
+    <lastmod>2023-11-26T15:13:51.965Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/devos/mark_08/mark-08-22.html</loc>
@@ -550,7 +550,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/blood-bmt.html</loc>
-    <lastmod>2023-11-25T17:29:22.656Z</lastmod>
+    <lastmod>2023-11-26T14:36:30.354Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/posts/2311/2023-11-13_bmt-minus-1.html</loc>
@@ -567,5 +567,13 @@
   <url>
     <loc>http://samc-news.netlify.app/posts/2311/2023-11-19_the-wait.html</loc>
     <lastmod>2023-11-19T16:29:35.774Z</lastmod>
+  </url>
+  <url>
+    <loc>http://samc-news.netlify.app/posts/2311/2023-11-25_happiest-b-day.html</loc>
+    <lastmod>2023-11-26T15:13:22.114Z</lastmod>
+  </url>
+  <url>
+    <loc>http://samc-news.netlify.app/bmt-process.html</loc>
+    <lastmod>2023-11-26T15:10:50.965Z</lastmod>
   </url>
 </urlset>
