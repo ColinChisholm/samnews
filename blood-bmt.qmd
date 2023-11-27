@@ -53,10 +53,12 @@ dat <-
 ```
 
 
+In the graph below `ANCt` was added on Nov. 25^th^ to capture ANC and immature ANC cells.  
+`ANCt` will be used to determine when engraftment is official (i.e. 3 consecutive days of $ANCt \geq 0.5$). 
 
 ```{r}
 #| eval: true
-#| tbl-cap: "Blood levels and transfusion record.  WBC: White Blood Count, Hgb: Hemoglobin, PHS: Platelets, ANC: Absolute Nutriphil Count.  Transfusions.  R: Red blood cells, P: Platelets, RP: both.  Note a WBC of 0 is actually reported as < 0.1. "
+#| tbl-cap: "Blood levels and transfusion record.  WBC: White Blood Count, Hgb: Hemoglobin, PHS: Platelets, ANC: Absolute Neutrophil Count, ANCt: Absolute Neutrophil Count including immature cells. Transfusions.  R: Red blood cells, P: Platelets, RP: both.  Note a WBC of 0 is actually reported as < 0.1. "
 
 dat <- 
   dat %>% 
@@ -74,6 +76,7 @@ dat_tbl <- dat  %>%
   mutate(Date = as.Date(Date))
 
 dat_tbl$Transfusion[is.na(dat_tbl$Transfusion)] <- ""
+
 
 dat_tbl %>% kable(align = "lrrrrrc") %>% kable_styling(bootstrap_options = "striped")
 
@@ -159,7 +162,7 @@ g <- dat %>% ggplot(aes(x = Day, y = Values)) +
   geom_line() + 
   geom_line(aes(alpha = 1), show.legend = F) +
   geom_point(aes(color = Transfusion)) +
-  geom_point(aes(color = Transfusion, size = c(3,3,3,1)) , show.legend = F) +
+  geom_point(aes(color = Transfusion), size = 3, show.legend = F) +
   facet_grid(rows = "facet",
              scales = "free_y")  +
   coord_cartesian(ylim = c(0, NA),
@@ -224,7 +227,7 @@ g <- g +
        y = NULL,
        linewidth = NULL, 
        size = NULL,
-      #  color = NULL) +
+       color = NULL) +
      scale_y_sqrt()
 
 g
