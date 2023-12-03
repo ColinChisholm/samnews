@@ -78,7 +78,7 @@ dat_tbl <- dat  %>%
 dat_tbl$Transfusion[is.na(dat_tbl$Transfusion)] <- ""
 
 
-dat_tbl %>% kable(align = "lrrrrrc") %>% kable_styling(bootstrap_options = "striped")
+dat_tbl %>% kable(align = "lrrrrrrc") %>% kable_styling(bootstrap_options = "striped")
 
 ```
 
