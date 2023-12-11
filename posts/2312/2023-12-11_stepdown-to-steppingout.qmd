@@ -1,40 +1,20 @@
 ---
-title: "Cancer journey updates"
-# author: Colin C.
-listing:
-  contents: posts
-  filter-ui: false
-  fields: [image, date, title, author, categories, description]
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
-  page-size: 10
+title: "From Step-down to Stepping-out"
+description: "Sam nears the completion of the step-down process.  With each day we are close to leaving the hospital."
+author: Colin C.
+date: 2023-12-11
+categories: [regular, BMT, hospital]
+draft: false
+editor: 
+  markdown: 
+    wrap: 72
 knitr: 
   opts_chunk: 
     eval: true
     message: false
     warning: false
     echo: false
-editor: 
-  markdown: 
-    wrap: 72
 ---
-
-For an overview of this journey see the [timeline](./timeline.html).
-
-Don't have our contact information and want to reach us? Use [this
-form](/contact.html). <br />*Note: if you do know how to reach us, use
-our email, or message us (no need to use the form).*
-
-<br/> Visitation status: **by appointment only**
-
-------------------------------------------------------------------------
-
-# From Step-down to Stepping-out!
-
-*Dec. 11, 2023*
 
 
 It has now been 27 days since Sam received his BMT.  The initial couple weeks had big challenges and Sam needed a lot of medical supports.  His IV-tower was huge with a dozen lines running at once.  In the last ten days that has all changed!  
@@ -103,50 +83,3 @@ Once out the next major milestone will be _Day 100_ (past the BMT).  This will b
 
 -   There is always concern as the cancer remains. We long for the day
     when Sam is clear of this disease.
-
-------------------------------------------------------------------------
-
-# Support
-
-::: callout-important
-## Become a bone marrow donor
-
-[![](https://www.blood.ca/themes/custom/cbs_bootstrap_sass/CBS_Logo_descriptors_RGB-WhiteBG.svg){style="\"max-width:80%"}](https://makeallthedifference.blood.ca/stem-cells-1/)
-
-We are preparing for the potential need for Sam to receive a bone marrow
-transplant. Consider becoming a donor. It is easy -- no needles, just a
-cheek swab that you can do yourself.
-
-Register via Canada Blood Services' stem cell donor website:
-
-<https://makeallthedifference.blood.ca/stem-cells-1/>
-
-Perhaps you will be a match for Sam or someone else in need.
-
-*Note: You need to be between the ages of 17 and 35 to become a donor.*
-:::
-
-## Financial Support
-
-Here we include options to provide financial support cancer research at
-the BC Children's Hospital, the Ronald McDonald House, or to support us
-directly. We have been blown away by the generosity of so many. We also
-love the support provided in words of encouragement. Please feel free to
-[send us notes of encouragement](contact.html). It is impossible to
-thank you all enough.
-
-::: {.support-container style="background-color: #fff"}
-::: {.support layout-ncol="2" style="background-color: #fff; padding-top:1.4em; padding-right:2em"}
-[![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/donate-button.png)](https://gofund.me/e060f5b6)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/rmdhbc.png)](https://rmhbc.ca)
-
-[![](https://www.friendsofchildren.ca/application/themes/foc/images/logo.png)](https://www.friendsofchildren.ca)
-:::
-:::
-
-------------------------------------------------------------------------
-
-# Previous Posts
