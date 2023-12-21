@@ -1,0 +1,95 @@
+---
+title: "Merry Christmas"
+description: "Tuesday Sam was able to welcome Santa to the oncology ward.  Yesterday Sam was discharged!"
+author: Colin C.
+date: 2023-12-14
+categories: [regular, BMT, hospital]
+draft: false
+editor: 
+  markdown: 
+    wrap: 72
+knitr: 
+  opts_chunk: 
+    eval: true
+    message: false
+    warning: false
+    echo: false
+---
+
+
+::: callout-note
+# Santa visits the BC Children's Hospital
+
+In case you missed this news cast featuring Tina, Nana Mary, and Sam -- from Dec. 12.
+
+
+{{< video https://youtu.be/kATGCsIqALw?si=QwtKjKK690T1ljFy >}}
+
+::: {style="font-size:90%; margin-left: 15pt; margin-right: 15pt"}
+On Dec. 12^th^ Santa paid a visit to the BC Children's Hospital.  Sam was able to welcome him onto the oncology ward.  Tina and Nana Mary (1:03) were also able to meet him.  Tina did an amazing job of sharing what this Christmas means to us (starting at 1:13).  The original news article from the CBC is [linked here](www.cbc.ca/i/phoenix/player/syndicate/?mediaId=2291723843615).
+
+:::
+
+:::
+
+
+Twelve days of Christmas ... Since Sam was discharged from the hospital 
+
+12 Hearty meals.  So good to see Sam with an appetite! 
+11 Chritmas gifts and letters -- ok I didn't count and it is more and we are blessed.
+10(+) hours of video games -- many of these spent with friends on-line.  
+9 Flights of stairs -- Sam is getting his strength and stamina back!
+8 RMH family friends! 
+<!-- Rena and Davis, Renee and Glen, Travis and Shannon, Amed and Niha, Jason and Christina, Frannie and River, Jason and ??? -->
+7 Door dash orders -- yep door dash is a reality for us.  What a privilege to have good food so easily accessible
+6 
+5 
+4
+3
+2 
+1 Our family filled with joy 
+
+
+
+
+
+
+Wow! It has been an amazing 48 hours!  
+
+Tuesday, two days ago, Santa visited a number of hospitals in the province and our family got to be a part of this celebration.  Sam was able to be one of the first to welcome him to the ward and the staff loved his enthusiasm! I am still stunned by the opportunity Tina had to speak with the CBC, with how well she was able to capture what this Christmas means to us, and how it also let the medical team know how important they have been to us.  
+
+Yesterday, was a major Christmas present for our family: Sam was discharged from the ward and we are all back at the Ronald McDonald House!  
+
+Before leaving there was a short ceremony where all of the nurses gathered, a speech was given by one of the doctors to honor Sam for all of the work that he as undertaken -- noting especially how he taken such responsibility in understanding the treatments and communicating so well with the team.  After, Sam walked out the doors in stark contrast to his arrival b
+y air ambulance eight months ago!  He was done and ready to move on -- though a part of him will miss the amazing people that have cared for him these last weeks (BMT) and months (Chemotherapy).  
+
+We will be based at the RMH for the next two months.  In this time Sam will be at clinic 2-3 times per week to monitor for potential graft versus host disease (GVHD) which will likely mean lots of minor adjustments to his medications.  He has a long list of medications but over time this will be reduced.  
+
+
+## Victories and concerns
+
+-   Sam has completed his critical post-transplant period.  He has now been discharged from the hospital! We will remain at the RMH for the next two months in order to monitor for potential GVHD complications. 
+
+-   Sam is returning to strength!  Having received his discharge paper, he walked out of the hospital back towards the RMH.  He made it most of the way back before powering out and transferring to the chair. With the way he has been eating his return to strength will continue to be rapid!
+
+-   Sam's bones are generating new blood! The engraftment process is working!  We have seen Sam's numbers come up and now stabilize! 
+
+-   Sam will still be considered immune compromised for the months ahead and mostly susceptible to viral infection.  It remains to be flu season and covid is still out there. We must continue to be vigilant to protect Sam. 
+
+-   We very thankful for the successful delivery and engraftment of the donated stems
+    cells! To whoever made this donation *I cannot thank you enough*.
+
+-   We are thankful to the medical team who have explained things
+    incredibly well and who have worked professionally and confidently.
+    Your clear communication, compassion, and care give us great
+    confidence.
+
+-   Thankful for friends who have chosen to meet regularly to pray for
+    Sam. If you would like to join them talk with Beth H., Krista C., or
+    contact the [Westwood Church](https://westwoodchurch.bc.ca) office.
+  
+-   We are thankful for all of the messages of encouragement and
+    solidarity that we have received from all of you.
+
+-   There is always concern as the cancer remains. We long for the day
+    when Sam is clear of this disease.
