@@ -6,6 +6,17 @@
     text-align: center;
 }
 
+.img-float-right {
+  width: 40%;
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 30px;
+  font-size: 76%;
+  text-align: center;
+}
+
+
+
 
 .box-cc-important{
       border-left: thick solid #2c3e50;
