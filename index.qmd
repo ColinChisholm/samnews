@@ -22,7 +22,6 @@ editor:
     wrap: 72
 ---
 
-
 For an overview of this journey see the [timeline](./timeline.html).
 
 Don't have our contact information and want to reach us? Use [this
@@ -33,95 +32,49 @@ our email, or message us (no need to use the form).*
 
 ------------------------------------------------------------------------
 
-# To the Ward and Back Again
+# Cautiously Optimistic
 
-*Jan. 21, 2024*
+*Jan. 29, 2024*
 
-## Looking back
+It has been a good week. Sam has had a distinct return of his appetite
+and with it he is growing in strength. The discipline of choosing hope,
+discussed in my last post, has been getting easier given that we are not
+faced with so many unknowns and anxieties are being replaced with
+relief.
 
-Last post I wrote about the viral illness that Sam had, and the removal
-of some steroid supports that he had post BMT. He was making slow
-progress recovering from it all.
+On the medical side, Sam's medical team is happy to see him regaining
+capacity. Clinic appointments are becoming less frequent (we are
+transitioning from 2-3 times per week to just once), and the repeat of
+the baseline medical testing has been ongoing. Sam should get is
+central-line removed within the next two weeks.
 
-On Jan. 11 we went in for a clinic appointment with the Endrocine team.
-However, they were not fully satisfied with how Sam responded to the
-treatments they initiated ... unexplained low blood pressures tend to
-send off alarm bells for physicians. So we went up to the oncology
-clinic to let our regular medical team evaluate Sam and consider his
-situation from their perspective. The team there decided to admit Sam to
-the ward. I confirmed later that this was due to a number of small flags
-that went off for them – if any one flag was presented they would have
-sent us back out. However, whatever was going on with Sam, though
-ambiguous, added up to be significant enough to be admitted.
+Now, our thoughts are turning towards home and what it will mean to
+return there. Our current expectation is to return near the end of
+February. Returning will not be as simple as jumping back into life
+like-it-was. Sam's immune system, though getting stronger, will still be
+compromised -- the team here suggests that it will take a year before
+his immune system is back to full-strength. His stamina is building but
+we will need to guard his capacity. What does this mean practically? I
+am not sure, but here are a couple guesses: visits will need to be
+individual or in small groups and we will still need to avoid crowds --
+at least with Sam. Sam's diminished strength may mean that visits are
+short and that he simply powers-out partway through. The return to
+normal will be in small steps ... but we are getting there!
 
-Over the next few days we saw very little improvement but then he
-started to come around. There were a lot of question-marks about what
-was going on with Sam and when we asked "*What is going on with Sam?"*
-the answer was "*We don't know*." Various tests were run and general
-treatments were provided.
-
-The nurses called it being in for a '*tune-up*' and they reassured us
-that it was very normal for someone, following a BMT, to come back to
-the ward for whatever was ailing them. The idea of a *tune-up* is not a
-bad analogy though it felt more like a major tune-up -- like Sam was
-only running on 1 or 2 cylinders.
-
-Sam started feeling better following about five days of treatment
-(fluids, antibiotics, steroids), and by day 8, this past Thursday, he
-demonstrated he was strong enough to leave the ward. We are now back at
-the RMH.
-
-Ughh. All of those days of illness, including the 10 days prior to being
-admitted were hard. It is the not knowing: What is happening? What is
-the problem? Will we find a solution? Is this the cancer? To complicate
-things, especially for Tina, was the fact that she still had bronchitis,
-because of this she was not able to spend much time on the ward with Sam
-and I. I am thankful that Nana Mary was able to be with her during this
-last time on ward.
-
-## Looking forward
-
-In the weeks ahead we will need to keep a close eye on Sam's energy
-levels. We have been given some flexibility in managing steroidal
-supports (e.g. in response to illness or injury). So if we see his
-energy fading we can pump him up a little. The steroids are intended to
-mimic natural bodily levels, as given the previous BMT related
-treatments his body is not yet generating natural responses -- this is
-all expected (by the doctors). It is also expected that Sam's own
-hormone balancing system will restart after a month or two. Again we
-wait and hope.
-
-::: callout-note
-### Hope in the waiting
-
-I can't help but remember that when we were learning Spanish, in our
-days working in Guatemala, that verb *esperar* means to wait, and it
-also mean to hope (the noun for hope is *la esperanza*). So when we say
-we wait -- I also mean we hope. Of course, hope itself is a choice. In
-many ways it is a choice to expect the good and to actively reject
-living in anxiety. This is more than a psychological trick. Our hope and
-trust have true foundations. I have hope because of our incredible
-medical team, and ultimately we have hope in God.
-:::
-
-### Medical plans
-
-This week will be a return to regular clinic visits. We will also start
-a repeat of all of the baseline testing that was done prior to the BMT.
-This will involve visits to all of the specialties in the hospital, and
-various imaging tests to evaluate if/how this whole BMT journey has
-impacted Sam.
-
-We will also continue weaning the various drugs that Sam has been on --
-primarily reducing morphine levels.
+It is amazing to think of returning home. Returning to friends and
+family -- we have missed you! It is also amazing to start counting down
+days! For long time we counted up -- not knowing when the end would be.
+Now the end is in sight! Sam has made it through all of his treatments
+and it feels like we are on an exit-ramp -- we can start preparing for
+home!
 
 ## Victories and concerns
 
--   A concern for Tina and I is that it is not always easy to choose
-    hope. The reality is that choosing hope is a discipline. Given
-    everything that we as parents have gone through, including all of
-    the alternate outcomes that we have seen, it is very easy to slip
-    into anxious thinking.
+-   We have a big, and exciting transition, ahead of us: the return to
+    home, family, and friends. A return to work and school – though
+    these responsibilities will likely need plans and modifications.
+    There are many practical steps and details to be sorted out. One
+    step at a time!
 
 -   We are no longer having medical discussions about upcoming
     treatments. Discussions are now about weaning medications, removing
@@ -141,13 +94,12 @@ primarily reducing morphine levels.
     Sam. If you would like to join them talk with Beth H., Krista C., or
     contact the [Westwood Church](https://westwoodchurch.bc.ca) office.
 
--   There is always concern if the cancer remains. We long for the day
-    when Sam is clear of this disease. A PET scan will be done in
+-   There is always concern that the cancer remains. We long for the day
+    when Sam is clear of this disease. A PET scan will be done in late
     February to evaluate how the cancer has been impacted by all the
     treatments. The expectation is that any remaining cancer, following
     the chemo and radiation therapies, will be removed by the newly
     transplanted immune system.
-
 
 ------------------------------------------------------------------------
 
@@ -158,15 +110,14 @@ primarily reducing morphine levels.
 
 [![](https://www.blood.ca/themes/custom/cbs_bootstrap_sass/CBS_Logo_descriptors_RGB-WhiteBG.svg){style="\"max-width:80%"}](https://makeallthedifference.blood.ca/stem-cells-1/)
 
-We are preparing for the potential need for Sam to receive a bone marrow
-transplant. Consider becoming a donor. It is easy -- no needles, just a
+Sam's ;ife has been saved because someone was will to donate their bone marrow. Consider becoming a donor. It is easy -- no needles, just a
 cheek swab that you can do yourself.
 
 Register via Canada Blood Services' stem cell donor website:
 
 <https://makeallthedifference.blood.ca/stem-cells-1/>
 
-Perhaps you will be a match for Sam or someone else in need.
+Perhaps you can save someone's life!
 
 *Note: You need to be between the ages of 17 and 35 to become a donor.*
 :::
