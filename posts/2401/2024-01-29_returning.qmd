@@ -3,6 +3,7 @@ title: "Cautiously Optimistic"
 description: "Looking forward to our return... "
 author: Colin C.
 date: 2024-01-29
+date-modified: 2024-02-09
 categories: [regular, post-BMT]
 draft: false
 editor: 
@@ -15,6 +16,19 @@ knitr:
     warning: false
     echo: false
 ---
+
+::: callout-note
+# Feb. 9, 2024 
+
+Just a quick update as we continue on this journey.  
+
+This treatment recovery phase seems long.  I shouldn't be surprised by this, all journeys seems long when you are nearing the end.  It is always that last couple hours of a long drive that seem the longest.  
+
+In this situation, Sam has had some incredible things done to him.  The pace of activities and medical interventions has slowed drastically, and Sam's health is continuing to move in the right direction.  His strength and stamina are returning/rebuilding.  Sam still struggles with some pain but it has shifted from deep bone pains related to the chemical treatments to muscle pains as he rebuilds his core strength.  Everything is moving in the right direction and returning home is getting closer!    
+
+:::
+
+
 
 It has been a good week. Sam has had a distinct return of his appetite
 and with it he is growing in strength. The discipline of choosing hope,

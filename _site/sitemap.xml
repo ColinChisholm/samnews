@@ -66,7 +66,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/index.html</loc>
-    <lastmod>2024-02-08T15:58:36.528Z</lastmod>
+    <lastmod>2024-02-14T19:02:43.644Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/photos.html</loc>
@@ -658,7 +658,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/posts/2401/2024-01-29_returning.html</loc>
-    <lastmod>2024-01-29T18:26:29.310Z</lastmod>
+    <lastmod>2024-02-14T18:52:04.142Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/devos/mark_12/mark-12-38.html</loc>
@@ -687,5 +687,9 @@
   <url>
     <loc>http://samc-news.netlify.app/devos/mark_14/mark-14-12.html</loc>
     <lastmod>2024-02-11T18:13:16.987Z</lastmod>
+  </url>
+  <url>
+    <loc>http://samc-news.netlify.app/posts/2402/2024-02-14_PET-scan.html</loc>
+    <lastmod>2024-02-14T19:00:07.713Z</lastmod>
   </url>
 </urlset>
