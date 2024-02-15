@@ -11,7 +11,7 @@ editor:
     wrap: 7
 ---
 
-### [Mark 14: 1 - 11](https://www.bible.com/bible/111/MRK.14.NIV)
+### [Mark 14: 12 - 26](https://www.bible.com/bible/111/MRK.14.NIV)
 
 > On the first day of the Festival of Unleavened Bread, when it was customary to sacrifice the Passover lamb, Jesus’ disciples asked him, “Where do you want us to go and make preparations for you to eat the Passover?”
 >
