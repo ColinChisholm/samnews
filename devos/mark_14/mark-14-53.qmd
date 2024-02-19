@@ -1,0 +1,82 @@
+---
+title: "Arrested"
+description: "Judas brings a group to arrest Jesus"
+author: Colin C.
+date: 2024-02-18
+search: false
+categories: [Mark]
+draft: false
+editor: 
+  markdown: 
+    wrap: 7
+---
+
+### [Mark 14: 53 - 65](https://www.bible.com/bible/111/MRK.14.NIV)
+
+> They took Jesus to the high priest, and all the chief priests, the elders and the teachers of the law came together. Peter followed him at a distance, right into the courtyard of the high priest. There he sat with the guards and warmed himself at the fire.
+>
+> The chief priests and the whole Sanhedrin were looking for evidence against Jesus so that they could put him to death, but they did not find any. Many testified falsely against him, but their statements did not agree.
+>
+> Then some stood up and gave this false testimony against him: “We heard him say, ‘I will destroy this temple made with human hands and in three days will build another, not made with hands.’” Yet even then their testimony did not agree.
+>
+> Then the high priest stood up before them and asked Jesus, “Are you not going to answer? What is this testimony that these men are bringing against you?” But Jesus remained silent and gave no answer.
+>
+> Again the high priest asked him, “Are you the Messiah, the Son of the Blessed One?”
+>
+> “I am,” said Jesus. “And you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.”
+>
+> The high priest tore his clothes. “Why do we need any more witnesses?” he asked. “You have heard the blasphemy. What do you think?”
+>
+> They all condemned him as worthy of death. Then some began to spit at him; they blindfolded him, struck him with their fists, and said, “Prophesy!” And the guards took him and beat him.
+
+
+### Thoughts and questions 
+
+Jesus begins a long night of trials and beatings.  This first trial is with the religious leaders, though it has no legal grounds under Roman law -- that trial will come later.  
+
+I find it really interesting that the leaders were trying really hard to condemn Jesus.  They brought in numerous people to testify against Jesus but none of the testimony worked.  At least there was enough integrity in this trial that they needed evidence that would stick.  In the end they get this evidence directly from Jesus.  
+
+Jesus response if _extremely significant_.  He claims to be God (_I am_), and he claims to be the Daniel's prophesied _Son of Man_ as he quotes from Daniel to the religious leaders.  
+
+:::{layout-ncol=2}
+
+
+#### Mark
+> And Jesus said, “I am, and you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven.”
+>
+> [Mark 14:62 ESV](https://www.bible.com/bible/59/MRK.14.ESV)
+
+
+
+#### Daniel
+> “I saw in the night visions,\
+> and behold, with the clouds of heaven\
+> there came one like a son of man,\
+> and he came to the Ancient of Days\
+> and was presented before him.
+>
+> [Daniel 7:13 ESV](https://www.bible.com/bible/59/DAN.7.ESV)
+
+
+:::
+
+
+This is the one answer that they would not or could not accept.  The immediately understood what he meant in their response of tearing their cloths.  By the religious law to claim to be God was blasphemy deserving death. Of course, it was outside their comprehension to even consider that Jesus was simply telling them the truth!  Of course they don't kill him immediately as they are under Roman occupation and to execute a man would get them in a lot of trouble with the Romans.
+
+
+
+
+### Prayer
+
+Lord you are God.  I long for the time when your kingdom is fully known.  
+
+And to you Jesus is given dominion\
+and glory and a kingdom,\
+that all peoples, nations, and languages\
+should serve you;\
+Your dominion is an everlasting dominion,\
+which shall not pass away,\
+and your kingdom is one\
+that shall not be destroyed. (Adaptation of Daniel 7:14)
+
+Lord Jesus, let your kingdom come on earth as it is in heaven. 
