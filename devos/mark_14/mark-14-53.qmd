@@ -1,8 +1,8 @@
 ---
-title: "Arrested"
-description: "Judas brings a group to arrest Jesus"
+title: "First Trial"
+description: "Jesus claims his divinity"
 author: Colin C.
-date: 2024-02-18
+date: 2024-02-19
 search: false
 categories: [Mark]
 draft: false
