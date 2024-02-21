@@ -12,7 +12,7 @@ listing:
   page-size: 10
 editor: 
   markdown: 
-    wrap: 72
+    wrap: 72  
 ---
 
 I have started these posts in response to, and specifically for Sam.  We had a great talk near the end of May 2023 about how the devo book he was reading was not providing anything new, and was trying too hard to be relevant.  Here, I will simply try to read, provide some of my thoughts and provide a prayer.  
