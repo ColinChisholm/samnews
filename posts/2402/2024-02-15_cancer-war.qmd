@@ -3,6 +3,7 @@ title: "PET Scan Results -- Cancer War"
 description: "PET scan results are not what we hoped for and a renewed war on the cancer will begin."
 author: Colin C.
 date: 2024-02-16
+date-modified: 2024-02-22
 categories: [regular, post-BMT, milestones]
 draft: false
 editor: 
@@ -15,6 +16,19 @@ knitr:
     warning: false
     echo: false
 ---
+
+::: {.callout-note icon="false"}
+## Feb 22 early morning update
+- This morning Sam will have a minor surgery to complete a biopsy of the newly cancerous site on his T3 vertebrae. Results of the biopsy are expected following this coming weekend.
+- This afternoon we will meet with the radiation oncologist to discuss treatment options using radiation. I expect this will cover at least two scenarios: First, an emergency scenario should the cancer starts in Sam's back begin to impact nerve function. Second, a scenario that could be more therapeutic assuming the cancer is slow enough growing that it does not require emergency action. … the second scenario should be less dangerous. 
+- Friday we will be back in clinic to debrief and complete standard health checks.
+
+- Sam remains courageous. He understands everything that is going on. He knows his life is at risk. Yet he remains courageous, hopeful, trusting, and faithful.
+
+:::
+
+
+
 
 ![Despite challenging news we had a great family day. Here we are
 pictured with the sea otters of the Vancouver aquarium – they are
