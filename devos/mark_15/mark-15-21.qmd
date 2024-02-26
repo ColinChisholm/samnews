@@ -11,7 +11,7 @@ editor:
     wrap: 7
 ---
 
-### [Mark 15: 21 - 20](https://www.bible.com/bible/111/MRK.15.NIV)
+### [Mark 15: 21 - 32](https://www.bible.com/bible/111/MRK.15.NIV)
 
 >  A certain man from Cyrene, Simon, the father of Alexander and Rufus, was passing by on his way in from the country, and they forced him to carry the cross. They brought Jesus to the place called Golgotha (which means “the place of the skull”). Then they offered him wine mixed with myrrh, but he did not take it. And they crucified him. Dividing up his clothes, they cast lots to see what each would get.
 > 
