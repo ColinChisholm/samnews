@@ -1,6 +1,6 @@
 ---
 title: "Risen!"
-description: "Pilate confirms Jesus' death before releasing his body."
+description: "He is risen. He is not here."
 author: Colin C.
 date: 2024-02-28
 search: false
