@@ -1,7 +1,10 @@
 ---
 title: "Devos from Dad"
+subtitle: "Currently working through the book of Acts"
 search: false
 listing:
+  contents: 
+  - "acts/*.qmd"
   filter-ui: false
   fields: [image, date, title, author, categories, description]
   sort: "date desc"
@@ -15,7 +18,13 @@ editor:
     wrap: 72  
 ---
 
+
 I have started these posts in response to, and specifically for Sam.  We had a great talk near the end of May 2023 about how the devo book he was reading was not providing anything new, and was trying too hard to be relevant.  Here, I will simply try to read, provide some of my thoughts and provide a prayer.
+
+We completed our devos in the gospel of [Mark](mark.qmd) and now we move on to consider the book of Acts.  
+
+The introduction to the book of Acts states that the author's purpose was "to give Christians of his day the unshakable confidence in their future through an instructive survey of their past"
+\
 
 It is my hope that these posts will provide opportunities for further spiritual discussion and development.  
 

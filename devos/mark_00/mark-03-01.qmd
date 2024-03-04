@@ -11,7 +11,7 @@ editor:
     wrap: 72
 ---
 
-### [Mark 3:1 - ](https://www.bible.com/bible/111/MRK.2.NIV)
+### [Mark 3:1 - 6](https://www.bible.com/bible/111/MRK.2.NIV)
 
 > Another time Jesus went into the synagogue, and a man with a shriveled hand was there. Some of them were looking for a reason to accuse Jesus, so they watched him closely to see if he would heal him on the Sabbath. Jesus said to the man with the shriveled hand, “Stand up in front of everyone.”\
 Then Jesus asked them, “Which is lawful on the Sabbath: to do good or to do evil, to save life or to kill?” But they remained silent.\

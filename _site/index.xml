@@ -940,12 +940,12 @@ In case you missed it
 
 
 
-<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-important callout callout-style-default callout-captioned">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-title-container flex-fill">
+<div class="callout-caption-container flex-fill">
 Transplant ongoing
 </div>
 </div>
@@ -956,7 +956,7 @@ Transplant ongoing
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="http://samc-news.netlify.app/posts/2311/https:/samsstory.s3.ca-central-1.amazonaws.com/2023-11-14_friends-this-week.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Friends and family visits from this past week. So good to see all of you!</figcaption>
+<p></p><figcaption class="figure-caption">Friends and family visits from this past week. So good to see all of you!</figcaption><p></p>
 </figure>
 </div>
 <p>Today is the day and Sam is ready!</p>
@@ -1071,12 +1071,12 @@ Transplant ongoing
 
 
 <p>It is the middle of the night / early morning, Day minus 2 until Sam’s BMT. Sam is finally asleep. I don’t think he realized the level of pain he was in and it has taken about three hours to get a cap on it. Today will be another big day of immune therapy and chemotherapy drugs.</p>
-<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-note callout callout-style-default callout-captioned">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-title-container flex-fill">
+<div class="callout-caption-container flex-fill">
 Update: Slept well!
 </div>
 </div>
@@ -1146,12 +1146,12 @@ New therapies bring new and weird sensations. All of it causes fatigue. The retu
 
 
 
-<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-note callout callout-style-default callout-captioned">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-title-container flex-fill">
+<div class="callout-caption-container flex-fill">
 Update: Nov.&nbsp;10, 2023
 </div>
 </div>
@@ -1173,12 +1173,12 @@ Update: Nov.&nbsp;10, 2023
 <section id="immune-suppression" class="level3">
 <h3 class="anchored" data-anchor-id="immune-suppression">Immune suppression</h3>
 <p>Also on the weekend Sam will start receiving immune suppression treatments to prepare his body to receive the transplant material. Where the TBI and chemotherapy remove the body’s ability to generate <em>new blood</em> including immune system blood cells, the immune suppression therapy will manage the existing immune defenses. Sam’s existing mature immune defense cells will be suppressed so that they do no attack the donated material – facilitating the acceptance of the donated bone marrow.</p>
-<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-note callout callout-style-default callout-captioned">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-title-container flex-fill">
+<div class="callout-caption-container flex-fill">
 Mid-day update
 </div>
 </div>
@@ -1230,7 +1230,7 @@ Mid-day update
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="http://samc-news.netlify.app/posts/2311/https:/samsstory.s3.ca-central-1.amazonaws.com/Chisholm2023-oliveandbeanphoto-9_sml.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">The Chisholm family at the Ronald McDonald House. Fall 2023<sup>1</sup>.</figcaption>
+<p></p><figcaption class="figure-caption">The Chisholm family at the Ronald McDonald House. Fall 2023<sup>1</sup>.</figcaption><p></p>
 </figure>
 </div>
 <p>Sam is a courageous champion! He has now endured and completed two types of cancer treatment, and is ready to take-on the upcoming bone marrow transplant (BMT). Over the past six months Sam’s treatments have focused on attacking the cancer cells within his body. He received six rounds of chemical chemotherapy between May and Oct.&nbsp;Over the last two weeks, following the completion of the initial chemotherapy treatment, tactics were changed to use radiation therapy against the largest detectable cancerous mass that remains in the center of his chest. The upcoming BMT will mark a significant change in strategy for removing the cancer. Instead of attacking the cancer directly the BMT will provide a long-term indirect assault on the cancer (long-term being life-long). This process will replace Sam’s immune system – removing his current native immune defenses and replacing them with a donated immune system. Where Sam’s immune system was not effective at detecting and attacking the cancer it is expected that the new immune system will. This process is not easy and Sam may face his greatest challenges to date. However, he is looking forward to completing these next phases.</p>
