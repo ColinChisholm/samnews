@@ -2,9 +2,13 @@
 title: "Devos from Dad"
 subtitle: "Currently working through the book of Acts"
 search: false
+sidebar:
+  style: "docked"
+  search: false
+  contents: auto
 listing:
   contents: 
-  - "acts/*.qmd"
+  - "acts/"
   filter-ui: false
   fields: [image, date, title, author, categories, description]
   sort: "date desc"
