@@ -19,35 +19,35 @@ knitr:
 ::: {.callout-note icon="false"}
 ## TL;DR [Too long didn't read (i.e. the short version)]{.small}
 
--   Immune therapy treatment was started wit no adverse reactions.
+-   Immune therapy treatment was started with no adverse reactions.
 -   Radiation planning was completed with treatments to start next week.
 :::
 
 The past week has come and gone and in general it has been a good week
-for Sam. The next wave of Treatment and treatment planning has begun.
-Though we will need to wait several weeks before we know how well the
-treatment is working.
+for Sam (all things considered). The next wave of treatments and
+treatment planning has begun. Though we will need to wait several weeks
+before we know how well or if the treatments are working.
 
 ## This past week's medical journey
 
-One week ago, on Thursday, Sam was started on
+Just over a week ago, on Thursday, Sam was started on
 [Nivolumab](http://www.bccancer.bc.ca/drug-database-site/Drug%20Index/Nivolumab_handout.pdf)
 with the intention of ramping up his immune system to battle the cancer.
 We had expected to spend 3-4 nights in the hospital to monitor for
-potential adverse reactions to the drug. Sam was thrilled, when the
-medical team offered to let him leave after one night. He has not had
-any adverse reactions!
+potential adverse reactions to the drug. He did not have any adverse
+reactions! Sam was thrilled when the medical team offered to discharge
+him to leave hospital after one night.
 
-On Friday, we made the quick trip down to BC Cancer where we met with
-the radiation oncologist. Initial discussions had suggested that
-radiation would only be used on disease site in Sam's back (T3
+On Friday morning, we made the quick trip down to BC Cancer where we met
+with the radiation oncologist. Initial discussions had suggested that
+radiation would only be used on the disease site in Sam's back (T3
 vertebrae). However, following a quick discussion the team at BC Cancer
 agreed to use radiation on all three of the new sites. To plan for this
-treatment the radiation therapy team made some molds of Sam, back and
-front of the upper body and then took him for a CT scan. Using the molds
-they ensure that Sam is in the exact same position during treatment as
-he was for the CT -- this will also allow the upcoming treatment to be
-very precise.
+treatment, the radiation therapy team made some molds of Sam - his back
+and the front of his upper body - and then took him for a CT scan (this
+is a planning CT). These molds and measurements will ensure that Sam is
+in the exact same position during treatment -- ensuring that the
+upcoming treatment is very precise.
 
 Compared with my previous post, Sam's health and pain levels have been
 quite stable with no significant pain spikes.
@@ -58,13 +58,13 @@ quite stable with no significant pain spikes.
 
 Nivolumab immune therapy
 
-:   This therapy is provided by IV once every two week. This coming
+:   This therapy is provided by IV once every two weeks. This coming
     Thursday (March 14) Sam will receive a second dose. This next dose
     will be double that of the first.
 
 Radiation therapy
 
-:   Targeted radiation of the three new disease site will begin this
+:   Targeted radiation of the three new disease sites will begin this
     coming Monday. Sam will receive a dose of radiation to each site
     every day for two weeks (10 business days). Assuming all goes well
     this will simply mean a short drive to BC Cancer clinic for the
@@ -94,7 +94,7 @@ are we going to get home? Simply, we just do not know.
 
 In the meantime, we are enjoying life together. It is a simple life that
 includes medical care, meals, and time together. When Sam has the energy
-we get out of the building. Lately, he has enjoyed a trips to a local
+we get out of the building. Lately, he has enjoyed a trip to a local
 bookstore. In our room, Tina and I are thrilled when Sam has the energy
 to connect with friends and play some online games (which he has been
 able to do a couple times this week). Programs here at the Ronald
@@ -118,7 +118,7 @@ some space for some anticipated guests.
 -   Thankful that Sam has had a good week. Pain levels have been stable
     and generally easy to manage.
 
--   Sam has a chest cold. The upside is he as a new immune system to
+-   Sam has a chest cold. The upside is he has a new immune system to
     battle it. The downside, well it is a cold that is taking energy
     from him -- energy we want him to have to battle the cancer.
 
@@ -130,7 +130,7 @@ some space for some anticipated guests.
     -   The new immunotherapy drugs will release Sam's immune system to
         hit harder. Though we look forward to this pushing the cancer
         back, side effects of the new immune system attacking healthy
-        tissues are also big concern. \
+        tissues are also big concern.\
         \
         We are thankful that Sam has not had any adverse reactions to
         this drug. The next dose will be double the first so concerns
@@ -141,7 +141,7 @@ some space for some anticipated guests.
         However, radiation also comes with risks.
 
 -   We very thankful for the successful delivery and engraftment of the
-    donated stems cells! To whoever made this donation *I cannot thank
+    donated stems cells! To whoever made this donation *We cannot thank
     you enough*.
 
 -   We are thankful to the medical team who have explained things

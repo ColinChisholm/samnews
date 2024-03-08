@@ -32,123 +32,136 @@ our email, or message us (no need to use the form).*
 
 ------------------------------------------------------------------------
 
-# Cancer war -- new battle strategies
+# Again We Wait
 
-_Feb. 29, 2024_
-
-
+_March 8, 2024_
 
 ::: {.callout-note icon="false"}
 ## TL;DR [Too long didn't read (i.e. the short version)]{.small}
 
--   The cancer remains and has spread to three new areas in Sam's body
-    (now four centers of disease)
--   A combination of radiation and drug therapy will be used to combat
-    the cancer
--   Today Sam will start a new drug treatment and radiation planning
-    will begin tomorrow
+-   Immune therapy treatment was started with no adverse reactions.
+-   Radiation planning was completed with treatments to start next week.
 :::
+
+The past week has come and gone and in general it has been a good week
+for Sam (all things considered). The next wave of treatments and
+treatment planning has begun. Though we will need to wait several weeks
+before we know how well or if the treatments are working.
 
 ## This past week's medical journey
 
-It has been a whirlwind of a week filled with anxious waiting, clinic
-visits most days, pain management, prayers, and the love of family.
+Just over a week ago, on Thursday, Sam was started on
+[Nivolumab](http://www.bccancer.bc.ca/drug-database-site/Drug%20Index/Nivolumab_handout.pdf)
+with the intention of ramping up his immune system to battle the cancer.
+We had expected to spend 3-4 nights in the hospital to monitor for
+potential adverse reactions to the drug. He did not have any adverse
+reactions! Sam was thrilled when the medical team offered to discharge
+him to leave hospital after one night.
 
-It was one week ago today that Sam had a biopsy of one of the new
-disease sites. That procedure went exactly as planned and the tissue was
-sent to the BC Cancer lab for analysis -- though we would not hear about
-the results until after the weekend.
+On Friday morning, we made the quick trip down to BC Cancer where we met
+with the radiation oncologist. Initial discussions had suggested that
+radiation would only be used on the disease site in Sam's back (T3
+vertebrae). However, following a quick discussion the team at BC Cancer
+agreed to use radiation on all three of the new sites. To plan for this
+treatment, the radiation therapy team made some molds of Sam - his back
+and the front of his upper body - and then took him for a CT scan (this
+is a planning CT). These molds and measurements will ensure that Sam is
+in the exact same position during treatment -- ensuring that the
+upcoming treatment is very precise.
 
-Friday we were in clinic for a regular blood levels check and a quick
-exam. At the time, I was asked if Sam's symptoms had changed and all I
-could say was 'No, he seems to be doing well'. However, that would
-change over the following days as new pains mounted. I think of these as
-pain-spikes as they would come on quickly and cause changes in his pain
-management regime (i.e. drug doses were increased). We are thankful that
-we have such access to medical advice -- though Sam and Tina deserve
-direct credit for sorting out the latest pain-spike.
+Compared with my previous post, Sam's health and pain levels have been
+quite stable with no significant pain spikes.
 
-### The Finding and The Plan
+<!-- We were leaving from the hospital and there had been some confusion around how we would get to BC Cancer.  An ambulance had been planned but their team was obviously not going to get to us to make our appointment on time at VGH.  Instead we chose to take our personal van.  This allowed us to arrive on time.   Arriving on time allowed us the opportunity to discuss options further with Dr. Goddard.  In addition, the team had the time they needed to do proper planning -->
 
-<!-- Monday Tina and I met with Jacob, Julianna, and Nicole to review the options. -->
+## Next steps
 
-During Tuesday's visit Dr. Jacob let us all know about the results of
-the biopsy. The new disease sites are the same cancer (primarily
-characterized by its `INI1` protein deletion). This information was
-critical to know in order to determine what treatments would be
-available for Sam. To be honest, the medical toolkit is getting low in
-options, but at least we still do have options:
+Nivolumab immune therapy
 
--   Further chemotherapy is *not* an option. This cancer has become
-    resistant and that line of therapy would put Sam's new immune system
-    at risk.\
+:   This therapy is provided by IV once every two weeks. This coming
+    Thursday (March 14) Sam will receive a second dose. This next dose
+    will be double that of the first.
 
--   Radiation can be applied but is not a long term solution. We will
-    use it to reduce the burden-of-disease on Sam. In particular it will
-    be used on his T3-vertebrae to prevent potential growth at that site
-    from impinging on Sam's nerves.
+Radiation therapy
 
--   A drug therapy for Sam has been approved.
-    [Nivolumab](http://www.bccancer.bc.ca/drug-database-site/Drug%20Index/Nivolumab_handout.pdf)
-    is used for immunotherapy, though special approval was needed to use
-    it on a BMT recipient. In general terms, this drug will
-    take-the-brakes off Sam's immune system. Specifically, and as I
-    understand it, this drug disables proteins on the cancer cells that
-    allow them to remain invisible to the immune system. This is a very
-    similar philosophy of treatment as the BMT -- to enable the immune
-    system, and in Sam's case to support his new immune system, to
-    identify and destroy the cancer.\
-    The challenge is, until recently we have done the opposite, keeping
-    the immune system brakes on so that the new immune system will not
-    harm Sam's healthy tissues. The medical team will be watching him
-    closely. The goal: release the immune system to attack while
-    watching for signs that the immune system does not harm Sam -- it
-    will be a fine balance.
+:   Targeted radiation of the three new disease sites will begin this
+    coming Monday. Sam will receive a dose of radiation to each site
+    every day for two weeks (10 business days). Assuming all goes well
+    this will simply mean a short drive to BC Cancer clinic for the
+    treatment and then a return to RMH.
 
-There are risks but we are excited to move forward with this
-option/opportunity to destroy this disease. Sam is excited and these
-options and expected hospital times, depending on how he tolerates the
-treatment, could be less difficult than he had imagined.
+Results and effectiveness
 
-Today Sam will start this new immunotherapy treatment. He will be
-in-hospital for several days to ensure there are no complications.
-Assuming there are none we will be back at the RMH early next week.
+:   We are not going to know how any of these treatments are working for
+    some time. It is too soon to tell if the immune therapy is working.
+    Following radiation, we will need to wait a couple weeks for that
+    treatment to take effect. ... So we wait.
 
-Tomorrow Sam will also make a trip to the BC Cancer Clinic at VGH to
-have a CT scan which will provide the radiation oncology team the data
-that they need to complete the planning of their treatments.
+:   For now the best indicator of how things are going is with Sam. How
+    he is feeling. Where is pain levels are. How his body reacts to the
+    treatments.
 
-## Faith, Hope and Love
+## Life together
 
-I am so proud of my son. He is a young man full of courage and faith. He
-continues to face his own mortality choosing courage over fear. My
-favourite quotes come from him on a near daily basis: "I have an amazing
-life" or "I am so happy". His challenges are beyond my wildest
-nightmares but he remains strong, and full of hope. He is surrounded by
-the love of his family. He knows you are out there supporting him and we
-regularly share notes of encouragements as a family.
+*So how are we doing?*
 
-This past week we have received incredible support, following the news
-of more cancer when we had thought there would be less. Tina's family
-has been close by and have been able to visit. My parents travelled down
-and were able to be here, support us, and spend some great time with Sam
-over several days.
+Last week, I felt beyond exhausted, physically and emotionally, this has
+been a long journey. Sam reminded me that we have been here five months
+longer than expected. He is right. The initial plan if everything had
+gone as expected/hoped would have seen us go home this past October.
+Next, the BMT process, should have seen us go home last week. Now, when
+are we going to get home? Simply, we just do not know.
+
+In the meantime, we are enjoying life together. It is a simple life that
+includes medical care, meals, and time together. When Sam has the energy
+we get out of the building. Lately, he has enjoyed a trip to a local
+bookstore. In our room, Tina and I are thrilled when Sam has the energy
+to connect with friends and play some online games (which he has been
+able to do a couple times this week). Programs here at the Ronald
+McDonald House have been helpful. Sam has taken to playing the drums --
+I don't know where he gets his rhythm from but he is a natural. I have
+enjoyed playing and learning a few new things on guitar. Tina has made
+it to a couple painting classes. We have also been able to connect with
+a number of other families including playing some board games together.
+
+We are encouraged by visitors, Grace and Darren from Prince George,
+Tina's Uncle Dave and Aunt Ruth originally from England but now in
+Abbotsford, and Tina's family: siblings, Nana Mary, and Sam's cousins
+are all in the Lower Mainland and we see some of them weekly.
+
+One highlight from this past week was that we have moved to a larger
+room. This will allow us to enjoy our space more including providing
+some space for some anticipated guests.
 
 ## Victories and concerns
+
+-   Thankful that Sam has had a good week. Pain levels have been stable
+    and generally easy to manage.
+
+-   Sam has a chest cold. The upside is he has a new immune system to
+    battle it. The downside, well it is a cold that is taking energy
+    from him -- energy we want him to have to battle the cancer.
 
 -   The cancer remains and has spread to new areas in Sam's body.
 
 -   New battle strategies have been developed but carry some higher
-    risks. The new immunotherapy drugs will release Sam's immune system
-    to hit harder. Though we look forward to this pushing the cancer
-    back, side effects of the new immune system attacking healthy
-    tissues are also big concern.
+    risks.
 
--   We are thankful that we have access to such incredible tools to show
-    where the disease is in Sam's body.
+    -   The new immunotherapy drugs will release Sam's immune system to
+        hit harder. Though we look forward to this pushing the cancer
+        back, side effects of the new immune system attacking healthy
+        tissues are also big concern.\
+        \
+        We are thankful that Sam has not had any adverse reactions to
+        this drug. The next dose will be double the first so concerns
+        remain.
+
+    -   Targeted radiation therapy begins next week. We are thankful
+        this tool can be used to reduce the burden of disease on Sam.
+        However, radiation also comes with risks.
 
 -   We very thankful for the successful delivery and engraftment of the
-    donated stems cells! To whoever made this donation *I cannot thank
+    donated stems cells! To whoever made this donation *We cannot thank
     you enough*.
 
 -   We are thankful to the medical team who have explained things
@@ -162,7 +175,6 @@ over several days.
 
 -   There is always concern that the cancer remains. We long for the day
     when Sam is clear of this disease.
-
 
 ------------------------------------------------------------------------
 
