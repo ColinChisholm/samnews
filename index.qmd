@@ -34,6 +34,20 @@ our email, or message us (no need to use the form).*
 
 # Again We Wait
 
+::: {.callout-warning icon="false"}
+## March 11 
+
+A few quick notes as we head into this week
+
+-   Today Sam starts his radiation therapy.  Radiation therapy will be Monday - Friday for this week and next.
+-   A couple victories: 
+    -   We have had good control of Sam's pain over the last week.
+    -   Sam has had more energy over the weekend than we have seen since before the BMT. 
+-   With the ongoing immune therapy Sam has had more minor Graft-Versus-Host-Disease symptoms (GVHD, itchy rashes).  We are hopeful that this means there is active Graft-Versus-Disease.
+
+:::
+
+
 _March 8, 2024_
 
 ::: {.callout-note icon="false"}
