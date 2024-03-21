@@ -3,6 +3,7 @@ title: "Again we wait"
 description: "Immunotherapy has begun and radiation has been planned.  "
 author: Colin C.
 date: 2024-03-08
+date-modified: 2024-03-11
 categories: [regular, new-sites]
 draft: false
 editor: 
@@ -22,6 +23,22 @@ knitr:
 -   Immune therapy treatment was started with no adverse reactions.
 -   Radiation planning was completed with treatments to start next week.
 :::
+
+
+::: {.callout-warning icon="false"}
+## March 11 
+
+A few quick notes as we head into this week
+
+-   Today Sam starts his radiation therapy.  Radiation therapy will be Monday - Friday for this week and next.
+-   A couple victories: 
+    -   We have had good control of Sam's pain over the last week.
+    -   Sam has had more energy over the weekend than we have seen since before the BMT. 
+-   With the ongoing immune therapy Sam has had more minor Graft-Versus-Host-Disease symptoms (GVHD, itchy rashes).  We are hopeful that this means there is active Graft-Versus-Disease.
+
+:::
+
+
 
 The past week has come and gone and in general it has been a good week
 for Sam (all things considered). The next wave of treatments and
