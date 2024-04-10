@@ -36,6 +36,13 @@ our email, or message us (no need to use the form).*
 # Victories and challenges -- we battle on
 _April 7, 2024_
 
+::: {.callout-important icon="false"}
+## April 9
+
+Sam has a biopsy of the new potential disease site in his liver tomorrow.  We have a lot of concern about this new site.  Sam will likely be in hospital for 1-2 nights for observation.  
+
+:::
+
 
 ::: {.callout-note icon="false"}
 ## TL;DR [Too long didn't read (i.e. the short version)]{.small}
