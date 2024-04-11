@@ -3,7 +3,7 @@ title: "Victories and challenges -- we battle on"
 description: "PET scan results from yesterday indicate some battles won!"
 author: Colin C.
 date: 2024-04-07
-date-modified: 2024-04-09
+date-modified: 2024-04-11
 categories: [regular, new-sites, milestones]
 draft: false
 editor: 
@@ -18,9 +18,10 @@ knitr:
 ---
 
 ::: {.callout-important icon="false"}
-## April 9
+## April 11
+Sam came through the biopsy without any issues.
 
-Sam has a biopsy of the new potential disease site in his liver tomorrow.  We have a lot of concern about this new site.  Sam will likely be in hospital for 1-2 nights for observation.  
+Now we have to wait for the pathology report to let us know what we are dealing with. Initial findings may be available before the weekend, but a full report may take 10 days.
 
 :::
 
