@@ -19,6 +19,24 @@
 
 
 
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+April 18 – Strike out inaccuracies
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>In clinic yesterday, April 17, some of the medical strategies and understandings of Sam’s ongoing treatments were changed.</p>
+<ol type="1">
+<li>Primarily, a lower priority is being placed on the mass in Sam’s liver. This tissue is thought to be benign and <em>not</em> the source of stress to his liver.</li>
+<li>The source of stress to Sam’s liver is now believed to related to his immune system continuing to run out of control. The use of steroids to bring the immune system in-check has not wholly been effective. New drug therapies have been initiated.</li>
+</ol>
+<p>I have edited the post below – striking out what is no longer believed to be accurate. <em>New additions are italicized</em>.</p>
+</div>
+</div>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -33,8 +51,8 @@ TL;DR <span class="small">Too long didn’t read (i.e.&nbsp;the short version)</
 <li>Initial biopsy results are complicated.<br>
 </li>
 <li>The new growth/tumour in Sam’s liver is not the original cancer – what it is, is still being determined.</li>
-<li>This new spot does need to be treated.</li>
-<li>The main method of treatment for this new growth is in conflict with ongoing cancer treatment.</li>
+<li><del>This new spot does need to be treated.</del> The new spot will be monitored but is now thought to be benign.</li>
+<li>The main method of treatment for <del>this new growth</del> <em>the immune system running at de-regulated/higher levels</em> is in conflict with ongoing cancer treatment.</li>
 </ul>
 </div>
 </div>
@@ -44,7 +62,7 @@ TL;DR <span class="small">Too long didn’t read (i.e.&nbsp;the short version)</
 <p>Below I attempt to convey the latest biopsy results and what this means for Sam’s cancer treatment. I suggest taking it slow. The picture is complicated as we now how two issues to resolve – the liver, and the cancer.</p>
 <section id="initial-biopsy-results" class="level3">
 <h3 class="anchored" data-anchor-id="initial-biopsy-results">Initial biopsy results</h3>
-<p>Last Wednesday, Sam had a biopsy of his a growth in his liver, and yesterday we received some preliminary results. The good news is that this new growth is not Sam’s original cancer! However, we do not yet know definitively what it is – that will need to wait for the full report. What we do know is that this growth is likely a source of dangerous agitation of Sam’s liver, and that it needs to be treated.</p>
+<p>Last Wednesday, Sam had a biopsy of his a growth in his liver, and yesterday we received some preliminary results. The good news is that this new growth is not Sam’s original cancer! However, we do not yet know definitively what it is – that will need to wait for the full report. <del>What we do know is that this growth is likely a source of dangerous agitation of Sam’s liver, and that it needs to be treated</del>. <em>It is now believed that the source of ongoing agitation to the liver is the on-going de-regulation of Sam’s immune system … effectively GVHD though it can be debated if this is the right term.</em></p>
 </section>
 <section id="treatment" class="level3">
 <h3 class="anchored" data-anchor-id="treatment">Treatment</h3>
@@ -68,11 +86,11 @@ Note
 </blockquote>
 </div>
 </div>
-<p>We are in ‘catch-22’ situation. The new site in Sam’s liver needs to be treated as it is likely the major source of ongoing agitation to Sam’s liver. This is indicated in Sam’s regular bloodwork where various chemicals indicative of liver health and function are dangerously high. The best chemical method for treating growths like this involve using steroids (i.e.&nbsp;Prednisone) – Sam is currently on these.</p>
+<p>We are in ‘catch-22’ situation. The <del>new site in Sam’s liver</del> <em>immune system needs to be brought under control</em> as it is likely the major source of ongoing agitation to Sam’s liver. This is indicated in Sam’s regular bloodwork where various chemicals indicative of liver health and function are dangerously high. <del>The best chemical method for treating growths like this involve using steroids (i.e.&nbsp;Prednisone) – Sam is currently on these</del>. <em>Initial efforts to bring the immune system in-check used steroid (i.e.&nbsp;Prednisone). However, the steroids have shown themselves to only be partially effective and an alternate drug therapy has been initiated.</em></p>
 <p>However, this steroidal treatment suppresses the immune system.</p>
 <p>In the treatment of Sam’s cancer we have been using drugs to cause Sam’s immune system to be hyperactive (i.e.&nbsp;the opposite of suppressed). As such we are in a catch-22 situation. To treat the liver we must suppress the immune system, to treat the cancer we must make the immune system hyperactive<sup>1</sup>.</p>
 <p><em>…Ughhh…</em></p>
-<p>The imaging from this morning’s ultrasound should provide the medical team enough new information to determine how the current treatment is working and what alternate treatment options may exist.</p>
+<p>The imaging from this morning’s ultrasound, <em>April 16, suggested that the mass in the liver is stable and likely benign – it will be monitored but no further action is currently needed. Medical actions will focus on bringing the immune system under control.</em><del>should provide the medical team enough new information to determine how the current treatment is working and what alternate treatment options may exist.</del></p>
 <p>I think what much of this comes down to may simply be timing.</p>
 <ol type="1">
 <li>Treat the liver quickly.</li>
@@ -85,11 +103,11 @@ Note
 <dl>
 <dt>Hope</dt>
 <dd>
-If there is anything exciting from all of this it is that the new site is not Sam’s original cancer. This means that Sam’s cancer has been stable since the treatments following the PET scan back in February. This also means that the BMT-immune therapy treatment combination seems to be working.
+<p>If there is anything exciting from all of this it is that the new site is not Sam’s original cancer. This means that Sam’s cancer has been stable since the treatments following the PET scan back in February. This also means that the BMT-immune therapy treatment combination seems to be working.</p>
 </dd>
 <dt>Anxiety</dt>
 <dd>
-In waiting for the liver issue to be resolved we are delaying immune therapy treatments for the cancer. During this period it is possible that Sam’s original cancer could get going again.
+<p>In waiting for the liver <em>agitation</em> issue to be resolved we are delaying immune therapy treatments for the cancer. During this period it is possible that Sam’s original cancer could get going again.</p>
 </dd>
 </dl>
 </section>

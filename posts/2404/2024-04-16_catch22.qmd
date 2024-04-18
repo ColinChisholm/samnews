@@ -3,7 +3,7 @@ title: "Catch-22, Biopsy Results"
 description: "Initial biopsy results are complicated creating a catch-22 for treatment."
 author: Colin C.
 date: 2024-04-16
-# date-modified: 2024-04-11
+date-modified: 2024-04-18
 categories: [regular, new-sites, results]
 draft: false
 editor: 
@@ -17,14 +17,27 @@ knitr:
     echo: false
 ---
 
+::: {.callout-caution}
+## April 18 -- Strike out inaccuracies
+
+In clinic yesterday, April 17, some of the medical strategies and understandings of Sam's ongoing treatments were changed.  
+
+1.   Primarily, a lower priority is being placed on the mass in Sam's liver.  This tissue is thought to be benign and _not_ the source of stress to his liver. 
+2.   The source of stress to Sam's liver is now believed to related to his immune system continuing to run out of control.  The use of steroids to bring the immune system in-check has not wholly been effective.  New drug therapies have been initiated. 
+
+I have edited the post below -- striking out what is no longer believed to be accurate.  _New additions are italicized_. 
+
+:::
+
+
 ::: {.callout-note icon="false"}
 ## TL;DR [Too long didn't read (i.e. the short version)]{.small}
 
 -   Initial biopsy results are complicated.\
 -   The new growth/tumour in Sam's liver is not the original cancer --
     what it is, is still being determined.
--   This new spot does need to be treated.
--   The main method of treatment for this new growth is in conflict with
+-   ~~This new spot does need to be treated.~~ The new spot will be monitored but is now thought to be benign.
+-   The main method of treatment for ~~this new growth~~ _the immune system running at de-regulated/higher levels_ is in conflict with
     ongoing cancer treatment.
 :::
 
@@ -47,8 +60,8 @@ Last Wednesday, Sam had a biopsy of his a growth in his liver, and
 yesterday we received some preliminary results. The good news is that
 this new growth is not Sam's original cancer! However, we do not yet
 know definitively what it is -- that will need to wait for the full
-report. What we do know is that this growth is likely a source of
-dangerous agitation of Sam's liver, and that it needs to be treated.
+report. ~~What we do know is that this growth is likely a source of
+dangerous agitation of Sam's liver, and that it needs to be treated~~. _It is now believed that the source of ongoing agitation to the liver is the on-going de-regulation of Sam's immune system  ... effectively GVHD though it can be debated if this is the right term._
 
 ### Treatment
 
@@ -61,12 +74,12 @@ dangerous agitation of Sam's liver, and that it needs to be treated.
 >     ([Wikipedia](https://en.wikipedia.org/wiki/Catch-22_(logic)))
 :::
 
-We are in 'catch-22' situation. The new site in Sam's liver needs to be
-treated as it is likely the major source of ongoing agitation to Sam's
+We are in 'catch-22' situation. The ~~new site in Sam's liver~~ *immune system needs to be
+brought under control* as it is likely the major source of ongoing agitation to Sam's
 liver. This is indicated in Sam's regular bloodwork where various
 chemicals indicative of liver health and function are dangerously high.
-The best chemical method for treating growths like this involve using
-steroids (i.e. Prednisone) -- Sam is currently on these.
+~~The best chemical method for treating growths like this involve using
+steroids (i.e. Prednisone) -- Sam is currently on these~~.  *Initial efforts to bring the immune system in-check used steroid (i.e. Prednisone).  However, the steroids have shown themselves to only be partially effective and an alternate drug therapy has been initiated.*
 
 However, this steroidal treatment suppresses the immune system.
 
@@ -82,9 +95,9 @@ hyperactive[^1].
 
 *...Ughhh...*
 
-The imaging from this morning's ultrasound should provide the medical
+The imaging from this morning's ultrasound, *April 16, suggested that the mass in the liver is stable and likely benign -- it will be monitored but no further action is currently needed.  Medical actions will focus on bringing the immune system under control.*~~should provide the medical
 team enough new information to determine how the current treatment is
-working and what alternate treatment options may exist.
+working and what alternate treatment options may exist.~~
 
 I think what much of this comes down to may simply be timing.
 
@@ -107,7 +120,7 @@ Hope
 
 Anxiety
 
-:   In waiting for the liver issue to be resolved we are delaying immune
+:   In waiting for the liver *agitation* issue to be resolved we are delaying immune
     therapy treatments for the cancer. During this period it is possible
     that Sam's original cancer could get going again.
 
