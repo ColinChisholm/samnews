@@ -6,7 +6,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/index.html</loc>
-    <lastmod>2024-04-22T05:44:54.985Z</lastmod>
+    <lastmod>2024-04-28T18:56:15.812Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/posts/2312/2023-12-24_merry-christmas.html</loc>
@@ -42,7 +42,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/timeline.html</loc>
-    <lastmod>2024-04-15T14:02:56.636Z</lastmod>
+    <lastmod>2024-04-25T13:23:20.894Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/wishes.html</loc>
@@ -115,5 +115,13 @@
   <url>
     <loc>http://samc-news.netlify.app/posts/2404/2024-04-18_one-year.html</loc>
     <lastmod>2024-04-22T05:44:01.729Z</lastmod>
+  </url>
+  <url>
+    <loc>http://samc-news.netlify.app/timeline.old.html</loc>
+    <lastmod>2024-04-25T13:13:40.748Z</lastmod>
+  </url>
+  <url>
+    <loc>http://samc-news.netlify.app/posts/2404/2024-04-25_first-break-home.html</loc>
+    <lastmod>2024-04-28T18:55:01.726Z</lastmod>
   </url>
 </urlset>

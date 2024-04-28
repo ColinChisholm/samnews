@@ -1,240 +1,253 @@
 ---
 title: Milestones
-date-modified: 2023-11-26
+date-modified: 2023-24-25
 ---
 
 
+For Sam's [one year anniversary](posts/2404/2024-04-18_one-year.qmd) post I generated a more coherent timeline of his the more significant events in this cancer journey.  
+
+Sam has been through three eras of cancer
+treatment: 
+
+1. Chemotherapy, 
+2. Bone Marrow Transplant, 
+3. and now Immunotherapy.
+   
+Radiation was given both before the BMT and also concurrent with immunotherapy. 
+   
+Below is a review of the major milestones.
+
+## Chemotherapy
+
++--------------+-----------------------------+
+| Date         | Description                 |
++==============+=============================+
+|              |                             |
+| **2023**     |                             |
+|              |                             |
++--------------+-----------------------------+
+| April 17     | An alarming x-ray in        |
+|              | Prince George               |
+|              | provided evidence that      |
+|              | Sam needed urgent           |
+|              | care at BCCH.               |
++--------------+-----------------------------+
+| April 18     | Air Ambulance in the        |
+|              | early morning and           |
+|              | admission to BCCH's         |
+|              | PICU.                       |
++--------------+-----------------------------+
+| April 22     | Transfer to BCCH            |
+|              | Oncology Ward (T8).         |
++--------------+-----------------------------+
+| April 28     | Diagnosis of a extremely    |
+|              | rare form of                |
+|              | lymphoma.                   |
++--------------+-----------------------------+
+| April 29     | Chemotherapy is             |
+|              | initiated. Sam will         |
+|              | receive an additional 6     |
+|              | full rounds of              |
+|              | chemotherapy taking him     |
+|              | into October.               |
++--------------+-----------------------------+
+| June 2       | Following his second        |
+|              | round of chemotherapy       |
+|              | Sam was discharged from     |
+|              | the hospital for the        |
+|              | first time. This marks      |
+|              | the beginning of our        |
+|              | family life at RMH. The     |
+|              | next months we would        |
+|              | visit the oncology          |
+|              | clinic regularly. When      |
+|              | it was time for each        |
+|              | round of chemotherapy we    |
+|              | would check into the        |
+|              | ward for about 5 days.      |
++--------------+-----------------------------+
+| July 14      | Plans for a bone marrow     |
+|              | transplant were             |
+|              | initiated. By               |
+|              | mid-summer it became        |
+|              | apparent that the           |
+|              | chemotherapy would not      |
+|              | remove all of the           |
+|              | cancer. The remaining       |
+|              | rounds of                   |
+|              | chemotherapy would          |
+|              | reduce the cancer as        |
+|              | much as possible, and       |
+|              | keep it from                |
+|              | spreading to new            |
+|              | locations, while the        |
+|              | BMT was being organized.    |
+|              |                             |
++--------------+-----------------------------+
+| Sept. 26     | Preparations for BMT,       |
+|              | baseline testing of Sam     |
+|              | was initiated to            |
+|              | evaluate impacts of the     |
+|              | BMT (i.e. eye, ear,         |
+|              | skin, and lung capacity     |
+|              | testing).                   |
++--------------+-----------------------------+
+| Oct. 15      | Sam completed his final     |
+|              | round of                    |
+|              | chemotherapy.               |
++--------------+-----------------------------+
+| Oct. 23      | Targeted radiation          |
+|              | therapy over three days     |
+|              | to destroy the              |
+|              | central mass in Sam's       |
+|              | chest is initiated. This    |
+|              | was completed at the BC     |
+|              | Cancer Centre over 10       |
+|              | days.                       |
++--------------+-----------------------------+
+| Nov. 8       | Total body radiation is     |
+|              | used to completely          |
+|              | remove Sam's existing       |
+|              | immune system – to kill     |
+|              | the blood producing         |
+|              | cells in his bone           |
+|              | marrow. This was done to    |
+|              | make way for the bone       |
+|              | marrow                      |
+|              | transplant.                 |
++--------------+-----------------------------+
+
+
+
+
+## Bone Marrow Transplant
+
++--------------+--------------------------+
+| Nov. 14      | Bone marrow              |
+|              | transplant is            |
+|              | received. Sam had        |
+|              | been admitted to         |
+|              | the oncology ward a      |
+|              | few days prior in        |
+|              | preparation and          |
+|              | would remain on          |
+|              | ward in isolation for    |
+|              | the next                 |
+|              | number of weeks.         |
+|              | This was a               |
+|              | particularly             |
+|              | intense time as the      |
+|              | medical team had to      |
+|              | provide so many          |
+|              | supports to his          |
+|              | body                     |
++--------------+--------------------------+
+| Nov. 25      | First indications        |
+|              | that the BMT was         |
+|              | establishing –           |
+|              | engraftment.             |
+|              | Official                 |
+|              | engraftment would        |
+|              | be  established          |
+|              | on Dec. 1 based on       |
+|              |    metrics from          |
+|              | Sam's blood.             |
++--------------+--------------------------+
+| Dec. 13      | Sam is discharged        |
+|              | from the hospital        |
+|              | with plans to            |
+|              | continue regular         |
+|              | check-ins at the         |
+|              | oncology clinic.         |
++--------------+--------------------------+
+| **2024**     |                          |
++--------------+--------------------------+
+| Jan. 11      | Stepping down from       |
+|              | all of the various       |
+|              | medications              |
+|              | had its challenges.      |
+|              | Sam was admitted to      |
+|              | the ward for eight       |
+|              | days to determine        |
+|              | what was causing         |
+|              | his extreme              |
+|              | lethargy. It was a       |
+|              | complicated picture      |     
+|              | as we all had a flu      |
+|              | in the days prior        |
+|              | but what Sam was         |
+|              | experiencing was         |
+|              | more. In the end         |
+|              | the main issue           |
+|              | seemed to be             |
+|              | adrenal insufficiency.   |
++--------------+--------------------------+
+
+
+
+## Immunotherapy
+
++---------------+----------------------------+
+| Feb. 14       | PET scan, that we were     |
+|               | all hoping to be           |
+|               | Sam's last before          |
+|               | having to go home,         |
+|               | revealed a horror – the    |
+|               | cancer had spread to       |
+|               | three new locations.       |
+|               | New battle strategies      |
+|               | are brought into play.     |
+|               | Plans to return home are   |
+|               | canceled.                  |
++---------------+----------------------------+
+| Feb. 29       | Sam receives his first     |
+|               | dose of Nivomulab used to  |
+|               | intentionally              |
+|               | de-regulate Sam's          |
+|               | immune system and to       |
+|               | turn off specific          |
+|               | protein markers on the     |
+|               | cancer cells that allow    |
+|               | them to hide from the      |
+|               | immune system.             |
++---------------+----------------------------+
+| March 11      | Targeted radiation         |
+|               | starts against the three   |
+|               | new                        |
+|               | sites. The shin and hip    |
+|               | sites would see higher     |
+|               | doses over four days.      |
+|               | The T3-vertebrae would     |
+|               | see lower daily            |
+|               | radiation doses over       |
+|               | ten days.                  |
++---------------+----------------------------+
+| April 5       | PET scan demonstrated      |
+|               | that: a\) The three new    |
+|               | disease sites had been     |
+|               | effectively killed         |
+|               | using radiation, b\) the   |
+|               | central mass was stable    |
+|               | c\) However, a new site    |
+|               | in Sam's liver raised      |
+|               | new alarm bells.           |
++---------------+----------------------------+
+| April 11      | Biopsy of the liver        |
+|               | revealed that this mass    |
+|               | is not Sam's original      |
+|               | cancer but an indistinct   |
+|               | mass that will be          |
+|               | monitored.                 |
++---------------+----------------------------+
+| *April 21*    | *Five day break -- home!   |
+|               | Two days of travel and     |
+|               | three days in Prince       |
+|               | Family, school, quick      |
+|               | visits with friends, and   |
+|               | an initial connection      |
+|               | with the local medical     |
+|               | team.*                     |  
++---------------+----------------------------+
 
 
 
-
-
-::: box-cc-important
-## Bone Marrow transplant
-
-On Nov. 14^th^ Sam received an incredible generous donation of bone marrow stem cells. In preparation for this Sam underwent several treatments including:
-
-- targeted radiation 
-- total body irradiation 
-- intense chemotherapy
-
-More details of these steps can be found here: [The BMT Process](bmt-process.qmd).
-
-::: 
-
-
-::: box-cc-important
-## Summary of the original chemotherapy treatment 
-
--   Sam completed his sixth round and final round of chemotherapy.  This original phase of treatment is now complete. 
--   Our hope was that Sam could return home following round six.  However, the cancer, although not growing, has not been reduced enough.  We are now preparing for a Bone Marrow Transplant in effort to remove the cancer. 
-<!------   Should the current treatment not be enough Sam may have to have a bone marrow transplant described in the July 18^th^ post: [Contingency planning](/posts/2307/2023-07-17_contigency-plan.qmd)----->
--   Results so far:
-    -   Following round 1 are described in the June 7^th^ post: [Results and returning for round 2](posts/2023-06-07_results-and-round2.html)
-    -   Following round 2 are described in the July 5^th^ post: [Treatment progress and the start of round 3](posts/2307/2023-07-05_round3-and-results.qmd)
-    -   Results following round 4 are described in the August 26^th^ post: [Results and recommendations](posts/2308/2023-08-26_results-and-recommendations.qmd)
-    -   Results from round six confirm the direction to pursue a bone marrow transplant.  See the [Oct. 15^th^ post](/posts/2309/2023-10-15_Results-round-6.qmd)
-
-
--   A round of chemo is described in the June 9^th^ post: [What does a round of chemo look like? An overview](posts/2023-06-08_chemo-overview.html)
-
-For upcoming events see: [The Plan](plan.qmd)
-
-:::
-
-------------------------------------------------------------------------
-
-_The timeline below is currently not up to date._
-
-Most recent items at the top.
-
-::: timeline
-
-
-::: {.tl_container .tl_left}
-::: tl_content
-### PET Scan / BMT planning
-2023-08-22
-
-Results from the scan on August 18th indicate that we are going in the right direction but it will not be enough.  
-
-Plans for a bone marrow transplant are initiated.
-
-:::
-:::
-
-
-
-
-::: {.tl_container .tl_right}
-::: tl_content
-### Round 4 begins
-2023-08-01
-
-Following a week delay as we waited for Sam's body to recover from round 3. This round can begin.
-
-Round 4 of 6 starts. 
-:::
-:::
-
-
-
-
-
-::: {.tl_container .tl_left}
-::: tl_content
-### Response and beginning of Round 3 
-
-2023-07-04
-
-The treatment plan is working. PET scan on June 30^th^ confirmed further reduction in the size and activity of the cancer.  
-
-Round 3 of 6 starts. 
-:::
-:::
-
-
-
-
-::: {.tl_container .tl_right}
-::: tl_content
-### Beginning of Round 2 of 6 
-
-2023-06-06
-
-We checked in at the oncology clinic, completed several standard tests including bloodwork. The tests confirmed that Sam is ready to start round 2 of chemotherapy.  Dr. Cheng reviewed the plan with us. 
-
-_note: We now have a plan! Seeing that the cancer has responded well to the treatment it is possible to continue with a treatment regime._
-:::
-:::
-
-
-
-
-::: {.tl_container .tl_left}
-::: tl_content
-### Outpatient at RMH 
-
-2023-06-02
-
-With the completion of the second round of chemotherapy and the return of Sam's blood counts he has been discharged for a few days.  We will live at the Ronald McDonald House. 
-
-:::
-:::
-
-
-::: {.tl_container .tl_right}
-::: tl_content
-### Chemo round 2 
-
-2023-05-13
-
-In the morning Sam went into surgery to establish a new central line.  In the afternoon the more intense second round of chemotherapy began.
-
-
-:::
-:::
-
-
-
-
-
-::: {.tl_container .tl_left}
-::: tl_content
-### Initial Response 
-
-2023-05-05
-
-Following one week of chemotherapy and confirmed via a CT scan the main cancerous tumor has shrunk by approximately 40%. 
-
-
-:::
-:::
-
-
-
-
-
-
-::: {.tl_container .tl_right}
-::: tl_content
-### A Diagnosis and Treatment Plan
-
-2023-04-28
-: Sam has an extremely rare cancer.  A blood-based cancer mostly contained in the lymphatic system. Treatment has started with a standard round of chemotherapy.  
-
-:::
-:::
-
-
-::: {.tl_container .tl_left}
-::: tl_content
-### Ultrasound
-
-2023-04-27
-:  Improved understanding of the cancer impacts in Sam's neck. 
-:::
-:::
-
-::: {.tl_container .tl_right}
-::: tl_content
-### PET Scan
-
-2023-04-26
-
-:   Trip to BC Cancer Clinic for PET Scan. Results confirm location of cancer. 
-:::
-:::
-
-::: {.tl_container .tl_left}
-::: tl_content
-### Transfer to Oncology
-
-2023-04-22
-
-:   Changed rooms from ICU to Oncology. We are still waiting for results.
-:::
-:::
-
-::: {.tl_container .tl_right}
-::: tl_content
-### Pending test results
-
-2023-04-21
-
-:   Test results are rolling in. The team is waiting to start treatment until they know exactly what they are targeting. We know it is not: in the central nervous system, or in the bones! We will wait.
-:::
-:::
-
-::: {.tl_container .tl_left}
-::: tl_content
-### Biopsies
-
-2023-04-20
-
-:   Surgery to: 1) remove lymph node from left side lower neck, 2) lumbar puncture for spinal fluid and chemotherapy into spine, 3) Bone marrow, and 4) establish a PICC line.
-:::
-:::
-
-::: {.tl_container .tl_right}
-::: tl_content
-### Scans at BC Childrens
-
-2023-04-19
-
-:   Tina and Sam arrive at BC Children's and he was admitted to the Pediatric ICU. Teams of Drs. consulted on and off through the day. IV, CT scan, and new IV.
-
-<!-- Location: Peds ICU (Frog pod 201) -->
-:::
-:::
-
-::: {.tl_container .tl_left}
-::: tl_content
-### An Alarming X-ray and Transfer to BC Childrens
-
-2023-04-18
-
-:   A chest X-ray, technician sent us to the ER, ER sent us to pediatrics, and the pediatrician sent us to the BC Children's hospital. Sam accompanied by Tina, traveled by air ambulance to Vancouver.
-:::
-:::
-:::
