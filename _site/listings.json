@@ -3,7 +3,6 @@
     "listing": "/index.html",
     "items": [
       "/posts/2405/2024-05-05_waiting.html",
-      "/posts/2405/2024-05-12_PET-results.html",
       "/posts/2404/2024-04-25_first-break-home.html",
       "/posts/2404/2024-04-18_one-year.html",
       "/posts/2404/2024-04-16_catch22.html",
@@ -105,6 +104,7 @@
   {
     "listing": "/devos/index.html",
     "items": [
+      "/devos/acts/acts_04-23.html",
       "/devos/acts/acts_04-05.html",
       "/devos/acts/acts_04-01.html",
       "/devos/acts/acts_03-17.html",

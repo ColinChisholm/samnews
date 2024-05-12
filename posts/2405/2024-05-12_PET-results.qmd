@@ -5,7 +5,7 @@ author: Colin C.
 date: 2024-05-06
 # date-modified: 2024-04-18
 categories: [regular, results]
-draft: false
+draft: true
 editor: 
   markdown: 
     wrap: 72
@@ -36,6 +36,19 @@ knitr:
 
 
 ## Current medical picture 
+
+This past Wednesday Sam had his most recent PET scan.  Scan days are always stressful for everyone. Our experience with this type of stress is not unique.  Talking with other parents, we all recognize that scan days and at minimum the day leading up to them are intense.  It is weird because the scans do not change anything, but what they do is reveal what is happening.  They cause use to confront all that we hope for and all that we fear.  To add to this, the results from the scan often do not align with either our hopes or the fears that we try to prepare ourselves for.  This dissonance, just adds to the stress of it all.  
+
+The results of this last scan, like many others has mixed news.  
+
+### Cancer status
+
+The good news is that since Feb 5^th^ there are no new disease sites.  The difficult news is that the site in the center of Sam's chest remains active and appears to have grown a small amount.  The previous scan showed no detectable change at that site so to have this small growth strongly suggests that the cancer is still active there.  
+
+
+### Liver status
+
+The previous PET scan raised concern that a more metabolically active site in Sam's liver could be cancer.  This has been ruled out via biopsy.  We have known for sometime that Sam's liver has been stressed due to his immune system being de-regulated.  Metrics of Sam's liver health have been improving.  
 
 - PET Scan was completed this past Wednesday
     - We celebrate that there are no new disease site 
