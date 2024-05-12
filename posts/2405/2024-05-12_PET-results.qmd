@@ -1,10 +1,10 @@
 ---
-title: "Holding Pattern -- Waiting"
+title: "Scan results"
 description: "Checking in at clinic and waiting."
 author: Colin C.
 date: 2024-05-06
 # date-modified: 2024-04-18
-categories: [regular]
+categories: [regular, results]
 draft: false
 editor: 
   markdown: 
@@ -17,23 +17,44 @@ knitr:
     echo: false
 ---
 
-<!-- 
+
 ::: {.callout-note icon="false"}
 ## TL;DR [Too long didn't read (i.e. the short version)]{.small}
-::: -->
 
-It has been ten days since we returned to Vancouver.  Life has been fairly routine, even slow.  We have we been checking in with the hospital clinic and so far the metrics associated with Sam's liver numbers are going the right direction.  This suggests that the liver is healing/ becoming less inflamed.  
+-   PET Scan Results -- Celebrating no new sites.  Concern remains as disease continues at the original site.
+-   Liver numbers are continuing in the right direction 
+-   Next Steps
+-   Rehab and thank yous
 
-This week we have a few items on the agenda: a) Clinic check-ins; b) Ultrasound of the liver to verify that the non-cancerous mass there is either stable or improving; and c) PET scan (possibly).  The PET scan is the big item as it will show us the status of the cancer in Sam's body.  Results of the PET will also strongly inform Sam's next treatment(s).  
+:::
 
-This journey has been long and we are tired.  This past weekend family facilitated giving me a break.  Tina and Sam stayed with Mary and the Fricker family (Tina's sister's family) giving me almost 24 hours off. It was great to have that time without responsibilities.  
-
-Sam remains positive and continues to get stronger.  Tina and I are glad to see this.  However, we cannot escape feelings of needing-to-be-vigilant and anxiousness about what could be happening undetected -- the results of the PET scan this week will be very helpful.
 
 <!-- 
 ::: {#photo}
 ![Sam was a great copilot in our journeys north and then south](https://samsstory.s3.ca-central-1.amazonaws.com/2024-04-21_road-trip.jpg)
 ::: -->
+
+
+## Current medical picture 
+
+- PET Scan was completed this past Wednesday
+    - We celebrate that there are no new disease site 
+    - The original cancerous disease site still remains.  Generally, it is mostly stable though this latest scan suggests that there has been some slight growth (i.e. that the cancer is still active).
+- Ultrasound 
+- Liver 
+
+
+## Next steps 
+
+- Allow Sam's new immune system to do the work, watch and wait.  However, we do not know if the immune system will be enough to stop this stubborn disease. 
+- Considering the use of Nivomulab -- should be effective at making the cancer more visible to the immune system.  However, this medication could also deregulate Sam's immune system that potentially resulting in damage to healthy tissues (e.g. as it was starting to do with Sams's liver this last time).  If this happens Sam would once again need to ramp up the use of immune system suppressing medications thereby making the immune system less effective at battling the cancer -- Catch 22.  
+
+## Rehab and Thank you! 
+
+Despite the challenges that remain in Sam's body he has been feeling good.  
+-  Rehab walks and Vietnamese 
+-  New record -- cambie villiage
+-  Thank you for all of your gifts.  
 
 
 ## Victories and concerns

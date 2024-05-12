@@ -4,7 +4,7 @@ description: "It has been a full year since Sam arrived at BC Children's Hospita
 author: Colin C.
 date: 2024-04-21
 # date-modified: 2024-04-18
-categories: [regular, new-sites, milestones]
+categories: [regular, milestones]
 draft: false
 editor: 
   markdown: 

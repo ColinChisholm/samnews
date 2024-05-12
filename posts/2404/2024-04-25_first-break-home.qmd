@@ -4,7 +4,7 @@ description: "We made it home!  It was a quick whirlwind of a trip but we were a
 author: Colin C.
 date: 2024-04-28
 # date-modified: 2024-04-18
-categories: [regular, new-sites, milestones]
+categories: [regular, milestones]
 draft: false
 editor: 
   markdown: 

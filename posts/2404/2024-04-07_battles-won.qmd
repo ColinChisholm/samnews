@@ -4,7 +4,7 @@ description: "PET scan results from yesterday indicate some battles won!"
 author: Colin C.
 date: 2024-04-07
 date-modified: 2024-04-11
-categories: [regular, new-sites, milestones]
+categories: [regular, milestones]
 draft: false
 editor: 
   markdown: 

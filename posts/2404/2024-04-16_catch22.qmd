@@ -4,7 +4,7 @@ description: "Initial biopsy results are complicated creating a catch-22 for tre
 author: Colin C.
 date: 2024-04-16
 date-modified: 2024-04-18
-categories: [regular, new-sites, results]
+categories: [regular, results]
 draft: false
 editor: 
   markdown: 
