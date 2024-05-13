@@ -22,96 +22,110 @@ knitr:
 
 -   PET Scan Results -- Celebrating no new sites. Concern remains as
     disease continues at the original site.
--   Liver numbers are continuing in the right direction
--   Next Steps
--   Rehab and thank you
+-   Liver numbers are continuing in the right direction.
+-   Next Steps.
+-   Life together and thank you.
 :::
-
-
 
 ::: {#photo}
-![Happy Mothers Day Tina! You are an amazing mother!  We love you!](https://samsstory.s3.ca-central-1.amazonaws.com/2024-05-12_mothers-day.jpg)
+![Happy Mothers Day Tina! You are an amazing mother! We love
+you!](https://samsstory.s3.ca-central-1.amazonaws.com/2024-05-12_mothers-day.jpg)
 :::
-
-
 
 ## Current medical picture
 
 This past Wednesday Sam had his most recent PET scan. Scan days are
-always stressful. Our experience with this type of stress
-is not unique. Talking with other parents, we all recognize that scan
-days and at minimum the day leading up to them are intense. It is weird
-because the scans do not change anything, but what they do is reveal
-what is happening. They cause use to confront all that we hope for and
-all that we fear. To add to this, the results from the scan often do not
-align with either our hopes or the fears that we try to prepare
-ourselves for. This dissonance, just adds to the stress of it all.
+always stressful. Our experience with this type of stress is not unique.
+Talking with other parents, we all recognize that scan days and at
+minimum the day leading up to them are intense. It is weird because the
+scans do not change anything, but what they do is reveal what is
+happening. They cause use to confront all that we hope for and all that
+we fear. To add to this, the results from the scan often do not align
+with either our hopes or the fears that we try to prepare ourselves for.
+This dissonance, just adds to the stress of it all.
 
-The results of this last scan, like many others has mixed news.
+The results of this last scan, like many others, has mixed news.
 
 ### Cancer status
 
 The good news is that since Feb 5^th^ there are no new disease sites.
 
-The difficult news is that the site in the center of Sam's chest
-remains and has grown a small amount. The previous scan, April 5, showed no detectable
-change at that site and so to have this new growth strongly suggests
-that the cancer is active there. Options for treatment are limited and
-it is unknown if they will be effective.
+The difficult news is that the site in the center of Sam's chest remains
+and has grown a small amount. The previous scan, April 5, showed no
+detectable change at that site and so to have this new growth strongly
+suggests that the cancer is active there. Options for treatment are
+limited and it is unknown if they will be effective.
 
 ### Liver status
 
 The previous PET scan raised concern that a more metabolically active
 site in Sam's liver could be cancer. This has been ruled out via biopsy.
-We have known for sometime that Sam's liver has been stressed due side effects of his immune therapy treatment causing his immune system to become deregulated. Latest metrics of Sam's liver health have
-been improving. This may open up additional treatment options.
+We have known for sometime that Sam's liver has been stressed due to
+side-effects of his immune therapy treatment causing his immune system
+to become deregulated. Latest metrics of Sam's liver health have been
+improving. Recent ultrasound of the liver shows a minor increase in
+size. The Doctors want to continue monitoring this mass as it is not an
+urgent priority right now.
 
 ## Next steps
 
-We are in a hard place and there seem to be two potential options and it
-is not known which is best or if either will be effective.
+We are in a hard place with two potential options for treatment -- it is
+not known which is best or if either will be effective.
 
 ### Option 1: Rely on the new immune system
 
-Sam's new immune system is fairly well established. To date we have not
-had the opportunity to see what it can do. The previous treatments had
-side effects that required steroids to calm/ suppress his immune system
-so that permanent liver damage could be avoided. This option would allow
-Sam to live and enjoy his life without medications and risk of side
-effects. However, we do not know if his new immune system will
-effectively battle the cancer.
+Sam's new immune system is fairly well established (although not
+completely until about one year after the bone marrow transplant). To
+date we have not had the opportunity to see what it can do. The previous
+treatments had side-effects that required steroids to calm/ suppress his
+immune system so that permanent liver damage could be avoided. If he was
+taken off the immunosupressants and just let his own (new) immune system
+work, this option would allow Sam to live and enjoy his life without
+medications and risk of side-effects. However, we do not know if his new
+immune system will effectively battle the cancer.
 
-### Option 2: Resume Immune Therapy
+<!-- and there is no way of
+measuring effectiveness in a timely manner (ie. cannot have another PET
+scan for 6 weeks, and that is too much time to risk the cancer growing).-->
 
-This option would require the use of Nivomulab an immune therapy drug.
-We know that this drug can make the cancer in Sam's body 'visible' to
-the immune system. This is also the drug that resulted in Sam's liver
-being inflamed and the subsequent need for steroids to calm the immune
-system (Catch-22). If we go this route the team would use the lessons
-learned from last time to modify their therapy plan in an attempt to
-remove the side effects.
+### Option 2: Resume immune therapy
 
-## Enjoying life and Thank you!
+This option would require the use of Nivomulab (an immune therapy drug)
+again. We know that this drug can make the cancer in Sam's body
+'visible' to the immune system. However, this is also the drug that
+resulted in Sam's liver being inflamed and the subsequent need for
+steroids to calm the immune system (Catch-22). If we go this route, the
+team would use the lessons learned from last time to modify their
+therapy plan in an attempt to limit side-effects.
 
-Despite all of the challenges and the ongoing threat to Sam's life. We
+-   If side-effects can be avoided, this will likely be the more
+    effective treatment.
+-   If side-effects cannot be avoided, this treatment could cause
+    permanent harm (eg. the risk of liver failure).
+
+## Enjoying life and thank you!
+
+Despite all of the challenges and the ongoing threat to Sam's life, we
 have been able to enjoy life as a family. The cancer aside, Sam is
-healthy and getting stronger.
+healthy, regaining weight, growing, and getting stronger.
 
-In the last couple of weeks we have been instituted Sam's *foody-rehab*
-plan. This is where we walk from RMH to the small mall at Oak and King
-Edward. Once there Sam has been enjoying most items at Kim's Express
-(Vietnamese). One evening Sam lead our family for a larger walk, one
-that I did not know he was capable of, down to Cambie Village about
-1.5kms away. We had some great ice cream before walking back.
+In the last couple of weeks we have been instituting Sam's
+*foodie-rehab* plan. This is where we walk from RMH to the small mall at
+Oak and King Edward. Once there, Sam has been enjoying most items at
+Kim's Express (Vietnamese food). One evening Sam led our family for a
+larger walk, one that I did not know he was capable of, down to Cambie
+Village about 1.5kms away. We had some great ice cream before walking
+back. This was an absolutely epic evening for our family.
 
-Over this past weekend we were able to join the Townsend-side of the
-family to experience the animals at Atdor Farms near Ft. Langley. I
-loved watching Sam take some time to groom Rob a huge Percheron work
-horse.
+Over this past weekend we were able to join some of the Frickers and the
+Townsend side of the family to experience the animals at Aldor Farms
+near Ft. Langley. I loved watching Sam take some time to groom Rob, a
+huge Percheron work horse.
 
-Yesterday, we celebrated mothers day. Ronald McDonald House put on a
+Yesterday, we celebrated Mothers Day. Ronald McDonald House put on a
 beautiful brunch. In the evening, we took in the Canucks vs. Oilers
-hockey game.
+hockey game (which Sam mostly slept through due to being tired from his
+big farm day Saturday).
 
 \
 Tina and I want to express a special thank you to all of you who have
@@ -131,11 +145,11 @@ needing to worry about a budget.
 -   Thankful that the three new disease centers, treated using targeted
     radiation, have been removed.
 
--   Ongoing immune therapy has deregulated Sam's immune system. Side
-    effects were becoming dangerous as Sam's liver is inflamed. In order
-    to continue with the immune therapy drugs, Sam's immune system needs
-    to be brought back to a regulated state. Recent bloodwork suggests
-    that things are returning to normal function.
+-   Ongoing immune therapy has deregulated Sam's immune system.
+    Side-effects were becoming dangerous as Sam's liver is inflamed. In
+    order to continue with the immune therapy drugs, Sam's immune system
+    needs to be brought back to a regulated state. Recent bloodwork
+    suggests that things are returning to normal function.
 
 -   We are thankful to the medical team here at [BC Childrens'
     Hospital](http://www.bcchildrens.ca) who have explained things
