@@ -32,152 +32,136 @@ our email, or message us (no need to use the form).*
 
 ------------------------------------------------------------------------
 
+# Scan results
 
-# Holding Pattern -- Waiting
+_May 13, 2024_
 
-_May 6, 2024_
+::: {.callout-note icon="false"}
+## TL;DR [Too long didn't read (i.e. the short version)]{.small}
 
-
-It has been ten days since we returned to Vancouver.  Life has been fairly routine, even slow.  We have we been checking in with the hospital clinic and so far the metrics associated with Sam's liver numbers are going the right direction.  This suggests that the liver is healing/ becoming less inflamed.  
-
-This week we have a few items on the agenda: a) Clinic check-ins; b) Ultrasound of the liver to verify that the non-cancerous mass there is either stable or improving; and c) PET scan (possibly).  The PET scan is the big item as it will show us the status of the cancer in Sam's body.  Results of the PET will also strongly inform Sam's next treatment(s).  
-
-This journey has been long and we are tired.  This past weekend family facilitated giving me a break.  Tina and Sam stayed with Mary and the Fricker family (Tina's sister's family) giving me almost 24 hours off. It was great to have that time without responsibilities.  
-
-Sam remains positive and continues to get stronger.  Tina and I are glad to see this.  However, we cannot escape feelings of needing-to-be-vigilant and anxiousness about what could be happening undetected -- the results of the PET scan this week will be very helpful.
-
-
-
-
-
-
-***
-
-# A Break at Home!
-
-_April 21, 2024_
+-   PET Scan Results -- Celebrating no new sites. Concern remains as
+    disease continues at the original site.
+-   Liver numbers are continuing in the right direction.
+-   Next steps include a couple options with no clear right choice.
+-   We have been able to enjoy life together.
+:::
 
 ::: {#photo}
-![Sam was a great copilot in our journeys north and then south](https://samsstory.s3.ca-central-1.amazonaws.com/2024-04-21_road-trip.jpg)
+![Happy Mothers Day Tina! You are an amazing mother! We love
+you!](https://samsstory.s3.ca-central-1.amazonaws.com/2024-05-12_mothers-day.jpg)
 :::
 
-It has been a whirlwind trip back home. We connected with more people
-than we expected and yet missed too many of you. I hope you can forgive
-us if you were missed -- we really have more love than we had time.
-Three days in the city was not enough but we were glad for it! It was
-also incredible to re-connect, even if just in-part, with the community
-that has been supporting us.
+## Current medical picture
 
-## Travel log
+This past Wednesday Sam had his most recent PET scan. Scan days are
+always stressful. Our experience with this type of stress is not unique.
+Talking with other parents, we all recognize that scan days and at
+minimum the day leading up to them are intense. It is weird because the
+scans do not change anything, but what they do is reveal what is
+happening. They cause use to confront all that we hope for and all that
+we fear. To add to this, the results from the scan often do not align
+with either our hopes or the fears that we try to prepare ourselves for.
+This dissonance, just adds to the stress of it all.
 
-The initial idea to travel was presented last Wednesday, April 17.
-However, actual travel plans were dependent on metrics on Sam's
-bloodwork that would allow the medical team to decide if it would be
-safe for Sam to travel. Specifically, if Sam's numbers were not good on
-the Friday, we check again on the Monday, and if they were not good then
-the trip would be cancelled. So to keep things flexible we chose to
-drive. As a family we have always done road trips and Sam was looking
-forward to this pilgrimage drive home.
+The results of this last scan, like many others, has mixed news.
 
-### Day 1 -- Travel
+### Cancer status
 
-*Sunday, April 21*
+The good news is that since Feb 5^th^ there are no new disease sites.
 
-We got away from Vancouver at a good time. It was a cool cloudy day with
-some showers heading into the Fraser Canyon. We had a great early lunch
-at Horsting's Farm near Cache Creek. In the afternoon we stopped to see
-Renee near Williams Lake. Refreshed and fed we travelled on arriving at
-my parents as the sun was setting.
+The difficult news is that the site in the center of Sam's chest remains
+and has grown a small amount. The previous scan, April 5, showed no
+detectable change at that site and so to have this new growth strongly
+suggests that the cancer is active there. Options for treatment are
+limited and it is unknown if they will be effective.
 
-We received a loving welcome from Mom and Dad and all of us loved seeing
-Sam reconnect with Buddy -- his dog was crazy excited to see him! We
-were also able to catch the last two periods of the first Vancouver vs.
-Nashville playoff game.
+### Liver status
 
-### Day 2 -- Family
+The previous PET scan raised concern that a more metabolically active
+site in Sam's liver could be cancer. This has been ruled out via biopsy.
+We have known for sometime that Sam's liver has been stressed due to
+side-effects of his immune therapy treatment causing his immune system
+to become deregulated. Latest metrics of Sam's liver health have been
+improving. Recent ultrasound of the liver shows a minor increase in
+size. The Doctors want to continue monitoring this mass as it is not an
+urgent priority right now.
 
-*Monday*
+## Next steps
 
-This was really the only day that we had any sort of plan which was to
-make family our priority. The earlier part of the day was spent with my
-parents and the evening with Tom, Margaret, Daniel and Alex. Good times
-connecting, talking, and playing games together.
+We are in a hard place with two potential options for treatment -- it is
+not known which is best or if either will be effective.
 
-### Day 3 -- School
+### Option 1: Rely on the new immune system
 
-
-:::{layout-ncol="2"}
-::: {#photo2}
-![Sam loved reconnecting with his friends at school and later at youth group!](https://samsstory.s3.ca-central-1.amazonaws.com/2024-04-23_school-friends_x.jpg)
-:::
-
-
-:::{#Tuesday}
-*Tuesday*
-
-We let this day be driven by Sam and how he was feeling -- he was
-feeling good. Mid-morning Sam had a great idea of visiting his friends
-at school over the lunch break. It was so good to see him simply slip
-into life at the school. We ended up spending the entire afternoon there
-as Sam joined in to classes. Tina and I connected with staff and a
-number of friends as parents rolled in for afterschool pickup.
-:::
+Sam's new immune system is fairly well established (although not
+completely until about one year after the bone marrow transplant). To
+date we have not had the opportunity to see what it can do. The previous
+treatments had side-effects that required steroids to calm/ suppress his
+immune system so that permanent liver damage could be avoided. If he was
+taken off the immunosupressants and just let his own (new) immune system
+work, this option would allow Sam to live and enjoy his life without
+medications and risk of side-effects. However, we do not know if his new
+immune system will effectively battle the cancer.
 
 
-:::
+### Option 2: Resume immune therapy
+
+This option would require the use of Nivomulab (an immune therapy drug)
+again. We know that this drug can make the cancer in Sam's body
+'visible' to the immune system. However, this is also the drug that
+resulted in Sam's liver being inflamed and the subsequent need for
+steroids to calm the immune system (Catch-22). If we go this route, the
+team would use the lessons learned from last time to modify their
+therapy plan in an attempt to limit side-effects.
+
+-   If side-effects can be avoided, this will likely be the more
+    effective treatment.
+-   If side-effects cannot be avoided, this treatment could cause
+    permanent harm (eg. the risk of liver failure).
+
+## Enjoying life and thank you!
+
+Despite all of the challenges and the ongoing threat to Sam's life, we
+have been able to enjoy life as a family. The cancer aside, Sam is
+healthy, regaining weight, growing, and getting stronger.
+
+In the last couple of weeks we have been instituting Sam's
+*foodie-rehab* plan. This is where we walk from RMH to the small mall at
+Oak and King Edward. Once there, Sam has been enjoying most items at
+Kim's Express (Vietnamese food). One evening Sam led our family for a
+larger walk, one that I did not know he was capable of, down to Cambie
+Village about 1.5kms away. We had some great ice cream before walking
+back. This was an epic evening for our family.
+
+Over this past weekend we were able to join some of the Frickers and the
+Townsend side of the family to experience the animals at Aldor Farms
+near Ft. Langley. I loved watching Sam take some time to groom Rob, a
+huge Percheron work horse.
+
+Yesterday, we celebrated Mothers Day. Ronald McDonald House put on a
+beautiful brunch. In the evening, we took in the Canucks vs. Oilers
+hockey game (which Sam mostly slept through due to being tired from his
+big farm day Saturday).
 
 
-
-
-### Day 4 -- Whirlwind
-
-*Wednesday*
-
-Wednesday was more of a whirlwind. Sam had an appointment at the
-hospital pediatric clinic. This was our first connection with the Prince
-George team. Although they do not specialize in cancer treatment it was
-good to see how much ca be taken care of at the hospital back home. In
-the afternoon we squeezed in some visits with friends and dinner with
-the grandparents. In the evening Sam was able to attend youth group at
-the church!
-
-
-### Day 5 -- Return to Vancouver
-
-*Thursday*
-
-We had to head back to Vancouver. It was a great road trip. Sam is
-looking forward to the day when he can be the driver. In the meantime he
-watched the road and acted as a good copilot.
-
-It was a great first trip home and hopefully our next one will be in the
-near future and with more days at home.
-
-## Next Steps
-
-In the weeks ahead we are hoping to restart Sam's immune therapy. This
-has been delayed as we wait for his immune system to come under control
--- bloodwork in Prince George suggested that Sam is headed in the right
-direction. Additionally, he will likely have another PET scan which will
-hopefully reveal good progress in this ongoing cancer battle.
 
 ## Victories and concerns
 
--   We celebrate that we were able to have a trip home. So good to
-    connect with friends and family!
+-   We celebrate that a year following the start of all his varied
+    treatments, and despite the ongoing cancer battle, Sam is feeling
+    the best he has felt in a long time.
 
--   We celebrate that a year following the start of treatment, Sam is
-    feeling the best he has ever felt. We are incredibly grateful.
+-   We are very concerned as the original central mass/ disease center
+    is active.
 
--   Thankful that the original central mass is stable. Thankful that
-    three disease centers, treated using targeted radiation, have been
-    removed.
+-   Thankful that the three new disease centers, treated using targeted
+    radiation, have been removed.
 
--   Ongoing immune therapy has de-regulated Sam's immune system. Side
-    effects are becoming dangerous as Sam's liver is inflamed. In order
-    to continue with the immune therapy drugs, Sam's immune system needs
-    to be brought back to a regulated state. Recent bloodwork suggests
-    that things are returning to normal function.
+-   Ongoing immune therapy has deregulated Sam's immune system.
+    Side-effects were becoming dangerous as Sam's liver is inflamed. In
+    order to continue with the immune therapy drugs, Sam's immune system
+    needs to be brought back to a regulated state. Recent bloodwork
+    suggests that things are returning to normal function.
 
 -   We are thankful to the medical team here at [BC Childrens'
     Hospital](http://www.bcchildrens.ca) who have explained things
@@ -195,8 +179,6 @@ hopefully reveal good progress in this ongoing cancer battle.
     contact the [Westwood Church](https://westwoodchurch.bc.ca) office.
 
 -   We long for the day when Sam is clear of this disease.
-
-
 
 
 ------------------------------------------------------------------------

@@ -5,7 +5,7 @@ author: Colin C.
 date: 2024-05-13
 # date-modified: 2024-04-18
 categories: [regular, results]
-draft: true
+draft: false
 editor: 
   markdown: 
     wrap: 72
@@ -23,8 +23,8 @@ knitr:
 -   PET Scan Results -- Celebrating no new sites. Concern remains as
     disease continues at the original site.
 -   Liver numbers are continuing in the right direction.
--   Next Steps.
--   Life together and thank you.
+-   Next steps include a couple options with no clear right choice.
+-   We have been able to enjoy life together.
 :::
 
 ::: {#photo}
@@ -84,10 +84,11 @@ work, this option would allow Sam to live and enjoy his life without
 medications and risk of side-effects. However, we do not know if his new
 immune system will effectively battle the cancer.
 
+```{=html}
 <!-- and there is no way of
 measuring effectiveness in a timely manner (ie. cannot have another PET
 scan for 6 weeks, and that is too much time to risk the cancer growing).-->
-
+```
 ### Option 2: Resume immune therapy
 
 This option would require the use of Nivomulab (an immune therapy drug)
@@ -103,7 +104,7 @@ therapy plan in an attempt to limit side-effects.
 -   If side-effects cannot be avoided, this treatment could cause
     permanent harm (eg. the risk of liver failure).
 
-## Enjoying life and thank you!
+## Life together
 
 Despite all of the challenges and the ongoing threat to Sam's life, we
 have been able to enjoy life as a family. The cancer aside, Sam is
@@ -115,7 +116,7 @@ Oak and King Edward. Once there, Sam has been enjoying most items at
 Kim's Express (Vietnamese food). One evening Sam led our family for a
 larger walk, one that I did not know he was capable of, down to Cambie
 Village about 1.5kms away. We had some great ice cream before walking
-back. This was an absolutely epic evening for our family.
+back. This was an epic evening for our family.
 
 Over this past weekend we were able to join some of the Frickers and the
 Townsend side of the family to experience the animals at Aldor Farms
@@ -127,17 +128,17 @@ beautiful brunch. In the evening, we took in the Canucks vs. Oilers
 hockey game (which Sam mostly slept through due to being tired from his
 big farm day Saturday).
 
-\
+<!-- \
 Tina and I want to express a special thank you to all of you who have
 sent funds to assist us in this journey. This extra funding is allowing
 us to simply live and enjoy life, meals, and activities together without
-needing to worry about a budget.
+needing to worry about a budget. -->
 
 ## Victories and concerns
 
 -   We celebrate that a year following the start of all his varied
     treatments, and despite the ongoing cancer battle, Sam is feeling
-    the best he has ever felt.
+    the best he has felt in a long time.
 
 -   We are very concerned as the original central mass/ disease center
     is active.
