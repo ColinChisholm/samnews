@@ -1,6 +1,6 @@
 ---
 title: Milestones
-date-modified: 2023-24-25
+date-modified: 2024-05-18
 ---
 
 
@@ -247,6 +247,16 @@ Below is a review of the major milestones.
 |               | an initial connection      |
 |               | with the local medical     |
 |               | team.*                     |  
++---------------+----------------------------+
+| May 8         | PET Scan indicates that    |
+|               | the central mass has       |
+|               | grown confirming active    |
+|               | disease.                   |
++---------------+----------------------------+
+| May 15        | All immune suppressants    |
+|               | have been removed and we   |
+|               | wait to see what Sam's     |
+|               | new immune system can do.  |
 +---------------+----------------------------+
 
 
