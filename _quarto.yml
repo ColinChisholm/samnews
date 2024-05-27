@@ -13,8 +13,8 @@ website:
       - href: timeline.qmd
         text: Timeline
       - href: plan.qmd
-        text: The Plan
-      - href: contact.qmd
+        # text: The Plan
+      # - href: contact.qmd
         text: Contact Us
       - icon: rss
         href: index.xml
