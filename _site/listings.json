@@ -120,5 +120,11 @@
       "/devos/acts/acts_01-12.html",
       "/devos/acts/acts_01-01.html"
     ]
+  },
+  {
+    "listing": "/meal-planning.html",
+    "items": [
+      "/meals/2024-06-01_roll-ups-crepes.html"
+    ]
   }
 ]

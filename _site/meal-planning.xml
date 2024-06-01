@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Sam Chisholm</title>
+<link>http://samc-news.netlify.app/meal-planning.html</link>
+<atom:link href="http://samc-news.netlify.app/meal-planning.xml" rel="self" type="application/rss+xml"/>
+<description>News updating friends and family on our journey</description>
+<generator>quarto-1.3.361</generator>
+<lastBuildDate>Sat, 01 Jun 2024 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Nana’s roll-ups</title>
+  <dc:creator>Colin C.</dc:creator>
+  <link>http://samc-news.netlify.app/meals/2024-06-01_roll-ups-crepes.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Nana is not the best at writing her recipe’s down but she did write this one up for me.</p>
+<ul>
+<li><p>1 cup flour</p></li>
+<li><p>1 tablespoon white sugar</p></li>
+<li><p>1/4 teaspoon salt</p></li>
+<li><p>2 large eggs</p></li>
+<li><p>1 cup of milk</p></li>
+<li><p>1+ teasppon of vanilla<br>
+(use pancake syrup if you can’t find vanilla – then cut back on sugar)</p></li>
+<li><p>2 teaspoons of oil</p></li>
+<li><p>Sugar, forgarnish</p></li>
+</ul>
+<p>(Fry in a well heated and generously oiled pan)</p>
+
+
+
+ ]]></description>
+  <category>breakfast</category>
+  <guid>http://samc-news.netlify.app/meals/2024-06-01_roll-ups-crepes.html</guid>
+  <pubDate>Sat, 01 Jun 2024 07:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

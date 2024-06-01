@@ -1,0 +1,96 @@
+---
+title: "Meal Planning"
+# author: Colin C.
+listing:
+  contents: meals
+  filter-ui: false
+  fields: [image, date, title, author, categories, description]
+  sort: "date desc"
+  sort-ui: true
+  type: default
+  categories: false
+  feed: true
+  page-size: 10
+knitr: 
+  opts_chunk: 
+    eval: true
+    message: false
+    warning: false
+    echo: false
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Meal Ideas 
+
+For so many years we have simply 
+
+
+## Breakfast
+
+-   [Roll-ups/ crepes](./meals/2024-06-01_roll-ups-crepes.qmd)
+-   Oatmeal
+-   Pancakes with chocolate-chips
+-   Cereals: Rice Krispies, Cherios
+-   Toast 
+-   PB and J sandwich 
+-   Eggs
+-   Sausage
+
+
+## Lunch
+
+-   Leftovers 
+-   Annie's Mac and Cheese, add a type of meat 
+-   Grill Cheese
+-   Tuna melts 
+
+## Snacks
+
+-   Fruit
+-   Bananas
+-   Smoothies
+-   Milk Shake
+-   Muffins
+
+## Dinner 
+
+-   Thai green curry
+-   Tuna Casserole (Penne)
+-   Roast Chicken 
+-   Spaghetti 
+-   Steak
+-   Salmon
+-   Tacos
+-   Perogies and Sausage
+
+### Fast dinners 
+_aka frozen -- just heat_
+
+-   Chicken nuggets or strips 
+-   Lasagna
+-   Chicken Pot Pie
+
+
+
+
+
+### Dinner sides 
+
+-   Roast potatoes 
+-   Rice 
+-   Veggies:
+    -   Carrots
+    -   Corn
+    -   Broccoli
+
+
+
+
+
+
+
+
+# Specific Meals/Recipes 
+
