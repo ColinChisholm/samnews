@@ -1,6 +1,8 @@
 ---
 title: "Meal Planning"
-# author: Colin C.
+author: Colin C.
+date: 2024-06-01
+date-modified: 2024-06-06
 listing:
   contents: meals
   filter-ui: false
@@ -22,9 +24,7 @@ editor:
     wrap: 72
 ---
 
-# Meal Ideas 
-
-For so many years we have simply 
+For so many years we have not done much for meal planning and have relied heavily on frozen meals from Costco (or other).  As we prepare to return home more permanently this page is intended to list our goto meals -- to give us a place to start. 
 
 
 ## Breakfast
