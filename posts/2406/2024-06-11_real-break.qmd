@@ -4,7 +4,7 @@ description: "We have had a real break, making it home for a week!"
 author: Colin C.
 date: 2024-06-11
 # date-modified: 2024-04-18
-categories: [regular, results]
+categories: [regular, milestones]
 draft: false
 editor: 
   markdown: 

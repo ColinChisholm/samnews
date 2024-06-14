@@ -4,7 +4,7 @@ description: "The cancer battle continues.  We are in a transition phase as we l
 author: Colin C.
 date: 2024-05-26
 # date-modified: 2024-04-18
-categories: [regular, results]
+categories: [regular]
 draft: false
 editor: 
   markdown: 

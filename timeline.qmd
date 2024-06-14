@@ -247,7 +247,7 @@ Below is a review of the major milestones.
 |               | with the local medical                                     |
 |               | team.*                                                     |            
 +---------------+------------------------------------------------------------+
-| May 8         | PET Scan indicates that                                    |
+| May 8         | PET Scan #3 indicates that                                 |
 |               | the central mass has                                       |
 |               | grown confirming active                                    |
 |               | disease.                                                   |
@@ -267,4 +267,6 @@ Below is a review of the major milestones.
 |               | cancer from the previous CT it was was deemed safe to make |
 |               | a trip home.                                               |
 +---------------+------------------------------------------------------------+
-
+| June 12       | PET Scan #4 (since BMT)                                    |
+|               | 
++---------------+------------------------------------------------------------+
