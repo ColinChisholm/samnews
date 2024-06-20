@@ -10,7 +10,79 @@
 <atom:link href="http://samc-news.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>News updating friends and family on our journey</description>
 <generator>quarto-1.3.361</generator>
-<lastBuildDate>Fri, 14 Jun 2024 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Jun 2024 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Safety Delay</title>
+  <dc:creator>Colin C.</dc:creator>
+  <link>http://samc-news.netlify.app/posts/2406/2024-06-19_safety-delay.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+TL;DR <span class="small">Too long didn’t read (i.e.&nbsp;the short version)</span>
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Sam’s immunotherapy treatment has been delayed. We hope to see this treatment start by the end of this week.</li>
+<li>GVHD effects have continued since Sam received his BMT. One effect of GVHD is that fluid has accumulated around his heart making it unsafe with other treatments until that is dealt with.</li>
+</ul>
+</div>
+</div>
+<!-- ::: {#photo}
+![On May 29^th^ we checked out of the Ronald McDonald House for the
+first time since starting this cancer battle! We took a ten day break
+home -- it was amazing to be
+there!](https://samsstory.s3.ca-central-1.amazonaws.com/2024-05-29_rmh-checkout.jpg)
+::: -->
+<section id="medical-plans" class="level2">
+<h2 class="anchored" data-anchor-id="medical-plans">Medical plans</h2>
+<p>We had to know if Sam’s new immune system from the BMT would be able to stop the cancer – we now know that it cannot. The results of the June<sup>12th</sup> PET scan simply sucked – the cancer had grown, and likely spread into two lymph nodes close by.</p>
+<p>So we pivot and move onto the next plan which will be a combination of different immunotherapy drugs. Past research suggest that these drugs could be effective at 1) interrupting a key metabolic pathway in the cancer cells, and 2) disable some of the cancer’s defenses that allow it to hide from the immune system.</p>
+<p>Last Friday we were hoping to see Sam start on this modified immunotherapy drug treatment plan, but it was not safe to do so. Since receiving his BMT<sup>1</sup> Sam has had some level of GVHD<sup>2</sup>. One ongoing effect of GVHD is that fluid has built up around his heart (measured using an echocardiogram). To date this has not impacted his heart function. The challenge and safety concern is that the new immunotherapy treatment will likely intensify GVHD impacts that could put his heart at risk.</p>
+<p>So instead of treating the cancer, last week Sam was started on a steroid to reduce GVHD effects. Yesterday, a repeat echocardiogram and blood metrics suggest that this GVHD treatment is working and this should allow Sam to start on the immunetherapy/cancer-treatment later this week.</p>
+</section>
+<section id="life-together" class="level2">
+<h2 class="anchored" data-anchor-id="life-together">Life together</h2>
+<p>We have all had our moments this past week. It has been emotionally challenging and at times each of us has had to confront our fears. We have also had beautiful times as we have been able to do that together.</p>
+<p>We have received many notes of support and encouragement – thank you!</p>
+<p>We have also enjoyed watching the hockey playoffs with family in the area. Uncle Cal also did his faithful visit after teaching in Richmond.</p>
+</section>
+<section id="victories-and-concerns" class="level2">
+<h2 class="anchored" data-anchor-id="victories-and-concerns">Victories and concerns</h2>
+<ul>
+<li><p>We are concerned as cancer treatments have been delayed. The effects of GVHD caused fluid build-up around Sam’s heart making it unsafe to proceed with immunotherapy.<br>
+At the same time we are thankful that Sam’s medical team continues to be diligent and thorough to protect him and to bring him to a healthier/safer place before starting this next treatment.</p></li>
+<li><p>Results from the latest PET scan are challenging. The cancer has grown. Though we remain thankful that it has not spread to other areas of Sam’s body.</p></li>
+<li><p>Thankful for a great break at home and time to connect with friends and family! Thankful that Sam was able to connect with his friends and jump back into school work .</p></li>
+<li><p>Thankful that the three new disease centers, treated using targeted radiation, have been removed (confirmed by April 5<sup>th</sup> PET scan).</p></li>
+<li><p>We are thankful to the medical team here at <a href="http://www.bcchildrens.ca">BC Childrens’ Hospital</a> who have explained things incredibly well and who have worked professionally and confidently. Your clear communication, compassion, and medical care give us great confidence.</p></li>
+<li><p>We are thankful for the gift of a place to stay so close to where Sam is receiving his care. The <a href="https://rmhbc.ca">Ronald McDonald House (RMH)</a> has provided us a home away from home. This place is an amazing example of charity at work.</p></li>
+<li><p>Thankful for friends who have chosen to meet regularly to pray for Sam. If you would like to join them talk with Beth H., Krista C., or contact the <a href="https://westwoodchurch.bc.ca">Westwood Church</a> office.</p></li>
+<li><p>We long for the day when Sam is clear of this disease.</p></li>
+</ul>
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>bone marrow transplant – providing his new immune system↩︎</p></li>
+<li id="fn2"><p>graft versus host disease↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>regular</category>
+  <guid>http://samc-news.netlify.app/posts/2406/2024-06-19_safety-delay.html</guid>
+  <pubDate>Wed, 19 Jun 2024 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Unfavourable Results</title>
   <dc:creator>Colin C.</dc:creator>
@@ -1728,108 +1800,6 @@ and I will dwell in the house of the <span class="smallcaps">Lord</span> forever
   <category>post-BMT</category>
   <guid>http://samc-news.netlify.app/posts/2401/2024-01-01_happy-new-year.html</guid>
   <pubDate>Thu, 04 Jan 2024 08:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Merry Christmas</title>
-  <dc:creator>Colin C.</dc:creator>
-  <link>http://samc-news.netlify.app/posts/2312/2023-12-24_merry-christmas.html</link>
-  <description><![CDATA[ 
-
-
-
-<p>Merry Christmas everyone! We have so much to be thankful for!</p>
-<blockquote class="blockquote">
-<p>I came so they can have real and eternal life, more and better life than they ever dreamed of.<br>
-— Jesus (<a href="https://www.bible.com/bible/97/JHN.10.MSG">John 10:10</a>, The Message translation)</p>
-</blockquote>
-<p>Sam is doing great! Since the last post he has continued to gain strength. We have a long road ahead of us but it seems we are on the path towards home and the return to friends, family, school, and work there.</p>
-<section id="the-past-days" class="level2">
-<h2 class="anchored" data-anchor-id="the-past-days">The past days</h2>
-<div class="img-float-right">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://samc-news.netlify.app/posts/2312/https:/samsstory.s3.ca-central-1.amazonaws.com/2023-12_walk-to-clinic.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Sam and I walking from the RMH to the hospital for a clinic visit. This was the first morning Sam did not need to ride in the chair (Dec.&nbsp;22<sup>nd</sup>)!</figcaption>
-</figure>
-</div>
-</div>
-<ul>
-<li><p>Sam continues to have regular visits at the clinic. Various blood tests are done each time. One specific, the team looks at Tacrolimus levels, an immunosuppressant used to ensure that this BMT is successful and that any graft-versus-host-disease (GVHD) is minimized. Note: some GVHD is needed so that the new immune system continues to attack any remaining cancer.</p></li>
-<li><p>Exciting news! The genetic testing of Sam’s immune system confirmed that the donor cells have fully replaced Sam’s native immune system. Ideally, in a BMT transplant the native immune system is removed to make way for the donor cells. There is always a chance that some native cells remain and that a battle for dominance can occur. For Sam, the BMT has gone as planned and all new blood is being generated by the donor cells.</p></li>
-<li><p>All of the blood tests have shown Sam’s counts have come up and are stabilizing.</p></li>
-<li><p>I have debated including this next thought … especially during Christmas. It is a challenging reality (skip it if you need to).</p>
-<div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true">Skip</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" aria-controls="tabset-1-2" aria-selected="false">Read</a></li></ul>
-<div class="tab-content">
-<div id="tabset-1-1" class="tab-pane active" aria-labelledby="tabset-1-1-tab">
-<p><em>or click ‘Read’ above</em></p>
-</div>
-<div id="tabset-1-2" class="tab-pane" aria-labelledby="tabset-1-2-tab">
-<p>Christmas at the Ronald McDonald House is amazing but strange – layered in hope and pain. There is so much generosity poured into this place you cannot help but feel cared for.<br>
-<br>
-During these last months, as we have weathered this cancer storm, we have also walked beside a number of other families in similar circumstances. Some are looking forward to completing treatment, while others are in the thick of the storm. Another family, is having an incredibly hard Christmas. They have reached the end of possible treatments and recently moved to hospice to spend what days remain with their child. Our hearts and prayers continue to go out to them.<br>
-<br>
-Here at the Ronald McDonald House joys and pains are especially visible. For me, this raises an inescapable question for life at home. If your Christmas is full of joy, and I truly hope it is, are there pains that may be close but remain unseen? Is there a way to demonstrate love and generosity into those situations?</p>
-</div>
-</div>
-</div></li>
-<li><p>Some good normal life has been happening.</p>
-<ul>
-<li>Sam has had energy to enjoy reading. He finished <em>The Hobbit</em> earlier this week and immediately got into another book.</li>
-<li>Nana was able to visit and help us prepare for Christmas.</li>
-<li>We were able to get off the hospital campus and visit the Frickers – with more family visits planned over the holidays. So great to play family games… this year games also includes some VR which actually has been an amazing physical rehabilitation tool.</li>
-</ul></li>
-</ul>
-</section>
-<section id="upcoming" class="level2">
-<h2 class="anchored" data-anchor-id="upcoming">Upcoming</h2>
-<ul>
-<li><p>What a special Christmas this will be! We have seen Sam through a long and challenging journey and it seems we are on the other side!<br>
-<br>
-<em>What do I want for Christmas?</em> I already have it! My son is alive! And not just alive, he his beginning to thrive!</p></li>
-<li><p>In the weeks ahead there will continue to be regular visits to the clinic as levels are check at medications are adjusted.</p></li>
-<li><p>Numerous scans and tests will start in the new year to evaluate if there have been any internal impacts in Sam’s body. This will also include scans to determine if any disease remains.</p></li>
-</ul>
-</section>
-<section id="victories-and-concerns" class="level2">
-<h2 class="anchored" data-anchor-id="victories-and-concerns">Victories and concerns</h2>
-<ul>
-<li><p>Sam has completed his critical post-transplant period. He has now been discharged from the hospital! We will remain at the RMH for the next two months in order to monitor for potential GVHD complications.</p></li>
-<li><p>Sam continues to regain strength. He is now able to walk from the RMH to the hospital.</p></li>
-<li><p>New blood cells in Sam’s body are all from the donor! Sam’s bone marrow is pumping-out/generating new blood! The engraftment process is working! We have seen Sam’s numbers come up and now stabilize!</p></li>
-<li><p>Sam will still be considered immune compromised for the months ahead and mostly susceptible to viral infection. It remains to be flu season and covid is still out there. We must continue to be vigilant to protect Sam.</p></li>
-<li><p>We very thankful for the successful delivery and engraftment of the donated stems cells! To whoever made this donation <em>I cannot thank you enough</em>.</p></li>
-<li><p>We are thankful to the medical team who have explained things incredibly well and who have worked professionally and confidently. Your clear communication, compassion, and care give us great confidence.</p></li>
-<li><p>Thankful for friends who have chosen to meet regularly to pray for Sam. If you would like to join them talk with Beth H., Krista C., or contact the <a href="https://westwoodchurch.bc.ca">Westwood Church</a> office.</p></li>
-<li><p>We are thankful for all of the messages of encouragement and solidarity that we have received from all of you.</p></li>
-<li><p>There is always concern as the cancer remains. We long for the day when Sam is clear of this disease.</p></li>
-</ul>
-<hr>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-In case you missed it
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/kATGCsIqALw?si=QwtKjKK690T1ljFy" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<div style="font-size:90%; margin-left: 15pt; margin-right: 15pt">
-<p>On Dec.&nbsp;12<sup>th</sup> Santa paid a visit to the BC Children’s Hospital. Sam was able to welcome him onto the oncology ward. Tina and Nana Mary (1:03) were also able to meet him. Tina did an amazing job of sharing what this Christmas means to us (starting at 1:13). The original news article from the CBC is <a href="https://www.cbc.ca/player/play/2291723843615">linked here</a>.</p>
-</div>
-</div>
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>regular</category>
-  <category>post-BMT</category>
-  <guid>http://samc-news.netlify.app/posts/2312/2023-12-24_merry-christmas.html</guid>
-  <pubDate>Sun, 24 Dec 2023 08:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

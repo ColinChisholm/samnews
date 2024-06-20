@@ -1,6 +1,6 @@
 ---
 title: Milestones
-date-modified: 2024-06-11
+date-modified: 2024-06-19
 tbl-colwidths: [25,75]
 ---
 
@@ -268,5 +268,8 @@ Below is a review of the major milestones.
 |               | a trip home.                                               |
 +---------------+------------------------------------------------------------+
 | June 12       | PET Scan #4 (since BMT)                                    |
-|               | 
+|               | Results indicate that the cancer has grown approximately   |
+|               | 1cm in each direction and that two lymph nodes in the area | 
+|               | may now be diseased.  The BMT is not enough to combat      |
+|               | the cancer.                                                |
 +---------------+------------------------------------------------------------+
