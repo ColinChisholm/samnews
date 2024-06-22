@@ -3,7 +3,7 @@ title: "Safety Delay"
 description: "Immunotherapy treatments have been delayed to protect Sam's heart"
 author: Colin C.
 date: 2024-06-19
-# date-modified: 2024-04-18
+date-modified: 2024-06-21
 categories: [regular]
 draft: false
 editor: 
@@ -16,6 +16,22 @@ knitr:
     warning: false
     echo: false
 ---
+
+::: {.callout-important icon="false"}
+## Immunotherapy Started!
+
+Today Sam was able to start his immune therapy.
+
+It was safe to start as the fluid around Sam's heart had decreased and his bloodwork confirmed an improvement in Sam's liver numbers. 
+
+Now we wait.  
+
+:::
+
+
+
+
+
 
 ::: {.callout-note icon="false"}
 ## TL;DR [Too long didn't read (i.e. the short version)]{.small}
