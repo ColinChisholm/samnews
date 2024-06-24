@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/devos/index.html</loc>
-    <lastmod>2024-06-20T14:08:03.674Z</lastmod>
+    <lastmod>2024-06-24T14:57:04.732Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/devos/acts/acts_01-01.html</loc>
@@ -183,5 +183,9 @@
   <url>
     <loc>http://samc-news.netlify.app/devos/acts/acts_05-33.html</loc>
     <lastmod>2024-06-20T14:16:34.661Z</lastmod>
+  </url>
+  <url>
+    <loc>http://samc-news.netlify.app/devos/acts/acts_06_01.html</loc>
+    <lastmod>2024-06-24T14:57:17.533Z</lastmod>
   </url>
 </urlset>
