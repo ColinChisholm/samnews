@@ -36,36 +36,44 @@ our email, or message us (no need to use the form).*
 
 _June 28, 2024_
 
-Following a delay Sam's treatment is now going as planned.  
+Following a delay Sam's treatment is now going forward.
 
-Sam is on a new mix of medications that should slow the cancer and empower his immune system to attack the cancer. The two main immunotherapy drugs include: 
+Sam is on a new mix of medications that will hopefully slow the cancer and
+empower his immune system to attack the cancer. The two main
+immunotherapy drugs include:
 
--   [Nivolumab](http://www.bccancer.bc.ca/drug-database-site/Drug%20Index/Nivolumab_monograph.pdf) -- is referred to as a check point inhibitor.  Essentially, this drug disables a protein that allows the cancer cells to hide from the immune system.  The downside is that it intensifies GVHD. 
--   [Ruxolitinib](http://www.bccancer.bc.ca/drug-database-site/Drug%20Index/Ruxolitinib_monograph.pdf) -- is being used to offset the impacts of GVHD.  Some research suggest that his this medication may also be synergistic with Nivolumab.
-
+-   [Nivolumab](http://www.bccancer.bc.ca/drug-database-site/Drug%20Index/Nivolumab_monograph.pdf)
+    -- is referred to as a check point inhibitor. Essentially, this drug
+    disables a protein that allows the cancer cells to hide from the
+    immune system. The downside is that it intensifies GVHD.
+-   [Ruxolitinib](http://www.bccancer.bc.ca/drug-database-site/Drug%20Index/Ruxolitinib_monograph.pdf)
+    -- is being used to offset the impacts of GVHD. Some research
+    suggests that this medication may also be synergistic with
+    Nivolumab.
 
 We continue to be in Vancouver as Sam starts these treatments. We need
 to be sure that Sam can tolerate this new set of medications so
 potential adverse side effects are being monitored. The medical team
-also want to keep a close eye on the cancer -- a new scan of Sam's chest
+also wants to keep a close eye on the cancer -- a new scan of Sam's chest
 is scheduled for next week (an MRI).
 
 <!-- ## Medical plans -->
-
 
 <!-- ## Life together -->
 
 ## Victories and concerns
 
--   Sam's immune therapy plan is not progressing as planned.  The medical team is keeping a close eye on Sam to ensure that he does not have any adverse side effects.
+-   Sam's immune therapy plan is going forward. The medical
+    team is keeping a close eye on Sam to ensure that he does not have
+    any adverse side effects.
 
--   ~~We are concerned as cancer treatments have been delayed. The effects
-    of GVHD caused fluid build-up around Sam's heart making it unsafe to
-    proceed with immunotherapy.~~
+-   ~~We are concerned as cancer treatments have been delayed. The
+    effects of GVHD caused fluid build-up around Sam's heart making it
+    unsafe to proceed with immunotherapy.~~
 
--   Results from the latest PET scan (June 12) are challenging. The cancer has
-    grown. Though we remain thankful that it has not spread to other
-    areas of Sam's body.
+-   Results from the latest PET scan (June 12) are challenging. The
+    cancer has grown. Though we remain thankful that it has not spread
+    to other areas of Sam's body.
 
 -   Thankful for a great break at home and time to connect with friends
     and family! Thankful that Sam was able to connect with his friends
@@ -131,7 +139,7 @@ is impossible to thank you all enough.
 
 [![](https://samsstory.s3.ca-central-1.amazonaws.com/rmdhbc.png)](https://rmhbc.ca)
 
-[![](https://www.friendsofchildren.ca/application/files/5017/1458/9411/Logo.White.webp)](https://www.friendsofchildren.ca)
+[![](https://samsstory.s3.ca-central-1.amazonaws.com/friends-of-children.png)](https://www.friendsofchildren.ca){style="height: 80%"}
 :::
 :::
 

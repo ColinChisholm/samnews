@@ -36,9 +36,9 @@ home -- it was amazing to be
 there!](https://samsstory.s3.ca-central-1.amazonaws.com/2024-05-29_rmh-checkout.jpg)
 ::: -->
 ```
-Following a delay Sam's treatment is now going as planned.
+Following a delay Sam's treatment is now going forward.
 
-Sam is on a new mix of medications that should slow the cancer and
+Sam is on a new mix of medications that will hopefully slow the cancer and
 empower his immune system to attack the cancer. The two main
 immunotherapy drugs include:
 
@@ -48,13 +48,13 @@ immunotherapy drugs include:
     immune system. The downside is that it intensifies GVHD.
 -   [Ruxolitinib](http://www.bccancer.bc.ca/drug-database-site/Drug%20Index/Ruxolitinib_monograph.pdf)
     -- is being used to offset the impacts of GVHD. Some research
-    suggest that his this medication may also be synergistic with
+    suggests that this medication may also be synergistic with
     Nivolumab.
 
 We continue to be in Vancouver as Sam starts these treatments. We need
 to be sure that Sam can tolerate this new set of medications so
 potential adverse side effects are being monitored. The medical team
-also want to keep a close eye on the cancer -- a new scan of Sam's chest
+also wants to keep a close eye on the cancer -- a new scan of Sam's chest
 is scheduled for next week (an MRI).
 
 <!-- ## Medical plans -->
@@ -63,7 +63,7 @@ is scheduled for next week (an MRI).
 
 ## Victories and concerns
 
--   Sam's immune therapy plan is not progressing as planned. The medical
+-   Sam's immune therapy plan is going forward. The medical
     team is keeping a close eye on Sam to ensure that he does not have
     any adverse side effects.
 
