@@ -1,0 +1,100 @@
+---
+title: "Moving forward"
+description: "Delays have passed and Sam treatment has been able to move forward."
+author: Colin C.
+date: 2024-06-28
+# date-modified: 2024-06-21
+categories: [regular]
+draft: false
+editor: 
+  markdown: 
+    wrap: 72
+knitr: 
+  opts_chunk: 
+    eval: true
+    message: false
+    warning: false
+    echo: false
+---
+
+```{=html}
+<!-- ::: {.callout-note icon="false"}
+## TL;DR [Too long didn't read (i.e. the short version)]{.small}
+
+-   Sam's immunotherapy treatment has been delayed. We hope to see this
+    treatment start by the end of this week.
+-   GVHD effects have continued since Sam received his BMT. One effect
+    of GVHD is that fluid has accumulated around his heart making it
+    unsafe with other treatments until that is dealt with.
+::: -->
+```
+```{=html}
+<!-- ::: {#photo}
+![On May 29^th^ we checked out of the Ronald McDonald House for the
+first time since starting this cancer battle! We took a ten day break
+home -- it was amazing to be
+there!](https://samsstory.s3.ca-central-1.amazonaws.com/2024-05-29_rmh-checkout.jpg)
+::: -->
+```
+Following a delay Sam's treatment is now going as planned.
+
+Sam is on a new mix of medications that should slow the cancer and
+empower his immune system to attack the cancer. The two main
+immunotherapy drugs include:
+
+-   [Nivolumab](http://www.bccancer.bc.ca/drug-database-site/Drug%20Index/Nivolumab_monograph.pdf)
+    -- is referred to as a check point inhibitor. Essentially, this drug
+    disables a protein that allows the cancer cells to hide from the
+    immune system. The downside is that it intensifies GVHD.
+-   [Ruxolitinib](http://www.bccancer.bc.ca/drug-database-site/Drug%20Index/Ruxolitinib_monograph.pdf)
+    -- is being used to offset the impacts of GVHD. Some research
+    suggest that his this medication may also be synergistic with
+    Nivolumab.
+
+We continue to be in Vancouver as Sam starts these treatments. We need
+to be sure that Sam can tolerate this new set of medications so
+potential adverse side effects are being monitored. The medical team
+also want to keep a close eye on the cancer -- a new scan of Sam's chest
+is scheduled for next week (an MRI).
+
+<!-- ## Medical plans -->
+
+<!-- ## Life together -->
+
+## Victories and concerns
+
+-   Sam's immune therapy plan is not progressing as planned. The medical
+    team is keeping a close eye on Sam to ensure that he does not have
+    any adverse side effects.
+
+-   ~~We are concerned as cancer treatments have been delayed. The
+    effects of GVHD caused fluid build-up around Sam's heart making it
+    unsafe to proceed with immunotherapy.~~
+
+-   Results from the latest PET scan (June 12) are challenging. The
+    cancer has grown. Though we remain thankful that it has not spread
+    to other areas of Sam's body.
+
+-   Thankful for a great break at home and time to connect with friends
+    and family! Thankful that Sam was able to connect with his friends
+    and jump back into school work .
+
+-   Thankful that the three new disease centers, treated using targeted
+    radiation, have been removed (confirmed by April 5^th^ PET scan).
+
+-   We are thankful to the medical team here at [BC Childrens'
+    Hospital](http://www.bcchildrens.ca) who have explained things
+    incredibly well and who have worked professionally and confidently.
+    Your clear communication, compassion, and medical care give us great
+    confidence.
+
+-   We are thankful for the gift of a place to stay so close to where
+    Sam is receiving his care. The [Ronald McDonald House
+    (RMH)](https://rmhbc.ca) has provided us a home away from home. This
+    place is an amazing example of charity at work.
+
+-   Thankful for friends who have chosen to meet regularly to pray for
+    Sam. If you would like to join them talk with Beth H., Krista C., or
+    contact the [Westwood Church](https://westwoodchurch.bc.ca) office.
+
+-   We long for the day when Sam is clear of this disease.

@@ -1,6 +1,6 @@
 ---
 title: Milestones
-date-modified: 2024-06-19
+date-modified: 2024-06-28
 tbl-colwidths: [25,75]
 ---
 
@@ -272,4 +272,8 @@ Below is a review of the major milestones.
 |               | 1cm in each direction and that two lymph nodes in the area | 
 |               | may now be diseased.  The BMT is not enough to combat      |
 |               | the cancer.                                                |
++---------------+------------------------------------------------------------+
+| June 21 & 26  | Immunotherapy medications were started.\                   |
+|               | Nivolumab on the 21^st^ and Ruxolitinib on the 26^th^ once |
+|               | it became available.                                       |
 +---------------+------------------------------------------------------------+

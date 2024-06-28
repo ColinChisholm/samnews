@@ -32,95 +32,38 @@ our email, or message us (no need to use the form).*
 
 ------------------------------------------------------------------------
 
-# Safety Delay 
+# Moving Forward
 
-_June 19, 2024, updated June 21, 2024_
+_June 28, 2024_
 
-::: {.callout-important icon="false"}
-## June 21: Immunotherapy Started!
+Following a delay Sam's treatment is now going as planned.  
 
-Today Sam was able to start his immune therapy.
+Sam is on a new mix of medications that should slow the cancer and empower his immune system to attack the cancer. The two main immunotherapy drugs include: 
 
-It was safe to start as the fluid around Sam's heart had decreased and his bloodwork confirmed an improvement in Sam's liver numbers. 
-
-Now we wait.  
-
-:::
+-   [Nivolumab](http://www.bccancer.bc.ca/drug-database-site/Drug%20Index/Nivolumab_monograph.pdf) -- is referred to as a check point inhibitor.  Essentially, this drug disables a protein that allows the cancer cells to hide from the immune system.  The downside is that it intensifies GVHD. 
+-   [Ruxolitinib](http://www.bccancer.bc.ca/drug-database-site/Drug%20Index/Ruxolitinib_monograph.pdf) -- is being used to offset the impacts of GVHD.  Some research suggest that his this medication may also be synergistic with Nivolumab.
 
 
+We continue to be in Vancouver as Sam starts these treatments. We need
+to be sure that Sam can tolerate this new set of medications so
+potential adverse side effects are being monitored. The medical team
+also want to keep a close eye on the cancer -- a new scan of Sam's chest
+is scheduled for next week (an MRI).
+
+<!-- ## Medical plans -->
 
 
-::: {.callout-note icon="false"}
-## TL;DR [Too long didn't read (i.e. the short version)]{.small}
-
--   Sam's immunotherapy treatment has been delayed. We hope to see this
-    treatment start by the end of this week.
--   GVHD effects have continued since Sam received his BMT. One effect
-    of GVHD is that fluid has accumulated around his heart making it
-    unsafe with other treatments until that is dealt with.
-:::
-
-```{=html}
-<!-- ::: {#photo}
-![On May 29^th^ we checked out of the Ronald McDonald House for the
-first time since starting this cancer battle! We took a ten day break
-home -- it was amazing to be
-there!](https://samsstory.s3.ca-central-1.amazonaws.com/2024-05-29_rmh-checkout.jpg)
-::: -->
-```
-## Medical plans
-
-We had to know if Sam's new immune system from the BMT would be able to
-stop the cancer – we now know that it cannot. The results of the
-June^12th^ PET scan simply sucked -- the cancer had grown, and likely
-spread into two lymph nodes close by.
-
-So we pivot and move onto the next plan which will be a combination of
-different immunotherapy drugs. Past research suggest that these drugs
-could be effective at 1) interrupting a key metabolic pathway in the
-cancer cells, and 2) disable some of the cancer's defenses that allow it
-to hide from the immune system.
-
-Last Friday we were hoping to see Sam start on this modified
-immunotherapy drug treatment plan, but it was not safe to do so. Since
-receiving his BMT[^1] Sam has had some level of GVHD[^2]. One ongoing
-effect of GVHD is that fluid has built up around his heart (measured
-using an echocardiogram). To date this has not impacted his heart
-function. The challenge and safety concern is that the new immunotherapy
-treatment will likely intensify GVHD impacts that could put his heart at
-risk.
-
-[^1]: bone marrow transplant -- providing his new immune system
-
-[^2]: graft versus host disease
-
-So instead of treating the cancer, last week Sam was started on a
-steroid to reduce GVHD effects. Yesterday, a repeat echocardiogram and
-blood metrics suggest that this GVHD treatment is working and this
-should allow Sam to start on the immunetherapy/cancer-treatment later
-this week.
-
-## Life together
-
-We have all had our moments this past week. It has been emotionally
-challenging and at times each of us has had to confront our fears. We
-have also had beautiful times as we have been able to do that together.
-
-We have received many notes of support and encouragement – thank you!
-
-We have also enjoyed watching the hockey playoffs with family in the
-area. Uncle Cal also did his faithful visit after teaching in Richmond.
+<!-- ## Life together -->
 
 ## Victories and concerns
 
--   We are concerned as cancer treatments have been delayed. The effects
-    of GVHD caused fluid build-up around Sam's heart making it unsafe to
-    proceed with immunotherapy.\
-    At the same time we are thankful that Sam's medical team continues
-    to be diligent and thorough to protect him and to bring him to a
-    healthier/safer place before starting this next treatment.
+-   Sam's immune therapy plan is not progressing as planned.  The medical team is keeping a close eye on Sam to ensure that he does not have any adverse side effects.
 
--   Results from the latest PET scan are challenging. The cancer has
+-   ~~We are concerned as cancer treatments have been delayed. The effects
+    of GVHD caused fluid build-up around Sam's heart making it unsafe to
+    proceed with immunotherapy.~~
+
+-   Results from the latest PET scan (June 12) are challenging. The cancer has
     grown. Though we remain thankful that it has not spread to other
     areas of Sam's body.
 
@@ -147,7 +90,6 @@ area. Uncle Cal also did his faithful visit after teaching in Richmond.
     contact the [Westwood Church](https://westwoodchurch.bc.ca) office.
 
 -   We long for the day when Sam is clear of this disease.
-   
 
 ------------------------------------------------------------------------
 
@@ -189,7 +131,7 @@ is impossible to thank you all enough.
 
 [![](https://samsstory.s3.ca-central-1.amazonaws.com/rmdhbc.png)](https://rmhbc.ca)
 
-[![](https://www.friendsofchildren.ca/application/themes/foc/images/logo.png)](https://www.friendsofchildren.ca)
+[![](https://www.friendsofchildren.ca/application/files/5017/1458/9411/Logo.White.webp)](https://www.friendsofchildren.ca)
 :::
 :::
 
