@@ -9,7 +9,7 @@ tbl-colwidths: [50,50]
 draft: true
 editor: 
   markdown: 
-    wrap: 70
+    wrap: 140
 ---
 
 It's our 28^th^ anniversary and this has been the hardest year of our
@@ -23,86 +23,133 @@ My reading is dark. Today I receive little comfort from this Psalm.
 The only comfort is in the recognition of the pain and torment of our
 current situation.
 
-+-----------------+--------------------+
-| Psalm23         | My response        |
-+=================+====================+
-| > The Lord is   | *And yet I am left |
-| > my shepherd,  | in want. Am I a    |
-| > I shall not   | sheep, trapped in  |
-| > want.         | the wilderness?    |
-|                 | Where is my        |
-|                 | shepherd? I cry*   |
-|                 | *and it seems He   |
-|                 | does not hear.*    |
-+-----------------+--------------------+
-| > He makes me   | *I long for green  |
-| > lie down in   | pastures.\         |
-| > green         | To be there with   |
-| > pastures;\    | my family. Yet     |
-| >  he leads me  | there death in     |
-| > beside still  | him. I cannot      |
-| > waters;\      | leave him.\        |
-| >  he restores  | I cannot ignore    |
-| > my soul.      | it. Fear of death  |
-|                 | rots at my soul.*  |
-+-----------------+--------------------+
-| > He leads me   | *I try to follow   |
-| > in right      | the right path,\   |
-| > paths\        | remembering what   |
-| >  for his      | the shepherd has   |
-| > name's sake.  | taught me.*        |
-|                 |                    |
-|                 | *Is all of this    |
-|                 | for his name's     |
-|                 | sake?*             |
-+-----------------+--------------------+
-| > Even though I | *Yes, this is a    |
-| > walk through  | dark, dark valley. |
-| > the darkest   | A valley of death. |
-| > valley,\      | Though I fear no   |
-| >  I fear no    | eternal evil, I    |
-| > evil;\        | fear. Are my fears |
-| >  for you are  | not justified? The |
-| > with me;\     | disease in real    |
-| > your rod and  | and the Lord       |
-| > your staff—\  | remains silent.*   |
-| >  they comfort |                    |
-| > me.           | *Tough Your ways   |
-|                 | guide me, I        |
-|                 | question if they   |
-|                 | are any comfort.*  |
-+-----------------+--------------------+
-| > You prepare a | *My enemies are*   |
-| > table before  | Death *and*        |
-| > me\           | Despair*. They sit |
-| >  in the       | here at the table  |
-| > presence of   | with us. Yet it    |
-| > my enemies;\  | seems we are the   |
-| > you anoint my | meals set before   |
-| > head with     | them – my son for* |
-| > oil;\         | Death *and us for* |
-| >  my cup       | Despair*.*         |
-| > overflows.    |                    |
-|                 | *There is no cup,  |
-|                 | no meal for me –   |
-|                 | rather You are     |
-|                 | serving us up.*    |
-|                 |                    |
-|                 | *When will you     |
-|                 | rescue us?*        |
-+-----------------+--------------------+
-| > Surely        | *These seems like  |
-| > goodness and  | false hope; a lie  |
-| > mercy shall   | to sooth mental    |
-| > follow me\    | anguish.*          |
-| >  all the days |                    |
-| > of my life,\  | *I cry as did      |
-| > and I shall   | Christ:\           |
-| > dwell in the  | "*My God, My God,  |
-| > house of the  | Why have you       |
-| > Lord\         | forsaken me?"*,    |
-| > my whole life | and\               |
-| > long.         | "*yet not what I   |
-|                 | want, but what you |
-|                 | want."             |
-+-----------------+--------------------+
++--------------+--------------+
+| Psalm23      | My response  |
++==============+==============+
+| > The Lord   | *And yet I   |
+| > is my      | am left in   |
+| > shepherd,  | want. Am I a |
+| > I shall    | sheep,       |
+| > not want.  | trapped in   |
+|              | the          |
+|              | wilderness?* |
+|              |              |
+|              | *Where is my |
+|              | shepherd? I  |
+|              | cry* out     |
+|              | *and it      |
+|              | seems He     |
+|              | does not     |
+|              | hear.*       |
++--------------+--------------+
+| > He makes   | *I long for  |
+| > me lie     | green        |
+| > down in    | pastures.\   |
+| > green      | To be there  |
+| > pastures;\ | with my      |
+| >  he leads  | family.*     |
+| > me beside  |              |
+| > still      | *Yet there   |
+| > waters;\   | is death in  |
+| >  he        | him. I       |
+| > restores   | cannot leave |
+| > my soul.   | him.\        |
+|              | I cannot     |
+|              | ignore it.   |
+|              | Fear of      |
+|              | death rots   |
+|              | at my soul.* |
++--------------+--------------+
+| > He leads   | *I try to    |
+| > me in      | follow the   |
+| > right      | right path,\ |
+| > paths\     | remembering  |
+| >  for his   | what the     |
+| > name's     | shepherd has |
+| > sake.      | taught me.*  |
+|              |              |
+|              | *Is all of   |
+|              | this for his |
+|              | name's       |
+|              | sake?*       |
++--------------+--------------+
+| > Even       | *Yes, this   |
+| > though I   | is a dark,   |
+| > walk       | dark valley. |
+| > through    | A valley of  |
+| > the        | death.*      |
+| > darkest    |              |
+| > valley,\   | *Though I    |
+| >  I fear no | fear no*     |
+| > evil;\     | eternal      |
+| >  for you   | *evil, I     |
+| > are with   | fear.\       |
+| > me;\       | Are my fears |
+| > your rod   | not          |
+| > and your   | justified?\  |
+| > staff—\    | The disease  |
+| >  they      | in real and  |
+| > comfort    | the Lord     |
+| > me.        | remains      |
+|              | silent.*     |
+|              |              |
+|              | *Though Your |
+|              | ways guide   |
+|              | me, I        |
+|              | question if  |
+|              | they are any |
+|              | comfort.*    |
++--------------+--------------+
+| > You        | *My enemies  |
+| > prepare a  | are* Death   |
+| > table      | *and*        |
+| > before me\ | Despair*.*   |
+| >  in the    |              |
+| > presence   | *They sit    |
+| > of my      | here at the  |
+| > enemies;\  | table with   |
+| > you anoint | us.\         |
+| > my head    | Yet it seems |
+| > with oil;\ | we are the   |
+| >  my cup    | meals set    |
+| > overflows. | before them  |
+|              | – my son     |
+|              | for* Death   |
+|              | *and us for* |
+|              | Despair*.*   |
+|              |              |
+|              | *There is no |
+|              | cup, no meal |
+|              | for me –     |
+|              | rather You   |
+|              | are serving  |
+|              | us up.*      |
+|              |              |
+|              | *When will   |
+|              | you rescue   |
+|              | us?*         |
++--------------+--------------+
+| > Surely     | *This seems  |
+| > goodness   | like a false |
+| > and mercy  | hope;\       |
+| > shall      | a lie to     |
+| > follow me\ | soothe       |
+| >  all the   | mental       |
+| > days of my | anguish.*    |
+| > life,\     |              |
+| > and I      | *I cry as    |
+| > shall      | did Christ:\ |
+| > dwell in   | "*My God, My |
+| > the house  | God, Why     |
+| > of the     | have you     |
+| > Lord\      | forsaken     |
+| > my whole   | me?"*, and I |
+| > life long. | try to       |
+|              | remain       |
+|              | faithful to  |
+|              | say:\        |
+|              | "*yet not    |
+|              | what I want, |
+|              | but what You |
+|              | want."       |
++--------------+--------------+
