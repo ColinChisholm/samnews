@@ -134,6 +134,6 @@ Below is a review of the major milestones.
 +-------------------+-----------------------------------------------------------------------------+
 | June 4            | MRI of Sam's chest was completed. The primary purpose of this scan was to   |
 |                   | provide detail if surgery is ever to be considered.\                        |
-|                   | In addition, cancerous mass was evaluated. On June 5^th^ we were told that  |
-|                   | the mass had not grown.                                                     |
+|                   | In addition, the cancerous mass was evaluated. On June 5^th^ we             |
+|                   | were told that the mass had not grown.                                      |
 +-------------------+-----------------------------------------------------------------------------+
