@@ -17,17 +17,15 @@ knitr:
     echo: false
 ---
 
-
 ::: {.callout-note icon="false"}
 ## TL;DR [Too long didn't read (i.e. the short version)]{.small}
 
 -   Happy Anniversary -- Tina and I celebrate 28 years.
 -   Pain management for Sam (again).
--   Other family challenges. 
 -   Sam is able to continue with the latest mix of medications.
 -   MRI results indicate no growth in the cancer!
--   Going home! 
-
+-   Other family challenges.
+-   Going home!
 :::
 
 ```{=html}
@@ -38,57 +36,92 @@ home -- it was amazing to be
 there!](https://samsstory.s3.ca-central-1.amazonaws.com/2024-05-29_rmh-checkout.jpg)
 ::: -->
 ```
+It has been a week-and-a-half since my last post. Despite some
+challenges the overall picture is good as Sam's body has tolerated this
+new combination of medications. In addition, the MRI scan showed that
+the cancer has not grown since the previous scan.
 
-It has been a week-and-a-half since my last post.  Despite some challenges the overall picture is good as Sam's body has tolerated this new combination of medications. In addition, the MRI scan showed that the cancer has not grown since the previous scan.  
-
-## Challenges 
+## Challenges
 
 ### June 29^th^
 
-We have had a few challenges since I last wrote -- I am glad they are not all focused on Sam. 
+We have had a few challenges since I last wrote -- I am glad they are
+not all focused on Sam.
 
-The last weekend of June was tough.  Tina and I celebrated our 28^th^ anniversary (love you Tina!) while visiting family in White Rock. Sam had received his dose of Nivolumab a week earlier and what we now know/ remember is that it takes about a week for effects and corresponding pains to set in.  One of the hardest things in this whole journey is to watch your child when they are in pain and to not understand what is causing it.  Over the next couple days we were able to get his pain under control allowing to feel himself again.  
+The last weekend of June was tough. Tina and I celebrated our 28^th^
+anniversary (love you Tina!) while visiting family in White Rock. Sam
+had received his dose of Nivolumab a week earlier and what we now know/
+remember is that it takes about a week for effects and corresponding
+pains to set in. One of the hardest things in this whole journey is to
+watch your child when they are in pain and to not understand what is
+causing it. Over the next couple days we were able to get his pain under
+control allowing to feel himself again.
 
-Also that weekend, Nana Mary was having some heart related symptoms that gave us a scare -- she seems to be good now. 
+Also that weekend, Nana Mary was having some heart related symptoms that
+gave us a scare -- she seems to be good now.
 
-To celebrate our anniversary, instead of going out for dinner, Tina and I chose to stay in and eat with our beloved Sam and mother Mary.  It was a really good evening.  
-
+To celebrate our anniversary, instead of going out for dinner, Tina and
+I chose to stay in and eat with our beloved Sam and mother Mary. It was
+a really good evening.
 
 ### July 6 - 8
 
-One reason that this post is a few days late coming is this past weekend I was laid flat.  A head cold took all my energy for the better part of Saturday through Monday.  
-
-
-
+One reason that this post is a few days late coming is this past weekend
+I was laid flat. A head cold took all my energy for the better part of
+Saturday through Monday.
 
 ## Current medical situation
 
-Sam's medical situation over the last couple weeks is generally good news!  
+Sam's medical situation over the last couple weeks is generally good
+news!
 
-First, Sam's body is tolerating the latest mix of medications -- specifically, [Nivolumab](http://www.bccancer.bc.ca/drug-database-site/Drug%20Index/Nivolumab_monograph.pdf) and [Ruxolitinib](http://www.bccancer.bc.ca/drug-database-site/Drug%20Index/Ruxolitinib_monograph.pdf).  The initial attempt to use Nivolumab, at the end of Feb., did not go well and resulted in a lost time recovering from side effects (primarily liver inflammation).  Currently, the combination of these two drugs seems to be working well -- specifically metrics related to Sam's liver are stable and even in normal ranges.  
+First, Sam's body is tolerating the latest mix of medications --
+specifically,
+[Nivolumab](http://www.bccancer.bc.ca/drug-database-site/Drug%20Index/Nivolumab_monograph.pdf)
+and
+[Ruxolitinib](http://www.bccancer.bc.ca/drug-database-site/Drug%20Index/Ruxolitinib_monograph.pdf).
+The initial attempt to use Nivolumab, at the end of Feb., did not go
+well and resulted in lost time recovering from side effects (primarily
+liver inflammation). Currently, the combination of these two drugs seems
+to be working well -- specifically metrics related to Sam's liver are
+stable and even in normal ranges.
 
-Sam also had an MRI of his chest last week and the results were encouraging.  Though it is too soon tell, or relate the scan results to the latest drug regime, the results indicated that the cancerous mass had not grown (in contrast to the previous PET scan).  We are once again hopeful that the cancer can be held back/ controlled.  The MRI also provided incredible details of Sam's upper body and the medical team will continue to review this latest set of images to evaluate future treatment options. 
-
+Sam also had an MRI of his chest last week the results of which were
+encouraging. Though it is too soon tell, or to relate the scan to the
+latest drug regime, the results indicated that the cancerous mass had
+not grown (in contrast to the previous PET scan). We are once again
+hopeful that the cancer can be held back/ controlled. The MRI also
+provided incredible details of Sam's upper body and the medical team
+will continue to review this latest set of images to evaluate future
+treatment options.
 
 ## Looking forward
 
-It is hard to believe, but a pattern to life may be starting emerge. We are starting to make plans with our medical team that extend beyond the next clinic visit.  Given that Sam is tolerating the medications we are starting to look weeks ahead.   
+It is hard to believe, but a pattern to life may be starting to emerge.
+We are now making plans with our medical team that extend beyond the
+next clinic visit. Given that Sam is tolerating the medications we are
+starting to look to the weeks ahead.
 
-1.  Sam will need to be in Vancouver every two weeks to receive the dose of Nivolumab.  
-2.  Coupled with this approximately every four weeks he will have some sort of scan (likely alternating between PET and CT)
+1.  Sam will need to be in Vancouver every two weeks to receive the dose
+    of Nivolumab.
+2.  Coupled with this approximately every four weeks he will have some
+    sort of scan (likely alternating between PET and CT)
 
-Sam received his latest does this past Friday and yesterday's numbers looked good.
+Sam received his latest does this past Friday and yesterday's numbers
+looked good.
 
-Given that there is nothing to do here in Vancouver until the 19^th^ we will head for home tomorrow! 
-
+Given that there is nothing to do here in Vancouver until the 19^th^ we
+will head for home tomorrow!
 
 ## Victories and concerns
 
--   Sam's immune therapy plan is going forward. The medical
-    team is keeping a close eye on Sam to ensure that he does not have
-    any adverse side effects.  Following two weeks of Nivolumab Sam has not had any adverse side effects! 
+-   Sam's immune therapy plan is going forward. The medical team is
+    keeping a close eye on Sam to ensure that he does not have any
+    adverse side effects. Following two weeks of Nivolumab Sam has not
+    had any adverse side effects!
 
--   Results from the July 4^th^ MRI indicate that the cancer has not grown!
+-   Results from the July 4^th^ MRI indicate that the cancer has not
+    grown!
 
 -   Thankful that we can look ahead and that we can make it home again!
 
