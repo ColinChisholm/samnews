@@ -1,6 +1,7 @@
 ---
 title: Nana's roll-ups
 date: 2024-06-01
+date-modified: 2024-07-15
 author: Colin C. 
 description: Nana Mary's roll-ups (crepes)
 categories: [breakfast]
@@ -9,17 +10,22 @@ draft: false
 
 Nana is not the best at writing her recipe's down but she did write this one up for me.
 
-- 1 cup flour
-- 1 tablespoon white sugar
-- 1/4 teaspoon salt
+dry
 
-- 2 large eggs
-- 1 cup of milk
-- 1+ teasppon of vanilla\
-  (use pancake syrup if you can't find vanilla -- then cut back on sugar)
-- 2 teaspoons of oil
-- Sugar, forgarnish
+-   1 cup flour
+-   1.5 tablespoon white sugar
+-   1/4 teaspoon salt
 
-(Fry in a well heated and generously oiled pan)
+wet
 
+-   4 large eggs
+-   1.25 cup of milk
+-   1+ teasppon of vanilla\
+    (use pancake syrup if you can't find vanilla -- then cut back on sugar)
+-   1 tablespoon of oil
 
+notes
+
+-   Sugar, for garnish
+
+-   Fry in a well heated and generously oiled pan
