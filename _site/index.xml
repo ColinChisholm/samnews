@@ -10,7 +10,81 @@
 <atom:link href="http://samc-news.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>News updating friends and family on our journey</description>
 <generator>quarto-1.4.554</generator>
-<lastBuildDate>Tue, 09 Jul 2024 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 26 Jul 2024 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Home Again</title>
+  <dc:creator>Colin C.</dc:creator>
+  <link>http://samc-news.netlify.app/posts/2407/2024-07-26_homeward-bound-again.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+TL;DR <span class="small">Too long didn’t read (i.e.&nbsp;the short version)</span>
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>We are home again! We got home on the 23<sup>rd</sup> following a short medical trip to Vancouver (July 18 - 22).</li>
+<li>Sam has successfully received his latest dose of Nivolumab and his body continues to tolerate this set of medications.</li>
+<li>Sam is scheduled for a PET scan on August 2<sup>nd</sup>.</li>
+</ul>
+</div>
+</div>
+<div id="photo">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://samsstory.s3.ca-central-1.amazonaws.com/2024-07-21_chisholm-cresent-beach.jpg" class="img-fluid figure-img"></p>
+<figcaption>Enjoying some hours at Crescent Beach! Great visit with Nana Mary and the Frickers.</figcaption>
+</figure>
+</div>
+</div>
+<p>I can understand it if you were feeling like you were missing our on our lives and wondering what is going on – it has been over two weeks since I last wrote.</p>
+<p>In that time we were at home, travelled to Vancouver, and returned home again. During our times at home, we had some good visits with a number of our friends here, and I started to feel that I was maybe beginning to recover from burnout. Sam, of course, despite often feeling physically exhausted from it all, continues to be amazing, maintaining his positive attitude throughout this long journey.</p>
+<section id="looking-back" class="level2">
+<h2 class="anchored" data-anchor-id="looking-back">Looking back</h2>
+<p>Most recently, last Thursday, July 18, we made a roadtrip down to BC Children’s. We chose to drive as it allows for more flexible timing and gives us some freedom while there. On that Friday, there was a minor question-mark related to some of Sam’s bloodwork and the team chose: to adjust some of Sam’s supporting medications<sup>1</sup>, and to wait out a cold that he had.</p>
+<p>Over the weekend we were able to have a visit with the Frickers and Nana including a nice afternoon watching the tide come in at Crescent Beach.</p>
+<p>The next Monday Sam’s cold and bloodwork had improved and he was able to receive another dose of Nivolumab. In addition an echocardiogram showed that there were no significant negative impacts on Sam’s heart. Despite not leaving the clinic until 4:30 that afternoon we decided to start our trip home. We made it to Kamloops that night and the rest of the way on Tuesday.</p>
+<p>This last trip down marks our shortest visit to BC Children’s Hospital and the Ronald McDonald house. It is our hope that this will become a more normal pattern. Yet it is too soon to discuss patterns or plans for life.</p>
+</section>
+<section id="looking-forward" class="level2">
+<h2 class="anchored" data-anchor-id="looking-forward">Looking forward</h2>
+<p>On August 2<sup>nd</sup> Sam is due back in Vancouver. We will spend several days there as he is scheduled for a PET scan, an ultrasound, and another dose of Nivolumab.</p>
+<p>In the meantime we have just over a week at home. We are loving it here – however in some ways it is a strange adjustment (including not having Tina’s parents here). Many thanks to whoever mowed our backyard! In this time we will celebrate birthdays, I will get to work for some part days, and we hope to continue reconnecting with our Prince George friends and family.</p>
+</section>
+<section id="victories-and-concerns" class="level2">
+<h2 class="anchored" data-anchor-id="victories-and-concerns">Victories and concerns</h2>
+<ul>
+<li><p>Sam’s immune therapy plan continues to move forward. Following three doses of Nivolumab Sam has not had any severe adverse side effects!</p></li>
+<li><p>Results from the July 4<sup>th</sup> MRI indicated that the cancer mass in Sam’s chest has not grown!</p></li>
+<li><p>Thankful that we can look ahead a little and that we can be home again!</p></li>
+<li><p>We are thankful to the medical team here at <a href="http://www.bcchildrens.ca">BC Childrens’ Hospital</a> who have explained things incredibly well and who have worked professionally and confidently. Your clear communication, compassion, and medical care give us great confidence.</p></li>
+<li><p>We are thankful for the gift of a place to stay so close to where Sam is receiving his care. The <a href="https://rmhbc.ca">Ronald McDonald House (RMH)</a> has provided us a home away from home. This place is an amazing example of charity at work.</p></li>
+<li><p>Thankful for friends who have chosen to meet regularly to pray for Sam. If you would like to join them talk with Beth H., Krista C., or contact the <a href="https://westwoodchurch.bc.ca">Westwood Church</a> office.</p></li>
+<li><p>We long for the day when Sam is free of this disease.</p></li>
+</ul>
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Supporting meds being the switch from prednisone to hydrocortisone for increased adrenal support. Note that weaning off of prednisone seemed to not provide enough adrenal support, including support to effectively battle the cold he had.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>regular</category>
+  <guid>http://samc-news.netlify.app/posts/2407/2024-07-26_homeward-bound-again.html</guid>
+  <pubDate>Fri, 26 Jul 2024 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Scan results</title>
   <dc:creator>Colin C.</dc:creator>
@@ -1734,65 +1808,6 @@ Feb.&nbsp;9, 2024
   <category>post-BMT</category>
   <guid>http://samc-news.netlify.app/posts/2401/2024-01-29_returning.html</guid>
   <pubDate>Mon, 29 Jan 2024 08:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>To the Ward and Back Again</title>
-  <dc:creator>Colin C.</dc:creator>
-  <link>http://samc-news.netlify.app/posts/2401/2024-01-21_ward-and-back-again.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="looking-back" class="level2">
-<h2 class="anchored" data-anchor-id="looking-back">Looking back</h2>
-<p>Last post I wrote about the viral illness that Sam had, and the removal of some steroid supports that he had post BMT. He was making slow progress recovering from it all.</p>
-<p>On Jan.&nbsp;11 we went in for a clinic appointment with the Endrocine team. However, they were not fully satisfied with how Sam responded to the treatments they initiated … unexplained low blood pressures tend to send off alarm bells for physicians. So we went up to the oncology clinic to let our regular medical team evaluate Sam and consider his situation from their perspective. The team there decided to admit Sam to the ward. I confirmed later that this was due to a number of small flags that went off for them – if any one flag was presented they would have sent us back out. However, whatever was going on with Sam, though ambiguous, added up to be significant enough to be admitted.</p>
-<p>Over the next few days we saw very little improvement but then he started to come around. There were a lot of question-marks about what was going on with Sam and when we asked “<em>What is going on with Sam?”</em> the answer was”<em>We don’t know</em>.” Various tests were run and general treatments were provided.</p>
-<p>The nurses called it being in for a ‘<em>tune-up</em>’ and they reassured us that it was very normal for someone, following a BMT, to come back to the ward for whatever was ailing them. The idea of a <em>tune-up</em> is not a bad analogy though it felt more like a major tune-up – like Sam was only running on 1 or 2 cylinders.</p>
-<p>Sam started feeling better following about five days of treatment (fluids, antibiotics, steroids), and by day 8, this past Thursday, he demonstrated he was strong enough to leave the ward. We are now back at the RMH.</p>
-<p>Ughh. All of those days of illness, including the 10 days prior to being admitted were hard. It is the not knowing: What is happening? What is the problem? Will we find a solution? Is this the cancer? To complicate things, especially for Tina, was the fact that she still had bronchitis, because of this she was not able to spend much time on the ward with Sam and I. I am thankful that Nana Mary was able to be with her during this last time on ward.</p>
-</section>
-<section id="looking-forward" class="level2">
-<h2 class="anchored" data-anchor-id="looking-forward">Looking forward</h2>
-<p>In the weeks ahead we will need to keep a close eye on Sam’s energy levels. We have been given some flexibility in managing steroidal supports (e.g.&nbsp;in response to illness or injury). So if we see his energy fading we can pump him up a little. The steroids are intended to mimic natural bodily levels, as given the previous BMT related treatments his body is not yet generating natural responses – this is all expected (by the doctors). It is also expected that Sam’s own hormone balancing system will restart after a month or two. Again we wait and hope.</p>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Hope in the waiting
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>I can’t help but remember that when we were learning Spanish, in our days working in Guatemala, that verb <em>esperar</em> means to wait, and it also mean to hope (the noun for hope is <em>la esperanza</em>). So when we say we wait – I also mean we hope. Of course, hope itself is a choice. In many ways it is a choice to expect the good and to actively reject living in anxiety. This is more than a psychological trick. Our hope and trust have true foundations. I have hope because of our incredible medical team, and ultimately we have hope in God.</p>
-</div>
-</div>
-<section id="medical-plans" class="level3">
-<h3 class="anchored" data-anchor-id="medical-plans">Medical plans</h3>
-<p>This week will be a return to regular clinic visits. We will also start a repeat of all of the baseline testing that was done prior to the BMT. This will involve visits to all of the specialties in the hospital, and various imaging tests to evaluate if/how this whole BMT journey has impacted Sam.</p>
-<p>We will also continue weaning the various drugs that Sam has been on – primarily reducing morphine levels.</p>
-</section>
-</section>
-<section id="victories-and-concerns" class="level2">
-<h2 class="anchored" data-anchor-id="victories-and-concerns">Victories and concerns</h2>
-<ul>
-<li><p>A concern for Tina and I is that it is not always easy to choose hope. The reality is that choosing hope is a discipline. Given everything that we as parents have gone through, including all of the alternate outcomes that we have seen, it is very easy to slip into anxious thinking.</p></li>
-<li><p>We are no longer having medical discussions about upcoming treatments. Discussions are now about weaning medications, removing the central line, completing baseline tests for comparison with the pre-BMT testing, and preparations to return home!</p></li>
-<li><p>We very thankful for the successful delivery and engraftment of the donated stems cells! To whoever made this donation <em>I cannot thank you enough</em>.</p></li>
-<li><p>We are thankful to the medical team who have explained things incredibly well and who have worked professionally and confidently. Your clear communication, compassion, and care give us great confidence.</p></li>
-<li><p>Thankful for friends who have chosen to meet regularly to pray for Sam. If you would like to join them talk with Beth H., Krista C., or contact the <a href="https://westwoodchurch.bc.ca">Westwood Church</a> office.</p></li>
-<li><p>There is always concern if the cancer remains. We long for the day when Sam is clear of this disease. A PET scan will be done in February to evaluate how the cancer has been impacted by all the treatments. The expectation is that any remaining cancer, following the chemo and radiation therapies, will be removed by the newly transplanted immune system.</p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>regular</category>
-  <category>post-BMT</category>
-  <guid>http://samc-news.netlify.app/posts/2401/2024-01-21_ward-and-back-again.html</guid>
-  <pubDate>Sun, 21 Jan 2024 08:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
