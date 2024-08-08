@@ -20,7 +20,7 @@ website:
       - icon: rss
         href: index.xml
     pinned: true
-  page-navigation: true
+  page-navigation: false
   sidebar: 
     style: floating
     search: false
