@@ -147,7 +147,7 @@ Below is a review of the major milestones.
 |                      | resulted in blockage of both the left and right [brachiocephalic          |
 |                      | veins](https://en.wikipedia.org/wiki/Brachiocephalic_vein). Sam has an    |
 |                      | extensive network of collateral veins (smaller vessels that allow blood   |
-|                      | return from his head to bypass these blockages. Additional concern has    |
+|                      | return from his head to bypass these blockages). Additional concern has    |
 |                      | been raised that disease impacts are beginning to restrict flow in the    |
 |                      | [superior vena cava](https://en.wikipedia.org/wiki/Superior_vena_cava).   |
 +----------------------+---------------------------------------------------------------------------+
