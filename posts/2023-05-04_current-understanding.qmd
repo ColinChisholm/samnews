@@ -4,6 +4,7 @@ description: "I explain, from what I understand, Sam's response to treatment, an
 author: Colin C.
 date: 2023-05-04T06:00
 categories: [daily]
+image: /img/230504_sunrise.jpg
 draft: false
 editor:
   markdown:

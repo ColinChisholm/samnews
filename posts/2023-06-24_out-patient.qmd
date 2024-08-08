@@ -4,6 +4,7 @@ description: "Sam has made it through the valley of round 2 and remains living o
 author: Colin C.
 date: 2023-06-24
 categories: [daily]
+image: https://samsstory.s3.ca-central-1.amazonaws.com/bike_kerrisdale.jpg
 draft: false
 editor: 
   markdown: 

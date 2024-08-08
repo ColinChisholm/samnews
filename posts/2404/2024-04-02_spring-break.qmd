@@ -5,6 +5,7 @@ author: Colin C.
 date: 2024-04-02
 date-modified: 2024-04-04
 categories: [regular, new-sites]
+image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-03-28_us-canucks.jpg
 draft: false
 editor: 
   markdown: 

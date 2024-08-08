@@ -5,6 +5,7 @@ author: Colin C.
 date: 2024-05-13
 # date-modified: 2024-04-18
 categories: [regular, results]
+image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-05-12_mothers-day.jpg
 draft: false
 editor: 
   markdown: 

@@ -4,6 +4,7 @@ description: "Much to be thankful for!"
 author: Colin C.
 date: 2023-12-24
 categories: [regular, post-BMT]
+image: https://samsstory.s3.ca-central-1.amazonaws.com/2023-12_walk-to-clinic.jpg
 draft: false
 editor: 
   markdown: 

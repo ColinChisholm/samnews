@@ -4,6 +4,7 @@ description: "As Sam is recovering well from round 2 we are preparing to have a 
 author: Colin C.
 date: 2023-06-01
 categories: [daily]
+image: https://samsstory.s3.ca-central-1.amazonaws.com/hugs-4kc-concert.jpg
 draft: false
 editor: 
   markdown: 

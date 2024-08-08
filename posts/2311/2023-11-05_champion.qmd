@@ -4,6 +4,7 @@ description: "Sam has endured so much and now will take on possibly his greatest
 author: Colin C.
 date: 2023-11-06
 categories: [regular, BMT]
+image: https://samsstory.s3.ca-central-1.amazonaws.com/Chisholm2023-oliveandbeanphoto-9_sml.jpg
 draft: false
 editor: 
   markdown: 

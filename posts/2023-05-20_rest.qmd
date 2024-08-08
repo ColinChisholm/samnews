@@ -4,6 +4,7 @@ description: "Over the last 24 hours we have gotten some muchh needed rest."
 author: Colin C.
 date: 2023-05-20
 categories: [daily]
+image: https://samsstory.s3.ca-central-1.amazonaws.com/2023-05-20_van-from-qep.jpg
 draft: false
 editor: 
   markdown: 

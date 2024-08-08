@@ -4,6 +4,7 @@ description: "Canada day and "
 author: Colin C.
 date: 2023-07-03
 categories: [daily]
+image: https://samsstory.s3.ca-central-1.amazonaws.com/canada-day-delta.jpg
 draft: false
 editor: 
   markdown: 

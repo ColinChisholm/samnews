@@ -4,6 +4,7 @@ description: "During Sam's last clinic visit we discussed contingency planning -
 author: Colin C.
 date: 2023-07-18
 categories: [regular, plans]
+image: https://www.blood.ca/themes/custom/cbs_bootstrap_sass/CBS_Logo_descriptors_RGB-WhiteBG.svg
 draft: false
 editor: 
   markdown: 

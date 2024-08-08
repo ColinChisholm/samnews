@@ -5,6 +5,7 @@ author: Colin C.
 date: 2023-04-30
 categories: [daily]
 category: April
+image: /img/tina-colin-BCCH-deck.jpg
 draft: false
 editor:
   markdown:

@@ -4,6 +4,7 @@ description: "Sam's bloodwork is holding! Additional bonus days away from the ho
 author: Colin C.
 date: 2023-06-17
 categories: [daily, outings]
+image: https://samsstory.s3.ca-central-1.amazonaws.com/richmond-night-market.jpg
 draft: false
 editor: 
   markdown: 

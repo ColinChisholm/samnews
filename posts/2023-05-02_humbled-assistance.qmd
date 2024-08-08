@@ -4,6 +4,7 @@ description: "Grateful for all of your support.  GoFundMe page is now up.  Great
 author: Colin C.
 date: 2023-05-02
 categories: [daily]
+image: /img/family_2022.jpg
 draft: false
 editor:
   markdown:

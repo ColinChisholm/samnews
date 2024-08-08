@@ -4,6 +4,7 @@ description: "A generally quiet week as Sam is close to completing round 3. Gran
 author: Colin C.
 date: 2023-07-23
 categories: [regular]
+image: https://samsstory.s3.ca-central-1.amazonaws.com/buddy-visit_20230721.jpg
 draft: false
 editor: 
   markdown: 

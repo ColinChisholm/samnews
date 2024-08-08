@@ -4,6 +4,7 @@ description: "Sam is settled into his isolation room -- ready to receive the bmt
 author: Colin C.
 date: 2023-11-14
 categories: [regular, BMT, hospital]
+image: https://samsstory.s3.ca-central-1.amazonaws.com/2023-11-14_friends-this-week.jpg
 draft: false
 editor: 
   markdown: 

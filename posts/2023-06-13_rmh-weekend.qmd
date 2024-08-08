@@ -2,8 +2,9 @@
 title: "A weekend at RMH"
 description: "Despite heading for the chemotherapy valley we had the weekend at RMH.  Includes a recap of our weekend."
 author: Colin C.
-date: 2023-06-013
+date: 2023-06-13
 categories: [daily]
+image: https://samsstory.s3.ca-central-1.amazonaws.com/2023-06-11_ma-daniel-sam-colin.jpg
 draft: false
 editor: 
   markdown: 

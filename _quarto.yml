@@ -6,6 +6,7 @@ website:
   description: "News updating friends and family on our journey"
   site-url: "http://samc-news.netlify.app"
   search: false
+  bread-crumbs: false
   navbar:
     right:
       - href: index.qmd
