@@ -9,9 +9,9 @@ website:
   bread-crumbs: false
   navbar:
     right:
-      - href: index.qmd
+      - href: /index.qmd
         text: Home
-      - href: timeline.qmd
+      - href: /timeline.qmd
         text: Timeline
       - href: plan.qmd
         # text: The Plan
@@ -21,6 +21,18 @@ website:
         href: index.xml
     pinned: true
   page-navigation: true
+  sidebar: 
+    style: floating
+    search: false
+    contents:
+      - href: index.html
+        text: Home
+      - href: timeline.html
+        text: Timeline
+      # - href: posts.html
+      - href: index.html#previous-posts
+        text: "Previous Posts"
+
   page-footer: 
     center: Copyright 2024 Colin Chisholm
     background: dark

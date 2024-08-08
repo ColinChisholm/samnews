@@ -6,11 +6,11 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/index.html</loc>
-    <lastmod>2024-08-08T14:25:11.226Z</lastmod>
+    <lastmod>2024-08-08T17:31:08.549Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/posts/2312/2023-12-24_merry-christmas.html</loc>
-    <lastmod>2024-08-08T14:52:42.711Z</lastmod>
+    <lastmod>2024-08-08T15:14:55.204Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/posts/2401/2024-01-01_happy-new-year.html</loc>
@@ -42,7 +42,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/timeline.html</loc>
-    <lastmod>2024-08-08T05:37:55.965Z</lastmod>
+    <lastmod>2024-08-08T17:27:34.592Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/wishes.html</loc>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/devos/index.html</loc>
-    <lastmod>2024-08-08T14:10:33.968Z</lastmod>
+    <lastmod>2024-08-08T17:30:06.485Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/devos/acts/acts_01-01.html</loc>
@@ -218,11 +218,11 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/posts/2408/2024-08-02_post-camp-scan-day.html</loc>
-    <lastmod>2024-08-08T14:22:27.265Z</lastmod>
+    <lastmod>2024-08-08T17:24:20.281Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/posts/2408/2024-08-07_scan-results.html</loc>
-    <lastmod>2024-08-08T14:34:27.796Z</lastmod>
+    <lastmod>2024-08-08T17:21:54.134Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/posts/2311/2023-11-14_bmt-ready.html</loc>
@@ -307,5 +307,9 @@
   <url>
     <loc>http://samc-news.netlify.app/posts/2023-04-24_clarity-needed.html</loc>
     <lastmod>2024-08-08T15:14:02.061Z</lastmod>
+  </url>
+  <url>
+    <loc>http://samc-news.netlify.app/posts.html</loc>
+    <lastmod>2024-08-08T17:18:45.781Z</lastmod>
   </url>
 </urlset>
