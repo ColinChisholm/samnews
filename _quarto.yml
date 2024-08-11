@@ -21,17 +21,17 @@ website:
         href: index.xml
     pinned: true
   page-navigation: false
-  sidebar: 
-    style: floating
-    search: false
-    contents:
-      - href: index.html
-        text: Home
-      - href: timeline.html
-        text: Timeline
-      # - href: posts.html
-      - href: index.html#previous-posts
-        text: "Previous Posts"
+  # sidebar: 
+  #   style: floating
+  #   search: false
+  #   contents:
+  #     - href: index.html
+  #       text: Home
+  #     - href: timeline.html
+  #       text: Timeline
+  #     # - href: posts.html
+  #     - href: index.html#previous-posts
+  #       text: "Previous Posts"
 
   page-footer: 
     center: Copyright 2024 Colin Chisholm
