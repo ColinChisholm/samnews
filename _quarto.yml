@@ -9,13 +9,13 @@ website:
   bread-crumbs: false
   navbar:
     right:
-      - href: /index.qmd
+      - href: ./index.html
         text: Home
-      - href: /timeline.qmd
+      - href: ./timeline.html
         text: Timeline
-      - href: plan.qmd
+      #- href: ./plan.qmd
         # text: The Plan
-      # - href: contact.qmd
+      - href: contact.html
         text: Contact Us
       - icon: rss
         href: index.xml
