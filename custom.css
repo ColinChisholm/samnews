@@ -36,3 +36,10 @@ ul.task-list {
     margin-left: 1em;
     padding-left: 1em;
 }
+
+
+/* tweak layout-ncol to no reduce paragraph spacing  */
+.quarto-layout-cell figure, .quarto-layout-cell>p {
+  margin: .2em;
+  margin-block-end: 1em;
+}
