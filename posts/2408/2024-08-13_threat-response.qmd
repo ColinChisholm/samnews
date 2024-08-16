@@ -3,7 +3,7 @@ title: "Threat Responses"
 description: "Another intense week with new plans to address immediate threats"
 author: Colin C.
 date: 2024-08-13
-# date-modified: 2024-06-21
+date-modified: 2024-08-16
 categories: [regular]
 image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-08-11_sam-with-gram-papa.jpg
 draft: false
@@ -17,6 +17,17 @@ knitr:
     warning: false
     echo: false
 ---
+
+::: {.callout-important icon="false"}
+## Success! 
+_Update: 2024-08-16_
+
+The surgery was more successful than we could have dreamed!\
+Dis-regard the planned surgery specifics below as the doctors came up with a new and better plan.
+See my next post: [A Surgery to Celebrate](./2024-08-16_surgery-celebration.qmd)
+
+:::
+
 
 ::: {.callout-note icon="false"}
 ## TL;DR [Too long didn't read (i.e. the short version)]{.small}
@@ -65,7 +76,7 @@ vessels that Sam's body has developed in compensation.
     directly into the Superior vena cava (SVC). Blood return through
     other collaterals is collected by the Azygos vein.
 
-    An additional issue is that the SVC is also partially occuluded
+    An additional issue is that the SVC is also partially occluded
     (\~50%).
 
     Surgery this week will insert stents to ensure that a) the one

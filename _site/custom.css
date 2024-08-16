@@ -40,6 +40,6 @@ ul.task-list {
 
 /* tweak layout-ncol to no reduce paragraph spacing  */
 .quarto-layout-cell figure, .quarto-layout-cell>p {
-  margin: .2em;
+  margin: 0em;
   margin-block-end: 1em;
 }

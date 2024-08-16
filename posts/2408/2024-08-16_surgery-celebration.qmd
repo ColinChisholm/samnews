@@ -1,60 +1,35 @@
 ---
-title: "Cancer journey updates"
-# author: Colin C.
-listing:
-  contents: posts
-  filter-ui: false
-  fields: [image, date, title, author, categories, description]
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
-  page-size: 10
+title: "A Surgery to Celebrate!"
+description: "Sam received a stent in an unexpected location!"
+author: Colin C.
+date: 2024-08-16
+# date-modified: 2024-08-17
+categories: [regular]
+image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-08-16_preop-stc.jpg
+draft: false
+editor: 
+  markdown: 
+    wrap: 72
 knitr: 
   opts_chunk: 
     eval: true
     message: false
     warning: false
     echo: false
-editor: 
-  markdown: 
-    wrap: 72
 ---
 
-<!-- ::::: {layout="[70, 30]"} -->
-<!-- ::: {.callout-important icon="false"} -->
-<!-- ## What we need -->
-<!-- 
-In this intense time we need:
+<!-- ::: {.callout-note icon="false"}
+## TL;DR [Too long didn't read (i.e. the short version)]{.small}
 
--   You to come close to us. We need to know you are with us.
-    Practically speaking send us your notes of love and encouragement.\
-    Don't think that we are getting too many messages. We might not have
-    capacity to respond but we do read them all.
--   Don't run.\
-    In the face of fear choose courage. We are. Sam certainly is.
--   Encourage Sam's friends to reach out to him. Send him notes and
-    pictures. They can likely find him on SnapChat. Many thanks to those
-    that do!
+-   Scan results show that the cancerous mass in Sam's chest has grown.
+-   The cancer is impacting Sam's vascular system and threatens his
+    heart.
+-   Plans are in place to protect Sam's heart.
+-   Nivo dose is quadrupled.
+-   Love of friends and family
 ::: -->
 
-<!-- ::: {.callout-tip appearance="minimal" icon="false"} -->
-For an overview of this journey see the [timeline](./timeline.html).
-
-Don't have our contact information and want to reach us? Use [this
-form](/contact.html). <br />*Note: if you do know how to reach us, use
-our email, or message us (no need to use the form).*
-<!-- ::: -->
-<!-- ::::: -->
-
-Visitation status: **by appointment only**
-
-------------------------------------------------------------------------
-
-# A Surgery to Celebrate!
-
-*August 16, 2024*
+<!-- :::{layout="[60, 40]"} -->
 
 ## Success
 
@@ -71,7 +46,7 @@ his small collateral veins). However, the surgeons[^1] presented a new
 plan. The new 'Plan A' would be to reestablish flow through the
 brachiocephalic vein ! They were hopeful they could reopen the left
 side. They would fall back to 'Plan B' as described in my [previous
-post](posts/2408/2024-08-16_surgery-celebration.html) if they were not able to do so.
+post](./2024-08-13_threat-response.qmd) if they were not able to do so.
 
 [^1]: technically these doctors are *Interventional Radiologists*
 
@@ -159,51 +134,3 @@ vena cava (SVC) is functioning normally.
     through this journey.
 
 -   We long for the day when Sam is free of this disease.
-
-------------------------------------------------------------------------
-
-# Support
-
-::: callout-important
-## Become a bone marrow donor
-
-[![](https://www.blood.ca/themes/custom/cbs_bootstrap_sass/CBS_Logo_descriptors_RGB-WhiteBG.svg){style="\"max-width:80%"}](https://makeallthedifference.blood.ca/stem-cells-1/)
-
-Sam's life has been saved in part because someone was will to donate
-their bone marrow. Consider becoming a donor. It is easy -- no needles,
-just a cheek swab that you can do yourself.
-
-Register via Canada Blood Services' stem cell donor website:
-
-<https://makeallthedifference.blood.ca/stem-cells-1/>
-
-Perhaps you can save someone's life!
-
-*Note: You need to be between the ages of 17 and 35 to become a donor.*
-:::
-
-## Financial Support
-
-Here we include options to provide financial support including: cancer
-research at the BC Children's Hospital, the Ronald McDonald House,
-Friends of Children (support for families from Northern BC), or to
-support us directly. We have been blown away by the generosity of so
-many. We also love the support provided in words of encouragement.
-Please feel free to [send us notes of encouragement](contact.html). It
-is impossible to thank you all enough.
-
-:::: {.support-container style="background-color: #fff"}
-::: {.support layout-ncol="2" style="background-color: #fff; padding-top:1.4em; padding-right:2em"}
-[![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/donate-button.png)](https://gofund.me/e060f5b6)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/rmdhbc.png)](https://rmhbc.ca)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/friends-of-children.png)](https://www.friendsofchildren.ca)
-:::
-::::
-
-------------------------------------------------------------------------
-
-# Previous Posts
