@@ -3,7 +3,7 @@ title: "A Surgery to Celebrate!"
 description: "Sam received a stent in an unexpected location!"
 author: Colin C.
 date: 2024-08-16
-# date-modified: 2024-08-17
+date-modified: 2024-08-18
 categories: [regular]
 image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-08-16_preop-stc.jpg
 draft: false
@@ -17,6 +17,14 @@ knitr:
     warning: false
     echo: false
 ---
+
+::: {.callout-warning icon=false}
+## Clarification
+
+The cancer remains.  We are thrilled to have this victory as this impact of the cancer was causing an immediate/acute threat to Sam's life.  With this battle won we can continue on in the greater cancer war.
+
+:::
+
 
 <!-- ::: {.callout-note icon="false"}
 ## TL;DR [Too long didn't read (i.e. the short version)]{.small}

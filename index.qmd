@@ -22,31 +22,30 @@ editor:
     wrap: 72
 ---
 
-<!-- ::::: {layout="[70, 30]"} -->
-<!-- ::: {.callout-important icon="false"} -->
-<!-- ## What we need -->
-<!-- 
+::::: {layout="[70, 30]"}
+::: {.callout-important icon="false"}
+## What we need
+
 In this intense time we need:
 
 -   You to come close to us. We need to know you are with us.
     Practically speaking send us your notes of love and encouragement.\
     Don't think that we are getting too many messages. We might not have
-    capacity to respond but we do read them all.
--   Don't run.\
-    In the face of fear choose courage. We are. Sam certainly is.
+    capacity to respond but we will read them all.
+-   In the face of fear choose courage. We are. Sam certainly is.
 -   Encourage Sam's friends to reach out to him. Send him notes and
     pictures. They can likely find him on SnapChat. Many thanks to those
     that do!
-::: -->
+:::
 
-<!-- ::: {.callout-tip appearance="minimal" icon="false"} -->
+::: {.callout-tip appearance="minimal" icon="false"}
 For an overview of this journey see the [timeline](./timeline.html).
 
 Don't have our contact information and want to reach us? Use [this
 form](/contact.html). <br />*Note: if you do know how to reach us, use
 our email, or message us (no need to use the form).*
-<!-- ::: -->
-<!-- ::::: -->
+:::
+:::::
 
 Visitation status: **by appointment only**
 
@@ -54,7 +53,14 @@ Visitation status: **by appointment only**
 
 # A Surgery to Celebrate!
 
-*August 16, 2024*
+*August 16, 2024*, updated *August 18, 2024*
+
+::: {.callout-warning icon=false}
+## Clarification
+
+The cancer remains.  We are thrilled to have this victory as this impact of the cancer was causing an immediate/acute threat to Sam's life.  With this battle won we can continue on in the greater cancer war.
+
+:::
 
 ## Success
 
