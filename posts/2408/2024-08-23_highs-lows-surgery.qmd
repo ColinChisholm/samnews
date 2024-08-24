@@ -84,7 +84,7 @@ Post](https://www.facebook.com/tinacolin96/posts/pfbid02mak4y75yLUiJgjp6RUME1eQH
 A luxury car tour from Stanley Park, to Cypress Mountain, and then back
 to BC Place where Sam was one of the VIPs given a hero's welcome to the
 Lions vs Bombers
-game.](https://samsstory.s3.ca-central-1.amazonaws.com/2024-08-18_driven-project-selfie.jpg)
+game.](https://samsstory.s3.ca-central-1.amazonaws.com/2024-08-18_driven-project-selfie.jpg){.lightbox}
 :::
 
 This past week started strong. Since my last post Sam was discharged
@@ -114,16 +114,17 @@ Sunday evening. It was Tuesday night that I was no longer able to keep
 Sam's pain under control this was also coupled with nausea. We went to
 clinic first thing in the morning and the medical team jumped into high
 gear, taking bloodwork, setting up various tests. By the end of the day
-it was confirmed that Sam had fluid pressing on his heart [Pericardial
-Effusion](https://www.healthlinkbc.ca/pericardial-effusion-0). By this
+it was confirmed that Sam had fluid pressing on his heart -- a [Pericardial
+Effusion](https://www.healthlinkbc.ca/pericardial-effusion-0). By that
 point in the day Sam's pain and nausea were under control (IV meds were
 far more effective than what I had available), and it was determined to
-admit Sam to hospital and reevaluate in the morning. That evening Sam's
+admit Sam to hospital and reevaluate in the morning. 
+<!-- That evening Sam's
 prayer was that his heart rate would decrease enough that physical
-draining for the fluid would not be necessary.
+draining for the fluid would not be necessary. -->
 
 Wednesday morning things were looking great! Sam's heart rate continued
-to trend downward towards normal levels. Surgical intervention would not
+to trend downward towards normal levels. It seemed surgical intervention would not
 be needed and we would spend a further 24-hours in hospital for
 observation. So many parts of this journey have involved swings.
 Thursday morning we returned to chaos and uncertainty. Sam's heart rate
@@ -133,18 +134,19 @@ elevated levels.
 
 ## Surgery & Intensive Care
 
-As I finish writing this post I am sitting in intensive care. Mid
-afternoon, the medical team decided that it would safest for Sam to go
-forward with removing the fluid from his around his heart. By 6:00pm he
-was in the ER where the doctors pieced through Sam's upper abdomen and
-then through pericardial wall to install a temporary drain. The surgery
-went as planned without any complications. Sam is a champion. He did the
-whole thing under light anesthetic -- meaning he was awake, and aware of 
-what was was happening. Apparently he chatted with one of the doctors 
+As I finish writing this post the three of us are in the intensive care. The day has been very intense but we are now in a good place.  Mid-afternoon, the medical team decided that it would safest for Sam to go
+forward with a surgery to remove the fluid from his around his heart. By 6:00pm he
+was in the OR where the doctors pieced through Sam's upper abdomen and
+then through pericardial sack to install a temporary drain. The surgery
+went as planned without any complications. 
+
+Sam is a champion. He did the
+whole surgery under light anesthetic -- meaning he was awake and aware of 
+what was was happening. Apparently he chatted with one of the doctors through the whole procedure
 reflecting on how great his time at Ness Lake Bible Camp had been.  
 
 He is now in the ICU for observation.  He is happy, his vitals are much 
-improved and he is looking forward to playing games with us and his 
+improved, and he is looking forward to playing games with us and his 
 nurse this evening. 
 
 <!-- 
