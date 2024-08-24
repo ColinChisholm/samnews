@@ -47,7 +47,9 @@ our email, or message us (no need to use the form).*
 :::
 :::::
 
-Visitation status: **by appointment only**
+We would like to see people. Please make a plan with us to do so.
+
+Visitation status: **call ahead**.
 
 ------------------------------------------------------------------------
 
@@ -55,22 +57,22 @@ Visitation status: **by appointment only**
 
 *August 23, 2024*
 
-
 ::: {.callout-note icon="false"}
 ## TL;DR [Too long didn't read (i.e. the short version)]{.small}
 
--   We are back in hospital as there is fluid around Sam's heart. 
--   This afternoon, Aug. 23, Sam had a surgery to reduce the fluid around his heart.
+-   We are back in hospital. Sam is currently in ICU following a surgery
+    to remove fluid buildup around his heart.
 -   Despite the current challenges Sam had a good week with adventures,
     and time with family.
 :::
 
-It has been a roller coaster of a week from good times with friends,
-family, and the [Driven
+It has been a roller coaster of a week from some good times with
+friends, family, and the [Driven
 Project](https://drivenproject.org/past-events/vancouver-2024/)
 experience to the lows of uncontrolled pain and re-admission to the
-hospital. Sam is mostly feeling better now and we are hopeful that he
-can be released from hospital soon.
+hospital, and the uncertainty surrounding this distress. Following
+surgery yesterday, Sam appears to be recovering well, remains in good
+spirits, and we are hopeful that he can be released from hospital soon.
 
 ## Highs
 
@@ -86,65 +88,76 @@ game.](https://samsstory.s3.ca-central-1.amazonaws.com/2024-08-18_driven-project
 
 This past week started strong. Since my last post Sam was discharged
 following his successful [stent
-surgery](./posts/2408/2024-08-16_surgery-celebration.qmd) (Friday Aug. 16). Through
-the week we had good visits with family and some big and small
-adventures. Saturday (17^th^), Cal, Chris, and Jane were here to visit
-with Tina and I (Sam was not yet up for visitors). Sunday, Sam had a
-huge day taking part in the [Driven
+surgery](./posts/2408/2024-08-16_surgery-celebration.qmd) (Friday Aug.
+16). We were not sure what to expect following surgery and Sam did
+struggle with various pains and lethargy. Despite this, through the week
+we had good visits with family and some big and small adventures.
+Saturday (17^th^), Cal, Chris, and Jane were here to visit with Tina and
+I (Sam was not yet up for visitors). Sunday, Sam had a huge day taking
+part in the [Driven
 Project](https://drivenproject.org/past-events/vancouver-2024/). Monday
 was clinic -- news was not great (see below) but afterwards we had an
 afternoon out exploring new games and hobbies at a couple local shops --
-it felt nice and normal.
+it felt almost normal.
 
 By Tuesday Sam was feeling more energetic and we got away from the RMH
-to visit family in Whiterock. It was great to see Sam sharing stories,
+to visit family in Whiterock. In his good moments (when not resting away
+from the family), it was great to see Sam join in on sharing stories,
 laughing, and generally sitting freely with his cousins, Aunt, Uncle,
 and Nana. That evening Sam and I returned to the RMH leaving Tina to
 enjoy more time with her family.
 
 ## Lows
 
-Ack, what a roller coaster this week. Monday in clinic Sam's liver
-number showed a sudden spike upwards. This was confirmed again on
-Tuesday. Sam also started battling elevated pains starting back on
-Sunday evening. It was Tuesday night that I was no longer able to keep
-Sam's pain under control this was also coupled with nausea. We went to
-clinic first thing in the morning and the medical team jumped into high
-gear, taking bloodwork, setting up various tests. By the end of the day
-it was confirmed that Sam had fluid pressing on his heart -- a [Pericardial
+Ack, what a roller coaster this week. Backing up, Monday in clinic Sam's
+liver numbers showed a sudden spike upwards. This was confirmed again on
+Tuesday. Sam had also started battling elevated pains starting back on
+Sunday evening, making sleep difficult. It was Tuesday night that I was
+no longer able to keep Sam's pain under control this was also coupled
+with nausea. We went to clinic first thing Wednesday morning and the
+medical team jumped into high gear, taking bloodwork, and setting up
+various tests (Tina joined us mid-morning). By the end of the day it was
+confirmed that Sam had fluid pressing on his heart -- a [Pericardial
 Effusion](https://www.healthlinkbc.ca/pericardial-effusion-0). By that
 point in the day Sam's pain and nausea were under control (IV meds were
 far more effective than what I had available), and it was determined to
-admit Sam to hospital and reevaluate in the morning. 
+admit Sam to hospital and reevaluate in the morning.
+
 <!-- That evening Sam's
 prayer was that his heart rate would decrease enough that physical
 draining for the fluid would not be necessary. -->
 
-Wednesday morning things were looking great! Sam's heart rate continued
-to trend downward towards normal levels. It seemed surgical intervention would not
-be needed and we would spend a further 24-hours in hospital for
-observation. So many parts of this journey have involved swings.
-Thursday morning we returned to chaos and uncertainty. Sam's heart rate
-had been trending towards normal most of the night but sometime in the
-early morning it started building again - returning to significantly
-elevated levels.
+Thursday morning things were looking great! Sam's heart rate continued
+to trend downward towards normal levels. It seemed surgical intervention
+would not be needed and we would spend a further 24-hours in hospital
+for observation. During this evening, it was a great comfort to have
+Dave and Krista C. visit.
+
+So many parts of this journey have involved swings. Friday morning we
+returned to chaos and uncertainty. Sam's heart rate had been trending
+towards normal most of the night but sometime in the early morning it
+started building again - returning to significantly elevated levels.
 
 ## Surgery & Intensive Care
 
-As I finish writing this post the three of us are in the intensive care. The day has been very intense but we are now in a good place.  Mid-afternoon, the medical team decided that it would safest for Sam to go
-forward with a surgery to remove the fluid from his around his heart. By 6:00pm he
-was in the OR where the doctors pieced through Sam's upper abdomen and
-then through pericardial sack to install a temporary drain. The surgery
-went as planned without any complications. 
+As I finish writing this post the three of us are in the intensive care.
+The day has been very intense but we are now in a good place.
+Mid-afternoon, the medical team decided that it would be safest for Sam
+to go forward with a surgery to remove the fluid from his around his
+heart. By 6:00pm he was in the OR where the doctors pierced through
+Sam's upper abdomen and then through the pericardial sac to install a
+temporary drain. The surgery went as planned without any complications –
+a litre of excess fluid was drained from around Sam's heart. It was good
+to have Uncle Cal with us in the anxious waiting.
 
-Sam is a champion. He did the
-whole surgery under light anesthetic -- meaning he was awake and aware of 
-what was was happening. Apparently he chatted with one of the doctors through the whole procedure
-reflecting on how great his time at Ness Lake Bible Camp had been.  
+Sam is a champion. He did the whole surgery under light anaesthetic --
+meaning he was awake and aware of what was was happening. Apparently he
+chatted with one of the doctors through the whole procedure reflecting
+on how great his time at Ness Lake Bible Camp had been.
 
-He is now in the ICU for observation.  He is happy, his vitals are much 
-improved, and he is looking forward to playing games with us and his 
-nurse this evening. 
+He is now in the ICU for observation. He is happy, his vitals are much
+improved, and he is looking forward to playing games with us and his
+nurse this evening.
 
 <!-- 
 -   liver numbers 
@@ -165,14 +178,14 @@ nurse this evening.
 ## Victories and concerns
 
 -   Sam had fluid around his heart – a [pericardial
-    effusion](https://www.healthlinkbc.ca/pericardial-effusion-0). We are 
-    thankful that the surgery to drain all of the extra fluid went well. 
-    Sam's vitals are much improved. 
+    effusion](https://www.healthlinkbc.ca/pericardial-effusion-0). We
+    are thankful that the surgery to drain all of the extra fluid went
+    well. Sam's vitals are much improved.
 
 -   We are celebrate the success of Sam's stent surgery (see
-    [here](./posts/2408/2024-08-16_surgery-celebration.qmd)). The outcome was far
-    better than we had hoped for resulting in a return to near-normal
-    blood-flow!
+    [here](./posts/2408/2024-08-16_surgery-celebration.qmd)). The
+    outcome was far better than we had hoped for resulting in a return
+    to near-normal blood-flow!
 
 -   The cancer has grown and the impacts of the disease are threatening
     Sam's vascular system and thereby his life.
@@ -213,7 +226,6 @@ nurse this evening.
     through this journey.
 
 -   We long for the day when Sam is free of this disease.
-
 
 ------------------------------------------------------------------------
 
