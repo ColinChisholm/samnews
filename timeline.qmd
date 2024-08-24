@@ -1,6 +1,6 @@
 ---
 title: Milestones
-date-modified: 2024-08-07
+date-modified: 2024-08-23
 tbl-colwidths: [25,75]
 editor: 
   markdown: 
@@ -141,8 +141,7 @@ Below is a review of the major milestones.
 +-----------------------+--------------------------------------------------------------------------+
 | August 2 & 6          | A PET scan was completed on August 2. Results were not available until   |
 |                       | August 6.\                                                               |
-|                       | PET results indicated significant growth of the cancerous mass. This     |
-|                       | irregular heterogenus mass has an average cross section of \~7.5cm. A    |
+|                       | PET results indicated significant growth of the cancerous mass. A        |
 |                       | further contrast CT was completed on August 6^th^ to evaluate how the    |
 |                       | mass was impacting the heart and general bloodflow. The disease has now  |
 |                       | resulted in blockage of both the left and right [brachiocephalic         |
@@ -152,3 +151,20 @@ Below is a review of the major milestones.
 |                       | been raised that disease impacts are beginning to restrict flow in the   |
 |                       | [superior vena cava](https://en.wikipedia.org/wiki/Superior_vena_cava).  |
 +-----------------------+--------------------------------------------------------------------------+
+| August 15             | Stent Surgery\                                                           |
+|                       | The interventional radiology team was able to restore blood-flow through |
+|                       | Sam's left brachiocephalic vein and install a 10mm x 80mm stent to       |
+|                       | ensure that the flow remained open (see: [A Surgery to                   |
+|                       | Celebrate!](./posts/2408/2024-08-16_surgery-celebration.html))           |
++-----------------------+--------------------------------------------------------------------------+
+| August 21 & 23        | Pericardial Effusion\                                                    |
+|                       | Went into clinic on the 21^st^ Sam's resting heart rate was 120 bpm.     |
+|                       | Tests identified a significant amount of fluid around Sam's heart (i.e.  |
+|                       | in the pericardial sack) – enough to limit heart function.               |
+|                       |                                                                          |
+|                       | On the 23^rd^, following a day of deliberation the team moved forward    |
+|                       | with a surgery to piece the pericardial sack an drain off all the extra  |
+|                       | fluid.                                                                   |
++-----------------------+--------------------------------------------------------------------------+
+
+<!-- Additional detail:August 2 & 6This irregular heterogenus mass has an average cross section of \~7.5cm. -->

@@ -1,59 +1,63 @@
 ---
-title: "Cancer journey updates"
-# author: Colin C.
-listing:
-  contents: posts
-  filter-ui: false
-  fields: [image, date, title, author, categories, description]
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
-  page-size: 10
+title: "Highs, Lows, and Another Surgery"
+description: "Sam is back in hospital as we are managing the latest scare."
+author: Colin C.
+date: 2024-08-23
+# date-modified: 2024-08-18
+categories: [regular]
+image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-08-18_driven-project-selfie.jpg
+lightbox: true
+draft: false
+editor: 
+  markdown: 
+    wrap: 72
 knitr: 
   opts_chunk: 
     eval: true
     message: false
     warning: false
     echo: false
-editor: 
-  markdown: 
-    wrap: 72
 ---
 
-::::: {layout="[70, 30]"}
-::: {.callout-important icon="false"}
-## What we need
+<!-- 
+Since last post 
+15: note: Nana Mary stayed the night at RMH while Sam and I were at hospital 
+16: Friday -- left the hospital.  Cal, Chris, Jane were here.  
+17: Sat -- a quiet day at the RMH
+18: Sun: Driven Project 
+19: Mon: Clinic: liver numbers spiked.  Strategy Games and Hobbies -- Tau empire for Sam    
+20: Tues: Clinic again: liver numbers had levelled off but still too high for Nivo.
+    That evening we went to the Frickers.  In particular Sam was feeling pretty good
+    and was able to engage with family. 
+    Sam and I returned to RMH.  Had a nice evening getting to bed just after mid-night. 
+    Through the night Sam's pain and nausea were high and difficult to manage 
+    Together we decided to go to clinic first thing in the morning.
 
-In this intense time we need:
+    A precious conversation with Sam.  First at the Frickers (when he had been resting downstairs), and then on the drive back to RMH. Sam admitted his fears that current pains could be related to the progression of the cancer. It was so good / important to have an honest talk.  I discussed with him that this was a logical possibility and that I shared these fears.  I thanked him for sharing.  Despite this, and given that we have no control, we chose not to be anxious about it, to choose courage.  To choose hope.  To trust that no matter what God has him -- though I know that Sam trusts God better than I do right now.  
 
--   You to come close to us. We need to know you are with us.
-    Practically speaking send us your notes of love and encouragement.\
-    Don't think that we are getting too many messages. We might not have
-    capacity to respond but we will read them all.
--   In the face of fear choose courage. We are. Sam certainly is.
--   Encourage Sam's friends to reach out to him. Send him notes and
-    pictures. They can likely find him on SnapChat. Many thanks to those
-    that do!
-:::
+*pain had been challenging most evening starting Sunday evening -- initially attributed to higher 
+output associated with the Driven Project Activities. Pain management was dominantly use of break-thru
+morphine. We were also PEG'ing twice daily to manage constipation but we had not been too concerned as Sam was able to pass small amounts*
 
-::: {.callout-tip appearance="minimal" icon="false"}
-For an overview of this journey see the [timeline](./timeline.html).
+21: Wed:  To clinic 
+    The team jump into action seeing Sam's pain and nausea.  Resting heart rate of 130
+    following immediate interventions of IV ondansetron and some other med reduce reflux pain HR settled to 120.
+    Numerous tests.  The most telling of which was the echocardiogram which showed a 
+    significant pericardial effusion (fluid around the heart).  Cardiology team were a little 
+    stunned to find Sam still walking and talking. Plans are in place to re-evaluate and possibly 
+    undergo a procedure to remove the excess fluid from around his heart -- 
+    Pico S. was given to address the secondary issue of constipation. 
+    Onto the ward for observation overnight. 
+    Sam was feeling better through the night.  Resting-HR had reduced further to 90
 
-Don't have our contact information and want to reach us? Use [this
-form](/contact.html). <br />*Note: if you do know how to reach us, use
-our email, or message us (no need to use the form).*
-:::
-:::::
+    In the evening Dave and Krista came by! 
 
-Visitation status: **by appointment only**
-
-------------------------------------------------------------------------
-
-# Highs, Lows and Another Surgery
-
-*August 23, 2024*
+22: Thur:  Sam had a good night.  Resting HR trending to normal now at 85 -- though 
+    still some chest pain. 
+    Cardiac team in for a clinical assessment
+    Tests are completed: Echocardiogram, ECG, CT scan (stent placement)
+    *Procedure or wait it out...?*
+ -->
 
 ::: {.callout-note icon="false"}
 ## TL;DR [Too long didn't read (i.e. the short version)]{.small}
@@ -85,7 +89,7 @@ game.](https://samsstory.s3.ca-central-1.amazonaws.com/2024-08-18_driven-project
 
 This past week started strong. Since my last post Sam was discharged
 following his successful [stent
-surgery](./posts/2408/2024-08-16_surgery-celebration.qmd) (Friday Aug. 16). Through
+surgery](./2024-08-16_surgery-celebration.qmd) (Friday Aug. 16). Through
 the week we had good visits with family and some big and small
 adventures. Saturday (17^th^), Cal, Chris, and Jane were here to visit
 with Tina and I (Sam was not yet up for visitors). Sunday, Sam had a
@@ -143,6 +147,21 @@ He is now in the ICU for observation.  He is happy, his vitals are much
 improved and he is looking forward to playing games with us and his 
 nurse this evening. 
 
+<!-- 
+-   liver numbers 
+-   pain
+-   Unplanned visit to clinic 
+-   Pericardial effusion 
+-   GI issues (as a result of ... now resolving) -->
+<!-- 
+-   privilege to take a take part in the Driven Project. 
+-   Ferrari and Lamborghini 
+-   Stanley Park, Cypress, and ending at BC Place 
+-    -->
+
+<!-- ::: -->
+
+<!-- ::::: -->
 
 ## Victories and concerns
 
@@ -152,7 +171,7 @@ nurse this evening.
     Sam's vitals are much improved. 
 
 -   We are celebrate the success of Sam's stent surgery (see
-    [here](./posts/2408/2024-08-16_surgery-celebration.qmd)). The outcome was far
+    [here](./2024-08-16_surgery-celebration.qmd)). The outcome was far
     better than we had hoped for resulting in a return to near-normal
     blood-flow!
 
@@ -195,51 +214,3 @@ nurse this evening.
     through this journey.
 
 -   We long for the day when Sam is free of this disease.
-
-------------------------------------------------------------------------
-
-# Support
-
-::: callout-important
-## Become a bone marrow donor
-
-[![](https://www.blood.ca/themes/custom/cbs_bootstrap_sass/CBS_Logo_descriptors_RGB-WhiteBG.svg){style="\"max-width:80%"}](https://makeallthedifference.blood.ca/stem-cells-1/)
-
-Sam's life has been saved in part because someone was will to donate
-their bone marrow. Consider becoming a donor. It is easy -- no needles,
-just a cheek swab that you can do yourself.
-
-Register via Canada Blood Services' stem cell donor website:
-
-<https://makeallthedifference.blood.ca/stem-cells-1/>
-
-Perhaps you can save someone's life!
-
-*Note: You need to be between the ages of 17 and 35 to become a donor.*
-:::
-
-## Financial Support
-
-Here we include options to provide financial support including: cancer
-research at the BC Children's Hospital, the Ronald McDonald House,
-Friends of Children (support for families from Northern BC), or to
-support us directly. We have been blown away by the generosity of so
-many. We also love the support provided in words of encouragement.
-Please feel free to [send us notes of encouragement](contact.html). It
-is impossible to thank you all enough.
-
-:::: {.support-container style="background-color: #fff"}
-::: {.support layout-ncol="2" style="background-color: #fff; padding-top:1.4em; padding-right:2em"}
-[![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/donate-button.png)](https://gofund.me/e060f5b6)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/rmdhbc.png)](https://rmhbc.ca)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/friends-of-children.png)](https://www.friendsofchildren.ca)
-:::
-::::
-
-------------------------------------------------------------------------
-
-# Previous Posts

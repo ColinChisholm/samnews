@@ -15,10 +15,14 @@
   text-align: center;
 }
 
-.small{
-  font-size:76%
-}
 
+@media (min-width: 576px) {
+  .float-sm-end{
+    float: right !important;
+    width: 40%;
+    margin-left: 1.2em;
+  }
+}
 
 .box-cc-important{
       border-left: thick solid #2c3e50;
@@ -42,4 +46,10 @@ ul.task-list {
 .quarto-layout-cell figure, .quarto-layout-cell>p {
   margin: 0em;
   margin-block-end: 1em;
+}
+
+
+/* ensure h2 headings clear potential floats  */
+.level2 {
+  clear:both
 }

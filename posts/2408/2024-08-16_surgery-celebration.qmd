@@ -41,7 +41,7 @@ The cancer remains.  We are thrilled to have this victory as this impact of the 
 
 ## Success
 
-::: {#photo .img-float-right}
+::: {#photo .float-sm-end}
 ![Pre-op: Sam is ready to head into the operating room. Colin is
 gowned-up to go in with him -- until they sedate him.](https://samsstory.s3.ca-central-1.amazonaws.com/2024-08-16_preop-stc.jpg)
 :::
