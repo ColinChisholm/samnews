@@ -3,7 +3,7 @@ title: "Devos from Dad"
 subtitle: "Currently working through the book of Acts"
 search: false
 sidebar:
-  contents: auto
+  search: false
 listing:
   contents: 
   - "acts/"

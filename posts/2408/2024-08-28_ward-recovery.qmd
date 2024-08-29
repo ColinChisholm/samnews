@@ -1,62 +1,42 @@
 ---
-title: "Cancer journey updates"
-# author: Colin C.
-listing:
-  contents: posts
-  filter-ui: false
-  fields: [image, date, title, author, categories, description]
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
-  page-size: 10
+title: "Recovery on the Ward"
+description: "We spent the last week on the ward to allow Sam to recover from the fluid removal procedure"
+author: Colin C.
+date: 2024-08-28
+date-modified: 2024-08-29
+categories: [regular]
+# image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-08-18_driven-project-selfie.jpg
+lightbox: true
+draft: false
+editor: 
+  markdown: 
+    wrap: 72
 knitr: 
   opts_chunk: 
     eval: true
     message: false
     warning: false
     echo: false
-editor: 
-  markdown: 
-    wrap: 72
 ---
 
-::::: {layout="[70, 30]"}
-::: {.callout-important icon="false"}
-## What we need
+<!-- 
+Since last post 
 
-In this intense time we need:
+F23: Pericardiocentisis 
+S24: Most of the day in the ICU.  Everything was calm.  Mostly just waiting.  By the end of that evening we had 
+    some concerns regarding how much fluid Sam was retaining.  Nurses Jade (in ICU), and Laura on T8.  Nigel at night.
+D26: Dr. Eva - cardiologist visited.  Again told of how well Sam had done in surgery. How beautiful it had been 
+    to see his heart re-inflate as the pressure came off. Dr. Cathy, Oncologist on call checked on Sam and in discussion with Tina got some lasix going.  Sam had a rough day.  Frickers tried to visit but he was only willing to see Uncle Kev. Finally, at ~6:00 he was willing to take additional pain meds.  This helped for a bit.  Had to push a little harder for additional meds and a Dr. order to increase pain meds to stay ahead of the pain.  Starting overnight Sam'is now at 90/90 m-eslon plus morphine 5mg Q2 (+15mg every 12)... This amount seems to be effective. Pam was on during the day.  Nigel again at night.
+M25: Echo in morning and afternoon.  Cardiology Docs want to leave drain in for the weekend.
+    Afternoon meeting with Dr. Jacob.  Cytology is not back.  Lasix through to reduce fluid
+    Pam during the day, Maddie at night.
+T26: Echo at 8:00am.  Dr. Steven from cardiology, assisted by his fellow, pulled Sam's drain at ~11:00am
+    Dr. Peggy following procedure.  Review of meds.  Keep Sam for observation overnight. More lasix to finalize drying him out. 
+    Rachelle in the day. Lauren in the night
 
--   You to come close to us. We need to know you are with us.
-    Practically speaking send us your notes of love and encouragement.\
-    Don't think that we are getting too many messages. We might not have
-    capacity to respond but we will read them all.
--   In the face of fear choose courage. We are. Sam certainly is.
--   Encourage Sam's friends to reach out to him. Send him notes and
-    pictures. They can likely find him on SnapChat. Many thanks to those
-    that do!
-:::
 
-::: {.callout-tip appearance="minimal" icon="false"}
-For an overview of this journey see the [timeline](./timeline.html).
-
-Don't have our contact information and want to reach us? Use [this
-form](/contact.html). <br />*Note: if you do know how to reach us, use
-our email, or message us (no need to use the form).*
-:::
-:::::
-
-We would like to see people. Please make a plan with us to do so.
-
-Visitation status: **call ahead**.
-
-------------------------------------------------------------------------
-
-# Recovery on the Ward
-
-*August 28, 2024*
-
+NEXT POST: focus on the state of the disease?
+ -->
 
 ::: {.callout-note icon="false"}
 ## TL;DR [Too long didn't read (i.e. the short version)]{.small}
@@ -74,14 +54,14 @@ of us are catching up on some much needed rest.
 :::
 
 I am writing this morning from the hospital. Much of the intensity of
-[last week](./posts/2408/2024-08-23_highs-lows-surgery.qmd) continued. 
-Some relief started yesterday as Sam was able to be disconnected from
+[last week](./2024-08-23_highs-lows-surgery.qmd) continued into this
+week -- until yesterday. Yesterday, Sam was able to be disconnected from
 all the various lines used during this latest hospital stay.
 
 This morning, my heart was filled with joy. It was such a simple thing:
 Sam got up walked to the bathroom and went back to bed falling back into
 a restful sleep. These simple actions were beautiful: they were in
-contrast to how the previous days had been; they represented freedom
+contrast to how the previous days had been; and they represented freedom
 and health for my boy.
 
 ## Looking back
@@ -101,12 +81,12 @@ What is not advertised with surgery is that recovery can take time –
 especially if there are any complications. The first night went well,
 but I think I will attribute that to the drugs that Sam was on.
 
-By Saturday evening Sam was feeling gross/ very uncomfortable. He has
+By Saturday evening Sam was feeling gross/very uncomfortable. He has
 tolerated so much during this journey but he had a hard time with this
 procedure. The worst of it was that he had a wire tube in his chest and
 that the tube was sitting up against his heart. The tube was used to
 continue to drain additional fluid in effort to keep the [pericardial
-effusion](https://www.healthlinkbc.ca/pericardial-effusion-0)
+effusion](https://www.healthlinkbc.ca/pericardial-effusion-0){.lightbox}
 from returning. To complicate his medical picture following the surgery
 his fluid balance ... went off.
 
@@ -191,7 +171,7 @@ c)  Plans will be made to restart with immune therapy/ treatment of the
     it through again!
 
 -   We are celebrate the success of Sam's stent surgery (see
-    [here](./posts/2408/2024-08-16_surgery-celebration.qmd)). The outcome was far
+    [here](./2024-08-16_surgery-celebration.qmd)). The outcome was far
     better than we had hoped for resulting in a return to near-normal
     blood-flow!
 
@@ -239,51 +219,3 @@ c)  Plans will be made to restart with immune therapy/ treatment of the
     through this journey.
 
 -   We long for the day when Sam is free of this disease.
-
-------------------------------------------------------------------------
-
-# Support
-
-::: callout-important
-## Become a bone marrow donor
-
-[![](https://www.blood.ca/themes/custom/cbs_bootstrap_sass/CBS_Logo_descriptors_RGB-WhiteBG.svg){style="\"max-width:80%"}](https://makeallthedifference.blood.ca/stem-cells-1/)
-
-Sam's life has been saved in part because someone was will to donate
-their bone marrow. Consider becoming a donor. It is easy -- no needles,
-just a cheek swab that you can do yourself.
-
-Register via Canada Blood Services' stem cell donor website:
-
-<https://makeallthedifference.blood.ca/stem-cells-1/>
-
-Perhaps you can save someone's life!
-
-*Note: You need to be between the ages of 17 and 35 to become a donor.*
-:::
-
-## Financial Support
-
-Here we include options to provide financial support including: cancer
-research at the BC Children's Hospital, the Ronald McDonald House,
-Friends of Children (support for families from Northern BC), or to
-support us directly. We have been blown away by the generosity of so
-many. We also love the support provided in words of encouragement.
-Please feel free to [send us notes of encouragement](contact.html). It
-is impossible to thank you all enough.
-
-:::: {.support-container style="background-color: #fff"}
-::: {.support layout-ncol="2" style="background-color: #fff; padding-top:1.4em; padding-right:2em"}
-[![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/donate-button.png)](https://gofund.me/e060f5b6)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/rmdhbc.png)](https://rmhbc.ca)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/friends-of-children.png)](https://www.friendsofchildren.ca)
-:::
-::::
-
-------------------------------------------------------------------------
-
-# Previous Posts
