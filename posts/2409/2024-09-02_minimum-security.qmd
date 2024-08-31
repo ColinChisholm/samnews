@@ -1,0 +1,222 @@
+---
+title: "Minimum Security"
+description: "Life away from the ward. planning for cancer treatment"
+author: Colin C.
+date: 2024-09-02
+# date-modified: 2024-08-29
+categories: [regular]
+# image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-08-18_driven-project-selfie.jpg
+lightbox: true
+draft: false
+editor: 
+  markdown: 
+    wrap: 72
+knitr: 
+  opts_chunk: 
+    eval: true
+    message: false
+    warning: false
+    echo: false
+---
+
+<!-- 
+Since last post: 
+
+POST: focus on the state of the disease?
+
+R29: @RMH. Sam was much more rested and was able to enjoy the day.  Our for ice cream and JJ Bean, Kaboodals
+    I have been able to connect with Landon.  Although a good day Sam powered out by mid-afternoon
+F30: @RMH.  Good connection with Landon as we discuss our kids.  
+    Cardio clinic including echocardiogram 
+    Oncology Clinic: met Dr. Marie-Claude from Canuck.  She suggested that Sam's acid reflux was related to the lack of 
+    space in his chest. Juliana and Jacob were there
+    Sam explained how he was doing.  He did this wearing flicking the ears on his hat from Daniel and Alex -- very funny for all.  Plans: CT scan on Tuesday. Hope to proceed with Nivolumab on Wednesday.
+    Back to RMH.  A relaxed day.  Sam had great energy for the am and clinic but ran out of power for the pm.  Lots of tv and some video games in the afternoon. Sam and I watched Alone.  Later evening Sam had more energy. ... I was done by this point and fell to sleep.
+    Tina had a hard evening missing connections/ her people.
+S31: 
+
+
+
+ -->
+
+::: {.callout-note icon="false"}
+## TL;DR [Too long didn't read (i.e. the short version)]{.small}
+
+-   Recovery from this latest surgery had its challenges
+-   Sam is doing well now and we are hoping to return to RMH by the end
+    of the day
+:::
+
+::: {.callout-note icon="false"}
+## August 29 Update
+
+Sam was discharged on yesterday. We are back at the RMH where all three
+of us are catching up on some much needed rest.
+:::
+
+I am writing this morning from the hospital. Much of the intensity of
+[last week](./2024-08-23_highs-lows-surgery.qmd) continued. 
+Some relief started yesterday as Sam was able to be disconnected from
+all the various lines used during this latest hospital stay.
+
+This morning, my heart was filled with joy. It was such a simple thing:
+Sam got up walked to the bathroom and went back to bed falling back into
+a restful sleep. These simple actions were beautiful: they were in
+contrast to how the previous days had been; they represented freedom
+and health for my boy.
+
+## Looking back
+
+It is hard to believe that it is only day five since Sam had his latest
+surgery. Time has moved very slowly as Sam has had to endure new pains,
+discomforts, and continuous testing.
+
+I am so glad that Sam had the surgery to remove the excess fluid from
+around his heart
+([pericardiocentesis](https://www.healthlinkbc.ca/tests-treatments-medications/medical-tests/pericardial-drainage)).
+Once again the amazing staff at [BC Children's
+Hospital](http://www.bcchildrens.ca) have saved Sam's life and we cannot
+thank them enough.
+
+What is not advertised with surgery is that recovery can take time –
+especially if there are any complications. The first night went well,
+but I think I will attribute that to the drugs that Sam was on.
+
+By Saturday evening Sam was feeling gross/ very uncomfortable. He has
+tolerated so much during this journey but he had a hard time with this
+procedure. The worst of it was that he had a wire tube in his chest and
+that the tube was sitting up against his heart. The tube was used to
+continue to drain additional fluid in effort to keep the [pericardial
+effusion](https://www.healthlinkbc.ca/pericardial-effusion-0)
+from returning. To complicate his medical picture following the surgery
+his fluid balance ... went off.
+
+This meant that he was swollen and puffy (e.g. swollen ankles and
+elbows). This was unexpected. Why this happened did not matter as much
+as the management of the issue -- the team again did a great job of
+bringing his fluid balance back to normal (using IV medications).
+
+::: callout-tip
+## Parent advocacy
+
+It is very important to advocate for your child! The medical teams works
+hard trying to solve issues that they are seeing. As parents we see the
+big picture. We know what is normal for Sam and when things are not
+normal.
+
+In particular, during this past week when it was Tina that drew
+attention to various symptoms that Sam was facing and requested
+appropriate intervention (i.e. suggesting the echocardiogram that
+identified the fluid buildup, and needed fluid management post surgery).
+Tina is awesome!
+:::
+
+Each day following the surgery Sam would have one and sometimes two
+echocardiograms (a specialized ultrasound of the heart) to monitor how
+the fluid around his heart was resolving.
+
+### Freedom
+
+Yesterday, metrics of healing were strong enough that Sam could be
+disconnected[^1]. The drainage wire was pulled from his chest the hole
+was lightly bandaged. The wire was about 5 inches long with at least 1.5
+inches were set against the side of his heart – no wonder Sam had been
+in such discomfort.
+
+[^1]: metrics included: low discharge volume from drain the prior 12 and
+    24 hours, and results of an echocardiogram highlighting very little
+    fluid still trapped in the area.
+
+In addition, by the end of the day his fluid balance was looking much
+improved and he able to be disconnected from the IV pole overnight.
+
+### Support of family and friends
+
+Our families have been here to support us. The Fricker family was here
+on Sunday. Nana has been staying at the RMH while Tina and I have been
+staying in-hospital with Sam. Uncle Dave and Aunt Ruth were able to see
+Sam yesterday, and Uncle Tom along with Daniel and Alex have been able
+to have a couple visits.
+
+<!-- New friends Jenn an Eamonn brought RMH dinners to us. -->
+
+We have received numerous messages from friends letting us know that
+they continue to care for us. Thank you all for your continued support.
+We can't imagine doing this without it.
+
+## Looking forward
+
+It is not clear what all of our next steps are. The past couple of weeks
+have focused on very acute issues (i.e. stent surgery and pericardial
+fluid drainage). Though the cancer is likely involved in both of these
+it was not the focus of treatment.
+
+In the days ahead I expect:
+
+a)  That Sam will be discharged and able to return to the Ronald
+    McDonald House and that we will need to stay close to the hospital.
+
+b)  We will have clinic visits to monitor Sam's post surgery progress.
+
+c)  Plans will be made to restart with immune therapy/ treatment of the
+    cancer.
+
+## Victories and concerns
+
+-   I think it is fair to say that we are all exhausted -- physically, emotionally, spiritually.
+
+-   Sam had fluid around his heart – a [pericardial
+    effusion](https://www.healthlinkbc.ca/pericardial-effusion-0). We
+    are thankful that the surgery to drain all of the extra fluid went
+    well. Recovery from this procedure was challenging but Sam has made
+    it through again!
+
+-   We are celebrate the success of Sam's stent surgery (see
+    [here](./2024-08-16_surgery-celebration.qmd)). The outcome was far
+    better than we had hoped for resulting in a return to near-normal
+    blood-flow!
+
+-   The cancer has grown (based on August 2^nd^ PET scan) and the
+    ~~impacts of the disease are threatening Sam's vascular system and
+    thereby his life~~ (stent surgery resolved the acute issue).
+
+-   Sam's dosage of Nivolumab will be delayed until his heart issue is
+    resolved.\
+    Sam is on higher levels of Nivolumab. Side effects of this
+    medication include fatigue and agitation of the liver. In the past
+    we were not able to use this drug for numerous weeks due to liver
+    inflammation. Current support medications are being used to reduce
+    negative side effects.
+
+-   To date, the medicines and interventions that have been tried have
+    not had any significant or lasting effect at controlling this
+    disease. We need something that will work. We need a miracle.
+
+-   It was amazing to see Sam join the [Ness Lake Bible
+    Camp](https://www.nesslakebiblecamp.com) team (July 28 - 31) . He
+    served, ran, talked, played -- he got to be fully there! Many thanks
+    to the NLBC team who welcomed him in. When Sam needs to think of a
+    happy place he returns here in his mind and he is quick to share
+    stories of these days.
+
+-   We are thankful to the medical team here at [BC Childrens'
+    Hospital](http://www.bcchildrens.ca) who have explained things
+    incredibly well and who have worked professionally and confidently.
+    Your clear communication, compassion, and medical care give us great
+    confidence.
+
+-   We are thankful for the gift of a place to stay so close to where
+    Sam is receiving his care. The [Ronald McDonald House
+    (RMH)](https://rmhbc.ca) has provided us a home away from home. This
+    place is an amazing example of charity at work.
+
+-   Thankful for friends who have chosen to meet regularly to pray for
+    Sam (we are also thankful for everyone praying for Sam whereever you
+    are). If you would like to join them talk with Beth H., Krista C.,
+    or contact the [Westwood Church](https://westwoodchurch.bc.ca)
+    office.
+
+-   Thankful for such supportive family and friends caring for us all
+    through this journey.
+
+-   We long for the day when Sam is free of this disease.
