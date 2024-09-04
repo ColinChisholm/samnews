@@ -53,159 +53,163 @@ Visitation status: **call ahead**.
 
 ------------------------------------------------------------------------
 
-# Recovery on the Ward
+# Fight On
 
-*August 28, 2024*
-
+*September 4, 2024*
 
 ::: {.callout-note icon="false"}
 ## TL;DR [Too long didn't read (i.e. the short version)]{.small}
 
--   Recovery from this latest surgery had its challenges
--   Sam is doing well now and we are hoping to return to RMH by the end
-    of the day
+-   The fight continues
+-   The cancer has grown ... some.
+-   Sam remains courageous and is enjoying life!
 :::
+
+::: {#photo}
+![Sam has been enjoying getting away from the hospital campus. Some new
+favourite treats have been found at the Breka Bakery and Cafe on Main
+St. (selfie-photo by Sam taken yesterday
+morning).](https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-04_family-breka-cafe.jpg)
+:::
+
+## Scan results {style="clear:none"}
+
+Once again the cancer has grown but we are still fighting. Tina captured
+it really well in her text to some friends and family yesterday evening.
 
 ::: {.callout-note icon="false"}
-## August 29 Update
+## Tina's text to friends and family (Sept. 9, 2024)
 
-Sam was discharged on yesterday. We are back at the RMH where all three
-of us are catching up on some much needed rest.
+> Thank you for your love and prayers. I am sending a message I sent
+> Shan recently (to avoid a lengthy rewrite) It is not necessarily
+> edited and may feel raw?! But you need to have an update about what's
+> happening. We are still fighting so we praise God for this chance
+> 🙌🙌🙌
+>
+> We were in clinic until about 5:30pm then had dinner together …. The
+> CT scan showed that the cancer has grown. Thankfully, however, it has
+> not grown so much that our Dr won’t offer treatment. We had a long
+> serious discussion with Dr Jacob about proceeding with more
+> immunotherapy considering the potential (fatal) risks. It was actually
+> an amazing discussion. Sam showed such courage and strength and
+> honesty that Jacob (and our nurse clinician Julianna) were amazed and
+> almost in tears. Sam said that he would rather die quickly trying to
+> fight the cancer than giving up treatment and suffering slowly. Colin
+> and I are also in agreement with this statement. So Sam will have
+> immunotherapy again tomorrow morning (unless there is something really
+> off with the bloodwork) with the understanding that we have to stay
+> very close to the hospital and have frequent monitoring for the next
+> while (week and a half?). We are also going to go up on one of Sam’s
+> pills (trying to reach therapeutic levels of that medicine) (that in
+> theory - only in controlled experiments - may be shown to help fight
+> cancer). So it has been stressful and heavy again but Sam is
+> courageous and we continue to go forward in faith together …. Also
+> believing this continues to be the next reasonable thing to do. Sam
+> continues to choose joy and wants to have an evening of the three of
+> us just being together doing things. We really really value your
+> prayers and presence with us on this journey. It is extremely
+> important to us and we are so grateful for your love and care ❤️
 :::
 
-I am writing this morning from the hospital. Much of the intensity of
-[last week](./posts/2408/2024-08-23_highs-lows-surgery.qmd) continued. 
-Some relief started yesterday as Sam was able to be disconnected from
-all the various lines used during this latest hospital stay.
+### Treatment review
 
-This morning, my heart was filled with joy. It was such a simple thing:
-Sam got up walked to the bathroom and went back to bed falling back into
-a restful sleep. These simple actions were beautiful: they were in
-contrast to how the previous days had been; they represented freedom
-and health for my boy.
+If you have been following Sam's story you know that in the current
+chapter of immunotherapy (i.e. post-chemotherapy,
+post-bone-marrow-transplant, post-radiation) the use of the drug
+Nivolumab has been challenging:
 
-## Looking back
+-   When it was first given at the end of February Sam's liver became
+    inflamed and it took a couple months before he was able to use it
+    again. During this period the cancer grew.
 
-It is hard to believe that it is only day five since Sam had his latest
-surgery. Time has moved very slowly as Sam has had to endure new pains,
-discomforts, and continuous testing.
+-   Sam restarted Nivolumab in June paired with another drug,
+    Ruxolitinib, to control side effects. Sam's body tolerated this well
+    but dosing was likely below therapeutic levels. At the beginning of
+    August scans demonstrated that the cancer had continued to grow.
 
-I am so glad that Sam had the surgery to remove the excess fluid from
-around his heart
-([pericardiocentesis](https://www.healthlinkbc.ca/tests-treatments-medications/medical-tests/pericardial-drainage)).
-Once again the amazing staff at [BC Children's
-Hospital](http://www.bcchildrens.ca) have saved Sam's life and we cannot
-thank them enough.
+-   In the first week of August Sam received a single dose of Nivolumab
+    at what was believed to be a therapeutic level. However, by this
+    time the cancer was having impacts on Sam's heart. In the weeks
+    following Sam had two surgeries. The first re-opened a major vein
+    returning blood from much of Sam's upper body to his heart. The
+    second was in response to a pericardial effusion that threatened his
+    life. It is not clear to the medical team what exactly caused the
+    effusion but Nivolumab and its inflammatory properties is suspect.
+    Therefore the Doctors are hesitant to offer this treatment without
+    us understanding this very real risk of reoccurance. Meanwhile, the
+    use of Nivolumab had not been possible in the weeks following these
+    surgeries – his body needed time to heal.
 
-What is not advertised with surgery is that recovery can take time –
-especially if there are any complications. The first night went well,
-but I think I will attribute that to the drugs that Sam was on.
+-   Yesterday's scan showed growth of the cancer. However, the change in
+    tumour size is less than expected. It is plausible that the single
+    therapeutic dose of Nivolumab, received at the beginning of August,
+    had controlled the cancer for some of the time. So we press on with
+    treatment – understanding the potential side-effects. In our minds
+    this is a better choice than simply allowing the cancer to kill Sam.
 
-By Saturday evening Sam was feeling gross/ very uncomfortable. He has
-tolerated so much during this journey but he had a hard time with this
-procedure. The worst of it was that he had a wire tube in his chest and
-that the tube was sitting up against his heart. The tube was used to
-continue to drain additional fluid in effort to keep the [pericardial
-effusion](https://www.healthlinkbc.ca/pericardial-effusion-0)
-from returning. To complicate his medical picture following the surgery
-his fluid balance ... went off.
+## Looking back (the past week)
 
-This meant that he was swollen and puffy (e.g. swollen ankles and
-elbows). This was unexpected. Why this happened did not matter as much
-as the management of the issue -- the team again did a great job of
-bringing his fluid balance back to normal (using IV medications).
+This past week Sam was discharged following his surgeries. Sam has
+enjoyed numerous visits with friends and family.
 
-::: callout-tip
-## Parent advocacy
+-   Brian, Beth and David were here Saturday
+-   Uncle Cal, Aunt Tricia, and cousins Chris and Jane were here Sunday
+-   Nana Mary, Uncle Kevin, Aunt Shannon, cousins Kelsey and Kaden were
+    here Monday
 
-It is very important to advocate for your child! The medical teams works
-hard trying to solve issues that they are seeing. As parents we see the
-big picture. We know what is normal for Sam and when things are not
-normal.
+Sam has also enjoyed connecting with friends online through games and
+social media.
 
-In particular, during this past week when it was Tina that drew
-attention to various symptoms that Sam was facing and requested
-appropriate intervention (i.e. suggesting the echocardiogram that
-identified the fluid buildup, and needed fluid management post surgery).
-Tina is awesome!
-:::
+<!-- The only downside to all of this activity is that Sam's greatest
+physical pains are likely related to all of his activity -- muscles and
+joints have ached in the evenings and sometimes through the night. -->
 
-Each day following the surgery Sam would have one and sometimes two
-echocardiograms (a specialized ultrasound of the heart) to monitor how
-the fluid around his heart was resolving.
+## What Sam wants – looking ahead
 
-### Freedom
+> "There is so much I want to do, Dad." <!-- [^1]! -->
 
-Yesterday, metrics of healing were strong enough that Sam could be
-disconnected[^1]. The drainage wire was pulled from his chest the hole
-was lightly bandaged. The wire was about 5 inches long with at least 1.5
-inches were set against the side of his heart – no wonder Sam had been
-in such discomfort.
+<!-- [^1]: It was the middle of the night when he said this. I am not even -->
 
-[^1]: metrics included: low discharge volume from drain the prior 12 and
-    24 hours, and results of an echocardiogram highlighting very little
-    fluid still trapped in the area.
+<!-- sure if he was conscious when he said it. -->
 
-In addition, by the end of the day his fluid balance was looking much
-improved and he able to be disconnected from the IV pole overnight.
-
-### Support of family and friends
-
-Our families have been here to support us. The Fricker family was here
-on Sunday. Nana has been staying at the RMH while Tina and I have been
-staying in-hospital with Sam. Uncle Dave and Aunt Ruth were able to see
-Sam yesterday, and Uncle Tom along with Daniel and Alex have been able
-to have a couple visits.
-
-<!-- New friends Jenn an Eamonn brought RMH dinners to us. -->
-
-We have received numerous messages from friends letting us know that
-they continue to care for us. Thank you all for your continued support.
-We can't imagine doing this without it.
-
-## Looking forward
-
-It is not clear what all of our next steps are. The past couple of weeks
-have focused on very acute issues (i.e. stent surgery and pericardial
-fluid drainage). Though the cancer is likely involved in both of these
-it was not the focus of treatment.
-
-In the days ahead I expect:
-
-a)  That Sam will be discharged and able to return to the Ronald
-    McDonald House and that we will need to stay close to the hospital.
-
-b)  We will have clinic visits to monitor Sam's post surgery progress.
-
-c)  Plans will be made to restart with immune therapy/ treatment of the
-    cancer.
+1.  To continue treatment – we are expecting that he will receive his
+    next dose of Nivolumab later today.
+2.  Sam is excited about the start of school and re-engaging with his
+    classmates and academics at [Cedars](https://cedars.bc.ca). He wants
+    to try to get going with his studies. He is hoping to take World
+    History, Christian Perspectives, Math, and Chemistry.
+3.  For years Sam has been looking forward to grade 11 and the [YWAM
+    Urban Plunge](https://www.ywamvancouver.org/mission-adventures) that
+    the Cedars students take. Sam will not be able to travel from Prince
+    George with his class but he is looking forward to meeting them here
+    and joining in on the activities (that our Doctor must review and
+    approve!) and serving the people of East Vancouver.
 
 ## Victories and concerns
 
--   I think it is fair to say that we are all exhausted -- physically, emotionally, spiritually.
+-   The cancer has grown (as of Sept. 3 CT scan).
 
--   Sam had fluid around his heart – a [pericardial
+-   Sam is looking to fight on despite continued growth of the cancer.
+    He will continue with his immunotherapy -- have another dose of
+    Nivolumab. It is our hope that 1) The therapy will be effective,
+    and 2) That there will be no further complications that could
+    restrict the use of the drug.
+
+-   Our energy levels, or lack of energy, come in waves. Sometimes the
+    waves are strong enough to knock you over. We need strength for this
+    journey.
+
+-   Sam's heart is healthy and strong despite having had fluid around
+    his heart – a [pericardial
     effusion](https://www.healthlinkbc.ca/pericardial-effusion-0). We
     are thankful that the surgery to drain all of the extra fluid went
     well. Recovery from this procedure was challenging but Sam has made
     it through again!
 
--   We are celebrate the success of Sam's stent surgery (see
-    [here](./posts/2408/2024-08-16_surgery-celebration.qmd)). The outcome was far
-    better than we had hoped for resulting in a return to near-normal
-    blood-flow!
-
--   The cancer has grown (based on August 2^nd^ PET scan) and the
-    ~~impacts of the disease are threatening Sam's vascular system and
-    thereby his life~~ (stent surgery resolved the acute issue).
-
--   Sam's dosage of Nivolumab will be delayed until his heart issue is
-    resolved.\
-    Sam is on higher levels of Nivolumab. Side effects of this
-    medication include fatigue and agitation of the liver. In the past
-    we were not able to use this drug for numerous weeks due to liver
-    inflammation. Current support medications are being used to reduce
-    negative side effects.
+-   We are celebrating the success of Sam's stent surgery (see
+    [here](/posts/2408/2024-08-16_surgery-celebration.qmd)). The outcome
+    was far better than we had hoped for resulting in a return to
+    near-normal blood-flow! (for that particular major vein)
 
 -   To date, the medicines and interventions that have been tried have
     not had any significant or lasting effect at controlling this
@@ -222,15 +226,15 @@ c)  Plans will be made to restart with immune therapy/ treatment of the
     Hospital](http://www.bcchildrens.ca) who have explained things
     incredibly well and who have worked professionally and confidently.
     Your clear communication, compassion, and medical care give us great
-    confidence.
+    confidence. Sam has never lacked for incredible care.
 
--   We are thankful for the gift of a place to stay so close to where
-    Sam is receiving his care. The [Ronald McDonald House
-    (RMH)](https://rmhbc.ca) has provided us a home away from home. This
-    place is an amazing example of charity at work.
+-   We are thankful for the gift of a place to stay so close to the
+    hospital. The [Ronald McDonald House (RMH)](https://rmhbc.ca) has
+    provided us a home away from home. This place is an amazing example
+    of charity at work.
 
 -   Thankful for friends who have chosen to meet regularly to pray for
-    Sam (we are also thankful for everyone praying for Sam whereever you
+    Sam (we are also thankful for everyone praying for Sam wherever you
     are). If you would like to join them talk with Beth H., Krista C.,
     or contact the [Westwood Church](https://westwoodchurch.bc.ca)
     office.

@@ -7,7 +7,7 @@ date: 2024-09-04
 categories: [regular, results]
 image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-04_family-breka-cafe.jpg
 lightbox: true
-draft: true
+draft: false
 draft-mode: unlinked
 editor: 
   markdown: 
@@ -104,7 +104,8 @@ What Sam wants -- to share of the love and hope he has in Jesus. "Pain is tempor
 ::: {#photo}
 ![Sam has been enjoying getting away from the hospital campus. Some new
 favourite treats have been found at the Breka Bakery and Cafe on Main
-St.](https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-04_family-breka-cafe.jpg)
+St. (selfie-photo by Sam taken yesterday
+morning).](https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-04_family-breka-cafe.jpg)
 :::
 
 ## Scan results {style="clear:none"}
@@ -141,10 +142,9 @@ it really well in her text to some friends and family yesterday evening.
 > courageous and we continue to go forward in faith together …. Also
 > believing this continues to be the next reasonable thing to do. Sam
 > continues to choose joy and wants to have an evening of the three of
-> us just being together doing things (so I might not be available for a
-> call until tomorrow …) We really really value your prayers and
-> presence with us on this journey. It is extremely important to us and
-> we are so grateful for your love and care ❤️
+> us just being together doing things. We really really value your
+> prayers and presence with us on this journey. It is extremely
+> important to us and we are so grateful for your love and care ❤️
 :::
 
 ### Treatment review
@@ -169,25 +169,29 @@ Nivolumab has been challenging:
     following Sam had two surgeries. The first re-opened a major vein
     returning blood from much of Sam's upper body to his heart. The
     second was in response to a pericardial effusion that threatened his
-    life. The use of Nivolumab had not been possible following these
+    life. It is not clear to the medical team what exactly caused the
+    effusion but Nivolumab and its inflammatory properties is suspect.
+    Therefore the Doctors are hesitant to offer this treatment without
+    us understanding this very real risk of reoccurance. Meanwhile, the
+    use of Nivolumab had not been possible in the weeks following these
     surgeries – his body needed time to heal.
 
 -   Yesterday's scan showed growth of the cancer. However, the change in
     tumour size is less than expected. It is plausible that the single
     therapeutic dose of Nivolumab, received at the beginning of August,
     had controlled the cancer for some of the time. So we press on with
-    treatment – understanding that potential side-effects. In our minds
+    treatment – understanding the potential side-effects. In our minds
     this is a better choice than simply allowing the cancer to kill Sam.
 
 ## Looking back (the past week)
 
-We have week Sam was discharged following his surgeries. Sam has enjoyed
-numerous visits with friends and family.
+This past week Sam was discharged following his surgeries. Sam has
+enjoyed numerous visits with friends and family.
 
 -   Brian, Beth and David were here Saturday
 -   Uncle Cal, Aunt Tricia, and cousins Chris and Jane were here Sunday
 -   Nana Mary, Uncle Kevin, Aunt Shannon, cousins Kelsey and Kaden were
-    here Monday.
+    here Monday
 
 Sam has also enjoyed connecting with friends online through games and
 social media.
@@ -198,24 +202,24 @@ joints have ached in the evenings and sometimes through the night. -->
 
 ## What Sam wants – looking ahead
 
-> There is so much I want to do Dad.
-<!-- [^1]! -->
+> "There is so much I want to do, Dad." <!-- [^1]! -->
 
 <!-- [^1]: It was the middle of the night when he said this. I am not even -->
+
 <!-- sure if he was conscious when he said it. -->
 
 1.  To continue treatment – we are expecting that he will receive his
     next dose of Nivolumab later today.
 2.  Sam is excited about the start of school and re-engaging with his
-    classmates and academics at [Cedars](https://cedars.bc.ca). To get
-    going with his studies. He is hoping to take World History,
-    Christian Perspectives, Math, and Chemistry.
+    classmates and academics at [Cedars](https://cedars.bc.ca). He wants
+    to try to get going with his studies. He is hoping to take World
+    History, Christian Perspectives, Math, and Chemistry.
 3.  For years Sam has been looking forward to grade 11 and the [YWAM
     Urban Plunge](https://www.ywamvancouver.org/mission-adventures) that
     the Cedars students take. Sam will not be able to travel from Prince
     George with his class but he is looking forward to meeting them here
-    and joining in on the activities and serving the people of East
-    Vancouver.
+    and joining in on the activities (that our Doctor must review and
+    approve!) and serving the people of East Vancouver.
 
 ## Victories and concerns
 
@@ -231,17 +235,17 @@ joints have ached in the evenings and sometimes through the night. -->
     waves are strong enough to knock you over. We need strength for this
     journey.
 
--   Sam's heart is healthy and strong. Following having fluid around his
-    heart – a [pericardial
+-   Sam's heart is healthy and strong despite having had fluid around
+    his heart – a [pericardial
     effusion](https://www.healthlinkbc.ca/pericardial-effusion-0). We
     are thankful that the surgery to drain all of the extra fluid went
     well. Recovery from this procedure was challenging but Sam has made
     it through again!
 
--   We are celebrate the success of Sam's stent surgery (see
+-   We are celebrating the success of Sam's stent surgery (see
     [here](/posts/2408/2024-08-16_surgery-celebration.qmd)). The outcome
     was far better than we had hoped for resulting in a return to
-    near-normal blood-flow!
+    near-normal blood-flow! (for that particular major vein)
 
 -   To date, the medicines and interventions that have been tried have
     not had any significant or lasting effect at controlling this
@@ -266,7 +270,7 @@ joints have ached in the evenings and sometimes through the night. -->
     of charity at work.
 
 -   Thankful for friends who have chosen to meet regularly to pray for
-    Sam (we are also thankful for everyone praying for Sam whereever you
+    Sam (we are also thankful for everyone praying for Sam wherever you
     are). If you would like to join them talk with Beth H., Krista C.,
     or contact the [Westwood Church](https://westwoodchurch.bc.ca)
     office.
