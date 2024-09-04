@@ -20,6 +20,7 @@ website:
       - icon: rss
         href: index.xml
     pinned: true
+    draft-mode: unlinked
   page-navigation: false
   # sidebar: 
   #   style: floating

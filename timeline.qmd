@@ -166,5 +166,9 @@ Below is a review of the major milestones.
 |                       | with a surgery to piece the pericardial sack an drain off all the extra  |
 |                       | fluid.                                                                   |
 +-----------------------+--------------------------------------------------------------------------+
+| Sept 3                | CT scan shows that the cancer has grown again.  However, it is           |
+|                       | plausible that the immunotherapy was able to slow the disease before     |
+|                       | delays surgeries                                                         |
++-----------------------+--------------------------------------------------------------------------+
 
-<!-- Additional detail:August 2 & 6This irregular heterogenus mass has an average cross section of \~7.5cm. -->
+<!-- Additional detail:August 2 & 6This irregular heterogeneous mass has an average cross section of \~7.5cm. -->

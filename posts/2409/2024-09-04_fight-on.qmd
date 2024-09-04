@@ -1,0 +1,277 @@
+---
+title: "Fight on"
+description: "The cancer continues to grow but Sam remains courageous and is fighting on."
+author: Colin C. and Tina C.
+date: 2024-09-04
+# date-modified: 2024-08-29
+categories: [regular, results]
+image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-04_family-breka-cafe.jpg
+lightbox: true
+draft: true
+draft-mode: unlinked
+editor: 
+  markdown: 
+    wrap: 72
+knitr: 
+  opts_chunk: 
+    eval: true
+    message: false
+    warning: false
+    echo: false
+---
+
+<!-- 
+Since last post: 
+
+POST: focus on the state of the disease?
+
+R29: @RMH. Sam was much more rested and was able to enjoy the day.  Our for ice cream and JJ Bean, Kaboodals
+    I have been able to connect with Landon.  Although a good day Sam powered out by mid-afternoon
+F30: @RMH.  Good connection with Landon as we discuss our kids.  
+    Cardio clinic including echocardiogram 
+    Oncology Clinic: met Dr. Marie-Claude from Canuck.  She suggested that Sam's acid reflux was related to the lack of 
+    space in his chest. Juliana and Jacob were there
+    Sam explained how he was doing.  He did this wearing flicking the ears on his hat from Daniel and Alex -- very funny for all.  Plans: CT scan on Tuesday. Hope to proceed with Nivolumab on Wednesday.
+    Back to RMH.  A relaxed day.  Sam had great energy for the am and clinic but ran out of power for the pm.  Lots of tv and some video games in the afternoon. Sam and I watched Alone.  Later evening Sam had more energy. ... I was done by this point and fell to sleep.
+    Tina had a hard evening missing connections/ her people.
+S31: Hillhouse family visited: David and Sam talking.  Off to Earnest and Carson's Used Books 
+    Sam is enjoying the show Alone
+    In the night Sam's chest -- specifically upper sternum was hot
+D01: St. John's Anglican Church
+    Paul's Omlettery
+    Townsends visit -- talks and pizza out at Woodfire Pizza (Cal, Tricia, Jane, Chris)
+    ... couldn't believe how much Sam was able to handle! 
+M02: Sam had a rough night with lots of additional meds.  We didn't sleep much.  
+    It seems the activity of the previous days had caught up with him.
+    He rallied by ~3 when the Frickers arrived.  We all had a decent visit (kinda flat)
+    Sam seemed to present adrenal deficit a couple times -- after more food and predisone `.5 hours early
+    he seemed more alert and engaged. 
+    Good evening 
+    Sam gaming online with friends: Ben and John; Julia ad Hadance  
+T03: CT scan in the am -- straight forward
+    Out to Breka Cafe
+    Sam gaming online with friends 
+    @Clinic 
+    Camara and Gaia
+    Review of weekend with Jacob and Juliana
+    *items to discuss (i.e. Dad's paranoid thoughts)*
+    -   Pains -- internal ... itchy on the inside 
+    -   Sam style.  I'm feeling good so therefore I will do a lot 
+    -   Lot's of joint pains 
+    -   Two episodes of what appeared to be adrenal fatigue 
+    -   One evening of sweats 
+    -   Hot in the chest
+    Results:
+    -   slight increase 7.1 x 8.1 x 7.3 previous (7.8 x 7.8 x 6.7 August 22)
+    -   August 14 7.4 x 6.6 by (7.7 x 6.9 previous)
+    -   P. effusion remains small
+    Next Steps:
+    -   Do nothing as it causes high risk
+    -   Give it -- what side effects will we have ... 
+    -   Fear of an acute event. 
+    -   What do you think:
+        -   I would risk an acute event that MAY lead to death rather than no action that WILL lead to death. 
+            (not stated: But no action is a death sentence ...)
+        -   Sam states well similar 
+        -   Tina agrees 
+    -   ALternate therapies -- why we are doing what we are doing ... 
+    -   Sam stop treatments when when it is definitive that the cancer will not win. 
+
+
+W04
+    *QUESTIONS and THOUGHTS*
+    -   The cancer is causing new pain ... elevated pain.  
+        We need options for managing it.  Morphine is not enough and does not hit is fast enough.  
+        Usually come on the evening. 
+    -   This cancer seems to grow in fits and start -- surging.  Is this  known pattern 
+        or is it unique. Or is this an artefact of mixed methods.
+
+
+What a conundrum.  Sam is the healthiest he has been in this journey.  He is able to enjoy life.  He has a thirst for life.  In the early mornings he rolls over and says to me that there is so much that he wants to do (still not sure how conscious he was). He also added ... with you dad!
+
+What Sam wants -- to share of the love and hope he has in Jesus. "Pain is temporary -- hope is eternal."
+
+ -->
+
+::: {.callout-note icon="false"}
+## TL;DR [Too long didn't read (i.e. the short version)]{.small}
+
+-   The fight continues
+-   The cancer has grown ... some.
+-   Sam remains courageous and is enjoying life!
+:::
+
+::: {#photo}
+![Sam has been enjoying getting away from the hospital campus. Some new
+favourite treats have been found at the Breka Bakery and Cafe on Main
+St.](https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-04_family-breka-cafe.jpg)
+:::
+
+## Scan results {style="clear:none"}
+
+Once again the cancer has grown but we are still fighting. Tina captured
+it really well in her text to some friends and family yesterday evening.
+
+::: {.callout-note icon="false"}
+## Tina's text to friends and family (Sept. 9, 2024)
+
+> Thank you for your love and prayers. I am sending a message I sent
+> Shan recently (to avoid a lengthy rewrite) It is not necessarily
+> edited and may feel raw?! But you need to have an update about what's
+> happening. We are still fighting so we praise God for this chance
+> 🙌🙌🙌
+>
+> We were in clinic until about 5:30pm then had dinner together …. The
+> CT scan showed that the cancer has grown. Thankfully, however, it has
+> not grown so much that our Dr won’t offer treatment. We had a long
+> serious discussion with Dr Jacob about proceeding with more
+> immunotherapy considering the potential (fatal) risks. It was actually
+> an amazing discussion. Sam showed such courage and strength and
+> honesty that Jacob (and our nurse clinician Julianna) were amazed and
+> almost in tears. Sam said that he would rather die quickly trying to
+> fight the cancer than giving up treatment and suffering slowly. Colin
+> and I are also in agreement with this statement. So Sam will have
+> immunotherapy again tomorrow morning (unless there is something really
+> off with the bloodwork) with the understanding that we have to stay
+> very close to the hospital and have frequent monitoring for the next
+> while (week and a half?). We are also going to go up on one of Sam’s
+> pills (trying to reach therapeutic levels of that medicine) (that in
+> theory - only in controlled experiments - may be shown to help fight
+> cancer). So it has been stressful and heavy again but Sam is
+> courageous and we continue to go forward in faith together …. Also
+> believing this continues to be the next reasonable thing to do. Sam
+> continues to choose joy and wants to have an evening of the three of
+> us just being together doing things (so I might not be available for a
+> call until tomorrow …) We really really value your prayers and
+> presence with us on this journey. It is extremely important to us and
+> we are so grateful for your love and care ❤️
+:::
+
+### Treatment review
+
+If you have been following Sam's story you know that in the current
+chapter of immunotherapy (i.e. post-chemotherapy,
+post-bone-marrow-transplant, post-radiation) the use of the drug
+Nivolumab has been challenging:
+
+-   When it was first given at the end of February Sam's liver became
+    inflamed and it took a couple months before he was able to use it
+    again. During this period the cancer grew.
+
+-   Sam restarted Nivolumab in June paired with another drug,
+    Ruxolitinib, to control side effects. Sam's body tolerated this well
+    but dosing was likely below therapeutic levels. At the beginning of
+    August scans demonstrated that the cancer had continued to grow.
+
+-   In the first week of August Sam received a single dose of Nivolumab
+    at what was believed to be a therapeutic level. However, by this
+    time the cancer was having impacts on Sam's heart. In the weeks
+    following Sam had two surgeries. The first re-opened a major vein
+    returning blood from much of Sam's upper body to his heart. The
+    second was in response to a pericardial effusion that threatened his
+    life. The use of Nivolumab had not been possible following these
+    surgeries – his body needed time to heal.
+
+-   Yesterday's scan showed growth of the cancer. However, the change in
+    tumour size is less than expected. It is plausible that the single
+    therapeutic dose of Nivolumab, received at the beginning of August,
+    had controlled the cancer for some of the time. So we press on with
+    treatment – understanding that potential side-effects. In our minds
+    this is a better choice than simply allowing the cancer to kill Sam.
+
+## Looking back (the past week)
+
+We have week Sam was discharged following his surgeries. Sam has enjoyed
+numerous visits with friends and family.
+
+-   Brian, Beth and David were here Saturday
+-   Uncle Cal, Aunt Tricia, and cousins Chris and Jane were here Sunday
+-   Nana Mary, Uncle Kevin, Aunt Shannon, cousins Kelsey and Kaden were
+    here Monday.
+
+Sam has also enjoyed connecting with friends online through games and
+social media.
+
+<!-- The only downside to all of this activity is that Sam's greatest
+physical pains are likely related to all of his activity -- muscles and
+joints have ached in the evenings and sometimes through the night. -->
+
+## What Sam wants – looking ahead
+
+> There is so much I want to do Dad.
+<!-- [^1]! -->
+
+<!-- [^1]: It was the middle of the night when he said this. I am not even -->
+<!-- sure if he was conscious when he said it. -->
+
+1.  To continue treatment – we are expecting that he will receive his
+    next dose of Nivolumab later today.
+2.  Sam is excited about the start of school and re-engaging with his
+    classmates and academics at [Cedars](https://cedars.bc.ca). To get
+    going with his studies. He is hoping to take World History,
+    Christian Perspectives, Math, and Chemistry.
+3.  For years Sam has been looking forward to grade 11 and the [YWAM
+    Urban Plunge](https://www.ywamvancouver.org/mission-adventures) that
+    the Cedars students take. Sam will not be able to travel from Prince
+    George with his class but he is looking forward to meeting them here
+    and joining in on the activities and serving the people of East
+    Vancouver.
+
+## Victories and concerns
+
+-   The cancer has grown (as of Sept. 3 CT scan).
+
+-   Sam is looking to fight on despite continued growth of the cancer.
+    He will continue with his immunotherapy -- have another dose of
+    Nivolumab. It is our hope that 1) The therapy will be effective,
+    and 2) That there will be no further complications that could
+    restrict the use of the drug.
+
+-   Our energy levels, or lack of energy, come in waves. Sometimes the
+    waves are strong enough to knock you over. We need strength for this
+    journey.
+
+-   Sam's heart is healthy and strong. Following having fluid around his
+    heart – a [pericardial
+    effusion](https://www.healthlinkbc.ca/pericardial-effusion-0). We
+    are thankful that the surgery to drain all of the extra fluid went
+    well. Recovery from this procedure was challenging but Sam has made
+    it through again!
+
+-   We are celebrate the success of Sam's stent surgery (see
+    [here](/posts/2408/2024-08-16_surgery-celebration.qmd)). The outcome
+    was far better than we had hoped for resulting in a return to
+    near-normal blood-flow!
+
+-   To date, the medicines and interventions that have been tried have
+    not had any significant or lasting effect at controlling this
+    disease. We need something that will work. We need a miracle.
+
+-   It was amazing to see Sam join the [Ness Lake Bible
+    Camp](https://www.nesslakebiblecamp.com) team (July 28 - 31) . He
+    served, ran, talked, played -- he got to be fully there! Many thanks
+    to the NLBC team who welcomed him in. When Sam needs to think of a
+    happy place he returns here in his mind and he is quick to share
+    stories of these days.
+
+-   We are thankful to the medical team here at [BC Childrens'
+    Hospital](http://www.bcchildrens.ca) who have explained things
+    incredibly well and who have worked professionally and confidently.
+    Your clear communication, compassion, and medical care give us great
+    confidence. Sam has never lacked for incredible care.
+
+-   We are thankful for the gift of a place to stay so close to the
+    hospital. The [Ronald McDonald House (RMH)](https://rmhbc.ca) has
+    provided us a home away from home. This place is an amazing example
+    of charity at work.
+
+-   Thankful for friends who have chosen to meet regularly to pray for
+    Sam (we are also thankful for everyone praying for Sam whereever you
+    are). If you would like to join them talk with Beth H., Krista C.,
+    or contact the [Westwood Church](https://westwoodchurch.bc.ca)
+    office.
+
+-   Thankful for such supportive family and friends caring for us all
+    through this journey.
+
+-   We long for the day when Sam is free of this disease.
