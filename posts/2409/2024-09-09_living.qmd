@@ -1,0 +1,128 @@
+---
+title: "Life Together"
+description: "Living with the disease"
+author: Colin C. and Tina C.
+date: 2024-09-09
+# date-modified: 2024-08-29
+categories: [regular, results]
+# image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-04_family-breka-cafe.jpg
+lightbox: true
+draft: false
+draft-mode: unlinked
+editor: 
+  markdown: 
+    wrap: 72
+knitr: 
+  opts_chunk: 
+    eval: true
+    message: false
+    warning: false
+    echo: false
+---
+
+<!-- 
+Since last post: 
+
+W04 Long clinic day (Mahah is Sam's nurse today)
+    - Bloodwork 
+    - Christina played Mario Kart with Sam.  I think he enjoyed teaching as much as playing
+    - Jacob confirms the plan
+    - Nivo started
+  - Sam visits Oakland and encourages him -- Oakland has a BMT scheduled.
+  - Afternoon nap 
+  - Franny, River and Emory arrive 
+  - WhiteSpot in Kits as a family
+R05 A rest day 
+    - Nivo seems to be hitting Sam hard.  ... or is it the disease? 
+      - Sam is sweaty and achy
+      - Tina and I are independently terrified. 
+      - I almost broke standing in line for dinner.  All these families they are all going 
+        through trauma but they still have their children.  How long will I have my boy?
+        Hope seemed lost. 
+    - I ran our to Burnaby to get the next refill of Rux.
+    - During that time Tina and Sam played a video game! Sam had patience to teach Tina and she did it!
+    - Out to Breka. Sam's initiative -- despite how he is feeling.
+    - Dave and Rhoda came and visited.  Sam clicks with them so easily.
+      - pokemon cards
+      - sharing other hobbies (Dave had done them all.)
+    - Night: extra itchy (hydroxyzine), ativan for something ..., Referred pain in back -- disease,
+      another effusion?
+
+ -->
+
+::: {.callout-note icon="false"}
+## TL;DR [Too long didn't read (i.e. the short version)]{.small}
+
+- ADD SUMMARY
+:::
+
+<!-- ::: {#photo}
+![Sam has been enjoying getting away from the hospital campus. Some new
+favourite treats have been found at the Breka Bakery and Cafe on Main
+St. (selfie-photo by Sam taken yesterday
+morning).](https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-04_family-breka-cafe.jpg)
+::: -->
+
+
+ADD POST 
+
+
+
+## Victories and concerns
+
+-   The cancer has grown (as of Sept. 3 CT scan).
+
+-   Sam is looking to fight on despite continued growth of the cancer.
+    He will continue with his immunotherapy -- have another dose of
+    Nivolumab. It is our hope that 1) The therapy will be effective,
+    and 2) That there will be no further complications that could
+    restrict the use of the drug.
+
+-   Our energy levels, or lack of energy, come in waves. Sometimes the
+    waves are strong enough to knock you over. We need strength for this
+    journey.
+
+-   Sam's heart is healthy and strong despite having had fluid around
+    his heart – a [pericardial
+    effusion](https://www.healthlinkbc.ca/pericardial-effusion-0). We
+    are thankful that the surgery to drain all of the extra fluid went
+    well. Recovery from this procedure was challenging but Sam has made
+    it through again!
+
+-   We are celebrating the success of Sam's stent surgery (see
+    [here](/posts/2408/2024-08-16_surgery-celebration.qmd)). The outcome
+    was far better than we had hoped for resulting in a return to
+    near-normal blood-flow! (for that particular major vein)
+
+-   To date, the medicines and interventions that have been tried have
+    not had any significant or lasting effect at controlling this
+    disease. We need something that will work. We need a miracle.
+
+-   It was amazing to see Sam join the [Ness Lake Bible
+    Camp](https://www.nesslakebiblecamp.com) team (July 28 - 31) . He
+    served, ran, talked, played -- he got to be fully there! Many thanks
+    to the NLBC team who welcomed him in. When Sam needs to think of a
+    happy place he returns here in his mind and he is quick to share
+    stories of these days.
+
+-   We are thankful to the medical team here at [BC Childrens'
+    Hospital](http://www.bcchildrens.ca) who have explained things
+    incredibly well and who have worked professionally and confidently.
+    Your clear communication, compassion, and medical care give us great
+    confidence. Sam has never lacked for incredible care.
+
+-   We are thankful for the gift of a place to stay so close to the
+    hospital. The [Ronald McDonald House (RMH)](https://rmhbc.ca) has
+    provided us a home away from home. This place is an amazing example
+    of charity at work.
+
+-   Thankful for friends who have chosen to meet regularly to pray for
+    Sam (we are also thankful for everyone praying for Sam wherever you
+    are). If you would like to join them talk with Beth H., Krista C.,
+    or contact the [Westwood Church](https://westwoodchurch.bc.ca)
+    office.
+
+-   Thankful for such supportive family and friends caring for us all
+    through this journey.
+
+-   We long for the day when Sam is free of this disease.
