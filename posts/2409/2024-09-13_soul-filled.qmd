@@ -119,7 +119,7 @@ topics.
 ::::: {layout-ncol="2"}
 ::: {#left}
 ![Students explored east and west Vancouver. Sam caught up to them
-mid-day at steam clock in
+mid-day at the steam clock in
 Gastown.](https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-09_cedars-gastown.jpg)
 :::
 
