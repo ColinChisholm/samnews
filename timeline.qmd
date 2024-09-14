@@ -1,6 +1,6 @@
 ---
 title: Milestones
-date-modified: 2024-08-23
+date-modified: 2024-09-13
 tbl-colwidths: [25,75]
 editor: 
   markdown: 
@@ -168,7 +168,8 @@ Below is a review of the major milestones.
 +-----------------------+--------------------------------------------------------------------------+
 | Sept 3                | CT scan shows that the cancer has grown again.  However, it is           |
 |                       | plausible that the immunotherapy was able to slow the disease before     |
-|                       | delays surgeries                                                         |
+|                       | delays as Sam had to recover from his surgeries.                         |
 +-----------------------+--------------------------------------------------------------------------+
-
+| Sept 4                | Continued immunotherapy with the next dose of Nivolumab.                 |
++-----------------------+--------------------------------------------------------------------------+
 <!-- Additional detail:August 2 & 6This irregular heterogeneous mass has an average cross section of \~7.5cm. -->

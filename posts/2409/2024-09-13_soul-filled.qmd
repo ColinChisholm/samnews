@@ -1,62 +1,79 @@
 ---
-title: "Cancer journey updates"
-# author: Colin C.
-listing:
-  contents: posts
-  filter-ui: false
-  fields: [image, date, title, author, categories, description]
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
-  page-size: 10
+title: "Soul Filling"
+description: "We have had an amazing week connecting with Sam's class"
+author: Colin C.
+date: 2024-09-13
+# date-modified: 2024-08-29
+categories: [regular]
+image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars.jpg
+lightbox: true
+draft: false
+draft-mode: unlinked
+editor: 
+  markdown: 
+    wrap: 72
 knitr: 
   opts_chunk: 
     eval: true
     message: false
     warning: false
     echo: false
-editor: 
-  markdown: 
-    wrap: 72
 ---
 
-::::: {layout="[70, 30]"}
-::: {.callout-important icon="false"}
-## What we need
+<!-- 
+Since last post: 
 
-In this intense time we need:
+W04 Long clinic day (Mahah is Sam's nurse today)
+    - Bloodwork 
+    - Christina played Mario Kart with Sam.  I think he enjoyed teaching as much as playing
+    - Jacob confirms the plan
+    - Nivo started
+  - Sam visits Oakland and encourages him -- Oakland has a BMT scheduled.
+  - Afternoon nap 
+  - Franny, River and Emory arrive 
+  - WhiteSpot in Kits as a family
+R05 A rest day 
+    - Nivo seems to be hitting Sam hard.  ... or is it the disease? 
+      - Sam is sweaty and achy
+      - Tina and I are independently terrified. 
+      - I almost broke standing in line for dinner.  All these families they are all going 
+        through trauma but they still have their children.  How long will I have my boy?
+        Hope seemed lost. 
+    - I ran our to Burnaby to get the next refill of Rux.
+    - During that time Tina and Sam played a video game! Sam had patience to teach Tina and she did it!
+    - Out to Breka. Sam's initiative -- despite how he is feeling.
+    - Dave and Rhoda came and visited.  Sam clicks with them so easily.
+      - pokemon cards
+      - sharing other hobbies (Dave had done them all.)
+    - Night: extra itchy (hydroxyzine), ativan for something ..., breakthrough needed for referred pain in back -- disease,
+      another effusion -- Sam was no long comfortable to lay on his back.
+F06 - slow morning 
+    - Clinic and echocardiogram -- no concerns
+    - Cal visits -- but Sam is too tired to visit 
+S07 - morning ride -- flat tire in Richmond -- Skytrain back
+    - slow morning 
+    - I am concerned with Sam's lack of activity -- leads to conflict. I think that Sam may also be spending more energy on pain management limiting his ability to live.
+    - Frickers and Nana visit.  Fs take Tina out for dinner
+    - Sam visits with Nana and does make it down to visit for a 1/2 hour
+D08 - Bike ride 
+    - Sam chenge meds to 100 / 90 under suspicion that E was being spent on pain management -- seemed to work
+    - Sam showers 
+    - quiet morning
+    - Abbotsford Spaghetti Factory with Cedars grade 11 -- Sam rides bus into Van (6:30 - 9:30).  Before the class arrived we loaded Sam with his afternoon prednisone and a small breakthrough morphine.
+M09 - SAM NOTES: He has been sweating everyday/night (not every hour)
+    - Clinic 
+    - YWAM -- walk Gastown to Abbot st. and back to Victory Park, then to Library.  Sam did amazing
+    - Watching shows -- Alone (3 of us), Young Sheldon (Sam and I)
+T10 - Quiet day -- allowing Sam to rest 
+    - by ~4:30 Sam was ready to engage with class 
+    - 5:30 Dinner on Commercial Drive (Jamacan)
+    - Church on Frances -- YWAM lead students through pornography and sex trade exploitation.  Boys talk together for 2 hours. 
+W11 - Clinic in the am.  This was quite straight forward.  Though Sam loved connectnig 
+    - 
 
--   You to come close to us. We need to know you are with us.
-    Practically speaking send us your notes of love and encouragement.\
-    Don't think that we are getting too many messages. We might not have
-    capacity to respond but we will read them all.
--   In the face of fear choose courage. We are. Sam certainly is.
--   Encourage Sam's friends to reach out to him. Send him notes and
-    pictures. They can likely find him on SnapChat. Many thanks to those
-    that do!
-:::
 
-::: {.callout-tip appearance="minimal" icon="false"}
-For an overview of this journey see the [timeline](./timeline.html).
 
-Don't have our contact information and want to reach us? Use [this
-form](/contact.html). <br />*Note: if you do know how to reach us, use
-our email, or message us (no need to use the form).*
-:::
-:::::
-
-We would like to see people. Please make a plan with us to do so.
-
-Visitation status: **call ahead**.
-
-------------------------------------------------------------------------
-
-# Soul Filling
-
-*written: Sept. 13, 2024*\
-*posted: Sept. 14, 2024*
+ -->
 
 ::: {.callout-note icon="false"}
 ## TL;DR [Too long didn't read (i.e. the short version)]{.small}
@@ -291,52 +308,3 @@ So we continue to wait and we continue to do the hard work of hope.
     through this journey.
 
 -   We long for the day when Sam is free of this disease.
-   
-
-------------------------------------------------------------------------
-
-# Support
-
-::: callout-important
-## Become a bone marrow donor
-
-[![](https://www.blood.ca/themes/custom/cbs_bootstrap_sass/CBS_Logo_descriptors_RGB-WhiteBG.svg){style="\"max-width:80%"}](https://makeallthedifference.blood.ca/stem-cells-1/)
-
-Sam's life has been saved in part because someone was will to donate
-their bone marrow. Consider becoming a donor. It is easy -- no needles,
-just a cheek swab that you can do yourself.
-
-Register via Canada Blood Services' stem cell donor website:
-
-<https://makeallthedifference.blood.ca/stem-cells-1/>
-
-Perhaps you can save someone's life!
-
-*Note: You need to be between the ages of 17 and 35 to become a donor.*
-:::
-
-## Financial Support
-
-Here we include options to provide financial support including: cancer
-research at the BC Children's Hospital, the Ronald McDonald House,
-Friends of Children (support for families from Northern BC), or to
-support us directly. We have been blown away by the generosity of so
-many. We also love the support provided in words of encouragement.
-Please feel free to [send us notes of encouragement](contact.html). It
-is impossible to thank you all enough.
-
-:::: {.support-container style="background-color: #fff"}
-::: {.support layout-ncol="2" style="background-color: #fff; padding-top:1.4em; padding-right:2em"}
-[![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/donate-button.png)](https://gofund.me/e060f5b6)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/rmdhbc.png)](https://rmhbc.ca)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/friends-of-children.png)](https://www.friendsofchildren.ca)
-:::
-::::
-
-------------------------------------------------------------------------
-
-# Previous Posts
