@@ -1,0 +1,136 @@
+---
+title: "Soul Filling"
+description: "We have had an amazing week connecting with Sam's class"
+author: Colin C.
+date: 2024-09-13
+# date-modified: 2024-08-29
+categories: [regular]
+image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars.jpg
+lightbox: true
+draft: false
+draft-mode: unlinked
+editor: 
+  markdown: 
+    wrap: 72
+knitr: 
+  opts_chunk: 
+    eval: true
+    message: false
+    warning: false
+    echo: false
+---
+
+<!-- 
+Since last post: 
+
+S14 Out to Whiterock 
+    - New bible for Sam at Indigo books 
+    - Cafe Honolulu 
+    - Frickers for football NCAA and UFC 
+    - Sam and I returned to RMH while Tina stayed with her mom
+D15 Sam and I chill at RMH 
+    Tina goes with the family to church in Chilliwack -- incident with KF as he neglected her
+    Sam and I drive to Whiterock to get Tina.  
+M16 Sam and I play Helldivers together -- He had great energy that morning 
+    Clinic -- seemed straight forward.  We do flag low energy... this is explained by activity over the weekend but some concern that something else is going on
+    Plans with mom and Dad to have them visit. 
+    Sam has little energy in the afternoon 
+T17 Sam is tired in the morning but rallies by 11 
+    Visit with Tios Dave and Ruth
+    Sam has a bleeding hemorrhoid -- took some time to manage.  Arrived at ER at 2:30: bloodwork looked okay but numbers are trending down. X-ray suggested a left sided pleural effusion. 
+    Back to RMH by 7:30 
+    Brief connection with Janelle and Nova. Call with Mom
+    Sam is sad a couple times through the evening 
+
+
+
+
+ -->
+
+::: {.callout-note icon="false"}
+## TL;DR [Too long didn't read (i.e. the short version)]{.small}
+
+:::
+
+::: {#photo}
+![Sam was excited to greet his friends as they arrived in the lower
+mainland. Here Sam is watching the road awaiting their
+arrival.](https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars.jpg)
+:::
+
+## A full week
+
+
+## Medical status
+
+
+
+## Victories and concerns
+
+-   Our soul-hearts have been refreshed! Filled with the love of
+    friendship. It was incredible to see Sam have time with his friends
+    from school. The students and the leaders from Cedars have
+    lifted/blessed all three of us.
+
+-   The cancer has grown (as of Sept. 3 CT scan).
+
+-   To date, the medicines and interventions that have been tried have
+    not had any significant or lasting effect at controlling this
+    disease. We need a miracle.
+
+-   Sam is fighting on despite continued growth of the cancer. He has
+    continued with his immunotherapy -- had another dose of Nivolumab
+    (Sept. 4). It is our hope that 1) The therapy will be effective,
+    and 2) That there will be no further complications that could
+    restrict the use of the drug.
+
+-   Waves:
+
+    -   Despite times of encouragement the waves of fear still hit us
+        (Tina and I). It remains hard to watch when Sam is in pain or
+        lacks capacity – this is where hope takes work.
+
+    -   Our energy levels, or lack of energy, come in waves. Sometimes
+        the waves are strong enough to knock you over. We need strength
+        for this journey.
+
+-   Sam's heart is healthy and strong despite having had fluid around
+    his heart – a [pericardial
+    effusion](https://www.healthlinkbc.ca/pericardial-effusion-0). We
+    are thankful that the surgery to drain all of the extra fluid went
+    well (Aug. 23). Recovery from this procedure was challenging but Sam
+    has made it through again!
+
+-   We are celebrating the success of Sam's stent surgery (Aug. 15, see
+    [here](/posts/2408/2024-08-16_surgery-celebration.qmd)). The outcome
+    was far better than we had hoped for resulting in a return to
+    near-normal blood-flow! (for that particular major vein).
+
+-   It was amazing to see Sam join the [Ness Lake Bible
+    Camp](https://www.nesslakebiblecamp.com) team (July 28 - 31) . He
+    served, ran, talked, played -- he got to be fully there! Many thanks
+    to the NLBC team who welcomed him in. When Sam needs to think of a
+    happy place he returns here in his mind and he is quick to share
+    stories of these days.
+
+-   We are thankful to the medical team here at [BC Childrens'
+    Hospital](http://www.bcchildrens.ca) who have explained things
+    incredibly well and who have worked professionally and confidently.
+    Your clear communication, compassion, and medical care give us great
+    confidence. Sam has never lacked for incredible care.
+
+-   We are thankful for the gift of a place to stay so close to the
+    hospital. The [Ronald McDonald House (RMH)](https://rmhbc.ca) has
+    provided us a home away from home. This place is an amazing example
+    of charity at work.
+
+-   Thankful for friends who have chosen to meet regularly to pray for
+    Sam (we are also thankful for everyone praying for Sam wherever you
+    are). If you would like to join them talk with Beth H., Krista C.,
+    or contact the [Westwood Church](https://westwoodchurch.bc.ca)
+    office.
+
+-   Thankful for such supportive family and friends caring for us all
+    through this journey.
+
+-   We long for the day when Sam is free of this disease.
