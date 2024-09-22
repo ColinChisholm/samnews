@@ -1,13 +1,13 @@
 ---
-title: "Soul Filling"
-description: "We have had an amazing week connecting with Sam's class"
+title: "Seriously? Victory?"
+description: "It has been intensely challenging yet Sam chooses faith over despair."
 author: Colin C.
-date: 2024-09-13
+date: 2024-09-20
 # date-modified: 2024-08-29
 categories: [regular]
 image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars.jpg
 lightbox: true
-draft: false
+draft: true
 draft-mode: unlinked
 editor: 
   markdown: 
@@ -40,7 +40,30 @@ T17 Sam is tired in the morning but rallies by 11
     Sam has a bleeding hemorrhoid -- took some time to manage.  Arrived at ER at 2:30: bloodwork looked okay but numbers are trending down. X-ray suggested a left sided pleural effusion. 
     Back to RMH by 7:30 
     Brief connection with Janelle and Nova. Call with Mom
-    Sam is sad a couple times through the evening 
+    Sam is sad a couple times through the evening -- most likely treatment will be delayed.
+W18 - Clinic first thing including a CT scan -- to provide detail of the pleural effusion, regular bloodwork. Possible surgery to 
+      manage the fluid on the lung.  We review the x-ray suggests near ~50% reduction of fluid.
+    - Tina and I had wanted a CT -- 
+    - Surgery will not be able to happen -- go get away for lunch and come back at 3:30.  
+      Family lunch at Granville Island -- despite reduced breathing capacity Sam walks around the 
+      market 
+    - Back to clinic at for 3:pm to receive results of the CT 
+      - The cancer has grown.  Although not causing issues yet, there CT shows that the disease is
+        putting pressure on Sam's pulmonary artery -- causing some minor compression.  
+      - Nivo will not be given -- evidence suggests this medication is causing more harm then good.  
+        Treatment will need to pivot -- next steps will be determined in the days ahead.  
+        It is not known if anything will work
+    - walk back -- God's got me -- Yes, God has you!  
+    - Sam's choice -- the plan go back to the room and break down.  Rather he decides to watch an episode from the Chosen (S1E3) the epidode where Jesus befriends the little children.  Following this his response to everthing in the day is to believe in faith that this all means "Victory".
+    - Gram and Papa C. arrive and sit with Sam.  Dave and Rhoda visit 
+T19 - I often go for walks in the morning before my family wakes up. On this walk I wept.  The tears 
+      flowed freely as I wrestled with developments from the day before.  
+    - Jacob and Molly meet us at clinic -- JR has a plan.  He is clear that he does not know if it will work, but he will try. 
+    - Janelle and Nova play games with us. 
+    - Sam has surgery -- Molly comes to be his "comfort-nurse"
+    - Dr. Hernandez reports the surgery went well. 
+    - RMH -- G&P C are with Sam and I. 
+    - Coffee out with Aaron.  Tina connects with the prayer meeting. Rose and Nael provide support
 
 
 
@@ -50,6 +73,10 @@ T17 Sam is tired in the morning but rallies by 11
 ::: {.callout-note icon="false"}
 ## TL;DR [Too long didn't read (i.e. the short version)]{.small}
 
+-   The cancer has grown -- as determined by CT scan
+-   Immunotherapy is not working and further treatment using Nivolumab is cancelled
+-   Though it may confound me, Sam has a faith response that somehow this leads to "_Victory_"
+
 :::
 
 ::: {#photo}
@@ -58,21 +85,50 @@ mainland. Here Sam is watching the road awaiting their
 arrival.](https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars.jpg)
 :::
 
-## A full week
+## Looking back
+
+<!-- hook -->
+-   Intense days 
+
+-   Sam's faith response 
+-   My despair
 
 
-## Medical status
+
+### Acute issues 
+
+-   A bleed and a Pleural effusion -- ER, CT, and Surgical procedure. 
+-   First victory -- restored lung capacity 
+
+### Cancer treatment
+
+-   Nivo no -- more harm than good. CT scan, provided the detail to decide, 
+-   Treatment will be attempted -- but it is very clear that we do not know if anything will work
+-   Friday -- new treatments will be started.  Likely some form oral chemotherapy.
+
+
+
+## Support of friends and family
+
+- Janelle and Nova
+- Dave and Rhoda 
+- Gram and Papa C 
+- Rose and Nael T.
+- Aaron W. 
+- Many friends from have emailed and texted their support. 
 
 
 
 ## Victories and concerns
+
+
 
 -   Our soul-hearts have been refreshed! Filled with the love of
     friendship. It was incredible to see Sam have time with his friends
     from school. The students and the leaders from Cedars have
     lifted/blessed all three of us.
 
--   The cancer has grown (as of Sept. 3 CT scan).
+-   The cancer has grown (as of Sept. 19^th^ and 3^rd^ CT scans).
 
 -   To date, the medicines and interventions that have been tried have
     not had any significant or lasting effect at controlling this
@@ -94,14 +150,17 @@ arrival.](https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4
         the waves are strong enough to knock you over. We need strength
         for this journey.
 
--   Sam's heart is healthy and strong despite having had fluid around
+-   Surgeries 
+    -   Pleural Effusion ... 
+
+    -   Sam's heart is healthy and strong despite having had fluid around
     his heart – a [pericardial
     effusion](https://www.healthlinkbc.ca/pericardial-effusion-0). We
     are thankful that the surgery to drain all of the extra fluid went
     well (Aug. 23). Recovery from this procedure was challenging but Sam
     has made it through again!
 
--   We are celebrating the success of Sam's stent surgery (Aug. 15, see
+    -   We are celebrating the success of Sam's stent surgery (Aug. 15, see
     [here](/posts/2408/2024-08-16_surgery-celebration.qmd)). The outcome
     was far better than we had hoped for resulting in a return to
     near-normal blood-flow! (for that particular major vein).

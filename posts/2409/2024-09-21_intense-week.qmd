@@ -1,60 +1,75 @@
 ---
-title: "Cancer journey updates"
-# author: Colin C.
-listing:
-  contents: posts
-  filter-ui: false
-  fields: [image, date, title, author, categories, description]
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
-  page-size: 10
+title: "Intense Days"
+description: "The bare essentials from an intense week"
+author: Colin C.
+date: 2024-09-21
+# date-modified: 2024-08-29
+categories: [regular, results, milestones]
+# image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars.jpg
+lightbox: true
+draft: false
+draft-mode: unlinked
+editor: 
+  markdown: 
+    wrap: 72
 knitr: 
   opts_chunk: 
     eval: true
     message: false
     warning: false
     echo: false
-editor: 
-  markdown: 
-    wrap: 72
 ---
 
-::::: {layout="[70, 30]"}
-::: {.callout-important icon="false"}
-## What we need
+<!-- 
+Since last post: 
 
-In this intense time we need:
+S14 Out to Whiterock 
+    - New bible for Sam at Indigo books 
+    - Cafe Honolulu 
+    - Frickers for football NCAA and UFC 
+    - Sam and I returned to RMH while Tina stayed with her mom
+D15 Sam and I chill at RMH 
+    Tina goes with the family to church in Chilliwack -- incident with KF as he neglected her
+    Sam and I drive to Whiterock to get Tina.  
+M16 Sam and I play Helldivers together -- He had great energy that morning 
+    Clinic -- seemed straight forward.  We do flag low energy... this is explained by activity over the weekend but some concern that something else is going on
+    Plans with mom and Dad to have them visit. 
+    Sam has little energy in the afternoon 
+T17 Sam is tired in the morning but rallies by 11 
+    Visit with Tios Dave and Ruth
+    Sam has a bleeding hemorrhoid -- took some time to manage.  Arrived at ER at 2:30: bloodwork looked okay but numbers are trending down. X-ray suggested a left sided pleural effusion. 
+    Back to RMH by 7:30 
+    Brief connection with Janelle and Nova. Call with Mom
+    Sam is sad a couple times through the evening -- most likely treatment will be delayed.
+W18 - Clinic first thing including a CT scan -- to provide detail of the pleural effusion, regular bloodwork. Possible surgery to 
+      manage the fluid on the lung.  We review the x-ray suggests near ~50% reduction of fluid.
+    - Tina and I had wanted a CT -- 
+    - Surgery will not be able to happen -- go get away for lunch and come back at 3:30.  
+      Family lunch at Granville Island -- despite reduced breathing capacity Sam walks around the 
+      market 
+    - Back to clinic at for 3:pm to receive results of the CT 
+      - The cancer has grown.  Although not causing issues yet, there CT shows that the disease is
+        putting pressure on Sam's pulmonary artery -- causing some minor compression.  
+      - Nivo will not be given -- evidence suggests this medication is causing more harm then good.  
+        Treatment will need to pivot -- next steps will be determined in the days ahead.  
+        It is not known if anything will work
+    - walk back -- God's got me -- Yes, God has you!  
+    - Sam's choice -- the plan go back to the room and break down.  Rather he decides to watch an episode from the Chosen (S1E3) the epidode where Jesus befriends the little children.  Following this his response to everthing in the day is to believe in faith that this all means "Victory".
+    - Gram and Papa C. arrive and sit with Sam.  Dave and Rhoda visit 
+R19 - I often go for walks in the morning before my family wakes up. On this walk I wept.  The tears 
+      flowed freely as I wrestled with developments from the day before.  
+    - Jacob and Molly meet us at clinic -- JR has a plan.  He is clear that he does not know if it will work, but he will try. 
+    - Sam receives platelets to ensure he does not bleed during surgery
+    - Janelle and Nova play games with us. 
+    - Sam has surgery -- Molly comes to be his "comfort-nurse"
+    - Dr. Hernandez reports the surgery went well. 
+    - RMH -- G&P C are with Sam and I. 
+    - Coffee out with Aaron.  Tina connects with the prayer meeting. Rose and Nael provide support
 
--   You to come close to us. We need to know you are with us.
-    Practically speaking send us your notes of love and encouragement.\
-    Don't think that we are getting too many messages. We might not have
-    capacity to respond but we will read them all.
--   In the face of fear choose courage. We are. Sam certainly is.
--   Encourage Sam's friends to reach out to him. Send him notes and
-    pictures. They can likely find him on SnapChat. Many thanks to those
-    that do!
-:::
 
-::: {.callout-tip appearance="minimal" icon="false"}
-For an overview of this journey see the [timeline](./timeline.html).
 
-Don't have our contact information and want to reach us? Use [this
-form](/contact.html). <br />*Note: if you do know how to reach us, use
-our email, or message us (no need to use the form).*
-:::
-:::::
 
-We would like to see people. Please make a plan with us to do so.
-
-Visitation status: **call ahead**.
-
-------------------------------------------------------------------------
-
-# Intense Days
-_Sept 21, 2024_
+ -->
 
 ::: {.callout-note icon="false"}
 ## TL;DR [Too long didn't read (i.e. the short version)]{.small}
@@ -269,52 +284,3 @@ We have had moments of relief, of joy, and hope. These have been varied:
     through this journey.
 
 -   We long for the day when Sam is free of this disease.
-   
-
-------------------------------------------------------------------------
-
-# Support
-
-::: callout-important
-## Become a bone marrow donor
-
-[![](https://www.blood.ca/themes/custom/cbs_bootstrap_sass/CBS_Logo_descriptors_RGB-WhiteBG.svg){style="\"max-width:80%"}](https://makeallthedifference.blood.ca/stem-cells-1/)
-
-Sam's life has been saved in part because someone was will to donate
-their bone marrow. Consider becoming a donor. It is easy -- no needles,
-just a cheek swab that you can do yourself.
-
-Register via Canada Blood Services' stem cell donor website:
-
-<https://makeallthedifference.blood.ca/stem-cells-1/>
-
-Perhaps you can save someone's life!
-
-*Note: You need to be between the ages of 17 and 35 to become a donor.*
-:::
-
-## Financial Support
-
-Here we include options to provide financial support including: cancer
-research at the BC Children's Hospital, the Ronald McDonald House,
-Friends of Children (support for families from Northern BC), or to
-support us directly. We have been blown away by the generosity of so
-many. We also love the support provided in words of encouragement.
-Please feel free to [send us notes of encouragement](contact.html). It
-is impossible to thank you all enough.
-
-:::: {.support-container style="background-color: #fff"}
-::: {.support layout-ncol="2" style="background-color: #fff; padding-top:1.4em; padding-right:2em"}
-[![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/donate-button.png)](https://gofund.me/e060f5b6)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/rmdhbc.png)](https://rmhbc.ca)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/friends-of-children.png)](https://www.friendsofchildren.ca)
-:::
-::::
-
-------------------------------------------------------------------------
-
-# Previous Posts
