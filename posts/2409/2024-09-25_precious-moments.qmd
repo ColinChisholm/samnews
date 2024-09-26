@@ -1,61 +1,87 @@
 ---
-title: "Cancer journey updates"
-# author: Colin C.
-listing:
-  contents: posts
-  filter-ui: false
-  fields: [image, date, title, author, categories, description]
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
-  page-size: 10
+title: "Precious Moments"
+description: "Every moment with him is precious."
+author: Colin C.
+date: 2024-09-25
+# date-modified: 2024-08-29
+categories: [regular]
+# image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars.jpg
+lightbox: true
+draft: false
+draft-mode: unlinked
+editor: 
+  markdown: 
+    wrap: 72
 knitr: 
   opts_chunk: 
     eval: true
     message: false
     warning: false
     echo: false
-editor: 
-  markdown: 
-    wrap: 72
 ---
 
-::::: {layout="[70, 30]"}
-::: {.callout-important icon="false"}
-## What we need
+<!-- 
+Since last post: 
 
-In this intense time we need:
+D22 Oncology calls -- the fluid from Sam's pleural effusion was infected ... need to come in to get antibiotics 
+    - In through the ER: bloodwork, an xray -- effusion has returned in part
+    - Up to the ward 
+    - Gram and Papa are here
+    - NFL football 
+M23 On Ward  -- Issy during the day, Maria at night
+    8:00 Sam wakes lightly -- the heels of his feet are sore so I rub them but I can't stop quietly crying.  Sam's eyes are closed as he rests and his lips are pasty white.  
+    8:45 I prep'd toast with PB&J.  Sam is happy and resting.  "I'm happy" "Just resting"
+    10:15 Pet therapy comes by.  Sam pets Simba a big Golden Doodle.  He is chocolate brown. His size and facial expressions are much like Buddy 
+    10:35 How are you feeling?  Chest and sinus infection as well? Sam settles in for a rest. 
+    11:00 Sam is resting
+    12:00 Sam is feeling better and he wants to set up his laptop to play 
+    13:00 Sam and I play Hell Divers 
+    15:00 Walk down the hall
+    16:00 Peggy comes by to check on Sam.  If effusion is cancer-mass related draining it will not help.  Various cultures will be checked. 
+          One of the antibiotics can be hard on the kidneys -- make them process slowly. 
+          Monitor for a couple days 
+          QofL -- O2 supply outside is hospital is possible. 
+          I fear that we have no choice but to let his lung capacity fall -- unless drains are installed.  
+          Lasix to be given.
+    17:20 NFL football with Sam, Gram, and Papa (what time did they arrive?).  Gram massages Sam's feet
+    ~18:00 Tina and I talk with Jacob, review details: Treatment and also Quality of Life
+           Effusion caused by infection, Nivo, but most likely the cancer.  It is not understood why cancer 
+    ~18:30 Jacob talks with Sam 
+    ~19:00 I walk Gram an Papa out 
+    ~20:00 Dinner via door-dash; watch Alone together 
+    ~22:00 Sam and Tina:  baking show
 
--   You to come close to us. We need to know you are with us.
-    Practically speaking send us your notes of love and encouragement.\
-    Don't think that we are getting too many messages. We might not have
-    capacity to respond but we will read them all.
--   In the face of fear choose courage. We are. Sam certainly is.
--   Encourage Sam's friends to reach out to him. Send him notes and
-    pictures. They can likely find him on SnapChat. Many thanks to those
-    that do!
-:::
+    Aches and Pains 
+    - Apparent bladder infection -- hard to pee (previously attributed to morphine) also now painful to pee (as of yesterday afternoon)
+    - Tight chest -- chest infection ... did Sam cough something up? 
+    - Headache -- sinus infection? 
 
-::: {.callout-tip appearance="minimal" icon="false"}
-For an overview of this journey see the [timeline](./timeline.html).
+T24 On Ward -- Jaylyn in the day, Crystal at night
+    07:00 "Oh hey dad", "I had the best sleep" ... before falling back to sleep.  Every moment is precious -- 
+          I wish I could hold a moment in time yet it slips so quickly away.  I fear Sam is slipping too quickly away. 
+    08:30 Mom went to the clinic.  Sam looks so happy about that.  It gives him peace as he had anxiety about her health.
+    ...   Sam rests most of the morning 
+    11:30 Awake-ish a little concern that he is slow and slurring ...I take a nap as I could not stay warm
+    12:30 Sam and Mom watch baking show. 
+    16:30 Jacob comes by to check on Sam and the four of us play Kingdomino -- Sam proves that he remains sharp. 
+    17:00 ~ Molly stops by to tell us about her new job ... but she will remain Sam's nurse.
+    18:30 Sam is brighter, Jaylyn has provided a nose moisture machine, following a stretch Sam's 
+          lungs seem to have expanded and he is able to get over 92... short lived.
+    19:00 Starting to watch the hockey game (Canucks vs Seattle -- preseason).  I enjoy seeing Sam enjoy the game.
+    19:30 Frickers and Nana arrive.  Tina visits with them in the Family lounge.  Gram and Papa C leave as F and Nana
+          come in.  ~10 mins later they leave to settle MAry into the RMH. 
+    20:30??? Sam has a massive poop, including a bleed.  It is the after effects that are hard -- it is like his whole upper 
+          body starts to spasm.  It took an hour or so to get it under control.  Crystal was a great help.
 
-Don't have our contact information and want to reach us? Use [this
-form](/contact.html). <br />*Note: if you do know how to reach us, use
-our email, or message us (no need to use the form).*
-:::
-:::::
+W25 On Ward -- Pam in the day
+    06:45 Sam is up to pee but starts coughing causing pain and nausea.  I return from a walk to be with him and Tina.  
+          Ativan and IV gravol help settle things down.  Pam's confidence is re-assuring. 
+    07:38 Tina and I are able to sit with Sam each holding a hand as he is resting.  How many days or hours do 
+          we have left to simply be with him like this? 
+    08:15 I capture from 22:30 ysterday till now.  Sam is resting nicely. 
 
-We would like to see people. Please make a plan with us to do so.
 
-Visitation status: **call ahead**.
-
-------------------------------------------------------------------------
-
-# Precious Moments
-_Sept 25, 2024_
-
+ -->
 
 ::: {.callout-note icon="false"}
 ## TL;DR [Too long didn't read (i.e. the short version)]{.small}
@@ -261,52 +287,3 @@ control/reduce the fluid buildup.
     through this journey.
 
 -   We long for the day when Sam is free of this disease.
-   
-
-------------------------------------------------------------------------
-
-# Support
-
-::: callout-important
-## Become a bone marrow donor
-
-[![](https://www.blood.ca/themes/custom/cbs_bootstrap_sass/CBS_Logo_descriptors_RGB-WhiteBG.svg){style="\"max-width:80%"}](https://makeallthedifference.blood.ca/stem-cells-1/)
-
-Sam's life has been saved in part because someone was will to donate
-their bone marrow. Consider becoming a donor. It is easy -- no needles,
-just a cheek swab that you can do yourself.
-
-Register via Canada Blood Services' stem cell donor website:
-
-<https://makeallthedifference.blood.ca/stem-cells-1/>
-
-Perhaps you can save someone's life!
-
-*Note: You need to be between the ages of 17 and 35 to become a donor.*
-:::
-
-## Financial Support
-
-Here we include options to provide financial support including: cancer
-research at the BC Children's Hospital, the Ronald McDonald House,
-Friends of Children (support for families from Northern BC), or to
-support us directly. We have been blown away by the generosity of so
-many. We also love the support provided in words of encouragement.
-Please feel free to [send us notes of encouragement](contact.html). It
-is impossible to thank you all enough.
-
-:::: {.support-container style="background-color: #fff"}
-::: {.support layout-ncol="2" style="background-color: #fff; padding-top:1.4em; padding-right:2em"}
-[![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/donate-button.png)](https://gofund.me/e060f5b6)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/rmdhbc.png)](https://rmhbc.ca)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/friends-of-children.png)](https://www.friendsofchildren.ca)
-:::
-::::
-
-------------------------------------------------------------------------
-
-# Previous Posts
