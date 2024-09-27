@@ -3,7 +3,7 @@ title: "Precious Moments"
 description: "Every moment with him is precious."
 author: Colin C.
 date: 2024-09-25
-# date-modified: 2024-08-29
+date-modified: 2024-09-27
 categories: [regular]
 # image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars.jpg
 lightbox: true
@@ -89,6 +89,23 @@ W25 On Ward -- Pam in the day
 -   Back in hospital.
 -   The left side pleural effusion has returned.
 :::
+
+::: {.callout-important icon="false"}
+## Sept. 27, 2024
+Sam continues to receive amazing care.
+
+Although Sam's surgery was delayed,
+he was able to go in first
+thing this morning. Everything went according to plan and he
+and was out again within the hour.
+
+The surgery seems to have gone well draining almost a litre of fluid
+from the pleural space of his left lung. Sam is breathing easier and 
+has nice colour in his cheeks and lips.
+
+:::
+
+
 
 <!-- ::: {#photo}
 ![Sam was excited to greet his friends as they arrived in the lower

@@ -54,14 +54,29 @@ Visitation status: **call ahead**.
 ------------------------------------------------------------------------
 
 # Precious Moments
-_Sept 25, 2024_
 
+*Sept 25, 2024*
 
 ::: {.callout-note icon="false"}
 ## TL;DR [Too long didn't read (i.e. the short version)]{.small}
 
 -   Back in hospital.
 -   The left side pleural effusion has returned.
+:::
+
+::: {.callout-important icon="false"}
+## Sept. 27, 2024
+Sam continues to receive amazing care.
+
+Although Sam's surgery was delayed,
+he was able to go in first
+thing this morning. Everything went according to plan and he
+and was out again within the hour.
+
+The surgery seems to have gone well draining almost a litre of fluid
+from the pleural space of his left lung. Sam is breathing easier and 
+has nice colour in his cheeks and lips.
+
 :::
 
 <!-- ::: {#photo}
@@ -261,7 +276,6 @@ control/reduce the fluid buildup.
     through this journey.
 
 -   We long for the day when Sam is free of this disease.
-   
 
 ------------------------------------------------------------------------
 
