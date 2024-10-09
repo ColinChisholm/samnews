@@ -1,0 +1,148 @@
+---
+title: "Death of our Mighty Warrior"
+description: "Our most loved mighty warrior has gone to be with Jesus."
+author: Colin C.
+date: 2024-10-08
+categories: [regular]
+image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars.jpg
+lightbox: true
+draft: false
+# draft-mode: unlinked
+editor: 
+  markdown: 
+    wrap: 72
+knitr: 
+  opts_chunk: 
+    eval: true
+    message: false
+    warning: false
+    echo: false
+---
+
+:::::{layout-ncol="2"}
+:::{#txt-left}
+
+
+Today, in the early morning\
+\ \  Tina and I sat with Sam.\
+
+Despite his body being\
+\ \ racked with disease\
+\ \ and his near inability to communicate,
+
+We had a beautiful time of sharing with him.\
+
+We expressed our love,\
+\ \ our pride, \
+\ \ the joy of life that we had with him. 
+
+In that time\
+We gave him the freedom\
+\ \ to let go,\
+\ \ to move on. 
+
+Tina and I saw it.\
+The precise moment, 7:10am, that\
+He moved beyond our reach. \
+\ \ without fear\
+\ \ without pain or suffering.
+
+Courageously he let go of us.\
+\ \ And jumped into the eternal \
+\ \ \ Love of God.  
+
+:::
+
+::: {#pic-right}
+<!-- ::: {.float-sm-end} -->
+![Samuel Justin Colin Chisholm <br>Loved and mighty warrior.<br>2008-11-25 -- 2024-10-08](https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars-portrait.jpg)
+:::
+
+:::::
+
+
+
+
+
+
+<!-- ## Victories and concerns
+
+-   We are thankful for the simple precious moments.
+
+-   The cancer has grown (as of Sept. 19^th^ and 3^rd^ CT scans).
+
+-   To date, the medicines and interventions that have been tried have
+    not had any significant or lasting effect at controlling this
+    disease. We need a miracle.
+
+-   Sam is fighting on despite continued growth of the cancer.
+
+    -   Sam has begun a schedule of oral chemotherapy.
+    -   Nivolumab has been shown to be ineffective and use has been
+        stopped. ~~He has continued with his immunotherapy -- had
+        another dose of Nivolumab (Sept. 4). It is our hope that 1) The
+        therapy will be effective, and 2) That there will be no further
+        complications that could restrict the use of the drug.~~
+
+-   Waves:
+
+    -   Despite times of encouragement the waves of fear still hit us
+        (Tina and I). It remains hard to watch when Sam is in pain or
+        lacks capacity – this is where hope takes work.
+    -   Our energy levels, or lack of energy, come in waves. Sometimes
+        the waves are strong enough to knock you over. We need strength
+        for this journey.
+
+-   Surgeries:
+
+    -   A surgery to drain/manage fluid in Sam's left lung (again) is
+        being planned for tomorrow (Sept. 26).
+    -   Surgery to drain the left-side Pleural Effusion (fluid on lung)
+        went well (Sept. 19).
+    -   Sam's heart is healthy and strong despite having had fluid
+        around his heart – a [pericardial
+        effusion](https://www.healthlinkbc.ca/pericardial-effusion-0).
+        We are thankful that the surgery to drain all of the extra fluid
+        went well (Aug. 23). Recovery from this procedure was
+        challenging but Sam has made it through again!
+    -   We are celebrating the success of Sam's stent surgery (Aug. 15,
+        see [here](/posts/2408/2024-08-16_surgery-celebration.qmd)). The
+        outcome was far better than we had hoped for resulting in a
+        return to near-normal blood-flow! (for that particular major
+        vein).
+
+-   Highs, especially for Sam:
+
+    -   [Cedars](https://cedars.bc.ca) Grade 11 trip (Sept 8-11): Our
+        soul-hearts have been refreshed! Filled with the love of
+        friendship. It was incredible to see Sam have time with his
+        friends from school. The students and the leaders from Cedars
+        have lifted/blessed all three of us.
+    -   It was amazing to see Sam join the [Ness Lake Bible
+        Camp](https://www.nesslakebiblecamp.com) team (July 28 - 31) .
+        He served, ran, talked, played -- he got to be fully there! Many
+        thanks to the NLBC team who welcomed him in. When Sam needs to
+        think of a happy place he returns here in his mind and he is
+        quick to share stories of these days. \`\`\`
+
+-   We are thankful to the medical team here at [BC Childrens'
+    Hospital](http://www.bcchildrens.ca) who have explained things
+    incredibly well and who have worked professionally and confidently.
+    Your clear communication, compassion, and medical care give us great
+    confidence. Sam has never lacked for incredible care.
+
+-   We are thankful for the gift of a place to stay so close to the
+    hospital. The [Ronald McDonald House (RMH)](https://rmhbc.ca) has
+    provided us a home away from home. This place is an amazing example
+    of charity at work.
+
+-   Thankful for friends who have chosen to meet regularly to pray for
+    Sam (we are also thankful for everyone praying for Sam wherever you
+    are). If you would like to join them talk with Beth H., Krista C.,
+    or contact the [Westwood Church](https://westwoodchurch.bc.ca)
+    office.
+
+-   Thankful for such supportive family and friends caring for us all
+    through this journey.
+
+-   We long for the day when Sam is free of this disease. -->
