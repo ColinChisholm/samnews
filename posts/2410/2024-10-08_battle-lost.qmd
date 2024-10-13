@@ -3,7 +3,7 @@ title: "Death of our Mighty Warrior"
 description: "Our most loved mighty warrior has gone to be with Jesus."
 author: Colin C.
 date: 2024-10-08
-categories: [regular]
+categories: [grief]
 image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars.jpg
 lightbox: true
 draft: false

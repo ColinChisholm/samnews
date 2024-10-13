@@ -1,121 +1,39 @@
 ---
-title: "Cancer journey ... and beyond ..."
-# author: Colin C.
-listing:
-  contents: posts
-  filter-ui: false
-  fields: [image, date, title, author, categories, description]
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
-  page-size: 10
+title: "On Grief, Courage, and Love"
+description: "One way Sam set us up to live well."
+author: Colin C.
+date: 2024-10-12
+categories: [grief]
+# image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars.jpg
+lightbox: true
+draft: false
+# draft-mode: unlinked
+editor: 
+  markdown: 
+    wrap: 72
 knitr: 
   opts_chunk: 
     eval: true
     message: false
     warning: false
     echo: false
-editor: 
-  markdown: 
-    wrap: 72
 ---
 
+```{=html}
+<!-- Image 
+::: {.float-sm-end}
+![Samuel Justin Colin Chisholm <br>Loved and mighty warrior.<br>2008-11-25 -- 2024-10-08](https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars-portrait.jpg)
+::: 
+-->
+```
 
-::: {.callout-important icon="false"}
-# Death of our Mighty Warrior 
-*Oct. 8, 2024. Our most loved mighty warrior has gone to be with Jesus.*
-
-:::::{layout="[35, 35, 30]"}
-
-:::{#txt-left}
-
-
-Today, in the early morning\
-\ \  Tina and I sat with Sam.\
-
-Despite his body being\
-\ \ racked with disease\
-\ \ and his near inability to communicate,
-
-We had a beautiful time of sharing with him.\
-
-We expressed our love,\
-\ \ our pride, \
-\ \ the joy of life that we had with him. 
-:::
+## Grief
 
 
-:::{txt-mid}
-\
-In that time\
-We gave him the freedom\
-\ \ to let go,\
-\ \ to move on. 
-
-Tina and I saw it.\
-The precise moment, 7:10am, that\
-He moved beyond our reach. \
-\ \ without fear\
-\ \ without pain or suffering.
-
-Courageously he let go of us.\
-\ \ And jumped into the eternal \
-\ \ \ Love of God.  
-:::
-
-::: {#pic-right}
-
-<!-- ::: {.float-sm-end} -->
+::: {.float-sm-end style="width: 28%"}
 ![Samuel Justin Colin Chisholm <br>Loved and mighty warrior.<br>2008-11-25 -- 2024-10-08](https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars-portrait.jpg)
 :::
 
-:::::
-
-
-:::
-
-
-
-
-
-::::: {layout="[60, 40]"}
-::: {.callout-warning icon="false"}
-## What we need
-
-In this intense time we need:
-
--   You to come close to us. We need to know you are with us.
-    Practically speaking send us your notes of love and encouragement.\
-    Don't think that we are getting too many messages. We might not have
-    capacity to respond but we will read them all.
--   In the face of fear choose courage. We are. Sam certainly did.
-<!-- -   Encourage Sam's friends to reach out to him. Send him notes and
-    pictures. They can likely find him on SnapChat. Many thanks to those
-    that do! -->
-:::
-
-::: {.callout-tip appearance="minimal" icon="false"}
-For an overview of this journey see the [timeline](./timeline.html).
-
-Don't have our contact information and want to reach us? Use [this
-form](/contact.html). <br />*Note: if you do know how to reach us, use
-our email, or message us (no need to use the form).*
-:::
-:::::
-
-<!-- We would like to see people. Please make a plan with us to do so.
-
-Visitation status: **call ahead**. -->
-
-------------------------------------------------------------------------
-
-
-# On Grief, Courage, and Love
-_Oct. 12, 2024^[posted on Oct 13, 2024]_
-
-## Grief
 
 It is the early morning. Sam passed four days ago.\
 The cancer storm has swamped us. It has taken our beloved son.
@@ -307,46 +225,3 @@ Know that we stand with you.
 
 -   ~~We long for the day when~~\
     Our hearts ache. We grieve. Yet Sam is free of disease.
-
-
-
-
-
-------------------------------------------------------------------------
-
-# Support
-
-::: callout-important
-## Become a donor
-
-[![](https://www.blood.ca/themes/custom/cbs_bootstrap_sass/CBS_Logo_descriptors_RGB-WhiteBG.svg){style="\"max-width:80%"}](https://makeallthedifference.blood.ca/stem-cells-1/)
-
-Sam's life has been saved numerous times because people have donated blood or bone marrow. Consider becoming a donor.  Perhaps you can save someone's life!
-
-:::
-
-## Financial Support
-
-Here we include options to provide financial support including: cancer
-research at the BC Children's Hospital, the Ronald McDonald House,
-Friends of Children (support for families from Northern BC), or to
-support us directly. We have been blown away by the generosity of so
-many. We also love the support provided in words of encouragement.
-Please feel free to [send us notes of encouragement](contact.html). It
-is impossible to thank you all enough.
-
-:::: {.support-container style="background-color: #fff"}
-::: {.support layout-ncol="2" style="background-color: #fff; padding-top:1.4em; padding-right:2em"}
-[![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/donate-button.png)](https://gofund.me/e060f5b6)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/rmdhbc.png)](https://rmhbc.ca)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/friends-of-children.png)](https://www.friendsofchildren.ca)
-:::
-::::
-
-------------------------------------------------------------------------
-
-# Previous Posts
