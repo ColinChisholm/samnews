@@ -1,17 +1,17 @@
 ---
 title: Milestones
-date-modified: 2024-09-13
+date-modified: 2024-10-17
 tbl-colwidths: [25,75]
 editor: 
   markdown: 
     wrap: 100
 ---
 
-Generally speaking, Sam has been through three eras in his cancer treatment:
+Generally speaking, Sam went through three eras in his cancer treatment:
 
 1.  Chemotherapy,
 2.  Bone Marrow Transplant,
-3.  and now Immunotherapy.
+3.  Immunotherapy.
 
 Radiation was given both before the BMT and also concurrent with immunotherapy.
 
@@ -166,10 +166,43 @@ Below is a review of the major milestones.
 |                       | with a surgery to piece the pericardial sack an drain off all the extra  |
 |                       | fluid.                                                                   |
 +-----------------------+--------------------------------------------------------------------------+
-| Sept 3                | CT scan shows that the cancer has grown again.  However, it is           |
-|                       | plausible that the immunotherapy was able to slow the disease before     |
-|                       | delays as Sam had to recover from his surgeries.                         |
+| Sept 3                | CT scan shows that the cancer has grown again. However, it is plausible  |
+|                       | that the immunotherapy was able to slow the disease before delays as Sam |
+|                       | had to recover from his surgeries.                                       |
 +-----------------------+--------------------------------------------------------------------------+
 | Sept 4                | Continued immunotherapy with the next dose of Nivolumab.                 |
 +-----------------------+--------------------------------------------------------------------------+
+| Sept 6 - 9            | Cedars Grade 11 – YWAM trip\                                             |
+|                       | Sam had an amazing time connecting with his friends/classmates as his    |
+|                       | class came to Vancouver to serve.                                        |
++-----------------------+--------------------------------------------------------------------------+
+
+
+## Last Days
+
++-----------------------+--------------------------------------------------------------------------+
+| Sept 18 & 19          | A CT scan highlighted:                                                   |
+|                       |                                                                          |
+|                       | 1.  The cancer had grown. Further treatment using Nivolumab is cancelled |
+|                       |     as it has now been demonstrated to be ineffective and side effects   |
+|                       |     are dangerous.                                                       |
+|                       | 2.  A pleural effusion (fluid on the lung) was identified. The effusion  |
+|                       |     was drained on Sept. 19.                                             |
++-----------------------+--------------------------------------------------------------------------+
+| Sept 20               | Sam is started on an oral chemotherapy. In effort to provide some level  |
+|                       | of control.                                                              |
++-----------------------+--------------------------------------------------------------------------+
+| Sept 22               | We return to the ward. Bacteria had been detected in the pleural space   |
+|                       | and antibiotics had to be started. Tina and I were also seeing a         |
+|                       | decline... it is likely we would have taken Sam in by the end of the     |
+|                       | day.                                                                     |
++-----------------------+--------------------------------------------------------------------------+
+| Sept 27               | Sam has his left lung drained a second time. Analysis of this fluid will |
+|                       | later show that the cancer is in the pleural space.                      |
++-----------------------+--------------------------------------------------------------------------+
+| Oct 8 at 7:10am       | Our loved mighty warrior died.                                           |
+|                       |                                                                          |
+|                       | Tina and I were with him. We watched his final breath.                   |
++-----------------------+--------------------------------------------------------------------------+
+
 <!-- Additional detail:August 2 & 6This irregular heterogeneous mass has an average cross section of \~7.5cm. -->

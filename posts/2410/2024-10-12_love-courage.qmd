@@ -3,6 +3,7 @@ title: "On Grief, Courage, and Love"
 description: "One way Sam set us up to live well."
 author: Colin C.
 date: 2024-10-12
+date-modified: 2024-10-18
 categories: [grief]
 # image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars.jpg
 lightbox: true
@@ -27,8 +28,20 @@ knitr:
 -->
 ```
 
-## Grief
+::: {.callout-note icon="false"}
+## Great days 
 
+_2024-10-18_
+
+These are hard days.  Yet we are managing.  We are committed.  Despite our pains we keep choosing to have great days.  
+
+We choose to keep sharing love to one another and to those we connect with during the day.  We do not fear our tears but let them flow when they come.  We choose to keep moving, keep placing one foot in front of the other -- literally and figuratively.  
+
+The days ahead will be particularly hard.  They hold the large steps.  We are transitioning -- making our return home... Yet it will never be what we hoped.  
+:::
+
+
+## Grief
 
 ::: {.float-sm-end style="width: 28%"}
 ![Samuel Justin Colin Chisholm <br>Loved and mighty warrior.<br>2008-11-25 -- 2024-10-08](https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars-portrait.jpg)
