@@ -20,6 +20,15 @@ knitr:
     echo: false
 ---
 
+::: {.callout-note}
+## Memorial/ Celebration-of-Life Planning
+
+- On **Saturday Nov. 23^rd^** we will have a celebration-of-life/ memorial service for Sam.
+- This will take place at Westwood Church here in Prince George ([map](https://maps.app.goo.gl/YXfR4512soWxknwc8)).
+
+Time and additional details to be determined. 
+:::
+
 ## Arriving Home
 
 ### Re-entry
@@ -103,12 +112,7 @@ forward together. Some of the choices that we are making include:
 Finally, we make the choice each day: *We're going to have a great day!
 Oh Yeah!*
 
-::: callout-note
-## Memorial Planning
 
-We are looking at mid-November – likely Nov. 23^rd^. We should have the
-date finalized in the next few days.
-:::
 
 ## Victories and Heart Aches
 
