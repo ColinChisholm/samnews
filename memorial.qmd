@@ -1,0 +1,147 @@
+---
+title: "Samuel Chisholm"
+subtitle: "Much Loved ... Beloved"
+date: 2024-11-25
+draft: true
+draft-mode: unlink
+# author: Colin C.
+# listing:
+#   contents: posts
+#   filter-ui: false
+#   fields: [image, date, title, author, categories, description]
+#   sort: "date desc"
+#   sort-ui: true
+#   type: default
+#   categories: false
+#   feed: true
+#   page-size: 10
+knitr: 
+  opts_chunk: 
+    eval: true
+    message: false
+    warning: false
+    echo: false
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# DRAFT Order of Service
+
+
+## Outline
+
+1.  Welcome -- Invitation
+2.  Much loved and Mighty Warrior
+3.  Beloved
+4.  Closing -- repeat Invitation
+5.  Reception
+
+## Invitation
+
+::: callout-note
+### Concepts
+
+-   Invitation to join the family.
+-   The family knows that you are grieving too.
+-   The family is thankful that you are here -- to honour Sam; to extend
+    your care; ... *more*
+:::
+
+-   Pastor Rob Dyck
+    -   Invite
+    -   Review order of service -- or highlight where it is printed
+    -   Simple short prayer of comfort
+
+## Much loved Mighty Warrior
+
+::: callout-note
+### Much loved -- concepts
+
+This section is focused in and back. It focuses on our time with Sam:
+
+-   How we all loved him: Parents, Grandparents, Ex. Family, Friends,
+    the community around us
+-   How we honour him -- for his battle fought
+-   What he loved ... can be a segue to Beloved
+:::
+
+-   Slide Show? (song background)
+-   Songs?
+-   Scripture? *read by a friend or two?*
+-   Speaker(s)
+    -   Uncle Kevin Fricker. Reflections on how the family loved Sam.
+        ... *Kev what do you have in mind?*
+    -   Pastor Nolan or Shane N. or ??? (community person)
+-   Song(s)
+
+## Beloved
+
+::: callout-note
+### Beloved -- concepts
+
+This section is focused forward and up. It focuses on the hope that Sam
+had.
+
+-   Sam as the Beloved of God.
+-   How we are all Beloved
+-   How then should we live?
+:::
+
+-   scripture
+-   Speakers
+    -   Uncle Cal -- reflection on Sam and how he is Beloved. How we are
+        Beloved.
+    -   Dave Horton? -- How then should we live?
+-   Celebration songs (Camp Songs)
+
+## Closing
+
+::: callout-note
+## Purpose
+
+-   Recognize that our grief does not end here and now
+-   We will continue to honour Sam's life
+    -   Gifts to Legacy Fund
+-   We will continue to love and support the family
+-   Sam was and is loved.
+-   Invite to reception
+:::
+
+-   Pastor Rob
+    -   Extend Invitations
+        -   Although this service is coming to an end our love and our
+            grief does not end
+        -   Gifts Legacy Fund -- see website
+        -   Web Form -- submit your memories of Sam
+        -   Reception to follow
+    -   Closing benediction
+        -   Numbers? Lord bless you?...
+        -   ???
+   
+
+::: callout-warning
+## Needs and Actions
+
+-   Review and refinement of this outline
+    -   Tina
+    -   Kevin
+    -   Cal
+    -   Gradparents
+    -   Rob D.
+-   Westwood and Friends:
+    -   Pastor Rob -- coordination of events
+    -   Ushers?/ Parking assistance?
+    -   Reception
+    -   Childcare?
+    -   D. Claus?? Sound/Tech coordination?
+    -   Songs
+-   What songs to sing? And who to lead them (Joel?)?
+-   What scriptures to be read and who to read them (friends?)?
+-   Printing of Program
+-   Website:
+    -   Update Memorial News
+    -   Legacy Fund -- page to outline purpose
+    -   Program
+    -   Memories of Sam Form
+:::
