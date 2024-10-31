@@ -7,8 +7,8 @@ date: 2024-10-31
 categories: [grief]
 image: https://samsstory.s3.ca-central-1.amazonaws.com/2022-09-11_raven-lake-hike.jpg
 lightbox: true
-draft: false
-# draft-mode: unlinked
+draft: true
+draft-mode: unlinked
 editor: 
   markdown: 
     wrap: 72
@@ -25,11 +25,14 @@ knitr:
 
 - On **Saturday Nov. 23^rd^** we will have a celebration-of-life/ memorial service for Sam.
 - This will take place at Westwood Church here in Prince George ([map](https://maps.app.goo.gl/YXfR4512soWxknwc8)).
-- A legacy fund in honour of Sam will be established is being established for those who would like to give gifts. 
+- A legacy fund in honour of Sam is being
+    established for those who would like to give gifts.
 
 :::{.center}
 All are welcome\
 *Time and additional details to be determined.*
+:::
+
 :::
 
 ## Lost 
