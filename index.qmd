@@ -22,72 +22,70 @@ editor:
     wrap: 72
 ---
 
-::: {.callout-note}
+:::: callout-note
 ## Memorial/ Celebration-of-Life Planning
 
-- On **Saturday Nov. 23^rd^** we will have a celebration-of-life/ memorial service for Sam.
-- This will take place at Westwood Church here in Prince George ([map](https://maps.app.goo.gl/YXfR4512soWxknwc8)).
+-   On **Saturday Nov. 23^rd^** we will have a celebration-of-life/
+    memorial service for Sam.
+-   This will take place at Westwood Church here in Prince George
+    ([map](https://maps.app.goo.gl/YXfR4512soWxknwc8)).
+-   A legacy fund in honour of Sam will be established is being
+    established for those who would like to give gifts.
 
-Time and additional details to be determined. 
+::: center
+All are welcome\
+*Time and additional details to be determined.*
 :::
+::::
 
+::::::: {.callout-important icon="false"}
+# Death of our Mighty Warrior
 
-::: {.callout-important icon="false"}
-# Death of our Mighty Warrior 
 *Oct. 8, 2024. Our most loved mighty warrior has gone to be with Jesus.*
 
-:::::{layout="[35, 35, 30]"}
-
-:::{#txt-left}
-
-
+:::::: {layout="[35, 35, 30]"}
+::: {#txt-left}
 Today, in the early morning\
-\ \  Tina and I sat with Sam.\
+   Tina and I sat with Sam.\
 
 Despite his body being\
-\ \ racked with disease\
-\ \ and his near inability to communicate,
+  racked with disease\
+  and his near inability to communicate,
 
 We had a beautiful time of sharing with him.\
 
 We expressed our love,\
-\ \ our pride, \
-\ \ the joy of life that we had with him. 
+  our pride,\
+  the joy of life that we had with him.
 :::
 
-
-:::{txt-mid}
+::: {txt-mid}
 \
 In that time\
 We gave him the freedom\
-\ \ to let go,\
-\ \ to move on. 
+  to let go,\
+  to move on.
 
 Tina and I saw it.\
 The precise moment, 7:10am, that\
-He moved beyond our reach. \
-\ \ without fear\
-\ \ without pain or suffering.
+He moved beyond our reach.\
+  without fear\
+  without pain or suffering.
 
 Courageously he let go of us.\
-\ \ And jumped into the eternal \
-\ \ \ Love of God.  
+  And jumped into the eternal\
+   Love of God.
 :::
 
 ::: {#pic-right}
-
 <!-- ::: {.float-sm-end} -->
-![Samuel Justin Colin Chisholm <br>Loved and mighty warrior.<br>2008-11-25 -- 2024-10-08](https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars-portrait.jpg)
+
+![Samuel Justin Colin Chisholm <br>Loved and mighty
+warrior.<br>2008-11-25 --
+2024-10-08](https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars-portrait.jpg)
 :::
-
-:::::
-
-
-:::
-
-
-
-
+::::::
+:::::::
 
 ::::: {layout="[60, 40]"}
 ::: {.callout-warning icon="false"}
@@ -100,9 +98,9 @@ In this intense time we need:
     Don't think that we are getting too many messages. We might not have
     capacity to respond but we will read them all.
 -   In the face of fear choose courage. We are. Sam certainly did.
-<!-- -   Encourage Sam's friends to reach out to him. Send him notes and
-    pictures. They can likely find him on SnapChat. Many thanks to those
-    that do! -->
+    <!-- -   Encourage Sam's friends to reach out to him. Send him notes and
+        pictures. They can likely find him on SnapChat. Many thanks to those
+        that do! -->
 :::
 
 ::: {.callout-tip appearance="minimal" icon="false"}
@@ -114,18 +112,19 @@ our email, or message us (no need to use the form).*
 :::
 :::::
 
+```{=html}
 <!-- We would like to see people. Please make a plan with us to do so.
 
 Visitation status: **call ahead**. -->
+```
 
-
-***
+------------------------------------------------------------------------
 
 # On Grief and Beauty
-_How living feels like we are in constant paradox_
 
-_Oct. 23, 2024_
+*How living feels like we are in constant paradox*
 
+*Oct. 23, 2024*
 
 ## Arriving Home
 
@@ -210,8 +209,6 @@ forward together. Some of the choices that we are making include:
 Finally, we make the choice each day: *We're going to have a great day!
 Oh Yeah!*
 
-
-
 ## Victories and Heart Aches
 
 -   Our hearts ache. We are committed to moving forward but this is hard
@@ -257,11 +254,7 @@ Oh Yeah!*
 -   ~~We long for the day when~~\
     Our hearts ache. We grieve. Yet Sam is free of disease.
 
-
-
 ------------------------------------------------------------------------
-
-
 
 ::: {.callout-note icon="false"}
 ### Oncology Families
@@ -279,8 +272,6 @@ Know that we stand with you.
     will. And you will not be alone.
 :::
 
-
-
 ------------------------------------------------------------------------
 
 # Support
@@ -290,8 +281,9 @@ Know that we stand with you.
 
 [![](https://www.blood.ca/themes/custom/cbs_bootstrap_sass/CBS_Logo_descriptors_RGB-WhiteBG.svg){style="\"max-width:80%"}](https://makeallthedifference.blood.ca/stem-cells-1/)
 
-Sam's life has been saved numerous times because people have donated blood or bone marrow. Consider becoming a donor.  Perhaps you can save someone's life!
-
+Sam's life has been saved numerous times because people have donated
+blood or bone marrow. Consider becoming a donor. Perhaps you can save
+someone's life!
 :::
 
 ## Financial Support
