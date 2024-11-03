@@ -1,0 +1,60 @@
+---
+title: "The Hard and The Good"
+description: "It is all so hard and yet there is good."
+author: Colin C.
+date: 2024-11-04
+categories: [grief]
+# image: https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars.jpg
+lightbox: true
+draft: true
+draft-mode: unlinked
+editor: 
+  markdown: 
+    wrap: 72
+knitr: 
+  opts_chunk: 
+    eval: true
+    message: false
+    warning: false
+    echo: false
+---
+
+*add memorial header*
+
+
+The daily rhythm
+ 
+
+## The Hard 
+
+-   The waves and the tears 
+-   Missing Sam - loneliness & belonging  
+-   Lost (allusion to future post)
+
+
+## The Good
+
+-   Care of community 
+-   Getting outside 
+-   precious memories (choices)
+   
+
+### Daily good 
+
+
+
+
+-   Where going to have a great day -- Oh Yeah!
+
+
+<!-- ::: {#pic-right} -->
+<!-- ::: {.float-sm-end} -->
+<!-- ![Samuel Justin Colin Chisholm <br>Loved and mighty warrior.<br>2008-11-25 -- 2024-10-08](https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars-portrait.jpg) -->
+<!-- ::: -->
+<!-- ::: -->
+
+
+
+## Victories and Heart Aches
+
+*copy back in*
