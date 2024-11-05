@@ -2,8 +2,8 @@
 title: "Legacy Fund"
 subtitle: "The Samuel Justin Colin Chisholm Endowment"
 # date: 2024-11-25
-draft: true
-draft-mode: unlink
+draft: false
+# draft-mode: unlink
 # author: Colin C.
 # listing:
 #   contents: posts
@@ -32,8 +32,8 @@ Samuel was our much loved and mighty warrior.
 
 In the past number of years Sam dreamed of going to school and becoming
 an accountant. He had great intent in mind with this training -- that
-funds he would be responsible for could be used for great purpose. He
-would be thrilled that funds raised in his memory would be used for
+the funds he would be responsible for could be used for great purpose.
+He would be thrilled that funds raised in his memory would be used for
 those purposes.
 
 Sam was courageous in adversity.\
@@ -48,34 +48,37 @@ Sam had a heart for God/ Jesus,\
 
 The intent of this legacy fund is to provide ongoing funding for decades
 to come. Funds grown from this endowment will be used to support causes
-and organizations that were important to Sam amd his family throughout
-his battle. Examples include:
+and organizations that were important to Sam and his family throughout
+his life and battle with cancer. Examples include:
 
 -   BC Children's Hospital -- with specific giving to their *Child Life*
-    program.
--   The Ronald McDonald House which was the family's home away from
-    home.
--   Cedars Christian School Students (i.e. scholarship) and the Grade
+    program
+-   The Ronald McDonald House – which was the family's home away from
+    home
+-   Cedars Christian School Students (e.g. scholarship) and the Grade
     11's YWAM Urban Plunge
 -   Ness Lake Bible Camp
 -   Compassion International
 
-## Giving
+<!-- ## Giving -->
 
--   Current Fund Level: \$70,000
--   Target Fund Level: \$100,000
--   *In addition the family is committed to increasing the fund by
-    \$10,000 annually over the next five years.*
+<!-- -   Current Fund Level: \$70,000 -->
+
+<!-- -   Target Fund Level: \$100,000 -->
+
+<!-- -   *In addition the family is committed to increasing the fund by -->
+
+<!-- \$10,000 annually over the next five years.* -->
 
 Please consider giving so that Sam's heart-legacy can be put into action
-for year to come.
+for years to come.
+
+We will provide specific updates/reports on how this fund is put into
+action.
 
 ### How to give
 
--   Use the existing Go Fund Me, or
+-   Use the existing [Go Fund Me](https://gofund.me/e060f5b6), or
 -   Email Tina and Colin directly -- If you need our email address
-    [contact us](contact.qmd)
-
-**FIX THIS LINK** *button goes on main page*
-
-[Legacy Fund](index.qmd){.btn .btn-primary .mt-3 .btn role="button"}
+    [contact us](contact.qmd) or message [*Colin*]{.underline} through
+    other channels (e.g. SMS, Facebook Messenger, Instagram).

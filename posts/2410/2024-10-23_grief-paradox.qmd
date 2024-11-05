@@ -11,7 +11,7 @@ draft: false
 # draft-mode: unlinked
 editor: 
   markdown: 
-    wrap: 72
+    wrap: 150
 knitr: 
   opts_chunk: 
     eval: true
@@ -20,45 +20,49 @@ knitr:
     echo: false
 ---
 
-::: {.callout-note}
-## Memorial/ Celebration-of-Life Planning
+:::: callout-note
+## Celebration-of-Life Planning/ Memorial
 
-- On **Saturday Nov. 23^rd^** we will have a celebration-of-life/ memorial service for Sam.
-- This will take place at Westwood Church here in Prince George ([map](https://maps.app.goo.gl/YXfR4512soWxknwc8)).
-- A legacy fund in honour of Sam is being
-    established for those who would like to give gifts. 
++-------------------------------------------------------------------------------------------------------+--------------------------------------------+
+| -   **WHEN**: On **Saturday Nov. 23^rd^** at **2:00pm** we will have a celebration-of-life/ memorial  | ::: {style="min-width:120px"}              |
+|     service for Sam.                                                                                  | :::                                        |
+|                                                                                                       |                                            |
+| -   **WHERE**: This will take place at **Westwood Church** here in Prince George.                     | ::: center                                 |
+|     ([map](https://maps.app.goo.gl/YXfR4512soWxknwc8)).                                               | [Memories](/memories.qmd){.btn             |
+|                                                                                                       | .btn-primary .mt-3 role="memories"         |
+| -   A <a href="/legacy.html">legacy fund</a> in honour of Sam is being established for those who      | data-toggle="tooltip"                      |
+|     would like to give gifts.                                                                         | title="Share your memories of Sam"}        |
+|                                                                                                       |                                            |
+| -   Please share with us your [memories](/memories.html) of Sam.                                      | <a href="                                  |
+|                                                                                                       | /legacy.html" class="btn btn-primary mt-3" |
+| -   *Note: It is our intent to have this time live streamed and recorded.*                            | role="legacy" data-toggle="tooltip"        |
+|                                                                                                       | title="Consider giving">Legacy Fund</a>    |
+|                                                                                                       | :::                                        |
++-------------------------------------------------------------------------------------------------------+--------------------------------------------+
 
-:::{.center}
-All are welcome\
-*Time and additional details to be determined.*
+::: center
+All are welcome<br/>*Additional details to follow*
 :::
-
-:::
+::::
 
 ## Arriving Home
 
 ### Re-entry
 
 ::: float-sm-end
-![Sept. 2022 we went on a hike to Raven Lake with friends -- it is
-amazing to think of when Sam was strong and healthy.<br/>Samuel Justin
-Colin Chisholm <br>Loved and mighty warrior.<br>2008-11-25 --
-2024-10-08](https://samsstory.s3.ca-central-1.amazonaws.com/2022-09-11_raven-lake-hike.jpg)
+![Sept. 2022 we went on a hike to Raven Lake with friends -- it is amazing to think of when Sam was strong and healthy.<br/>Samuel Justin Colin
+Chisholm <br>Loved and mighty warrior.<br>2008-11-25 -- 2024-10-08](https://samsstory.s3.ca-central-1.amazonaws.com/2022-09-11_raven-lake-hike.jpg)
 :::
 
-We did it -- we got home. We split the trip up over a couple of days
-(Oct 18-19). There were periods of many tears on this journey and this
-is all so hard. Yet, we are doing it together -- allowing one another to
-grieve and cry.
+We did it -- we got home. We split the trip up over a couple of days (Oct 18-19). There were periods of many tears on this journey and this is all so
+hard. Yet, we are doing it together -- allowing one another to grieve and cry.
 
 We made it home this past Saturday afternoon.
 
 <!-- We were not sure if we wanted to go home straight away or if we wanted to try to ease-in by staying with my parents for a couple days... By the time we arrived in Prince George it was clear that we just wanted to be home.   -->
 
-Entering our house was one of the hardest things I have done. During
-that first hour of being here I thought I might break -- mentally/
-emotionally. After more than a year-and-a-half of fighting we were
-supposed to arrive home together -- the three of us.
+Entering our house was one of the hardest things I have done. During that first hour of being here I thought I might break -- mentally/ emotionally.
+After more than a year-and-a-half of fighting we were supposed to arrive home together -- the three of us.
 
 This hurts.
 
@@ -72,23 +76,16 @@ And everything in the house reminds us of him.*
 
 ### Paradox
 
-The mind is a funny thing. Yes, I felt like I would break. Everything
-here reminds me of Sam. Yet that which causes so much grief-pain is also
-so full of beauty for the precious memories that they represent. The
-picture of us hiking is a great example. I found it on Sunday as I was
-starting to unpack and clean up[^1]. Stumbling across pictures of Sam
-can cause intense waves of grief -- he is gone and we cannot get him
-back. This picture represents Sam when he was so strong a time before
-any of this ever happened. It hints at what could have been.
+The mind is a funny thing. Yes, I felt like I would break. Everything here reminds me of Sam. Yet that which causes so much grief-pain is also so full
+of beauty for the precious memories that they represent. The picture of us hiking is a great example. I found it on Sunday as I was starting to unpack
+and clean up[^1]. Stumbling across pictures of Sam can cause intense waves of grief -- he is gone and we cannot get him back. This picture represents
+Sam when he was so strong a time before any of this ever happened. It hints at what could have been.
 
-[^1]: Unpacking and cleaning up is not just from this trip but from the
-    others when we thought we were returning home. Since April of 2023
-    we have lived in our own house a total of 15 days. And when we left
-    back then we did not leave the house in-order.
+[^1]: Unpacking and cleaning up is not just from this trip but from the others when we thought we were returning home. Since April of 2023 we have
+    lived in our own house a total of 15 days. And when we left back then we did not leave the house in-order.
 
-This picture also holds such precious memories and reminds us of
-beautiful times. Times of joy and adventure as a family, and good times
-with friends. It reminds us of the love that we share.
+This picture also holds such precious memories and reminds us of beautiful times. Times of joy and adventure as a family, and good times with friends.
+It reminds us of the love that we share.
 
 Being home is a paradox.
 
@@ -101,66 +98,45 @@ Though there is pain and the tears still flow\
 
 ### Choices
 
-We are doing it. We are moving through our grief. I have no idea how
-long this will take. I only know that the waves come and sometimes very
-unexpectedly. Despite this ongoing grief-storm we are continuing to move
-forward together. Some of the choices that we are making include:
+We are doing it. We are moving through our grief. I have no idea how long this will take. I only know that the waves come and sometimes very
+unexpectedly. Despite this ongoing grief-storm we are continuing to move forward together. Some of the choices that we are making include:
 
 -   Never fear the tears.
 -   Be gentle with ourselves.
--   Accept the love offered. We are starting to engage. We have an
-    incredible community loving and supporting us.
--   Extend love. First to one another and then to those that enter our
-    lives.
+-   Accept the love offered. We are starting to engage. We have an incredible community loving and supporting us.
+-   Extend love. First to one another and then to those that enter our lives.
 -   Keep taking steps -- sometimes literally.
 -   Keep getting outside for activity -- accept the warmth of the sun.
 
-Finally, we make the choice each day: *We're going to have a great day!
-Oh Yeah!*
-
-
+Finally, we make the choice each day: *We're going to have a great day! Oh Yeah!*
 
 ## Victories and Heart Aches
 
--   Our hearts ache. We are committed to moving forward but this is hard
-    work.
+-   Our hearts ache. We are committed to moving forward but this is hard work.
 
--   We are thankful for the extraordinary effort of friends and family
-    to gather around us to care for us.
+-   We are thankful for the extraordinary effort of friends and family to gather around us to care for us.
 
--   We are thankful for many messages of care and solidarity with us as
-    we grieve.
+-   We are thankful for many messages of care and solidarity with us as we grieve.
 
--   We are thankful for many special messages reflecting what Sam has
-    meant to people.
+-   We are thankful for many special messages reflecting what Sam has meant to people.
 
 -   We are thankful for the simple precious moments we had with Sam.
 
 -   Thankful for great times, especially for Sam:
 
-    -   [Cedars](https://cedars.bc.ca) Grade 11 trip (Sept 8-11): Our
-        soul-hearts have been refreshed! Filled with the love of
-        friendship. It was incredible to see Sam have time with his
-        friends from school. The students and the leaders from Cedars
-        have lifted/blessed all three of us.
-    -   It was amazing to see Sam join the [Ness Lake Bible
-        Camp](https://www.nesslakebiblecamp.com) team (July 28 - 31) .
-        He served, ran, talked, played -- he got to be fully there! Many
-        thanks to the NLBC team who welcomed him in. When Sam needs to
-        think of a happy place he returns here in his mind and he is
-        quick to share stories of these days.
+    -   [Cedars](https://cedars.bc.ca) Grade 11 trip (Sept 8-11): Our soul-hearts have been refreshed! Filled with the love of friendship. It was
+        incredible to see Sam have time with his friends from school. The students and the leaders from Cedars have lifted/blessed all three of us.
+    -   It was amazing to see Sam join the [Ness Lake Bible Camp](https://www.nesslakebiblecamp.com) team (July 28 - 31) . He served, ran, talked,
+        played -- he got to be fully there! Many thanks to the NLBC team who welcomed him in. When Sam needs to think of a happy place he returns here
+        in his mind and he is quick to share stories of these days.
 
--   We are thankful to the medical team here at [BC Childrens'
-    Hospital](http://www.bcchildrens.ca). Sam never lacked for
-    incredible care.
+-   We are thankful to the medical team here at [BC Childrens' Hospital](http://www.bcchildrens.ca). Sam never lacked for incredible care.
 
 -   We are thankful for all the days that we lived at RMH.\
-    It was a gift to have a place to stay so close to the hospital. The
-    [Ronald McDonald House (RMH)](https://rmhbc.ca) provided us a home
-    away from home. This place is an amazing example of charity at work.
+    It was a gift to have a place to stay so close to the hospital. The [Ronald McDonald House (RMH)](https://rmhbc.ca) provided us a home away from
+    home. This place is an amazing example of charity at work.
 
--   Thankful for such supportive family and friends caring for us all
-    through this journey.
+-   Thankful for such supportive family and friends caring for us all through this journey.
 
 -   ~~We long for the day when~~\
     Our hearts ache. We grieve. Yet Sam is free of disease.

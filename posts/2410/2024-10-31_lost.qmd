@@ -20,22 +20,50 @@ knitr:
     echo: false
 ---
 
-::: {.callout-note}
-## Memorial/ Celebration-of-Life Planning
+:::: callout-note
+## Celebration-of-Life Planning/ Memorial
 
-- On **Saturday Nov. 23^rd^** we will have a celebration-of-life/ memorial service for Sam.
-- This will take place at Westwood Church here in Prince George ([map](https://maps.app.goo.gl/YXfR4512soWxknwc8)).
-- A legacy fund in honour of Sam is being
-    established for those who would like to give gifts.
++-------------------------------------------------------------------------------------------------------+--------------------------------------------+
+| -   **WHEN**: On **Saturday Nov. 23^rd^** at **2:00pm** we will have a celebration-of-life/           | ::: {style="min-width:120px"}              |
+|     memorial service for Sam.                                                                         | :::                                        |
+|                                                                                                       |                                            |
+| -   **WHERE**: This will take place at **Westwood Church** here in Prince George.                     | ::: center                                 |
+|     ([map](https://maps.app.goo.gl/YXfR4512soWxknwc8)).                                               | [Memories](/memories.qmd){.btn             |
+|                                                                                                       | .btn-primary .mt-3 role="memories"         |
+| -   A <a href="/legacy.html">legacy fund</a> in honour of Sam is being established for those who      | data-toggle="tooltip"                      |
+|     would like to give gifts.                                                                         | title="Share your memories of Sam"}        |
+|                                                                                                       |                                            |
+| -   Please share with us your [memories](/memories.html) of Sam.                                      | <a href="                                  |
+|                                                                                                       | /legacy.html" class="btn btn-primary mt-3" |
+| *Note: It is our intent to have this time live streamed and recorded.*                                | role="legacy" data-toggle="tooltip"        |
+|                                                                                                       | title="Consider giving">Legacy Fund</a>    |
+|                                                                                                       | :::                                        |
++-------------------------------------------------------------------------------------------------------+--------------------------------------------+
 
-:::{.center}
-All are welcome\
-*Time and additional details to be determined.*
+::: center
+All are welcome<br/>*Additional details to follow*
 :::
+::::
+## Loss 
 
-:::
+We have suffered from an incredible loss.  Rather, we are suffering from the incredible loss of Sam.  
+The waves analogy still holds true.  This morning I was doing well but by the afternoon I was a mess -- 
+Tina is having similar experiences. I am glad that generally we are not both under the waves of 
+grief at the same time.  
 
-## Lost 
+There are many times that all of this grief leaves us simply feeling -- lost. 
+
+
+## Lost
+
+
+### Sam's lost moment 
+
+
+
+
+## New paths
+
 
 
 

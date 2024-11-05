@@ -10,7 +10,7 @@ website:
   navbar:
     right:
       - href: ./index.html
-        text: Home
+        text: Memorial
       - href: ./timeline.html
         text: Timeline
       #- href: ./plan.qmd

@@ -145,3 +145,12 @@ had.
     -   Program
     -   Memories of Sam Form
 :::
+
+
+::: {.callout-note}
+## Reception Ideas 
+
+-   Oreo cookies 
+-   Candy Buffet
+
+:::
