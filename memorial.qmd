@@ -2,6 +2,7 @@
 title: "Samuel Chisholm"
 subtitle: "Much Loved ... Beloved"
 date: 2024-11-25
+date-modified: 2024-11-10
 draft: true
 draft-mode: unlink
 # author: Colin C.
@@ -28,7 +29,6 @@ editor:
 
 # DRAFT Order of Service
 
-
 ## Outline
 
 1.  Welcome -- Invitation
@@ -48,10 +48,28 @@ editor:
     your care; ... *more*
 :::
 
++------------+--------------------------------------------+-----------+
+| Activity   | Description                                | Who       |
++============+============================================+==========:+
+| P          | Option: Use memories submitted             | Colin     |
+| re-service |                                            |           |
+| Slideshow  |                                            | Tech team |
++------------+--------------------------------------------+-----------+
+| Welcome    | -   Invite                                 | Pastor    |
+|            | -   Review order of service -- or          | Rob       |
+|            |     highlight where it is printed          |           |
+|            | -   Simple short prayer of comfort         |           |
++------------+--------------------------------------------+-----------+
+|            |                                            |           |
++------------+--------------------------------------------+-----------+
+|            |                                            |           |
++------------+--------------------------------------------+-----------+
+|            |                                            |           |
++------------+--------------------------------------------+-----------+
+|            |                                            |           |
++------------+--------------------------------------------+-----------+
+
 -   Pastor Rob Dyck
-    -   Invite
-    -   Review order of service -- or highlight where it is printed
-    -   Simple short prayer of comfort
 
 ## Much loved Mighty Warrior
 
@@ -65,6 +83,15 @@ This section is focused in and back. It focuses on our time with Sam:
 -   How we honour him -- for his battle fought
 -   What he loved ... can be a segue to Beloved
 :::
+
+| Activity | Description | Who |
+|----------|-------------|----:|
+|          |             |     |
+|          |             |     |
+|          |             |     |
+|          |             |     |
+|          |             |     |
+|          |             |     |
 
 -   Slide Show? (song background)
 -   Songs?
@@ -87,6 +114,15 @@ had.
 -   How we are all Beloved
 -   How then should we live?
 :::
+
+| Activity | Description | Who |
+|----------|-------------|----:|
+|          |             |     |
+|          |             |     |
+|          |             |     |
+|          |             |     |
+|          |             |     |
+|          |             |     |
 
 -   scripture
 -   Speakers
@@ -118,7 +154,6 @@ had.
     -   Closing benediction
         -   Numbers? Lord bless you?...
         -   ???
-   
 
 ::: callout-warning
 ## Needs and Actions
@@ -146,11 +181,29 @@ had.
     -   Memories of Sam Form
 :::
 
+::: callout-note
+## Reception Ideas
 
-::: {.callout-note}
-## Reception Ideas 
+Sylvia (and Del) Reinheimner – will be the point people to coordinate
+Reception.
 
--   Oreo cookies 
+### Main Reception
+
+-   Tables along the outside walls of the lobby/foyer.
+
+-   Sam's favorite food and chocolate/candies.
+
+    -   Oreo cookies
+    -   coffee crisp
+    -   sour patch kids
+    -   salt and vinegar
+    -   
+
+-   Use the MealTrain contact list to provide food for the reception.
+
+### Youth Reception
+
+-   Youth centre will be used as overflow seating.
+
 -   Candy Buffet
-
 :::
