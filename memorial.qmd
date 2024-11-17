@@ -2,7 +2,7 @@
 title: "Samuel Chisholm"
 subtitle: "Much Loved ... Beloved"
 date: 2024-11-25
-date-modified: 2024-11-10
+date-modified: 2024-11-14
 draft: true
 draft-mode: unlink
 # author: Colin C.
@@ -48,23 +48,31 @@ editor:
 -   The family is thankful that you are here -- to honour Sam; to extend your care; ... *more*
 :::
 
-+-----------------------+-------------------------------------------------+-----------------------+
-| Activity              | Description                                     | Who                   |
-+=======================+=================================================+======================:+
-| Pre-service Slideshow | Option: Use memories submitted                  | Colin                 |
-|                       |                                                 |                       |
-|                       |                                                 | Tech team             |
-+-----------------------+-------------------------------------------------+-----------------------+
-| Welcome               | -   Invite (see above). Invite those online and | Pastor Rob            |
-|                       |     those in the overflow room.                 |                       |
-|                       | -   Review order of service -- or highlight     |                       |
-|                       |     where it is printed                         |                       |
-|                       | -   Simple short prayer of comfort              |                       |
-+-----------------------+-------------------------------------------------+-----------------------+
-|                       |                                                 |                       |
-+-----------------------+-------------------------------------------------+-----------------------+
 
-{{< pagebreak >}} \## Much loved Mighty Warrior
+\ \ 
+
++-----------------------+------------------------------------------------+-----------------------+
+| Activity              | Description                                    | Who                   |
++=======================+================================================+======================:+
+| Pre-service Slideshow | Option: Use memories submitted                 | Colin                 |
+|                       |                                                |                       |
+|                       |                                                | Tech team             |
++-----------------------+------------------------------------------------+-----------------------+
+| Welcome               | -   Invite (see above). Invite those online    | Pastor Rob            |
+|                       |     and those in the overflow room.            |                       |
+|                       | -   Review order of service -- or highlight    |                       |
+|                       |     where it is printed                        |                       |
+|                       | -   Simple short prayer of comfort             |                       |
++-----------------------+------------------------------------------------+-----------------------+
+|                       |                                                |                       |
++-----------------------+------------------------------------------------+-----------------------+
+
+{{< pagebreak >}}
+
+`  `
+
+
+## Much loved Mighty Warrior
 
 ::: callout-note
 ### Much loved -- concepts
@@ -76,29 +84,44 @@ This section is focused on how Sam was loved – human love. It focuses on our t
 -   What he loved ... can be a segue to Beloved
 :::
 
-+----------------------+-------------------------------------------------+----------------------+
-| Activity             | Description                                     | Who                  |
-+======================+=================================================+=====================:+
-| Scripture ???        | Psalm 141                                       | FRIEND(s)?           |
-|                      |                                                 |                      |
-|                      |                                                 | Kelsey Fricker??     |
-+----------------------+-------------------------------------------------+----------------------+
-| Slide Show           | Show of Sam's life. Emphasis on how he was      | Colin, Tina to       |
-|                      | loved.                                          | review               |
-|                      |                                                 |                      |
-|                      | *Ac. Set to music*                              |                      |
-+----------------------+-------------------------------------------------+----------------------+
-| FRIEND Memory        |                                                 | David Hillhouse      |
-+----------------------+-------------------------------------------------+----------------------+
-| FRIEND Memory        |                                                 | Chase Cross          |
-+----------------------+-------------------------------------------------+----------------------+
-| Family Memories      | Kevin shares how Sam was much loved and some    | Kevin Fricker        |
-|                      | memories of our family                          |                      |
-+----------------------+-------------------------------------------------+----------------------+
-| Songs ???            | *Do we want songs here?*                        | Joel Cross           |
-+----------------------+-------------------------------------------------+----------------------+
-|                      |                                                 |                      |
-+----------------------+-------------------------------------------------+----------------------+
+
+\ \ 
+
+
++-----------------------+------------------------------------------------+-----------------------+
+| Activity              | Description                                    | Who                   |
++=======================+================================================+======================:+
+| Scripture ???         | Psalm 141                                      | Kaden Fricker\        |
+|                       |                                                | *cousin*              |
++-----------------------+------------------------------------------------+-----------------------+
+| Slide Show            | Show of Sam's life. Emphasis on how he was     | Colin, Tina to review |
+|                       | loved.                                         |                       |
+|                       |                                                | Kelsey and Shannon    |
+|                       | *Ac. Live Songs*                               | Fricker\              |
+|                       |                                                | *cousin and aunt*     |
++-----------------------+------------------------------------------------+-----------------------+
+| Tributes              | Friends                                        | David Hillhouse       |
++-----------------------+------------------------------------------------+-----------------------+
+|                       |                                                | Caleb Cross           |
++-----------------------+------------------------------------------------+-----------------------+
+|                       |                                                | Ben Claus ???         |
++-----------------------+------------------------------------------------+-----------------------+
+|                       |                                                | Hunter Lodge ???      |
++-----------------------+------------------------------------------------+-----------------------+
+|                       |                                                | John Bandsta ???      |
++-----------------------+------------------------------------------------+-----------------------+
+|                       | *video*                                        | Chase Cross           |
++-----------------------+------------------------------------------------+-----------------------+
+|                       | Family                                         | Kevin Fricker\        |
+|                       |                                                | *uncle*               |
++-----------------------+------------------------------------------------+-----------------------+
+|                       |                                                | Jane Townsend ???\    |
+|                       |                                                | *cousin*              |
++-----------------------+------------------------------------------------+-----------------------+
+| ~~Songs ???~~         |                                                | ~~Joel Cross~~        |
++-----------------------+------------------------------------------------+-----------------------+
+
+
 
 ```{=html}
 <!-- -   Slide Show? (song background)
@@ -111,7 +134,11 @@ This section is focused on how Sam was loved – human love. It focuses on our t
 -   Song(s) -->
 ```
 
-{{< pagebreak >}} \## Beloved
+{{< pagebreak >}} 
+
+<!--  -->
+
+## Beloved
 
 ::: callout-note
 ### Beloved -- concepts
@@ -124,30 +151,31 @@ that Sam had.
 -   How then should we live?
 :::
 
-+-----------------------+-------------------------------------------------+-----------------------+
-| Activity              | Description                                     | Who                   |
-+=======================+=================================================+======================:+
-|                       |                                                 |                       |
-+-----------------------+-------------------------------------------------+-----------------------+
-| Slideshow             | Focus on the cancer battle. Sam as a mighty     | Colin and Tina        |
-|                       | warrior. Key character traits that we saw       |                       |
-|                       | develop in him.                                 |                       |
-+-----------------------+-------------------------------------------------+-----------------------+
-| Beloved of God        | Sam as Beloved                                  | Cal Townsend          |
-|                       |                                                 |                       |
-|                       | All as Beloved                                  |                       |
-+-----------------------+-------------------------------------------------+-----------------------+
-| Scripture             | How then should we live                         | Kaden Fricker???\     |
-|                       |                                                 | Family member         |
-|                       | Micah 6:8; ???                                  |                       |
-+-----------------------+-------------------------------------------------+-----------------------+
-| Thoughts              | How then should we live? If Sam was Beloved and | ???                   |
-|                       | we are all Beloved.                             |                       |
-+-----------------------+-------------------------------------------------+-----------------------+
-| Songs ???             | ??? Celebration 'camp songs'                    | Joel Cross            |
-+-----------------------+-------------------------------------------------+-----------------------+
-|                       |                                                 |                       |
-+-----------------------+-------------------------------------------------+-----------------------+
+\ \ 
+
+
++-----------------------+------------------------------------------------+-----------------------+
+| Activity              | Description                                    | Who                   |
++=======================+================================================+======================:+
+|                       |                                                |                       |
++-----------------------+------------------------------------------------+-----------------------+
+| Slideshow\            | Focus on the cancer battle. Sam as a mighty    | Colin and Tina        |
+| *Mighty Warrior*      | warrior. Key character traits that we saw      |                       |
+|                       | develop in him.                                |                       |
++-----------------------+------------------------------------------------+-----------------------+
+| Scripture             | Phil 3                                         | ???                   |
++-----------------------+------------------------------------------------+-----------------------+
+| Mother's Message      | Tina's thoughts on Sam                         | Tina Chisholm         |
++-----------------------+------------------------------------------------+-----------------------+
+| Beloved of God        | Sam as Beloved                                 | Cal Townsend\         |
+|                       |                                                | *uncle*               |
+|                       | All as Beloved                                 |                       |
++-----------------------+------------------------------------------------+-----------------------+
+| Thoughts              | How then should we live? If Sam was Beloved    | ???                   |
+|                       | and we are all Beloved.                        |                       |
++-----------------------+------------------------------------------------+-----------------------+
+|                       |                                                |                       |
++-----------------------+------------------------------------------------+-----------------------+
 
 ```{=html}
 <!-- -   scripture
@@ -157,7 +185,11 @@ that Sam had.
 -   Celebration songs (Camp Songs) -->
 ```
 
-{{< pagebreak >}} \## Closing
+{{< pagebreak >}} 
+
+<!--  -->
+
+## Closing
 
 ::: callout-note
 ## Purpose
@@ -170,48 +202,57 @@ that Sam had.
 -   Invite to reception
 :::
 
-+-----------------------+-------------------------------------------------+-----------------------+
-| Activity              | Description                                     | Who                   |
-+=======================+=================================================+======================:+
-| Announcements         | -   Gifts – Sam's legacy fund explained:        | Rob                   |
-|                       |     -   Purpose, description, and management    |                       |
-|                       |     -   Table in foyer                          |                       |
-|                       |     -   Web Form                                |                       |
-|                       | -   Reception and Youth Reception               |                       |
-+-----------------------+-------------------------------------------------+-----------------------+
-| Charge to\            | -   Grief does not end here                     | Rob                   |
-| Friends and Family    | -   Continue to support Colin and Tina          |                       |
-|                       | -   Continue to support one another             |                       |
-|                       | -   It still hurts and likely will for some     |                       |
-|                       |     time                                        |                       |
-+-----------------------+-------------------------------------------------+-----------------------+
-| Benediction           | Numbers? ???                                    | Rob                   |
-+-----------------------+-------------------------------------------------+-----------------------+
+\ \ 
 
-{{< pagebreak >}} ::: callout-warning \## Needs and Actions
++-----------------------+------------------------------------------------+-----------------------+
+| Activity              | Description                                    | Who                   |
++=======================+================================================+======================:+
+| Announcements         | -   Gifts – Sam's legacy fund explained:       | Rob                   |
+|                       |     -   Purpose, description, and management   |                       |
+|                       |     -   Table in foyer                         |                       |
+|                       |     -   Web Form                               |                       |
+|                       | -   Reception and Youth Reception              |                       |
++-----------------------+------------------------------------------------+-----------------------+
+| Charge to\            | -   Grief does not end here                    | Rob                   |
+| Friends and Family    | -   Continue to support Colin and Tina         |                       |
+|                       | -   Continue to support one another            |                       |
+|                       | -   It still hurts and likely will for some    |                       |
+|                       |     time                                       |                       |
++-----------------------+------------------------------------------------+-----------------------+
+| Benediction           | Numbers? ???                                   | Rob                   |
++-----------------------+------------------------------------------------+-----------------------+
+| Songs ???             | ??? Celebration 'camp songs'\                  | Joel Cross            |
+|                       | *as an exit*                                   |                       |
++-----------------------+------------------------------------------------+-----------------------+
+
+{{< pagebreak >}}
+
+::: callout-warning
+## Needs and Actions
 
 -   Review and refinement of this outline
     -   Tina
     -   Kevin
     -   Cal
-    -   Gradparents
+    -   Grandparents
     -   Rob D.
 -   Westwood and Friends:
-    -   Pastor Rob -- coordination of events
-    -   Ushers – *COUSINS?*
-    -   Reception – *Sylvia and Del R. will coordinate.*\
+    -   ~~Pastor Rob -- coordination of events~~ _confirmed_
+    -   ~~Ushers – *COUSINS?*~~ _confirmed_
+    -   ~~Reception – *Sylvia and Del R. will coordinate.~~ *confirmed*
         *Can Nolan coordinate the youth reception*
-    -   ~~Childcare?~~
+    -   ~~Childcare?~~ _dropped_
     -   Sound/Tech coordination?
-    -   Songs – embed into the slide shows?
--   What songs to sing? And who to lead them (Joel?)?
+    -   Songs – embed into the slide shows? or Kelsey sings?
+-   What songs to sing? And who to lead them (Joel?)? _lack of time_
 -   What scriptures to be read and who to read them (friends?)?
 -   Printing of Program
 -   Website:
     -   Update Memorial News
-    -   Legacy Fund -- page to outline purpose
+    -   ~~Legacy Fund -- page to outline purpose~~ _complete_
     -   Program
-    -   Memories of Sam Form :::
+    -   ~~Memories of Sam Form~~ _complete_
+:::
 
 ::: callout-note
 ## Reception Ideas
@@ -221,7 +262,7 @@ for the youth?
 
 ### Main Reception
 
--   Tables along the outside walls of the lobby/foyer.
+-   Tables along the outside walls of the lobby/foyer. ???
 
 -   Sam's favourite food and chocolate/candies.
 

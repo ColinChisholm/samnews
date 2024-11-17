@@ -33,19 +33,29 @@ editor:
 |                                                                                                       |                                            |
 | -   **WHERE**: This will take place at **Westwood Church** here in Prince George                      | ::: center                                 |
 |     ([map](https://maps.app.goo.gl/YXfR4512soWxknwc8)).                                               | [Memories](memories.qmd){.btn .btn-primary |
-|                                                                                                       | .mt-3 role="memories"                      |
+|                                                                                                       | .mt-1 role="memories"                      |
 | -   A <a href="./legacy.html">legacy fund</a> in honour of Sam is being established for those who     | data-toggle="tooltip"                      |
 |     would like to give gifts.                                                                         | title="Share your memories of Sam"}        |
 |                                                                                                       |                                            |
 | -   Please share with us your [memories](memories.qmd) of Sam.                                        | <a href=".                                 |
-|                                                                                                       | /legacy.html" class="btn btn-primary mt-3" |
-| -   *Note: It is our intent to have this time live streamed and recorded.*                            | role="legacy" data-toggle="tooltip"        |
-|                                                                                                       | title="Consider giving">Legacy Fund</a>    |
+|                                                                                                       | /legacy.html" class="btn btn-primary mt-1" |
+| -   *Live Streaming of the service via [Westwood Church's YouTube Channel                             | role="legacy" data-toggle="tooltip"        |
+|     (HERE)](https://www.youtube.com/@WestwoodChurch/streams).*                                        | title="Consider giving">Legacy Fund</a>    |
+|                                                                                                       |                                            |
+|                                                                                                       | <a                                         |
+|                                                                                                       |  href="https://www.youtube.com/@WestwoodCh |
+|                                                                                                       | urch/streams" class="btn btn-primary mt-1" |
+|                                                                                                       | role="memori" data-toggle="tooltip"        |
+|                                                                                                       | title="Live Video of the Memorial          |
+|                                                                                                       | Service"                                   |
+|                                                                                                       | style="background-color:#18bc9c">          |
+|                                                                                                       | Memorial<br/>                              |
+|                                                                                                       | Service LIVE</a>                           |
 |                                                                                                       | :::                                        |
 +-------------------------------------------------------------------------------------------------------+--------------------------------------------+
 
 ::: center
-All are welcome<br/>*Additional details to follow*
+*All are welcome*
 :::
 ::::
 
@@ -106,8 +116,8 @@ In this intense time we need:
 -   You to come close to us. We need to know you are with us. Practically speaking send us your notes of love and encouragement.\
     Don't think that we are getting too many messages. We might not have capacity to respond but we will read them all.
 -   In the face of fear choose courage. We are. Sam certainly did. <!-- -   Encourage Sam's friends to reach out to him. Send him notes and
-                                                    pictures. They can likely find him on SnapChat. Many thanks to those
-                                                    that do! -->
+                                                            pictures. They can likely find him on SnapChat. Many thanks to those
+                                                            that do! -->
 :::
 
 ::: {.callout-tip appearance="minimal" icon="false"}
