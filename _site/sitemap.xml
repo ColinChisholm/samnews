@@ -230,7 +230,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/index.html</loc>
-    <lastmod>2024-11-17T02:24:09.015Z</lastmod>
+    <lastmod>2024-11-19T06:24:05.545Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/devos/mark_16/mark-16-09.html</loc>
@@ -1019,5 +1019,9 @@
   <url>
     <loc>http://samc-news.netlify.app/posts/2411/2024-11-04_hard-good.html</loc>
     <lastmod>2024-11-17T02:30:21.383Z</lastmod>
+  </url>
+  <url>
+    <loc>http://samc-news.netlify.app/posts/2411/2024-11-18_still-hard.html</loc>
+    <lastmod>2024-11-19T06:11:36.417Z</lastmod>
   </url>
 </urlset>

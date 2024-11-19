@@ -1,28 +1,23 @@
 ---
-title: "Cancer journey ... and beyond ..."
-# author: Colin C.
-listing:
-  contents: posts
-  filter-ui: false
-  fields: [image, date, title, author, categories, description]
-  sort: "date desc"
-  sort-ui: true
-  type: default
-  categories: false
-  feed: true
-  page-size: 10
+title: "Still Hard"
+description: "Losing Sam is the hardest event of our lives ... and it remains so."
+author: Colin C.
+date: 2024-11-18
+categories: [grief]
+image: https://samsstory.s3.ca-central-1.amazonaws.com/2009-12-29_family-pg.jpg
+lightbox: true
+draft: false
+# draft-mode: unlinked
+editor: 
+  markdown: 
+    wrap: 150
 knitr: 
   opts_chunk: 
     eval: true
     message: false
     warning: false
     echo: false
-editor: 
-  markdown: 
-    wrap: 150
 ---
-
-# In Memory
 
 :::: callout-note
 ## Celebration-of-Life Planning/ Memorial
@@ -32,12 +27,12 @@ editor:
 |     service for Sam. *All are welcome.*                                                               | :::                                        |
 |                                                                                                       |                                            |
 | -   **WHERE**: This will take place at **Westwood Church** here in Prince George                      | ::: center                                 |
-|     ([map](https://maps.app.goo.gl/YXfR4512soWxknwc8)).                                               | [Memories](memories.qmd){.btn .btn-primary |
-|                                                                                                       | .mt-1 role="memories"                      |
-| -   A <a href="./legacy.html">legacy fund</a> in honour of Sam is being established for those who     | data-toggle="tooltip"                      |
+|     ([map](https://maps.app.goo.gl/YXfR4512soWxknwc8)).                                               | [Memories](/memories.qmd){.btn             |
+|                                                                                                       | .btn-primary .mt-1 role="memories"         |
+| -   A <a href="/legacy.html">legacy fund</a> in honour of Sam is being established for those who      | data-toggle="tooltip"                      |
 |     would like to give gifts.                                                                         | title="Share your memories of Sam"}        |
 |                                                                                                       |                                            |
-| -   Please share with us your [memories](memories.qmd) of Sam.                                        | <a href=".                                 |
+| -   Please share with us your [memories](/memories.qmd) of Sam.                                       | <a href="                                  |
 |                                                                                                       | /legacy.html" class="btn btn-primary mt-1" |
 | -   *Live Streaming of the service via [Westwood Church's YouTube Channel                             | role="legacy" data-toggle="tooltip"        |
 |     (HERE)](https://www.youtube.com/@WestwoodChurch/streams).*                                        | title="Consider giving">Legacy Fund</a>    |
@@ -49,96 +44,35 @@ editor:
 |                                                                                                       | title="Live Video of the Memorial          |
 |                                                                                                       | Service"                                   |
 |                                                                                                       | style="background-color:#18bc9c">          |
-|                                                                                                       | Memorial<br/>                              |
-|                                                                                                       | Service LIVE</a>                           |
+|                                                                                                       | Memorial<br/> Service LIVE</a>             |
 |                                                                                                       | :::                                        |
 +-------------------------------------------------------------------------------------------------------+--------------------------------------------+
 
 ::: center
-*All are welcome*
+All are welcome
 :::
 ::::
 
-::::::: {.callout-important icon="false"}
-# Death of our Mighty Warrior
-
-*Oct. 8, 2024. Our most loved mighty warrior has gone to be with Jesus.*
-
-:::::: {layout="[35, 35, 30]"}
-::: {#txt-left}
-Today, in the early morning\
-   Tina and I sat with Sam.\
-
-Despite his body being\
-  racked with disease\
-  and his near inability to communicate,
-
-We had a beautiful time of sharing with him.\
-
-We expressed our love,\
-  our pride,\
-  the joy of life that we had with him.
-:::
-
-::: {txt-mid}
-\
-In that time\
-We gave him the freedom\
-  to let go,\
-  to move on.
-
-Tina and I saw it.\
-The precise moment, 7:10am, that\
-He moved beyond our reach.\
-  without fear\
-  without pain or suffering.
-
-Courageously he let go of us.\
-  And jumped into the eternal\
-   Love of God.
-:::
-
-::: {#pic-right}
-<!-- ::: {.float-sm-end} -->
-
-![Samuel Justin Colin Chisholm <br>Loved and mighty warrior.<br>2008-11-25 --
-2024-10-08](https://samsstory.s3.ca-central-1.amazonaws.com/2024-09-08_sam-waits-4-cedars-portrait.jpg)
-:::
-::::::
-:::::::
-
-::::: {layout="[60, 40]"}
-::: {.callout-warning icon="false"}
-## What we need
-
-In this intense time we need:
-
--   You to come close to us. We need to know you are with us. Practically speaking send us your notes of love and encouragement.\
-    Don't think that we are getting too many messages. We might not have capacity to respond but we will read them all.
--   In the face of fear choose courage. We are. Sam certainly did. <!-- -   Encourage Sam's friends to reach out to him. Send him notes and
-                                                            pictures. They can likely find him on SnapChat. Many thanks to those
-                                                            that do! -->
-:::
-
-::: {.callout-tip appearance="minimal" icon="false"}
-For an overview of this journey see the [timeline](./timeline.html).
-
-Don't have our contact information and want to reach us? Use [this form](/contact.html). <br />*Note: if you do know how to reach us, use our email,
-or message us (no need to use the form).*
-:::
-:::::
+<!-- ## Photo memories -->
 
 ```{=html}
-<!-- We would like to see people. Please make a plan with us to do so.
+<!-- :::::: {layout-ncol="3"}
+::: {#pic1}
+![Late December of 2009. Out for a walk near our house in Prince George.](https://samsstory.s3.ca-central-1.amazonaws.com/2009-12-29_family-pg.jpg)
+:::
 
-Visitation status: **call ahead**. -->
+::: {#pic2}
+![August of 2016. Family vacation in Jasper. We paused for a photo near the banks of the Athabasca
+River.](https://samsstory.s3.ca-central-1.amazonaws.com/2017-08-01_family-athabasca.jpg)
+:::
+
+::: {#pic3}
+![This past April when we still had hope that we would see Sam though his cancer war. Under the cherry blossoms near BC Children's
+Hospital.](https://samsstory.s3.ca-central-1.amazonaws.com/2024-04-01_family-cherry-blossom.jpg)
+:::
+::::::
+ -->
 ```
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# Post: Still Hard
-
-_Nov. 18, 2024_
 
 ## Good pride
 
@@ -192,7 +126,7 @@ Despite the pain. Despite the sadness. We are moving forward. We are caring for 
 *We are going to have a great day -- O Yeah!* [^1]
 :::
 
-[^1]: see our post: [*On Grief, Courage, and Love*](./posts/2410/2024-10-12_love-courage.qmd)
+[^1]: see our post: [*On Grief, Courage, and Love*](../2410/2024-10-12_love-courage.qmd)
 
 And we do.
 
@@ -233,54 +167,3 @@ We choose to do what Sam did: Be strong and courageous, choose joy, and give lov
 
 -   ~~We long for the day when~~\
     Our hearts ache. We grieve. Yet Sam is free of disease.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-::: {.callout-note icon="false"}
-### Oncology Families
-
-A special note to all of the families that we have travelled with -- to those in their own storms.
-
-Know that we stand with you.
-
--   We will celebrate each of your wins -- we hope and pray your warriors have a lifetime of wins.
-
--   Should you ever find yourselves on a path of grief -- we will grieve with you. I hope you never have to travel this path. Yet I know some will.
-    And you will not be alone.
-:::
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# Support
-
-::: callout-important
-## Become a donor
-
-[![](https://www.blood.ca/themes/custom/cbs_bootstrap_sass/CBS_Logo_descriptors_RGB-WhiteBG.svg){style="\"max-width:80%"}](https://makeallthedifference.blood.ca/stem-cells-1/)
-
-Sam's life has been saved numerous times because people have donated blood or bone marrow. Consider becoming a donor. Perhaps you can save someone's
-life!
-:::
-
-## Financial Support
-
-Here we include options to provide financial support including: cancer research at the BC Children's Hospital, the Ronald McDonald House, Friends of
-Children (support for families from Northern BC), or to support us directly. We have been blown away by the generosity of so many. We also love the
-support provided in words of encouragement. Please feel free to [send us notes of encouragement](contact.html). It is impossible to thank you all
-enough.
-
-:::: {.support-container style="background-color: #fff"}
-::: {.support layout-ncol="2" style="background-color: #fff; padding-top:1.4em; padding-right:2em"}
-[![](/img/bc-childrens_logo.png)](http://www.bcchildrens.ca/donate)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/donate-legacy-button.png)](https://gofund.me/e060f5b6)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/rmdhbc.png)](https://rmhbc.ca)
-
-[![](https://samsstory.s3.ca-central-1.amazonaws.com/friends-of-children.png)](https://www.friendsofchildren.ca)
-:::
-::::
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# Previous Posts
