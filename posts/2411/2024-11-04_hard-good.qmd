@@ -35,17 +35,16 @@ knitr:
 | -   Please share with us your [memories](/memories.qmd) of Sam.                                       | <a href="                                  |
 |                                                                                                       | /legacy.html" class="btn btn-primary mt-1" |
 | -   *Live Streaming of the service via [Westwood Church's YouTube Channel                             | role="legacy" data-toggle="tooltip"        |
-|     (HERE)](https://www.youtube.com/@WestwoodChurch/streams).*                                        | title="Consider giving">Legacy Fund</a>    |
+|     ](https://live.westwoodchurch.bc.ca)[(HERE)](https://www.youtube.com/@WestwoodChurch/streams).*   | title="Consider giving">Legacy Fund</a>    |
 |                                                                                                       |                                            |
 |                                                                                                       | <a                                         |
-|                                                                                                       |  href="https://www.youtube.com/@WestwoodCh |
-|                                                                                                       | urch/streams" class="btn btn-primary mt-1" |
+|                                                                                                       |  href="https://live.westwood               |
+|                                                                                                       | church.bc.ca" class="btn btn-primary mt-1" |
 |                                                                                                       | role="memori" data-toggle="tooltip"        |
 |                                                                                                       | title="Live Video of the Memorial          |
 |                                                                                                       | Service"                                   |
 |                                                                                                       | style="background-color:#18bc9c">          |
-|                                                                                                       | Memorial<br/>                              |
-|                                                                                                       | Service LIVE</a>                           |
+|                                                                                                       | Memorial<br/> Service LIVE</a>             |
 |                                                                                                       | :::                                        |
 +-------------------------------------------------------------------------------------------------------+--------------------------------------------+
 
