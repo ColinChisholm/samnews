@@ -25,7 +25,7 @@ editor:
 # In Memory
 
 :::: callout-note
-## Celebration-of-Life Planning/ Memorial
+## Celebration-of-Life/ Memorial
 
 +-------------------------------------------------------------------------------------------------------+--------------------------------------------+
 | -   **WHEN**: On **Saturday Nov. 23^rd^** at **2:00pm** we will have a celebration-of-life/ memorial  | ::: {style="min-width:120px"}              |
@@ -42,15 +42,14 @@ editor:
 | -   *Live Streaming of the service via [Westwood Church's YouTube Channel                             | role="legacy" data-toggle="tooltip"        |
 |     (HERE)](https://www.youtube.com/@WestwoodChurch/streams).*                                        | title="Consider giving">Legacy Fund</a>    |
 |                                                                                                       |                                            |
-|                                                                                                       | <a                                         |
+| -   [The Program](./memorial.html)                                                                    | <a                                         |
 |                                                                                                       |  href="https://www.youtube.com/@WestwoodCh |
 |                                                                                                       | urch/streams" class="btn btn-primary mt-1" |
 |                                                                                                       | role="memori" data-toggle="tooltip"        |
 |                                                                                                       | title="Live Video of the Memorial          |
 |                                                                                                       | Service"                                   |
 |                                                                                                       | style="background-color:#18bc9c">          |
-|                                                                                                       | Memorial<br/>                              |
-|                                                                                                       | Service LIVE</a>                           |
+|                                                                                                       | Memorial<br/> Service LIVE</a>             |
 |                                                                                                       | :::                                        |
 +-------------------------------------------------------------------------------------------------------+--------------------------------------------+
 
@@ -116,8 +115,8 @@ In this intense time we need:
 -   You to come close to us. We need to know you are with us. Practically speaking send us your notes of love and encouragement.\
     Don't think that we are getting too many messages. We might not have capacity to respond but we will read them all.
 -   In the face of fear choose courage. We are. Sam certainly did. <!-- -   Encourage Sam's friends to reach out to him. Send him notes and
-                                                            pictures. They can likely find him on SnapChat. Many thanks to those
-                                                            that do! -->
+                                                                pictures. They can likely find him on SnapChat. Many thanks to those
+                                                                that do! -->
 :::
 
 ::: {.callout-tip appearance="minimal" icon="false"}
@@ -138,7 +137,7 @@ Visitation status: **call ahead**. -->
 
 # Post: Still Hard
 
-_Nov. 18, 2024_
+*Nov. 18, 2024*
 
 ## Good pride
 

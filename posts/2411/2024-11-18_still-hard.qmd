@@ -53,26 +53,7 @@ All are welcome
 :::
 ::::
 
-<!-- ## Photo memories -->
 
-```{=html}
-<!-- :::::: {layout-ncol="3"}
-::: {#pic1}
-![Late December of 2009. Out for a walk near our house in Prince George.](https://samsstory.s3.ca-central-1.amazonaws.com/2009-12-29_family-pg.jpg)
-:::
-
-::: {#pic2}
-![August of 2016. Family vacation in Jasper. We paused for a photo near the banks of the Athabasca
-River.](https://samsstory.s3.ca-central-1.amazonaws.com/2017-08-01_family-athabasca.jpg)
-:::
-
-::: {#pic3}
-![This past April when we still had hope that we would see Sam though his cancer war. Under the cherry blossoms near BC Children's
-Hospital.](https://samsstory.s3.ca-central-1.amazonaws.com/2024-04-01_family-cherry-blossom.jpg)
-:::
-::::::
- -->
-```
 
 ## Good pride
 
