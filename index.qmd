@@ -39,17 +39,17 @@ editor:
 |                                                                                                       |                                            |
 | -   Please share with us your [memories](memories.qmd) of Sam.                                        | <a href=".                                 |
 |                                                                                                       | /legacy.html" class="btn btn-primary mt-1" |
-| -   *Live Streaming of the service via [Westwood Church's YouTube Channel                             | role="legacy" data-toggle="tooltip"        |
-|     (HERE)](https://live.westwoodchurch.bc.ca).*                                                      | title="Consider giving">Legacy Fund</a>    |
+| -   *Recording of the Nov. 23^rd^ service via [Westwood Church's YouTube Channel                      | role="legacy" data-toggle="tooltip"        |
+|     (HERE)](https://www.youtube.com/watch?v=8Y0otu8pcxU).*                                            | title="Consider giving">Legacy Fund</a>    |
 |                                                                                                       |                                            |
 | -   [The Program](./memorial.html)                                                                    | <a                                         |
-|                                                                                                       |  href="https://live.westwoodc              |
-|                                                                                                       | hurch.bc.ca/" class="btn btn-primary mt-1" |
+|                                                                                                       |  href="https://www.youtube.com/watch?v     |
+|                                                                                                       | =8Y0otu8pcxU" class="btn btn-primary mt-1" |
 |                                                                                                       | role="memori" data-toggle="tooltip"        |
 |                                                                                                       | title="Live Video of the Memorial          |
 |                                                                                                       | Service"                                   |
-|                                                                                                       | style="background-color:#18bc9c">          |
-|                                                                                                       | Memorial<br/> Service LIVE</a>             |
+|                                                                                                       | style="background-color:#18bc9c">Video of  |
+|                                                                                                       | Memorial<br/> Service</a>                  |
 |                                                                                                       | :::                                        |
 +-------------------------------------------------------------------------------------------------------+--------------------------------------------+
 
@@ -115,8 +115,8 @@ In this intense time we need:
 -   You to come close to us. We need to know you are with us. Practically speaking send us your notes of love and encouragement.\
     Don't think that we are getting too many messages. We might not have capacity to respond but we will read them all.
 -   In the face of fear choose courage. We are. Sam certainly did. <!-- -   Encourage Sam's friends to reach out to him. Send him notes and
-                                                                    pictures. They can likely find him on SnapChat. Many thanks to those
-                                                                    that do! -->
+                                                                        pictures. They can likely find him on SnapChat. Many thanks to those
+                                                                        that do! -->
 :::
 
 ::: {.callout-tip appearance="minimal" icon="false"}
