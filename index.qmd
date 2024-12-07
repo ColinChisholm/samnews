@@ -24,25 +24,25 @@ editor:
 
 # In Memory
 
-:::: callout-note
+::: callout-note
 ## Celebration-of-Life/ Memorial
 
 +-------------------------------------------------------------------------------------------------------+--------------------------------------------+
-| -   **WHEN**: On **Saturday Nov. 23^rd^** at **2:00pm** we will have a celebration-of-life/ memorial  | ::: {style="min-width:120px"}              |
-|     service for Sam. *All are welcome.*                                                               | :::                                        |
+| The service we held on Nov. 23^rd^, 2024 at Westwood Church in Prince George. It was a beautiful      | ::: {style="min-width:120px"}              |
+| service with about 300 people attending in person and another \~300 attending online.                 | :::                                        |
 |                                                                                                       |                                            |
-| -   **WHERE**: This will take place at **Westwood Church** here in Prince George                      | ::: center                                 |
-|     ([map](https://maps.app.goo.gl/YXfR4512soWxknwc8)).                                               | [Memories](memories.qmd){.btn .btn-primary |
-|                                                                                                       | .mt-1 role="memories"                      |
-| -   A <a href="./legacy.html">legacy fund</a> in honour of Sam is being established for those who     | data-toggle="tooltip"                      |
-|     would like to give gifts.                                                                         | title="Share your memories of Sam"}        |
-|                                                                                                       |                                            |
-| -   Please share with us your [memories](memories.qmd) of Sam.                                        | <a href=".                                 |
+| -   *A recording of the service is available via [Westwood Church's YouTube Channel                   | ::: center                                 |
+|     (HERE)](https://www.youtube.com/watch?v=8Y0otu8pcxU).*                                            | [Share Memories](memories.qmd){.btn        |
+|                                                                                                       | .btn-primary .mt-1 role="memories"         |
+| -   [The Service's Program](./memorial.html) provides the list of speakers.                           | data-toggle="tooltip"                      |
+|                                                                                                       | title="Share your memories of Sam"}        |
+| -   A <a href="./legacy.html">legacy fund</a> in honour of Sam is being established for those who     |                                            |
+|     would like to give gifts.                                                                         | <a href=".                                 |
 |                                                                                                       | /legacy.html" class="btn btn-primary mt-1" |
-| -   *Recording of the Nov. 23^rd^ service via [Westwood Church's YouTube Channel                      | role="legacy" data-toggle="tooltip"        |
-|     (HERE)](https://www.youtube.com/watch?v=8Y0otu8pcxU).*                                            | title="Consider giving">Legacy Fund</a>    |
+| -   Please share with us your [memories](memories.qmd) of Sam.                                        | role="legacy" data-toggle="tooltip"        |
+|                                                                                                       | title="Consider giving">Legacy Fund</a>    |
 |                                                                                                       |                                            |
-| -   [The Program](./memorial.html)                                                                    | <a                                         |
+|                                                                                                       | <a                                         |
 |                                                                                                       |  href="https://www.youtube.com/watch?v     |
 |                                                                                                       | =8Y0otu8pcxU" class="btn btn-primary mt-1" |
 |                                                                                                       | role="memori" data-toggle="tooltip"        |
@@ -52,11 +52,7 @@ editor:
 |                                                                                                       | Memorial<br/> Service</a>                  |
 |                                                                                                       | :::                                        |
 +-------------------------------------------------------------------------------------------------------+--------------------------------------------+
-
-::: center
-*All are welcome*
 :::
-::::
 
 ::::::: {.callout-important icon="false"}
 # Death of our Mighty Warrior
@@ -115,8 +111,8 @@ In this intense time we need:
 -   You to come close to us. We need to know you are with us. Practically speaking send us your notes of love and encouragement.\
     Don't think that we are getting too many messages. We might not have capacity to respond but we will read them all.
 -   In the face of fear choose courage. We are. Sam certainly did. <!-- -   Encourage Sam's friends to reach out to him. Send him notes and
-                                                                        pictures. They can likely find him on SnapChat. Many thanks to those
-                                                                        that do! -->
+                                                                                pictures. They can likely find him on SnapChat. Many thanks to those
+                                                                                that do! -->
 :::
 
 ::: {.callout-tip appearance="minimal" icon="false"}
@@ -135,74 +131,101 @@ Visitation status: **call ahead**. -->
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Post: Still Hard
+# Post: Gratitude and Grief
 
-*Nov. 18, 2024*
+_In the midst of our pain we are incredibly grateful for the love and support that we have received._
 
-## Good pride
+_Dec. 7, 2024_
 
-It has been six weeks since Sam died. Six weeks without him. Not a day goes by where we do not miss him.
 
-Sam's memorial service is just five days away. I have been going through our pictures to share with everyone.
+## Gratitude
 
-::: float-sm-start
-![Late December of 2009. Out for a walk near our house in Prince George.](https://samsstory.s3.ca-central-1.amazonaws.com/2009-12-29_family-pg.jpg)
-:::
+It has been a full two weeks since Sam's memorial. We have been processing a lot as we
+continue to move through our grief.
 
-How can I even begin to capture and communicate his life. ... I have to accept the pictures for what they are -- simple snapshots. Snapshots that are
-limited to mere moments of time providing limited windows into Sam's life. Our life with him. His life with friends and family.
+During this time Tina and I have been the recipients of so much love. First, in the weeks
+since coming home the community has rallied to meet a really practical need -- ensuring
+that we are eating well. It has been freeing to not have to worry about meal planning.
 
-Sam's life was rich. He was deeply loved and he also loved freely.
+Two weeks ago we had Sam's celebration-of-life/ memorial service ([recording of
+service](https://www.youtube.com/watch?v=8Y0otu8pcxU)).
 
-Though my heart aches for him each and everyday that goes by I remain proud of him. I remain proud of who he was and the man that he was becoming. Oh
-that I could have seen more.
+We are grateful for our community who showed up and conveyed their love and support to us,
+our family, and one another. The service itself was beautiful and everyone who shared did
+amazing -- you honoured our boy. Following the service we received hugs for two hours
+straight. We are grateful that so many people came from near and far to share their love
+and support for us. In addition, many shared their support by joining the live broadcast
+of the service and sending notes of love to us.
 
-## Pain
+We are grateful for Sam's classmates. Two days following the memorial service, Nov.
+25^th^, would have been Sam's 16^th^ birthday. This day could have been a really hard day
+but we ended up having something to look forward to: Sam's class from Cedars came to throw
+a party. They planned it all themselves and arranged for some adult support where they
+needed it. The group arrived shortly after classes ended bringing with them a fully
+equipped party. It was exactly what Sam would have dreamed of for a perfect party -- all
+his friends in the house playing games, sharing food and cake. It was beautiful to have
+everyone here. It was incredible to have our home filled with the joy of Sam's friends.
 
-::: float-sm-end
-![August of 2016. Family vacation in Jasper. We paused for a photo near the banks of the Athabasca
-River.](https://samsstory.s3.ca-central-1.amazonaws.com/2017-08-01_family-athabasca.jpg)
-:::
+We are also grateful for friends who are not afraid to share their own grief with us. We
+know that we are not the only ones grieving. It is beautiful that our Sam was so loved.
 
-I know it has not been very long since Sam died but I did not imagine that the grief-pain would be so bad. I consider how I am doing and everything
-ends with the suffix: *sad*. Some of how we experience our grief:
+## Grief
 
--   *Sad-sad* which for me means I don't want to be with anyone. I hide and I cry. Tina's experience of this is different -- she needs to share her
-    sadness and as much as I withdraw she seeks people out to share the sadness. Though different both are real ways that we experience *sad-sad*.
--   *Happy-sad* when we hold a precious memory of Sam and can have some measure of joy in the memory though our hearts still ache for our boy.\
--   *Angry-sad* when I am angry at the situation. When my mind rails at the injustice. Sam's death is just wrong. This is not a place that I want to
-    live -- though I have to admit it does give me more energy to get some things done than the other sad-types
--   *Unclassified-sad* the wave of sadness that seems to have no source, no outlet, a wave that threatens to pull you down but you don't have a clue
-    where it is going.
+*Grief ... is hard.\
+Grief ... is exhausting -- mentally, emotionally, and physically.\
+Grief ... simply hurts -- it is painful.*
 
-I have to admit that I do have periods, an hour here or there, where I am not conscious of my grief. However, when this happens there is almost always
-a strong backlash. It is like the grief just builds up waiting for its turn and hits like a flood.
+All of the love and support we have received does make life easier. It is important to
+know that we are not alone. It has been wonderful to receive the love and support of our
+community.
 
-## Good choices
+*but ...*
 
-::: float-sm-end
-![This past April when we still had hope that we would see Sam though his cancer war. Under the cherry blossoms near BC Children's
-Hospital.](https://samsstory.s3.ca-central-1.amazonaws.com/2024-04-01_family-cherry-blossom.jpg)
-:::
+There is a gaping hole in my heart. Some might say it is a Sam shaped hole -- but that is
+too nice, too clean. If it is a Sam shaped hole it is a hole where Sam was ripped from me,
+all the edges are frayed and torn, and no shape is recognizable. This grief wound is raw
+and painful and nothing seems to soothe the pain.
 
-Despite the pain. Despite the sadness. We are moving forward. We are caring for one another. Each day we continue to start with:
+I must learn. I must accept ... that this hole in my heart will be part of me for the rest
+of my days.
 
-::: center
-*We are going to have a great day -- O Yeah!* [^1]
-:::
+Yet even now. Even now, I am learning that I can cherish this pain. I do not need this
+pain to lessen. I am not even sure I want this pain to become less. This pain is my link
+to Sam. How important he was/ is to me.
 
-[^1]: see our post: [*On Grief, Courage, and Love*](./posts/2410/2024-10-12_love-courage.qmd)
+There is a beauty in the pain. Perhaps, when experiencing this grief-pain, I will learn to
+cherish the beauty of this pain -- the love that I have for my boy.
 
-And we do.
+## Recent days
 
-We choose to do what Sam did: Be strong and courageous, choose joy, and give love!
+In this time of grief we continue to remain gentle with ourselves. Generally, we are
+taking on 1-2 activities in a day. Each day we remain committed to *have a great day. Oh
+yeah*! Each day we do. This past week:
+
+-   *Sunday* we made it to church -- this was the first time we actually made it into the
+    service and allowed ourselves to engage with the broader community. It was the first
+    Sunday of advent and the theme was Hope .... one of the elders spoke of where she had
+    seen hope in the world this year and she gave tribute to Sam's courageous hope.
+-   On *Mondays* Sam's Grade 11 class has invited us to join them for their lunch break.
+    This past Monday we brought Tim-bits and hot chocolate as a token of thanks for their
+    gift to us on Sam's birthday. We were again surrounded by the love and energy of this
+    class.
+-   *Tues. & Wed.* I went to work for the mornings. Tina was at home with her mom,
+    facilitating visits for her as it was her first time back to Prince George since
+    Tina's dad passed last September.
+-   *Thursday* we took Tina's mom to the airport. She had been staying with us the last
+    two and a half weeks. It was great to have her here during that time -- good for all
+    three of us.
+-   *Friday* was more of a day off, just the two of us, resting and starting to figure out
+    how to do this new life together. Ended the evening with a dinner out at a friends
+    house.
 
 ## Victories and Heart Aches
 
 -   Our hearts ache. We are committed to moving forward but this is hard work.
 
--   We are thankful for the extraordinary effort of friends and family to gather around us to care for us. Our community, and our church community in
-    particular, have risen to the challenge of caring for us -- assisting with memorial planning, food, while providing compassionate friendship.
+-   We are thankful for the extraordinary effort of friends and family to gather around us
+    to care for us.
 
 -   We are thankful for many messages of care and solidarity with us as we grieve.
 
@@ -210,28 +233,16 @@ We choose to do what Sam did: Be strong and courageous, choose joy, and give lov
 
 -   We are thankful for the simple precious moments we had with Sam.
 
--   We are mindful of friends and families – those that remain in the fight to see their children through incredible health challenges (cancer or
-    other). We hope with you and we will continue to celebrate your wins!
+-   We are mindful of friends and families – those that remain in the fight to see their
+    children through incredible health challenges (cancer or other). We hope with you and
+    we will continue to celebrate your wins!
 
--   We are mindful of friends and families – who have seen their children die. That they are in similar grief storms. We grieve with you. Our hearts
-    break again for your loss.
-
--   Thankful for great times, especially for Sam:
-
-    -   [Cedars](https://cedars.bc.ca) Grade 11 trip (Sept 8-11): Our soul-hearts have been refreshed! Filled with the love of friendship. It was
-        incredible to see Sam have time with his friends from school. The students and the leaders from Cedars have lifted/blessed all three of us.
-    -   It was amazing to see Sam join the [Ness Lake Bible Camp](https://www.nesslakebiblecamp.com) team (July 28 - 31) . He served, ran, talked,
-        played -- he got to be fully there! Many thanks to the NLBC team who welcomed him in. When Sam needs to think of a happy place he returns here
-        in his mind and he is quick to share stories of these days.
-
--   We are thankful to the medical team here at [BC Childrens' Hospital](http://www.bcchildrens.ca). Sam never lacked for incredible care.
-
--   We are thankful for all the days that we lived at RMH.\
-    It was a gift to have a place to stay so close to the hospital. The [Ronald McDonald House (RMH)](https://rmhbc.ca) provided us a home away from
-    home. This place is an amazing example of charity at work.
+-   We are mindful of friends and families – who have seen their children die. That they
+    are in similar grief storms. We grieve with you. Our hearts break again for your loss.
 
 -   ~~We long for the day when~~\
     Our hearts ache. We grieve. Yet Sam is free of disease.
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 

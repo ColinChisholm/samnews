@@ -38,11 +38,11 @@ website:
     center: Copyright 2024 Colin Chisholm
     background: dark
   twitter-card:
-    image: https://samsstory.s3.ca-central-1.amazonaws.com/chisholm-olivebeanphoto-9-cropped.jpg
+    image: https://samsstory.s3.ca-central-1.amazonaws.com/chisholm-family-love.jpg
     title: Sam Chisholm's cancer journey
     description: Regular updates on our lives as we journeyed with Sam through his journey battling cancer.  With additional posts as we work through our grief.
   open-graph: 
-    image: https://samsstory.s3.ca-central-1.amazonaws.com/chisholm-olivebeanphoto-9-cropped.jpg
+    image: https://samsstory.s3.ca-central-1.amazonaws.com/chisholm-family-love.jpg
     title: Sam Chisholm's cancer journey
     description: Regular updates on our lives as we journeyed with Sam through his journey battling cancer.  With additional posts as we work through our grief.
     site-name: Sam C. Updates

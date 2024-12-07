@@ -19,39 +19,6 @@ knitr:
     echo: false
 ---
 
-:::: callout-note
-## Celebration-of-Life Planning/ Memorial
-
-+-------------------------------------------------------------------------------------------------------+--------------------------------------------+
-| -   **WHEN**: On **Saturday Nov. 23^rd^** at **2:00pm** we will have a celebration-of-life/ memorial  | ::: {style="min-width:120px"}              |
-|     service for Sam. *All are welcome.*                                                               | :::                                        |
-|                                                                                                       |                                            |
-| -   **WHERE**: This will take place at **Westwood Church** here in Prince George                      | ::: center                                 |
-|     ([map](https://maps.app.goo.gl/YXfR4512soWxknwc8)).                                               | [Memories](/memories.qmd){.btn             |
-|                                                                                                       | .btn-primary .mt-1 role="memories"         |
-| -   A <a href="/legacy.html">legacy fund</a> in honour of Sam is being established for those who      | data-toggle="tooltip"                      |
-|     would like to give gifts.                                                                         | title="Share your memories of Sam"}        |
-|                                                                                                       |                                            |
-| -   Please share with us your [memories](/memories.qmd) of Sam.                                       | <a href="                                  |
-|                                                                                                       | /legacy.html" class="btn btn-primary mt-1" |
-| -   *Live Streaming of the service via [Westwood Church's YouTube Channel                             | role="legacy" data-toggle="tooltip"        |
-|     (HERE)](https://live.westwoodchurch.bc.ca).*                                                      | title="Consider giving">Legacy Fund</a>    |
-|                                                                                                       |                                            |
-|                                                                                                       | <a                                         |
-|                                                                                                       |  href="https://live.westwood               |
-|                                                                                                       | church.bc.ca" class="btn btn-primary mt-1" |
-|                                                                                                       | role="memori" data-toggle="tooltip"        |
-|                                                                                                       | title="Live Video of the Memorial          |
-|                                                                                                       | Service"                                   |
-|                                                                                                       | style="background-color:#18bc9c">          |
-|                                                                                                       | Memorial<br/> Service LIVE</a>             |
-|                                                                                                       | :::                                        |
-+-------------------------------------------------------------------------------------------------------+--------------------------------------------+
-
-::: center
-All are welcome
-:::
-::::
 
 ## Good pride
 
