@@ -230,7 +230,7 @@
   </url>
   <url>
     <loc>http://samc-news.netlify.app/index.html</loc>
-    <lastmod>2024-12-27T20:04:18.614Z</lastmod>
+    <lastmod>2025-02-08T22:54:15.473Z</lastmod>
   </url>
   <url>
     <loc>http://samc-news.netlify.app/devos/mark_16/mark-16-09.html</loc>
@@ -1043,5 +1043,21 @@
   <url>
     <loc>http://samc-news.netlify.app/posts/2412/2024-12-26_lost.html</loc>
     <lastmod>2024-12-27T20:02:00.718Z</lastmod>
+  </url>
+  <url>
+    <loc>http://samc-news.netlify.app/posts/25/2025-01-31_broken-but-building.html</loc>
+    <lastmod>2025-02-01T15:48:15.283Z</lastmod>
+  </url>
+  <url>
+    <loc>http://samc-news.netlify.app/riddles.html</loc>
+    <lastmod>2025-01-20T18:27:33.342Z</lastmod>
+  </url>
+  <url>
+    <loc>http://samc-news.netlify.app/posts/25/2025-02-01_broken-but-building.html</loc>
+    <lastmod>2025-02-06T01:42:39.817Z</lastmod>
+  </url>
+  <url>
+    <loc>http://samc-news.netlify.app/posts/25/2025-02-06_broken-but-building.html</loc>
+    <lastmod>2025-02-08T22:52:31.383Z</lastmod>
   </url>
 </urlset>
