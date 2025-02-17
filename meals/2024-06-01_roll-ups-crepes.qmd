@@ -1,25 +1,28 @@
 ---
 title: Nana's roll-ups
 date: 2024-06-01
-date-modified: 2024-07-15
+date-modified: 2025-02-17
 author: Colin C. 
 description: Nana Mary's roll-ups (crepes)
 categories: [breakfast]
 draft: false
 ---
 
-Nana is not the best at writing her recipe's down but she did write this one up for me.
+Nana is not the best at writing her recipe's down but she did write this one up for me. ... And once I watched her make it one more time I was able to refine the recipe.  In early 2025, I was able to sort out a gluten-free and dairy free option.
 
 dry
 
--   1 cup flour
--   1.5 tablespoon white sugar
--   1/4 teaspoon salt
+-   1 cup flour\
+(_GF: 2/3 cup gluten free flour_)
+-   1.5 tablespoon white sugar\
+(_GF: 2.0 tablespoon white sugar_)
+-   1/4 teaspoon salt 
 
-wet
+wet 
 
 -   4 large eggs
--   1.25 cup of milk
+-   1.25 cup of milk\
+(_GF: 2/3 cup oat milk and 2/3 cup water_)
 -   1+ teasppon of vanilla\
     (use pancake syrup if you can't find vanilla -- then cut back on sugar)
 -   1 tablespoon of oil
@@ -28,4 +31,4 @@ notes
 
 -   Sugar, for garnish
 
--   Fry in a well heated and generously oiled pant st
+-   Fry in a well heated and generously oiled pan
