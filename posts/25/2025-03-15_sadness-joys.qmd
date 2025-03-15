@@ -1,0 +1,108 @@
+---
+title: "Memories, Saddness, and Joy"
+description: "We continue to move through our grief.  Through sadness and moments of joy."
+author: Colin C.
+date: 2025-03-08
+date-modified: 2025-02-15
+categories: [grief]
+#image: https://samsstory.s3.ca-central-1.amazonaws.com/2009-12-29_family-pg.jpg
+lightbox: true
+draft: false
+# draft-mode: unlinked
+editor: 
+  markdown: 
+    wrap: 90
+knitr: 
+  opts_chunk: 
+    eval: true
+    message: false
+    warning: false
+    echo: false
+---
+
+::: {.callout-note icon="false"}
+I wrote this last week, on March 8^th^ but I needed to let it sit with me for the week...
+Perhaps to confirm I believed it ... not sure exactly.
+:::
+
+*March 8, 2025*
+
+This post has been developing in my mind over the last couple weeks. Today, the concepts
+need to be captured before they slip away. Grief continues to be hard work. Writing this
+is hard and I am pushing myself to gather the energy to get my thoughts onto this page.
+
+It is a sad-Saturday. This day feels harder than most in the last couple weeks. I do not
+have specific reason for today's sadness. There have been no specific triggers. Neither
+does this sadness worry me. This grief-sadness is simply part of our journey. I simply
+accept it. There remains a beauty in it as it ties me to the love I/we have for Sam. Oh
+how we miss him.
+
+In contrast to today's sadness I also recognize that over the last couple weeks there have
+also been moments of joy.
+
+## A dream
+
+I don't consider myself a dreamer and I rarely remember my dreams. Even when I do remember
+them I do not consider them to be important or meaningful.
+
+On the morning of Feb. 13 I woke from a dream that I would reflect on/ contemplate for
+the following weeks. This dream was important.
+
+In my dream: I was back at Sam's bedside the morning he died (similar to my [last post](./2025-02-06_broken-but-building.qmd)).  
+This was the place where part of me has remained -- the part of me that has refused to let go.
+
+The difference in this dream was that I was not visiting Sam in the hour before he died but in the hour after.
+Sam was dead.  I was at his bedside and my soul wailed: 
+
+_"Sam, I love you.  I'm so sorry.  I'm sorry that you are a memory. I love you."_
+
+And in my dream Sam was there -- in spirit.  And he answered my cry.  He said:
+
+_"It's okay Dad.  I love you too."
+
+I would continue to wrestle with this dream for the next couple weeks.  I was unsettled.  
+Sam is far more than a memory.  Our hope and faith is that we will see him again.  But 
+though I may long for that time, I do not live there/then.  I live here and now, in this 
+present life.  
+
+In working through this dream I have come to a deeper acceptance that Sam is gone.  In 
+grief though my concious mind has known this all along, my deeper self has needed to come
+to grips with this new reality. This deeper acceptance has also allowed for greater 
+freedom to remember. 
+
+Freedom to remember and even find joys in the memories.  We will cherish all the days that 
+we were able to share with Sam.  
+
+## Simple memories. Simple joys.
+
+My joyful memories do not have to be the big events that we did together.  Rather I am finding
+joys in the simple memories of life.  Like how Sam loved pizza. How Sam loved his family and his 
+friends.  
+
+
+
+
+## Victories and Heart Aches
+
+-   We remain in the waves on a daily basis but we are also engaging in the world. We are
+    cared for. We are having great days.
+
+-   Our hearts remain tender. It remains easy to get taken down by grief-pains.
+
+-   We are thankful for the extraordinary effort of friends and family to gather around us
+    to care for us.
+
+-   We are thankful for many messages of care and solidarity with us as we grieve.
+
+-   We are thankful for many special messages reflecting what Sam has meant to people.
+
+-   We are thankful for the simple precious moments we had with Sam.
+
+-   We are mindful of friends and families – those that remain in the fight to see their
+    children through incredible health challenges (cancer or other). We hope with you and
+    we will continue to celebrate your wins!
+
+-   We are mindful of friends and families – who have seen their children die. That they
+    are in similar grief storms. We grieve with you. Our hearts break again for your loss.
+
+-   Our hearts ache. We grieve. Yet Sam is free of disease.
